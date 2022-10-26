@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Rules/General Information for Parents.md
       - School Rules/School Rules and Regulations.md
       - School Rules/.keep
       - School Rules.md
