@@ -1,5 +1,4 @@
 collections:
   upcoming-events:
     output: true
-    order:
-      - Palm View Connection.md
+    order: []
