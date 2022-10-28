@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/Allied Educators.md
       - Our People/.keep
       - School Uniform.md
       - School Rules/School Rules.md
