@@ -48,12 +48,13 @@ Subject Teachers
 | Physical Education and Health Education | Mr Nadeem<br>65087-276<br>[mohamed_nadeem@moe.edu.sg](mailto:mohamed_nadeem@moe.edu.sg) |
 | Science | Mr John Leong (Assistant Year Head, Upper Pri)<br>65089-462<br>[leong_john_woon@moe.edu.sg](mailto:leong_john_woon@moe.edu.sg) |
 | Science | Mr Zack<br>65080-664<br>[subramaniyan_senthil@moe.edu.sg](mailto:subramaniyan_senthil@moe.edu.sg) |
-| Science | Mrs Michelle Wee<br>65080-667<br>michelle_tyoh_whei_theng@moe.edu.sg |
-| Science | Mr Guna<br>65080-668<br>sargunan_ilangovan@moe.edu.sg |
-| Science | Ms Jo Ko<br>65089-461<br>ko_hiang@moe.edu.sg |
-| Science  | Mrs Priscillia Chen<br>65087-274<br>tan_yi_siu_priscillia@moe.edu.sg |
-| Social Studies  | Mdm Fatin<br>65067-649<br>nur_ishmah_fatin_rahim@moe.edu.sg |
-| Social Studies | Mdm Kalpana<br>65067-349<br>kalpana_manimohan@moe.edu.sg |
-| Social Studies | Mrs Tan Boon Yen<br>65089-466<br>wee_boon_yen@moe.edu.sg |
-| Social Studies | Mr Theva (HOD, Student Management)<br>65083-170<br>thevarajan_nagarajan@moe.edu.sg |
-| Social Studies | Mrs Sharon Seow<br>65087-328<br>chew_sharon@moe.edu.sg |
+| Science | Mrs Michelle Wee<br>65080-667<br>[michelle_tyoh_whei_theng@moe.edu.sg](mailto:michelle_tyoh_whei_theng@moe.edu.sg) |
+| Science | Mr Guna<br>65080-668<br>[sargunan_ilangovan@moe.edu.sg](mailto:sargunan_ilangovan@moe.edu.sg) |
+| Science | Ms Jo Ko<br>65089-461<br>[ko_hiang@moe.edu.sg](mailto:ko_hiang@moe.edu.sg) |
+| Science  | Mrs Priscillia Chen<br>65087-274<br>[tan_yi_siu_priscillia@moe.edu.sg](mailto:tan_yi_siu_priscillia@moe.edu.sg) |
+| Social Studies  | Mdm Fatin<br>65067-649<br>[nur_ishmah_fatin_rahim@moe.edu.sg](mailto:nur_ishmah_fatin_rahim@moe.edu.sg) |
+| Social Studies | Mdm Kalpana<br>65067-349<br>[kalpana_manimohan@moe.edu.sg](mailto:kalpana_manimohan@moe.edu.sg) |
+| Social Studies | Mrs Tan Boon Yen<br>65089-466<br>[wee_boon_yen@moe.edu.sg](mailto:wee_boon_yen@moe.edu.sg) |
+| Social Studies | Mr Theva (HOD, Student Management)<br>65083-170<br>[thevarajan_nagarajan@moe.edu.sg](mailto:thevarajan_nagarajan@moe.edu.sg) |
+| Social Studies | Mrs Sharon Seow<br>65087-328<br>[chew_sharon@moe.edu.sg](mailto:chew_sharon@moe.edu.sg) |
+| | |
