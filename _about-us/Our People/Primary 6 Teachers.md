@@ -47,7 +47,7 @@ Subject Teachers
 | Physical Education and Health Education | Mr Noel Chan<br>65083-173<br>[noel_chan_tze_sunn@moe.edu.sg](mailto:noel_chan_tze_sunn@moe.edu.sg) |
 | Physical Education and Health Education | Mr Nadeem<br>65087-276<br>[mohamed_nadeem@moe.edu.sg](mailto:mohamed_nadeem@moe.edu.sg) |
 | Science | Mr John Leong (Assistant Year Head, Upper Pri)<br>65089-462<br>[leong_john_woon@moe.edu.sg](mailto:leong_john_woon@moe.edu.sg) |
-| Science | Mr Zack<br>65080-664<br>subramaniyan_senthil@moe.edu.sg |
+| Science | Mr Zack<br>65080-664<br>[subramaniyan_senthil@moe.edu.sg](mailto:subramaniyan_senthil@moe.edu.sg) |
 | Science | Mrs Michelle Wee<br>65080-667<br>michelle_tyoh_whei_theng@moe.edu.sg |
 | Science | Mr Guna<br>65080-668<br>sargunan_ilangovan@moe.edu.sg |
 | Science | Ms Jo Ko<br>65089-461<br>ko_hiang@moe.edu.sg |
