@@ -15,3 +15,4 @@ Form Teachers
 | 6 Da Vinci | Mr Kelvin Chia (ST, Science)<br>65080-665<br>[chia_peng_lin_kelvin@moe.edu.sg](mailto:chia_peng_lin_kelvin@moe.edu.sg) | Mdm Lim Hwee Yeng / 林老师<br>65087-315<br>[lim_hwee_yeng@moe.edu.sg](mailto:lim_hwee_yeng@moe.edu.sg) |
 | 6 Edison | Mrs Irene Ang (Assistant Year Head, Upper Pri)<br>65089-457<br>[irene_chia@moe.edu.sg](mailto:irene_chia@moe.edu.sg) | Mr Guah Boon Heng / 倪老师<br>65087-314<br>[guah_boon_heng@moe.edu.sg](mailto:guah_boon_heng@moe.edu.sg) |
 | 6 Frank | Mdm Josephine Kee<br>65067-342<br>[kee_wan_cheng@moe.edu.sg](mailto:kee_wan_cheng@moe.edu.sg) | Ms Emellyn Lim (HOD, English)<br>65080-652<br>[lim_yee_hoon_emellyn@moe.edu.sg](mailto:lim_yee_hoon_emellyn@moe.edu.sg) |
+| | | |
