@@ -25,12 +25,12 @@ Subject Teachers
 | Art | Mr Matthias Seet<br>65080-661<br>[seet_qin_fong@moe.edu.sg](mailto:seet_qin_fong@moe.edu.sg)|
 | Art | Ms May Lim<br>65089-459<br>[may_lim_wan_yee@moe.edu.sg](mailto:may_lim_wan_yee@moe.edu.sg)|
 | Character & Citizenship Education | Mdm Noraisha<br>65087-318<br>[noraisha_ahmad@moe.edu.sg](mailto:noraisha_ahmad@moe.edu.sg)|
-| Character & Citizenship Education | Mdm Joy Tan / ???<br>65087-265<br>[tan_boon_hui@moe.edu.sg](mailto:tan_boon_hui@moe.edu.sg)|
-| Chinese and Character & Citizenship Education | Mr Guah Boon Heng / ???<br>65087-314<br>[guah_boon_heng@moe.edu.sg](mailto:guah_boon_heng@moe.edu.sg)|
-| Chinese and Character & Citizenship Education | Ms Kang Chao / ???<br>65087-269<br>[kang_chao@moe.edu.sg](mailto:kang_chao@moe.edu.sg)|
-| Chinese and Character & Citizenship Education | Ms Poh Wee Hoon / ???<br>65089-451<br>[poh_wee_hoon@moe.edu.sg](mailto:poh_wee_hoon@moe.edu.sg)|
-| Chinese and Character & Citizenship Education | Mdm Teo Siow Yee / ??? (ST, SEN)<br>65087-270<br>[teo_siow_yee@moe.edu.sg](mailto:teo_siow_yee@moe.edu.sg)|
-| Chinese  | Mdm Li Li / ???<br>65087-263<br>[li_li@moe.edu.sg](mailto:li_li@moe.edu.sg)|
+| Character & Citizenship Education | Mdm Joy Tan / 陈老师 <br>65087-265<br>[tan_boon_hui@moe.edu.sg](mailto:tan_boon_hui@moe.edu.sg)|
+| Chinese and Character & Citizenship Education | Mr Guah Boon Heng / 倪老师<br>65087-314<br>[guah_boon_heng@moe.edu.sg](mailto:guah_boon_heng@moe.edu.sg)|
+| Chinese and Character & Citizenship Education | Ms Kang Chao / 康老师<br>65087-269<br>[kang_chao@moe.edu.sg](mailto:kang_chao@moe.edu.sg)|
+| Chinese and Character & Citizenship Education | Ms Poh Wee Hoon / 傅老师<br>65089-451<br>[poh_wee_hoon@moe.edu.sg](mailto:poh_wee_hoon@moe.edu.sg)|
+| Chinese and Character & Citizenship Education | Mdm Teo Siow Yee / 张老师 (ST, SEN)<br>65087-270<br>[teo_siow_yee@moe.edu.sg](mailto:teo_siow_yee@moe.edu.sg)|
+| Chinese  | Mdm Li Li / 李老师<br>65087-263<br>[li_li@moe.edu.sg](mailto:li_li@moe.edu.sg)|
 | English | Mrs Sarah Tan<br>65067-344<br>[sarah_yu_xueli@moe.edu.sg](mailto:sarah_yu_xueli@moe.edu.sg)|
 | Malay  | Ms Siti Norrulhudha<br>65087-320<br>siti_norrulhudha_sonny@moe.edu.sg  |
 | Mathematics | Mr Shaun Png<br>65080-666<br>[png_jia_shun@moe.edu.sg](mailto:png_jia_shun@moe.edu.sg)|
