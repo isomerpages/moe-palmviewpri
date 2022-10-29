@@ -52,3 +52,4 @@ Subject Teachers
 | Science | Mr Kelvin Chia (ST, Science)<br>65080-665<br>[chia_peng_lin_kelvin@moe.edu.sg](mailto:chia_peng_lin_kelvin@moe.edu.sg)|
 | Science | Mdm Siti Nurmunirah65080-656<br>[siti_nurmunirah_mohd_arsad@moe.edu.sg](mailto:siti_nurmunirah_mohd_arsad@moe.edu.sg)|
 | Social Studies | Ms Ignez Tay<br>65087-300 (ext. 241)<br>[ignez_tay_geok_choo@moe.edu.sg](mailto:ignez_tay_geok_choo@moe.edu.sg)|
+| | |
