@@ -8,7 +8,7 @@ School Leaders
 ----------------
 
 |  |  |  |
-|---|---|---|
+|:---:|:---:|:---:|
 | Principal | Mrs Ming Kum |[ming_antoinette_ramasamy@schools.gov.sg](mailto:ming_antoinette_ramasamy@schools.gov.sg) |
 | Vice-Principal | Mr Jeremy Ang |[ang_wei_teck@schools.gov.sg](mailto:ang_wei_teck@schools.gov.sg) |
 | Vice-Principal | Ms Chua Chew Hiang |[chua_chew_hiang@schools.gov.sg](mailto:chua_chew_hiang@schools.gov.sg) |
@@ -18,7 +18,7 @@ Key Personnel
 ----------------
 
 | Designation | Name | Contact Information |
-|---|---|---|
+|:---:|:---:|:---:|
 | Head of Department,<br>English Language | Miss Emellyn Lim | 65080-652<br>[lim_yee_hoon_emellyn@moe.edu.sg](mailto:lim_yee_hoon_emellyn@moe.edu.sg) |
 | Head of Department,<br>Mother Tongue Languages | Mr Rave Tay | 65083-172<br>[tay_tze_rong@moe.edu.sg](mailto:tay_tze_rong@moe.edu.sg) |
 | Head of Department,<br>Mathematics | Ms Teo Ai Lin | 65087-312<br>[teo_ai_lin@moe.edu.sg](mailto:teo_ai_lin@moe.edu.sg) |
@@ -43,7 +43,7 @@ Teacher Leaders
 ------------------
 
 | Designation | Name | Contact Information |
-|---|---|---|
+|:---:|:---:|:---:|
 | Lead Teacher, Art | Mr Fong Yan Kin | 65087-300 (ext. 126)<br>[fong_yan_kin@moe.edu.sg](mailto:fong_yan_kin@moe.edu.sg) |
 | Senior Teacher, English Language  | Mdm Nurul Ain Binte Mohamad Ibrahim |  65087-328<br>[nurul_ain_mohamad_ibrahim@moe.edu.sg](mailto:nurul_ain_mohamad_ibrahim@moe.edu.sg) |
 | Senior Teacher, Chinese Language | Mdm Cheong Lee Chin | 65087-260<br>[cheong_lee_chin@moe.edu.sg](mailto:cheong_lee_chin@moe.edu.sg) |
