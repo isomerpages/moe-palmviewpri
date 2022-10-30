@@ -10,35 +10,30 @@ The school is a 6-storey building designed with additional infrastructural suppo
 
 #### School Hall
 
-![IMG_4448.JPG](https://palmviewpri.moe.edu.sg/qql/slot/u505/Images/The%20Campus/IMG_4448.JPG)
+<img style="width:80%" src="/images/IMG_4448.jpg"/>
 
-**  
-Graffiti Wall**
+#### Graffiti Wall
 
-![Graffiti Wall.jpg](https://palmviewpri.moe.edu.sg/qql/slot/u505/About%20Us/The%20Campus/Graffiti%20Wall.jpg)
+<img style="width:80%" src="/images/Graffiti%20Wall.jpg"/>
 
-**Indoor** **Sports Hall**
+#### Indoor Sports Hall
 
-![IMG_3043.jpg](https://palmviewpri.moe.edu.sg/qql/slot/u505/Images/Campus/IMG_3043.jpg)
+<img style="width:80%" src="/images/IMG_3043.jpg"/>
 
-  
+#### School Playground
 
-  
+<img style="width:80%" src="/images/school_playground.jpg"/>
 
-**School Playground**
+#### Outdoor Experiential Learning (OEL) Garden
 
-![school_playground.jpg](https://palmviewpri.moe.edu.sg/qql/slot/u505/About%20Us/The%20Campus/school_playground.jpg)
+<img style="width:80%" src="/images/IMG_3045.jpg"/>
 
-**Outdoor Experiential Learning (OEL) Garden**
+#### Basketball Court
 
-![IMG_3045.jpg](https://palmviewpri.moe.edu.sg/qql/slot/u505/Images/Campus/IMG_3045.jpg)
+<img style="width:80%" src="/images/IMG_3047.jpg"/>
 
-Basketball Court
+#### Media Resource Library
 
-![IMG_3047.jpg](https://palmviewpri.moe.edu.sg/qql/slot/u505/Images/Campus/IMG_3047.jpg)  
-
-**Media Resource Library**
-
-![Media Resource Library.jpg](https://palmviewpri.moe.edu.sg/qql/slot/u505/About%20Us/The%20Campus/Media%20Resource%20Library.jpg)
+<img style="width:80%" src="/images/Media%20Resource%20Library.jpg"/>
 
 The presence of such infrastructure provides opportunities for more holistic learning, tapping on the affordances of each specially selected facility being built. For instance, the OEL Garden is used for authentic experiential learning across different subjects. For Science, students can head to the garden to gain first-hand exposure to some of the different flora and fauna they learn in the textbooks. For English, students can get to observe specific phenomenon they write about for real, as opposed to merely learning from pictures in the textbook or videos off the internet.
