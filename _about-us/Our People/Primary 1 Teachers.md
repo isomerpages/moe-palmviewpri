@@ -25,7 +25,7 @@ Subject Teachers
 
 | Subject | Teacher |
 |---|---|
-| Art | Mr Fong Yan Kin (LT, Art)<br>[65087-300 (ext. 126)fong_yan_kin@moe.edu.sg](mailto:65087-300 (ext. 126)fong_yan_kin@moe.edu.sg) |
+| Art | Mr Fong Yan Kin (LT, Art)<br>65087-300 (ext. 126)<br>[fong_yan_kin@moe.edu.sg](mailto:fong_yan_kin@moe.edu.sg) |
 | Art | Ms May Lim (P2 Level Manager)<br>65089-459<br>[may_lim_wan_yee@moe.edu.sg](mailto:may_lim_wan_yee@moe.edu.sg) |
 | Character & Citizenship Education | Mr Guah Boon Heng / 倪老师<br>65087-314<br>[guah_boon_heng@moe.edu.sg](mailto:guah_boon_heng@moe.edu.sg) |
 | Character & Citizenship Education | Ms Kang Chao / 康老师<br>65087-269<br>[kang_chao@moe.edu.sg](mailto:kang_chao@moe.edu.sg) |
