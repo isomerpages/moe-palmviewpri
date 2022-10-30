@@ -4,8 +4,9 @@ permalink: /about-us/our-people/executive-and-administrative-staff/
 description: ""
 third_nav_title: Our People
 ---
-| Administration Manager | Ms Mabel Ong |
+| | |
 |---|---|
+| Administration Manager | Ms Mabel Ong |
 | Operations Manager | Mr Cheng Tiam Hock |
 | ICT Manager | Mr Vasenth S/O Shahnti Kumar  |
 | Administrative Executive | Mdm Melia Koh |
