@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/Our People.md
       - Our People/School Steering Committee.md
       - Our People/Executive and Administrative Staff.md
       - Our People/Primary 1 Teachers.md
