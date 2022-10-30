@@ -7,8 +7,6 @@ third_nav_title: Our People
 Level Teachers
 --------------
 
-  
-
 [Primary 1 Teachers](/about-us/our-people/primary-1-teachers)
 
 [Primary 2 Teachers](/about-us/our-people/primary-2-teachers)
