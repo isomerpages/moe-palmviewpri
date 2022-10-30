@@ -30,12 +30,12 @@ Subject Teachers
 | Character & Citizenship Education | Mr Guah Boon Heng / 倪老师<br>65087-314<br>[guah_boon_heng@moe.edu.sg](mailto:guah_boon_heng@moe.edu.sg) |
 | Character & Citizenship Education | Ms Kang Chao / 康老师<br>65087-269<br>[kang_chao@moe.edu.sg](mailto:kang_chao@moe.edu.sg) |
 | Character & Citizenship Education | Mdm Nabilah<br>65087-319<br>[nabilah_abdul_rahman@moe.edu.sg](mailto:nabilah_abdul_rahman@moe.edu.sg) |
-| Character & Citizenship Education | Mr Theva (HOD, Student Management)<br>[65083-170thevarajan_nagarajan@moe.edu.sg](mailto:65083-170thevarajan_nagarajan@moe.edu.sg) |
+| Character & Citizenship Education | Mr Theva (HOD, Student Management)<br>65083-170<br>[thevarajan_nagarajan@moe.edu.sg](mailto:thevarajan_nagarajan@moe.edu.sg) |
 | Chinese and Character & Citizenship Education | Mr Warren Thin / 邓老师 (SH, ICT)<br>65087-268<br>[thin_dongqi@moe.edu.sg](mailto:thin_dongqi@moe.edu.sg) |
 | Chinese and Character & Citizenship Education | Mdm Wong Soo Mei / 黄老师<br>65087-271<br>[oth_wong_soo_mei@moe.edu.sg](mailto:oth_wong_soo_mei@moe.edu.sg) |
 | English and Social Studies | Ms Esther Quek<br>65089-453<br>[quek_jia_en_esther@moe.edu.sg](mailto:quek_jia_en_esther@moe.edu.sg) |
 | English and Mathematics | Mrs Sharon Seow<br>65087-328<br>[chew_sharon@moe.edu.sg](mailto:chew_sharon@moe.edu.sg) |
-| Malay  | Mr Rahman<br>[65080-654abdul_rahman_omar@moe.edu.sg](mailto:65080-654abdul_rahman_omar@moe.edu.sg) |
+| Malay  | Mr Rahman<br>65080-654<br>[abdul_rahman_omar@moe.edu.sg](mailto:abdul_rahman_omar@moe.edu.sg) |
 | Malay and Character & Citizenship Education | Mdm Noraisha<br>65087-318<br>[noraisha_ahmad@moe.edu.sg](mailto:noraisha_ahmad@moe.edu.sg) |
 | Mathematics | Mdm Fatin<br>65067-649<br>[nur_ishmah_fatin_rahim@moe.edu.sg](mailto:nur_ishmah_fatin_rahim@moe.edu.sg) |
 | Mathematics | Mdm Teo Soke Wai<br>65087-274<br>[teo_soke_wai@moe.edu.sg](mailto:teo_soke_wai@moe.edu.sg) |
@@ -44,8 +44,8 @@ Subject Teachers
 | Mathematics  | Mdm Suritha<br>65080-663<br>[suritha_banu_mohamed_shah@moe.edu.sg](mailto:suritha_banu_mohamed_shah@moe.edu.sg) |
 | Music | Mr Bryon Luo<br>65080-662<br>[luo_youde_bryon@moe.edu.sg](mailto:luo_youde_bryon@moe.edu.sg) |
 | Music | Mrs Clara Koh<br>65089-455<br>[lim_xiu_fang_clara@moe.edu.sg](mailto:lim_xiu_fang_clara@moe.edu.sg) |
-| PAL | Mr Bakri<br>[65087-300 (ext. 653)ahmad_bakri_marfi@moe.edu.sg](mailto:65087-300 (ext. 653)ahmad_bakri_marfi@moe.edu.sg) |
-| PAL |[ Mr Noel Chan65083-173noel_chan_tze_sunn@moe.edu.sg](mailto: Mr Noel Chan65083-173noel_chan_tze_sunn@moe.edu.sg) |
+| PAL | Mr Bakri<br>65087-300 (ext. 653)<br>[ahmad_bakri_marfi@moe.edu.sg](mailto:ahmad_bakri_marfi@moe.edu.sg) |
+| PAL | Mr Noel Chan<br>65083-173<br>[noel_chan_tze_sunn@moe.edu.sg](mailto:noel_chan_tze_sunn@moe.edu.sg) |
 | PAL | Mrs Saj<br>65089-454<br>[vanisree_sajjan@moe.edu.sg](mailto:vanisree_sajjan@moe.edu.sg) |
 | PAL | Mr Zack<br>65080-664<br>[subramaniyan_senthil@moe.edu.sg](mailto:subramaniyan_senthil@moe.edu.sg) |
 | Physical Education and Health Education | Ms Nazurah<br>65087-275<br>[nazurah_syazana_nordin@moe.edu.sg](mailto:nazurah_syazana_nordin@moe.edu.sg) |
