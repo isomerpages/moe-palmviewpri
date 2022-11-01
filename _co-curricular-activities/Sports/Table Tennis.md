@@ -17,7 +17,7 @@ From the CCA, pupils will be able to:
 *   **Learn** the rules, different styles of play and discipline that is required to play a proper game of table tennis.
 *   **Gain** exposure to the wider table tennis world through internal and external competitions, as well as exposure lessons on how table tennis came about.
 
-![20200302_153334.jpg](https://palmviewpri.moe.edu.sg/qql/slot/u505/Images/CCA%20Photos/20200302_153334.jpg)
+<img src="/images/20200302_153334.jpg" style="width:80%"/>
 
 <p align="center"><em>Student enjoying the table tennis CCA</em></p>
 
