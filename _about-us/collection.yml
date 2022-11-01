@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Vision, Mission & Core Values.md
       - Our Campus.md
       - Our People/Our People.md
       - Our People/School Steering Committee.md
