@@ -2,4 +2,5 @@ collections:
   palm-view-experience:
     output: true
     order:
+      - Student Development.md
       - E Arts@PLVPS.md
