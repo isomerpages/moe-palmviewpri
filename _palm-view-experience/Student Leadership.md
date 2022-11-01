@@ -27,6 +27,6 @@ As our leaders grow into their roles as the pinnacle leadership group of the sch
 
 <p align="center"><em>Class committee leaders being trained by one of our teachers.</em></p>
 
-![Student Leadership 4.JPG](https://palmviewpri.moe.edu.sg/qql/slot/u505/Images/Student%20Leadership/Student%20Leadership%204.JPG) < image exceeds 5MB >
+![Student Leadership 4.JPG](https://palmviewpri.moe.edu.sg/qql/slot/u505/Images/Student%20Leadership/Student%20Leadership%204.JPG) < image size exceeds 5MB >
 
 <p align="center"><em>Prefects taking their oath.</em></p>
