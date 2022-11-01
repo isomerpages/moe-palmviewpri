@@ -9,7 +9,7 @@ Overview
 
 In Palm View Primary School, the Red Cross Youth (RCY) is a co-curricular activity (CCA) that integrates character-building, leadership, essential life-saving skills, blood donation knowledge and local community service in its curriculum, with the Red Cross ethos and service to humanity as a core focus.
 
-In line with the Ministry of Education’s approach of developing 21st Century competencies among the youths and focusing on character and citizenship education, RCY brings out the best of our Links (Primary school units) to prepare them for leadership in their families and communities. 
+In line with the Ministry of Education’s approach of developing 21<sup>st</sup> Century competencies among the youths and focusing on character and citizenship education, RCY brings out the best of our Links (Primary school units) to prepare them for leadership in their families and communities. 
 
 Learning Outcomes
 -----------------
