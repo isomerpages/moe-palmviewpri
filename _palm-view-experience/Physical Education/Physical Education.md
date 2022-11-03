@@ -10,6 +10,7 @@ Our dynamic and comprehensive programme will allow our lower primary students to
 
 #### Summary of Syllabus<br>
 
+
 |       **P1 & P2**      |       **P3 & P4**      |         **P5 & P6**         |
 |:----------------------:|:----------------------:|:---------------------------:|
 |  Fundamental Movements |  Fundamental Movements |    Educational Gymnastics   |
