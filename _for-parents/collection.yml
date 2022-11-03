@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Home School Partnership/Forms.md
       - Home School Partnership/Level Briefing.md
       - Home School Partnership/.keep
       - School Calendar.md
