@@ -2,13 +2,13 @@ collections:
   palm-view-experience:
     output: true
     order:
-      - Science.md
-      - Mother Tongue Language/.keep
-      - Mathematics.md
       - Niche Programmes/.keep
       - Niche Programmes/APPLIED LEARNING PROGRAMME.md
       - Niche Programmes/LEARNING FOR LIFE PROGRAMME.md
       - English Language.md
+      - Mother Tongue Language/.keep
+      - Mathematics.md
+      - Science.md
       - Co Curricular Activities.md
       - Student Leadership.md
       - Student Development.md
