@@ -2,9 +2,9 @@ collections:
   palm-view-experience:
     output: true
     order:
-      - Aesthetics/PAL (Drama And Visual Arts).md
-      - Aesthetics/Aesthetics.md
       - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/PAL (Drama And Visual Arts).md
       - Niche Programmes/.keep
       - Niche Programmes/LEARNING FOR LIFE PROGRAMME.md
       - Niche Programmes/APPLIED LEARNING PROGRAMME.md
