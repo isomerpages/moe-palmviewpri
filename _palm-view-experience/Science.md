@@ -107,5 +107,4 @@ Marie Curie Day is a Science carnival-style event held annually to celebrate the
 ###### Environmental Education
 Environment education initiatives and programmes in Palm View aim to help students understand how their decisions and actions affect the environment, build knowledge and skills necessary to address environmental issues, as well as explore ways that they can take action to keep our environment healthy and sustainable for the future.
 
-
-
+<img src="/images/photo_6278328153743143275_m.jpg" style="width:49%" align=right clear="right">
