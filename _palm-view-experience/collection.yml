@@ -2,7 +2,6 @@ collections:
   palm-view-experience:
     output: true
     order:
-      - Information and Communication Technology.md
       - Niche Programmes/.keep
       - Niche Programmes/APPLIED LEARNING PROGRAMME.md
       - Niche Programmes/LEARNING FOR LIFE PROGRAMME.md
@@ -11,6 +10,7 @@ collections:
       - Mathematics.md
       - Science.md
       - Physical Education/.keep
+      - Information and Communication Technology.md
       - Co Curricular Activities.md
       - Student Leadership.md
       - Student Development.md
