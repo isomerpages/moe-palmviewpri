@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Useful Links/2022 School Booklist.md
       - Useful Links/Parking Facilities Near School.md
       - Useful Links/School Gates.md
       - Useful Links/Service Providers.md
