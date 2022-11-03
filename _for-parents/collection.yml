@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Home School Partnership/Parent Workshops.md
       - Home School Partnership/P1 Registration Forms.md
       - Home School Partnership/Forms.md
       - Home School Partnership/Level Briefing.md
