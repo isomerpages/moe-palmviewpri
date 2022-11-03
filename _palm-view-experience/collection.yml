@@ -2,6 +2,7 @@ collections:
   palm-view-experience:
     output: true
     order:
+      - Science.md
       - Mother Tongue Language/.keep
       - MATHEMATICS.md
       - Niche Programmes/.keep
