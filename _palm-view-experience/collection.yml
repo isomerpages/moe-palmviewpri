@@ -2,9 +2,6 @@ collections:
   palm-view-experience:
     output: true
     order:
-      - Aesthetics/.keep
-      - Aesthetics/Aesthetics.md
-      - Aesthetics/PAL (Drama And Visual Arts).md
       - Niche Programmes/.keep
       - Niche Programmes/LEARNING FOR LIFE PROGRAMME.md
       - Niche Programmes/APPLIED LEARNING PROGRAMME.md
@@ -17,6 +14,9 @@ collections:
       - Physical Education/.keep
       - Physical Education/Physical Education.md
       - Physical Education/PAL (Outdoor Education).md
+      - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/PAL (Drama And Visual Arts).md
       - Information and Communication Technology.md
       - Co Curricular Activities.md
       - Student Leadership.md
