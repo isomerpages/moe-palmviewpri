@@ -2,9 +2,6 @@ collections:
   palm-view-experience:
     output: true
     order:
-      - Character & Citizen Education/.keep
-      - Character & Citizen Education/Character & Citizen Education.md
-      - Character & Citizen Education/Co Curricular Programmes.md
       - Niche Programmes/.keep
       - Niche Programmes/LEARNING FOR LIFE PROGRAMME.md
       - Niche Programmes/APPLIED LEARNING PROGRAMME.md
@@ -21,6 +18,9 @@ collections:
       - Aesthetics/Aesthetics.md
       - Aesthetics/PAL (Drama And Visual Arts).md
       - Information and Communication Technology.md
+      - Character & Citizen Education/.keep
+      - Character & Citizen Education/Character & Citizen Education.md
+      - Character & Citizen Education/Co Curricular Programmes.md
       - Co Curricular Activities.md
       - Student Leadership.md
       - Student Development.md
