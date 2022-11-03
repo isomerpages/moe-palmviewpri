@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Useful Links/School Gates.md
       - Useful Links/Service Providers.md
       - Useful Links/Useful Links.md
       - Useful Links/.keep
