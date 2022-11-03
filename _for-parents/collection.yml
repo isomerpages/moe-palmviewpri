@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Home School Partnership/.keep
-      - Home School Partnership.md
       - School Calendar.md
