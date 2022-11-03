@@ -10,5 +10,4 @@ third_nav_title: Parent Support Group
 
 ### Our Facebook
 
- **[PSG official Facebook](https://www.facebook.com/psgatpalmviewpri)** 
-
+ **[PSG official Facebook](https://www.facebook.com/psgatpalmviewpri)**
