@@ -2,10 +2,10 @@ collections:
   palm-view-experience:
     output: true
     order:
-      - English Language.md
+      - Niche Programmes/.keep
       - Niche Programmes/APPLIED LEARNING PROGRAMME.md
       - Niche Programmes/LEARNING FOR LIFE PROGRAMME.md
-      - Niche Programmes/.keep
+      - English Language.md
       - Co Curricular Activities.md
       - Student Leadership.md
       - Student Development.md
