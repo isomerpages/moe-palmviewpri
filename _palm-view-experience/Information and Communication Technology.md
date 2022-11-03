@@ -46,8 +46,3 @@ CW education is conducted during curriculum time and through programmes in schoo
 <figcaption>Students attending the Cyber Wellness Artwork Exhibition.
  </figcaption>
 </figure>
-
-
-
-
-
