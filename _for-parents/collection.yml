@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - Home School Partnership.md
       - School Calendar.md
