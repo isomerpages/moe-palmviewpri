@@ -2,6 +2,7 @@ collections:
   palm-view-experience:
     output: true
     order:
+      - Aesthetics/.keep
       - Niche Programmes/.keep
       - Niche Programmes/LEARNING FOR LIFE PROGRAMME.md
       - Niche Programmes/APPLIED LEARNING PROGRAMME.md
