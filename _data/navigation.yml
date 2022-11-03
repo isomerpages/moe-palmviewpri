@@ -2,6 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: ABOUT US
     collection: about-us
+  - title: PALM VIEW EXPERIENCE
+    collection: palm-view-experience
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
