@@ -4,12 +4,9 @@ permalink: /palm-view-experience/applied-learning-programme/
 description: ""
 third_nav_title: Niche Programmes
 ---
-
-
 <figure>
 <img src="/images/Banner1.png" style="width:100%">
 </figure>
-<img src="/images/photo_6278328153743143275_m.jpg" style="width:30%" align=right> <br clear="right">
 
 We embrace the belief that Learning through Drama benefits the child’s education and development in areas such as kinaesthetic skills, thinking skills, interpersonal and intrapersonal skills, leading to improved self-confidence and the ability to work as a team in cooperative ventures. 
 
