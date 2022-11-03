@@ -8,9 +8,8 @@ description: ""
 ### P1 e-Orientation (2022)
 
 <figure> <figcaption>
-	[**Presentation by School Leaders**](https://palmviewpri.moe.edu.sg/qql/slot/u505/For%20Parents%202022/2022_P1%20e%20orientation.pdf)
+\[Presentation by Parent Support Group](https://palmviewpri.moe.edu.sg/qql/slot/u505/For%20Parents%202022/24%20Nov%2021%20P1%20Orientation_PSG%20Sharing.pdf)
 
-[**Presentation by Parent Support Group**](https://palmviewpri.moe.edu.sg/qql/slot/u505/For%20Parents%202022/24%20Nov%2021%20P1%20Orientation_PSG%20Sharing.pdf)
 </figcaption> </figure>
 
 ### Briefing by School Leaders (2022)
@@ -58,4 +57,3 @@ description: ""
 | 6A | 6B | 6C |
 |----|----|----|
 | 6D | 6E | 6F |
-
