@@ -2,9 +2,9 @@ collections:
   palm-view-experience:
     output: true
     order:
-      - Character & Citizen Education/Co Curricular Programmes.md
-      - Character & Citizen Education/Character & Citizen Education.md
       - Character & Citizen Education/.keep
+      - Character & Citizen Education/Character & Citizen Education.md
+      - Character & Citizen Education/Co Curricular Programmes.md
       - Niche Programmes/.keep
       - Niche Programmes/LEARNING FOR LIFE PROGRAMME.md
       - Niche Programmes/APPLIED LEARNING PROGRAMME.md
