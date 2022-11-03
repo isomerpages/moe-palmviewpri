@@ -18,3 +18,27 @@ The Mother Tongue Fortnight is a two-week long enrichment programme that is spec
 <img src="/images/ML Website 3.jpg" style="width:48%" align=right> 
 </figure>
 
+<br><br><br><br><br><br><br><br>
+
+**Speech & Drama** <br>
+The aim of this programme is to develop students’ abilities and confidence in oral communications through fun and creative activities. Students will be involved in activities which reinforce the skills of speaking clearly, audibly and expressively. The programme will conclude with short performances by the students.
+
+<figure>
+<img src="/images/ML Website 4.jpg" style="width:49%" align=left>
+<img src="/images/ML Website 5.jpg" style="width:49%" align=right> 
+</figure>
+
+<br><br><br><br><br><br><br><br>
+
+**Hari Raya Concert** <br>
+An annual event, the Hari Raya Concert showcased various acts and performances by both students and teachers alike as we usher in the most celebrated event of the Malay community. Performances such as the Dikir Barat, playing the traditional Malay Kompang and the Malay Dance were all part of the itinerary that entertained the rest of the students and staff on the day.
+
+<figure>
+<img src="/images/ML Website 6.jpg" style="width:49%" align=left>
+<img src="/images/ML Website 7.jpg" style="width:49%" align=right> 
+</figure>
+
+<br><br><br><br><br><br><br><br>
+
+**Reading Programme** <br>
+The objective of this programme is to enhance the students’ capacity in the overall command of the Malay Language. For a start, the students have been using an interactive Malay Language magazine, Mari Membaca which has a variety of engaging exercises and worksheets, all of which are useful continuum to the daily classroom teaching and activities.
