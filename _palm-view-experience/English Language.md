@@ -29,5 +29,32 @@ Our library is a great place of learning for the students. Our department teache
 <figcaption>Students participating in the Once Upon a Tale Story Telling Competition during EL Fest</figcaption>
 </figure>
 
+Our annual English Learning Festival encourages students to explore the wonders of the English language through a series of meaningful and exciting events. 
 
+  
 
+Starting from 2020, we have collaborated with the Mathematics department in this event. Through this meaningful collaboration, we aim to enhance student engagement in making the learning of English and Mathematics fun both in and out of the classroom, to learn through authentic experiences, strengthen students’ understanding of concepts and encourage greater appreciation and interest in both English and Mathematics. 
+
+  
+
+During their English lessons, students built on their writing and speaking skills through a variety of activities. Primary 1 students were involved in a Show and Tell session in which they had fun sharing with their classmates about the jungle animal masks that they had made. Primary 2 and 3 students got their creative juices flowing by creating their own fractured fairy tales. The Primary 4 to 6 students explored different forms of creative expression such as poetry, drama and poster design.  
+
+Students enjoyed an insightful assembly programme which highlighted the differences between Singlish and English. Students also participated in the Once Upon a Tale competition, which is our school’s first ever level wide story-telling contest.   
+
+Carnival-themed recess booths were set up and many students enjoyed playing the games during recess. The library was also abuzz with excitement as students participated in the DIY Mr Men recess activity and the Library Naming Competition. 
+
+We hope that with the engaging learning experiences offered during this festival, our students will develop a greater appreciation and love for the English Language.
+
+###### **Learning Journey to the River Safari**
+<figure>
+<img src="/images/Learning Journey in the River Safari.jpg" style="width:100%">
+<figcaption>Learning Journey in the River Safari.</figcaption>
+</figure>
+
+As part of providing our students with varied experiences to further enrich their learning and to learn beyond the classroom, the school organises learning journeys to facilitate meaningful learning in authentic environments.  
+
+  
+
+The Primary 1 students had the opportunity to visit the River Safari. The main objective of the learning was to allow the students to apply English and Mathematics concepts and skills in an authentic setting. The students observed the animals in their respective aquariums, gleaned information from the signboards and listened to their teachers share information about the animals while they completed their learning journey booklets. The students could not contain their excitement when they saw the animals that they had read about in a book titled “My River” during their English lessons. They were thrilled when they came across massive manatees and slimy Chinese great salamanders. They were also exhilarated by the opportunity to touch a sea star and a horseshoe crab at the Touch Pool. For many of them, the highlight of the learning journey were the two Giant Pandas, Kai Kai and Jia Jia. Through this learning journey, the students were able to better appreciate these river creatures and their habitats and this is reflected in the highly-engaging lessons and activities that followed, which allowed the students to discuss and consolidate their learning.
+
+<img src="/images/photo_6278328153743143275_m.jpg" style="width:50%" align=left> <br clear="left">
