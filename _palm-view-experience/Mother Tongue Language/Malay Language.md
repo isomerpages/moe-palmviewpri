@@ -15,10 +15,11 @@ The Mother Tongue Fortnight is a two-week long enrichment programme that is spec
 
 <figure>
 <img src="/images/ML Website 2.jpg" style="width:49%" align=left>
-<img src="/images/ML Website 3.jpg" style="width:48%" align=right> 
+<img src="/images/ML Website 3.jpg" style="width:48%" align=right>
+	<br><br><br><br><br><br><br><br><br><br><br>
+<figcaption>Students taking part in cultural programmes.
+</figcaption>
 </figure>
-
-<br><br><br><br><br><br><br><br>
 
 **Speech & Drama** <br>
 The aim of this programme is to develop students’ abilities and confidence in oral communications through fun and creative activities. Students will be involved in activities which reinforce the skills of speaking clearly, audibly and expressively. The programme will conclude with short performances by the students.
@@ -26,9 +27,10 @@ The aim of this programme is to develop students’ abilities and confidence in 
 <figure>
 <img src="/images/ML Website 4.jpg" style="width:49%" align=left>
 <img src="/images/ML Website 5.jpg" style="width:49%" align=right> 
+		<br><br><br><br><br><br><br><br><br><br><br>
+<figcaption>Students participating in the annual Speech and Drama showcase.
+</figcaption>
 </figure>
-
-<br><br><br><br><br><br><br><br>
 
 **Hari Raya Concert** <br>
 An annual event, the Hari Raya Concert showcased various acts and performances by both students and teachers alike as we usher in the most celebrated event of the Malay community. Performances such as the Dikir Barat, playing the traditional Malay Kompang and the Malay Dance were all part of the itinerary that entertained the rest of the students and staff on the day.
@@ -36,9 +38,10 @@ An annual event, the Hari Raya Concert showcased various acts and performances b
 <figure>
 <img src="/images/ML Website 6.jpg" style="width:49%" align=left>
 <img src="/images/ML Website 7.jpg" style="width:49%" align=right> 
+			<br><br><br><br><br><br><br><br><br><br><br><br>
+<figcaption>Teachers and students performing in the Hari Raya Concert.
+</figcaption>
 </figure>
-
-<br><br><br><br><br><br><br><br>
 
 **Reading Programme** <br>
 The objective of this programme is to enhance the students’ capacity in the overall command of the Malay Language. For a start, the students have been using an interactive Malay Language magazine, Mari Membaca which has a variety of engaging exercises and worksheets, all of which are useful continuum to the daily classroom teaching and activities.
