@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - SLS Troubleshooting.md
       - School Calendar.md
       - Home School Partnership/.keep
       - Home School Partnership/Level Briefing.md
