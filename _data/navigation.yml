@@ -4,7 +4,9 @@ links:
     collection: about-us
   - title: PALM VIEW EXPERIENCE
     collection: palm-view-experience
-  - title: STUDENT PORTAL
+  - title: Student Portal
+    url: /student-portal/
+  - title: For Parents
     collection: about-us
   - title: Contact Us
     url: /contact-us/
