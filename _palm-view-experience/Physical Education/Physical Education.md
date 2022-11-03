@@ -9,6 +9,7 @@ Physical Education (P.E.) is a significant part of our students’ experience in
 Our dynamic and comprehensive programme will allow our lower primary students to learn Fundamental Skills and Educational Gym while upper primary students will progress to modified sports and games, swimming and dance to facilitate their motor skills development. Our students will learn beyond the acquisition of skills and understand sports as a social phenomenon. The spirit, principles, values and ideals of Olympics will also be integrated into our P.E. curriculum.
 
 #### Summary of Syllabus<br>
+
 |       **P1 & P2**      |       **P3 & P4**      |         **P5 & P6**         |
 |:----------------------:|:----------------------:|:---------------------------:|
 |  Fundamental Movements |  Fundamental Movements |    Educational Gymnastics   |
