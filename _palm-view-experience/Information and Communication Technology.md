@@ -46,3 +46,21 @@ CW education is conducted during curriculum time and through programmes in schoo
 <figcaption>Students attending the Cyber Wellness Artwork Exhibition.
  </figcaption>
 </figure>
+
+| **Themes**                              | **What your child will learn about**                                      |
+|-----------------------------------------|---------------------------------------------------------------------------|
+| Cyber identity and cyber use            | ·  Online identity and expression ·  Balanced use of technology           |
+| Cyber relationships                     | ·  Netiquette ·  Cyber bullying ·  Online relationships                   |
+| Cyber citizenship                       | ·  Cyber world ·  Handling online content and behaviour ·  Cyber contacts |
+
+<figure>
+<img src="/images/IMG_7064.jpg" style="width:90%">
+<figcaption>Ambassadors going through the learning points of a game played during recess.
+ </figcaption>
+</figure>
+
+<img src="/images/Wern Hwee Presentation.jpg" style="width:85%">
+
+*Ambassador sharing her experience advocating for cyber wellness with teachers and students from other schools.*
+
+Since 2016, the Cyber Wellness Student Ambassador Programme was developed in Palm View to promote safe and responsible use of ICT among our students. It aims to develop a group of student leaders in schools that complements each school’s existing efforts in cyber wellness using positive peer influence. The ambassadors have created various multimedia projects to engage their peers, as well as organized recess activities to reinforce their advocacy in cyber wellness.
