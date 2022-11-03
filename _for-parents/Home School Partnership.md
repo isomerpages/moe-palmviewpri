@@ -7,19 +7,15 @@ description: ""
 
 ### P1 e-Orientation (2022)
 
-<figure> <figcaption>
-\[Presentation by Parent Support Group](https://palmviewpri.moe.edu.sg/qql/slot/u505/For%20Parents%202022/24%20Nov%2021%20P1%20Orientation_PSG%20Sharing.pdf)
+* [Presentation by School Leaders](/files/2022_P1 e orientation) //**PDF FILE EXCEED 5MB**
+* **[Presentation by Parent Support Group](/files/24%20Nov%2021%20P1%20Orientation_PSG%20Sharing.pdf)**
 
-</figcaption> </figure>
 
 ### Briefing by School Leaders (2022)
-<figure> <figcaption>
-[**Lower Primary**](https://palmviewpri.moe.edu.sg/qql/slot/u505/For%20Parents%202022/Parents%20Briefing%202022%20-%20Lower%20Pri.pdf)
 
-[**Middle Primary**](https://palmviewpri.moe.edu.sg/qql/slot/u505/For%20Parents%202022/Parents%20Briefing%202022%20-%20Middle%20Pri.pdf)  
-
-[**Upper Primary**](https://palmviewpri.moe.edu.sg/qql/slot/u505/For%20Parents%202022/Parents%20Briefing%202022%20-%20Upper%20Pri.pdf)
-</figcaption> </figure>
+* **[Lower Primary](files/Parents Briefing 2022 - Lower Pri) // **PDF FILE EXCEED 5MB**
+* **[Middle Primary](/files/Parents%20Briefing%202022%20-%20Middle%20Pri.pdf)**
+* **[Upper Primary](/files/Parents%20Briefing%202022%20-%20Upper%20Pri.pdf)**
 
 ### Briefing by Form Teachers (2021)
 <figure> <figcaption> Primary 1</figcaption> </figure>
