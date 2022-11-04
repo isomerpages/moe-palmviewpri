@@ -4,6 +4,8 @@ permalink: /palm-view-experience/pal-outdoor-education/
 description: ""
 third_nav_title: Physical Education
 ---
+## PAL (OUTDOOR EDUCATION)
+
 Programmed for Active Learning (PAL) is a major initiative to address the need for greater emphasis on non-academic programmes for all P1 & P2 pupils. It encompasses learning in a creative way and provides opportunities for pupils to participate and create in fun and enjoyable activities, while learning how to be an effective member of a group in achieving a common objective.
 
   
