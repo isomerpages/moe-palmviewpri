@@ -2,9 +2,9 @@ collections:
   palm-view-experience:
     output: true
     order:
-      - Co Curricular Activities/Club and Societies.md
-      - Co Curricular Activities/CoCurricular Activities.md
       - Co Curricular Activities/.keep
+      - Co Curricular Activities/CoCurricular Activities.md
+      - Co Curricular Activities/Club and Societies.md
       - Niche Programmes/.keep
       - Niche Programmes/LEARNING FOR LIFE PROGRAMME.md
       - Niche Programmes/APPLIED LEARNING PROGRAMME.md
