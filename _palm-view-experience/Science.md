@@ -3,20 +3,16 @@ title: Science
 permalink: /palm-view-experience/science/
 description: ""
 ---
+## SCIENCE
 
-Overview 
----------
+#### Overview 
 
-Why is it important for students to learn Science?
-
-  
-
+Why is it important for students to learn Science? <br>
 • To stimulate curiosity in finding out why things happen the way they do. (Curious Minds) <br>
 • To develop attitudes/ethics towards community and environment. (Caring Hearts)<br>
 • To explore and observe scientific phenomenon in real life. (Creative Spirits)
 
-Approach to the teaching and learning of Science
-
+Approach to the teaching and learning of Science <br>
 • Hands-on, Minds-on Approach to Learning Science (Curious Minds)<br>
 • Giving a Hand to the Community (Caring Hearts) <br>
 • Working Hand in Hand with Collaborative Partners (Creative Spirits)
@@ -67,15 +63,14 @@ This approach incorporates the strategies which include the essential features o
 The BSCS 5E Instructional Model which is grounded in sound educational theory, has a growing base of research to support its effectiveness, and has had a significant impact on science education.  <br>
 • The five phases of the BSCS 5E Instructional Model are designed to facilitate the process of conceptual change.  <br>
 • The use of this model brings coherence to different teaching strategies, provides connections among educational activities, and helps science teachers make decisions about interactions with students.  <br>
-• Each phase of the model and a short phrase to indicate its purpose from a student perspective are:
-
-    o Engagement - students' prior knowledge accessed and interest engaged in the phenomenon  <br>  o Exploration - students participate in an activity that facilitates conceptual change  <br>  o Explanation - students generate an explanation of the phenomenon  <br>  o Elaboration - students' understanding of the phenomenon challenged and deepened through new experiences  <br>  o Evaluation - students assess their understanding of the phenomenon
+• Each phase of the model and a short phrase to indicate its purpose from a student perspective are: <br>
+o Engagement - students' prior knowledge accessed and interest engaged in the phenomenon  <br>  o Exploration - students participate in an activity that facilitates conceptual change  <br>  o Explanation - students generate an explanation of the phenomenon  <br>  o Elaboration - students' understanding of the phenomenon challenged and deepened through new experiences  <br>  o Evaluation - students assess their understanding of the phenomenon
 		
 #### Programmes
 
 Various programmes in Palm View Primary School are designed to allow for students to enjoy science and value science as an important tool in helping them explore their natural and physical world.
 
-###### Fun Science Demonstration Theatre
+**Fun Science Demonstration Theatre**
 * Fun Scientist Programme <br>
 To encourage the acquisition of science knowledge, processes and attitudes, the Science Department organises the Fun Scientist Programme (FSP) to inculcate the spirit of scientific inquiry in our lower primary students. Through the use of demonstrations and introductory activities, we aim to gain the students’ attention and peak their interest in finding out more. We wish that by the end of the demonstrations or activities, the students would enjoy and love Science since it is shown as an extension of their natural curiosity. Through these enablers, students should view the pursuit of Science as meaningful and useful. Inquiry is thus grounded in knowledge, issues and questions that relate to the roles played by Science in daily life, society and the environment.
 
@@ -85,7 +80,7 @@ To encourage the acquisition of science knowledge, processes and attitudes, the 
  </figcaption>
 </figure>
 
-* Science Reading Corner <br>
+* **Science Reading Corner** <br>
 For Palm View students, the reading corner at the void deck gives a platform where they can spend their break indulging in Science Comics books such as Young Scientist Magazines or Science Facts Magazines such as National Geographic. These act as extra knowledge for students to make meaning to their classroom learning while reading.
 
 <figure>
@@ -94,18 +89,18 @@ For Palm View students, the reading corner at the void deck gives a platform whe
  </figcaption>
 </figure>
 
-###### Stellar Nova
+**Stellar Nova**
 
 Stellar Nova is a programme conducted for the lower primary students. It is conducted termly and aims to get students excited and arouse their curiosity in simple Science phenomena. The infusion of Science into the English curriculum is based on the theme of the big book readers. For example, the book titled "Nightmare in my Closet" focuses on the theme of scary monsters and confronting fears thus the topic of light was brought in to introduce students to shadows.
 
-###### E2K Science
+**E2K Science**
 The E2K Science Programme Singapore is a Science enrichment programme for Upper Primary (Primary 4 to Primary 6) students who demonstrate interest and ability in Science.  
 E2K Science Programme Singapore is run by teachers in schools who have been trained in the E2K pedagogy. The programme engages students in scientific investigations involving advanced Science concepts. It aims to engage students in scientific inquiry that will help them to develop the habits, attitudes and dispositions scientists possess as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.
 
-###### Marie Curie Day
+**Marie Curie Day**
 Marie Curie Day is a Science carnival-style event held annually to celebrate the achievements of scientists. We hope to spark the spirit of innovation and invention in students and inspire them to be scientists, exercising their Curious Minds and Creative Spirits!
 
-###### Environmental Education
+**Environmental Education**
 Environment education initiatives and programmes in Palm View aim to help students understand how their decisions and actions affect the environment, build knowledge and skills necessary to address environmental issues, as well as explore ways that they can take action to keep our environment healthy and sustainable for the future.
 
 <img src="/images/photo_6278328153743143275_m.jpg" style="width:49%" align=right clear="right">
