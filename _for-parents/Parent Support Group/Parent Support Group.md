@@ -4,6 +4,8 @@ permalink: /for-parents/Parent-Support-Group/permalink/
 description: ""
 third_nav_title: Parent Support Group
 ---
+## PARENT SUPPORT GROUP
+
 **The Role of the Parent Support Group (PSG)** <br>
 Palm View PSG was started by a group of like-minded parents who had a keen interest in contributing to the school community in which their child belongs.
 
