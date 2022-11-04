@@ -6,7 +6,7 @@ third_nav_title: Parent Support Group
 ---
 ### Our email
 
-<figure> <figcaption> Palmviewpsg@gmail.com </figcaption> </figure>
+**Palmviewpsg@gmail.com**
 
 ### Our Facebook
 
