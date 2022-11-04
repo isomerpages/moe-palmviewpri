@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - School Calendar.md
-      - Useful Links/.keep
-      - Useful Links/Useful Links.md
-      - Useful Links/Service Providers.md
-      - Useful Links/School Gates.md
-      - Useful Links/Parking Facilities Near School.md
-      - Useful Links/2022 School Booklist.md
+      - Useful Information/.keep
+      - Useful Information/Useful Links.md
+      - Useful Information/Service Providers.md
+      - Useful Information/School Gates.md
+      - Useful Information/Parking Facilities Near School.md
+      - Useful Information/2022 School Booklist.md
       - Home School Partnership/.keep
       - Home School Partnership/Level Briefing.md
       - Home School Partnership/Forms.md
