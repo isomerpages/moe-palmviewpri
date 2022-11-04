@@ -2,14 +2,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: ABOUT US
     collection: about-us
-  - title: Student Portal
-    url: /student-portal/
-  - title: For Parents
-    collection: for-parents
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Palm View Experience
     url: /palm-view-experience/learning-for-lifeProgramme/
     sublinks:
@@ -39,3 +31,11 @@ links:
         url: /palm-view-experience/student-development/
       - title: E-Arts @ PLVPS
         url: /palm-view-experience/e-arts-at-plvps/
+  - title: Student Portal
+    url: /student-portal/
+  - title: For Parents
+    collection: for-parents
+  - title: Contact Us
+    url: /contact-us/
+  - title: Example Page
+    url: /example-page/
