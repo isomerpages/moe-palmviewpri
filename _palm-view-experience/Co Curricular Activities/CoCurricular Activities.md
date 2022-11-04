@@ -11,6 +11,7 @@ As part of Palm View Primary School commitment towards developing each student h
 The school will be offering the following CCAs: 
 
 ##### Clubs and Societies
+
 | CCA | Teacher In Charge |
 |:---:|:---:|
 | Art Club | Mr Matthias Seet<br>65080-661<br>[seet_qin_fong@moe.edu.sg](mailto:seet_qin_fong@moe.edu.sg) |
@@ -18,6 +19,7 @@ The school will be offering the following CCAs:
 | Science Club | Mr Shuan Png<br>65080-666<br>[png_jia_shun@moe.edu.sg](mailto:png_jia_shun@moe.edu.sg) |
 
 ##### Visual and Performing Arts
+
 | CCA | Teacher In Charge |
 |:---:|:---:|
 | Choir | Ms Rebecca Lau (ST / Music)<br>65089-456<br>[rebecca_lau_yuen_sun@moe.edu.sg](mailto:rebecca_lau_yuen_sun@moe.edu.sg) |
@@ -26,6 +28,7 @@ The school will be offering the following CCAs:
 | String Ensemble | Miss Nicole Anne Chee<br>65067-340<br>[chee_shu_rong_nicole@moe.edu.sg](mailto:chee_shu_rong_nicole@moe.edu.sg) |
 
 ##### Sports and Games
+
 | CCA | Teacher In Charge |
 |:---:|:---:|
 | Badminton | Miss Valarie Koh<br>65087-277<br>[valarie_koh_sock_hwee@moe.edu.sg](mailto:valarie_koh_sock_hwee@moe.edu.sg) |
@@ -35,6 +38,7 @@ The school will be offering the following CCAs:
 | Table Tennis | Mr Nadeem<br>65087-276<br>[mohamed_nadeem@moe.edu.sg](mailto:mohamed_nadeem@moe.edu.sg) |
 
 ##### Uniformed Groups
+
 | CCA | Teacher In Charge |
 |:---:|:---:|
 | Red Cross | Mrs Ruoen Cheong<br>65067-348<br>[wong_ai_lynn_ruoen@moe.edu.sg](mailto:wong_ai_lynn_ruoen@moe.edu.sg) |
