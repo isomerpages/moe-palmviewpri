@@ -4,6 +4,8 @@ permalink: /palm-view-experience/Physical-Education/permalink/
 description: ""
 third_nav_title: Physical Education
 ---
+## PHYSICAL EDUCATION
+
 Physical Education (P.E.) is a significant part of our students’ experience in Palm View Primary. It is no secret that physical activity is necessary to a child’s well-being. In Palm View Primary, we aim to provide our students with a comprehensive school physical activity program. The result of a quality physical education experience is that all students are provided with the skills, knowledge and attitudes necessary to lead a physically active lifestyle.
 
 Our dynamic and comprehensive programme will allow our lower primary students to learn Fundamental Skills and Educational Gym while upper primary students will progress to modified sports and games, swimming and dance to facilitate their motor skills development. Our students will learn beyond the acquisition of skills and understand sports as a social phenomenon. The spirit, principles, values and ideals of Olympics will also be integrated into our P.E. curriculum.
