@@ -2,12 +2,6 @@ collections:
   palm-view-experience:
     output: true
     order:
-      - Co Curricular Activities/.keep
-      - Co Curricular Activities/CoCurricular Activities.md
-      - Co Curricular Activities/Club and Societies.md
-      - Co Curricular Activities/Performing Arts.md
-      - Co Curricular Activities/Sports.md
-      - Co Curricular Activities/Uniformed Groups.md
       - Niche Programmes/.keep
       - Niche Programmes/LEARNING FOR LIFE PROGRAMME.md
       - Niche Programmes/APPLIED LEARNING PROGRAMME.md
@@ -27,6 +21,12 @@ collections:
       - Character & Citizen Education/.keep
       - Character & Citizen Education/Character & Citizen Education.md
       - Character & Citizen Education/Co Curricular Programmes.md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/CoCurricular Activities.md
+      - Co Curricular Activities/Club and Societies.md
+      - Co Curricular Activities/Performing Arts.md
+      - Co Curricular Activities/Sports.md
+      - Co Curricular Activities/Uniformed Groups.md
       - Student Leadership.md
       - Student Development.md
       - E Arts@PLVPS.md
