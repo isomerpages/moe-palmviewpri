@@ -6,8 +6,7 @@ third_nav_title: Character & Citizen Education
 ---
 ## CO-CURRICULAR PROGRAMMES
 
-1. **[Values in Action (VIA)](https://palmviewpri.moe.edu.sg/palm-view-experience/character-n-citizenship-education/co-curricular-programmes/values-in-action-via)**
-2.  **[Global Citizenry](https://palmviewpri.moe.edu.sg/palm-view-experience/character-n-citizenship-education/co-curricular-programmes/global-citizenry)**
-3.  **[Growing Years](https://palmviewpri.moe.edu.sg/palm-view-experience/character-n-citizenship-education/co-curricular-programmes/growing-years)**
-4.  **[Cyber Wellness](https://palmviewpri.moe.edu.sg/palm-view-experience/character-n-citizenship-education/co-curricular-programmes/cyber-wellness)**
-
+1. <a href="/palm-view-experience/ccp/via">Values In Action (VIA)</a>
+2. <a href="/palm-view-experience/ccp/global">Global Citizenry</a>
+3. <a href="/palm-view-experience/ccp/growing">Growing Years</a>
+4. <a href="/palm-view-experience/ccp/cyber">Cyber Wellness</a>
