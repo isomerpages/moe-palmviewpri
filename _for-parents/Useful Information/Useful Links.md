@@ -4,6 +4,7 @@ permalink: /for-parents/Useful-Links/permalink/
 description: ""
 third_nav_title: Useful Information
 ---
+## USEFUL LINKS
 
 **Student Portals** <br>
 **[SLS Homepage](https://vle.learning.moe.edu.sg/login)**
@@ -18,4 +19,3 @@ third_nav_title: Useful Information
 **[Primary School Education Booklet – Preparing Your Child for Tomorrow](/files/primary-school-education-booklet.pdf)** <br>
 **[MOE Website](https://www.moe.gov.sg/)**
 **[Schoolbag](http://schoolbag.sg/)**
-
