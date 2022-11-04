@@ -2,14 +2,8 @@ collections:
   for-parents:
     output: true
     order:
-      - Palm View Connection.md
       - School Calendar.md
-      - Useful Information/.keep
-      - Useful Information/Useful Links.md
-      - Useful Information/Service Providers.md
-      - Useful Information/School Gates.md
-      - Useful Information/Parking Facilities Near School.md
-      - Useful Information/2022 School Booklist.md
+      - Palm View Connection.md
       - Home School Partnership/.keep
       - Home School Partnership/Level Briefing.md
       - Home School Partnership/Forms.md
@@ -20,3 +14,9 @@ collections:
       - Parent Support Group/Executive Committee.md
       - Parent Support Group/Parent Support Group.md
       - SLS Troubleshooting.md
+      - Useful Information/.keep
+      - Useful Information/Useful Links.md
+      - Useful Information/Service Providers.md
+      - Useful Information/School Gates.md
+      - Useful Information/Parking Facilities Near School.md
+      - Useful Information/2022 School Booklist.md
