@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Performing Arts/Modern Dance.md
       - Performing Arts/Drama Club.md
       - Performing Arts/Choir.md
       - Performing Arts/Performing Arts.md
