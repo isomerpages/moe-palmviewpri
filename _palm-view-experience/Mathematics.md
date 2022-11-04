@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /palm-view-experience/mathematics/
 description: ""
 ---
+## MATHEMATICS
 
 #### Curriculum
 The Primary Mathematics syllabus aims to enable all students to: 
@@ -16,11 +17,9 @@ The central focus of the curriculum is the development of mathematical problem-s
 
 Some of our school strategies: 
 
-RIGHT: Read the question, Identify Key words, Get a plan, Have it done, Triple check 
-
-MEWAS: Model, Equation, Working, Answer, Statement 
-
-NTUC: Number transfer, units, calculation
+RIGHT: Read the question, Identify Key words, Get a plan, Have it done, Triple check <br>
+MEWAS: Model, Equation, Working, Answer, Statement <br>
+NTUC: Number transfer, units, calculation <br>
 
 <img src="/images/Math Pic 3.png" style="width:90%">
 
