@@ -4,6 +4,7 @@ permalink: /for-parents/service-providers/
 description: ""
 third_nav_title: Useful Information
 ---
+## SERVICE PROVIDERS
 
 ### School Uniform
 | **Company:**       | Beau Voix Uniform                                                                                                                                                 |
