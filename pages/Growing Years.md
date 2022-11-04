@@ -50,8 +50,11 @@ c. Character and Citizenship Education (CCE)
 
 **At PALM VIEW PRIMARY SCHOOL, the following lessons from the Growing Years Programme will be taught in 2022:**
 
+#### Information for Parents
+8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
+9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable **[here](https://palmviewpri.moe.edu.sg/qql/slot/u505/Departments/CCE/MOE%20SEXUALITY%20EDUCATION%20IN%20SCHOOLS%20Parents%20Opt%20Out%20Form.pdf)**. The completed opt-out form is to be submitted by 28/02/2022.
 
+10. Parents can contact the school at [nur_hasanah_osman@moe.edu.sg](mailto:nur_hasanah_osman@moe.edu.sg) or speak to Mdm Hasanah at 6508 7310 for discussion or to seek clarification about the school’s sexuality education programme.
 
-	
-	
+11. Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements
