@@ -9,4 +9,3 @@ third_nav_title: Co Curricular Activities
 * **[Choir](https://palmviewpri.moe.edu.sg/palm-view-experience/co-curricular-activities/performing-arts/choir)**
 * **[Drama Club](https://palmviewpri.moe.edu.sg/palm-view-experience/co-curricular-activities/performing-arts/drama-club)**
 * **[Modern Dance](https://palmviewpri.moe.edu.sg/palm-view-experience/co-curricular-activities/performing-arts/modern-dance)**
-
