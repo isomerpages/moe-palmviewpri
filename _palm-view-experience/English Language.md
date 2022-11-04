@@ -3,6 +3,7 @@ title: English Language
 permalink: /palm-view-experience/english-language/
 description: ""
 ---
+## ENGLISH LANGUAGE
 
 The department believes in building a strong foundation in effective language use and communication for all our students. We adopt a systematic approach to the teaching of language skills. Teachers make use of rich texts and a variety of platforms to develop and strengthen language proficiency.
 
