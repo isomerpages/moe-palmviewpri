@@ -4,6 +4,8 @@ permalink: /palm-view-experience/applied-learning-programme/
 description: ""
 third_nav_title: Niche Programmes
 ---
+## APPLIED LEARNING PROGRAMME
+
 <figure>
 <img src="/images/Banner1.png" style="width:100%">
 </figure>
