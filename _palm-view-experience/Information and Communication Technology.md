@@ -3,9 +3,9 @@ title: Information and Communication Technology
 permalink: /palm-view-experience/information-and-communication-tech/
 description: ""
 ---
+## INFORMATION AND COMMUNICATION TECHNOLOGY
 
-Overview
---------
+### Overview
 
 At Palm View Primary School, we recognise our students to be digital natives and they are an integral part of our learning provision.  As such, we curate the use of technology to authenticate their learning experiences to meet their learning needs. Through the use of ICT, we aim to nurture in our students:
 
@@ -26,7 +26,7 @@ This is actualised through programmes and activities implemented through the var
  </figcaption>
 </figure>
 
-### The Curriculum
+#### The Curriculum
 **Blending learning to meet diverse student learning needs**
 
 Blended learning is an approach to education that combines online educational materials and opportunities for interaction online with traditional place-based classroom methods.  It requires the physical presence of both teacher and student, with some elements of student control over time, place and pace. <br> 
@@ -34,7 +34,7 @@ The Student Learning Space (SLS) is the main platform in which students develop 
 
 <img src="/images/SLS Fig 1a.jpg" style="width:90%">
 
-### Cyber wellness and outreach programmes to ensure student well-being online
+#### Cyber wellness and outreach programmes to ensure student well-being online
 
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. When navigating cyberspace, students should demonstrate respect for self and others and practise safe and responsible use. Students should also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community.
 
@@ -50,9 +50,9 @@ CW education is conducted during curriculum time and through programmes in schoo
 
 | **Themes**                              | **What your child will learn about**                                      |
 |-----------------------------------------|---------------------------------------------------------------------------|
-| Cyber identity and cyber use            | ·  Online identity and expression ·  Balanced use of technology           |
-| Cyber relationships                     | ·  Netiquette ·  Cyber bullying ·  Online relationships                   |
-| Cyber citizenship                       | ·  Cyber world ·  Handling online content and behaviour ·  Cyber contacts |
+| Cyber identity and cyber use            | ·  Online identity and expression <br> ·  Balanced use of technology           |
+| Cyber relationships                     | ·  Netiquette ·  Cyber bullying <br>·  Online relationships                   |
+| Cyber citizenship                       | ·  Cyber world ·  Handling online content and behaviour <br>·  Cyber contacts |
 
 <figure>
 <img src="/images/IMG_7064.jpg" style="width:90%">
