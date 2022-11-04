@@ -4,6 +4,7 @@ permalink: /palm-view-experience/co-curricular-activities/
 description: ""
 third_nav_title: Sports
 ---
+## BADMINTON
 
 Badminton is a Co-Curricular Activity (CCA) which started in 2021. Through our training programme, we aim to develop discipline, commitment and fair play in our students. With guidance from our dedicated coaches and teachers, we hope that students can achieve a higher level of proficiency of badminton skills. With improved knowledge and skills, we hope that our students can develop greater passion for the game and become lifelong active citizens.  
 
