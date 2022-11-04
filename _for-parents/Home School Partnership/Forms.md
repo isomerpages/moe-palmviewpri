@@ -4,6 +4,8 @@ permalink: /for-parents/forms/
 description: ""
 third_nav_title: Home School Partnership
 ---
+## FORMS
+
 1. **[Application Form for Interbank GIRO](/files/Application%20form%20for%20Interbank%20Giro.pdf)**
 2. **[Application for School Placement](/files/Application%20for%20School%20Placement.pdf)**
 3. **[Application for Leave of Absence (LOA)](https://form.gov.sg/60d2be21dfd78e00127ccc5c)**
