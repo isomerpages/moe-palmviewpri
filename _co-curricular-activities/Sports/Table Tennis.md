@@ -4,7 +4,6 @@ permalink: /palm-view-experience/co-curricular-activities/sports/tabletennis/
 description: ""
 third_nav_title: Sports
 ---
-
 ## TABLE TENNIS
 
 **Overview**
@@ -24,8 +23,6 @@ From the CCA, pupils will be able to:
 
 <p align="center"><em>Student enjoying the table tennis CCA</em></p>
 
-Teacher-in-charge
------------------
-
+#### Teacher-in-charge
 **Mr Nadeem**  <br>
 [mohamed_nadeem@moe.edu.sg](mailto:mohamed_nadeem@moe.edu.sg)
