@@ -4,6 +4,8 @@ permalink: /palm-view-experience/Character-and-Citizen-Education/permalink/
 description: ""
 third_nav_title: Character & Citizen Education
 ---
+## CHARACTER & CITIZENSHIP EDUCATION
+
 **Vision**
 
 Curious Minds, Caring Hearts, Creative Spirits
@@ -64,12 +66,10 @@ Our P6s get to interact with selected speakers to learn more about their occupat
 <figure>
 <img src="/images/R3ich for Your Dream.jpeg" style="width:49%" align=left>
 <img src="/images/R3ich for your dream3.jpeg" style="width:49%" align=right>
-	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <figcaption>Students dressing up in their dream occupations.
  </figcaption>
 </figure>
-
-<br clear="left">
 
 **Values in Action (VIA) Programme** <br>
 Students are encouraged to display positive traits and internalise the values through our level-based and school-wide programmes. 
