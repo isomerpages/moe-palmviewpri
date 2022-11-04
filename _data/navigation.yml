@@ -2,8 +2,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: ABOUT US
     collection: about-us
-  - title: PALM VIEW EXPERIENCE
-    collection: palm-view-experience
   - title: Student Portal
     url: /student-portal/
   - title: For Parents
@@ -12,3 +10,26 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
+  - title: Palm View Experience
+    url: /palm-view-experience/learning-for-lifeProgramme/
+    sublinks:
+      - title: Niche Programmes
+        url: /palm-view-experience/learning-for-lifeProgramme/
+      - title: English Language
+        url: /palm-view-experience/english-language/
+      - title: Mother Tongue Languages
+        url: /palm-view-experience/chinese-language/
+      - title: Mathematics
+        url: /palm-view-experience/mathematics/
+      - title: Science
+        url: /palm-view-experience/science/
+      - title: Physical Education
+        url: /palm-view-experience/Physical-Education/
+      - title: Aesthetics
+        url: /palm-view-experience/Aesthetics/
+      - title: Info & Comm Tech
+        url: /palm-view-experience/information-and-communication-tech/
+      - title: Character & Citizenship Edu
+        url: /palm-view-experience/Character-and-Citizen-Education/
+      - title: Co-Curricular Activities
+        url: /permalink
