@@ -4,16 +4,17 @@ permalink: /palm-view-experience/chinese-language/
 description: ""
 third_nav_title: Mother Tongue Language
 ---
+## CHINESE LANGUAGE
 
 The Chinese Language (CL) Department aims to develop students into confident and competent Chinese Language users who are able to appreciate their own culture.
 
-###### Department Mission <br>
+**Department Mission** <br>
 Providing quality teaching to develop students into proficient users of Chinese Language who can communicate effectively with others, appreciate Chinese culture and acquire knowledge and wisdom through the language.
 
-###### Department Vision <br>
+**Department Vision** <br>
 Engaged learner who loves the language, proficient user who communicates well.  
   
-###### Department Key Thrusts <br>
+**Department Key Thrusts** <br>
 In order to achieve our mission and vision, the Chinese Department is underpinned by 4 key strategic thrusts, namely _Customized Curriculum, Effective Pedagogies, Accurate Assessments, and Supportive Programmes_. The 4 areas complement each other to benefit students’ learning.
 
 1. **Customized Curriculum** <br>
