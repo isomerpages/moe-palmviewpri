@@ -3,6 +3,8 @@ title: Frequently Asked Questions
 permalink: /contact-us/fre-asked-qn/
 description: ""
 ---
+## FREQUENTLY ASKED QUESTIONS
+
 **School Operations**
 
 **What is the reporting time for school?** <br>
