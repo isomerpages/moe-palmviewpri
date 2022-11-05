@@ -4,8 +4,9 @@ permalink: /about-us/our-people/primary-5-teachers/
 description: ""
 third_nav_title: Our People
 ---
-Form Teachers
----------------
+## PRIMARY 5 TEACHERS
+
+### Form Teachers
 
 | Class | Form Teacher | Form Teacher |
 |---|---|---|
@@ -17,8 +18,7 @@ Form Teachers
 | 5 Frank | Mrs Sarah Tan<br>65067-344<br>[sarah_yu_xueli@moe.edu.sg](mailto:sarah_yu_xueli@moe.edu.sg) | Ms Teo Ai Lin (HOD, Mathematics)<br>65087-312<br>[teo_ai_lin@moe.edu.sg](mailto:teo_ai_lin@moe.edu.sg) |
 | | | |
 
-Subject Teachers
----------------
+### Subject Teachers
 
 | Subject | Teacher |
 |---|---|
