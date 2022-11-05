@@ -89,16 +89,15 @@ For Palm View students, the reading corner at the void deck gives a platform whe
  </figcaption>
 </figure>
 
-**Stellar Nova**
-
+**Stellar Nova** <br>
 Stellar Nova is a programme conducted for the lower primary students. It is conducted termly and aims to get students excited and arouse their curiosity in simple Science phenomena. The infusion of Science into the English curriculum is based on the theme of the big book readers. For example, the book titled "Nightmare in my Closet" focuses on the theme of scary monsters and confronting fears thus the topic of light was brought in to introduce students to shadows.
 
-**E2K Science**
+**E2K Science** <br>
 The E2K Science Programme Singapore is a Science enrichment programme for Upper Primary (Primary 4 to Primary 6) students who demonstrate interest and ability in Science.  
 E2K Science Programme Singapore is run by teachers in schools who have been trained in the E2K pedagogy. The programme engages students in scientific investigations involving advanced Science concepts. It aims to engage students in scientific inquiry that will help them to develop the habits, attitudes and dispositions scientists possess as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.
 
-**Marie Curie Day**
+**Marie Curie Day** <br>
 Marie Curie Day is a Science carnival-style event held annually to celebrate the achievements of scientists. We hope to spark the spirit of innovation and invention in students and inspire them to be scientists, exercising their Curious Minds and Creative Spirits!
 
-**Environmental Education**
+**Environmental Education** <br>
 Environment education initiatives and programmes in Palm View aim to help students understand how their decisions and actions affect the environment, build knowledge and skills necessary to address environmental issues, as well as explore ways that they can take action to keep our environment healthy and sustainable for the future.
