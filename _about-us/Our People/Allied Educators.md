@@ -4,16 +4,16 @@ permalink: /about-us/our-people/allied-educators/
 description: ""
 third_nav_title: Our People
 ---
-Counselling
------------
+## ALLIED EDUCATORS
+
+### Counselling
 
 | <u>Name of Allied Educator</u> | <u>Email Address</u> | <u>DID</u> |
 | :---: | :---: | :---: |
 | Ms Rajesvathiy | [rajesvathiy_p@moe.edu.sg](mailto:rajesvathiy_p@moe.edu.sg) | 65089-463 | 
 | | |
 
-Learning and Behavioural Support
-----------------------------------
+### Learning and Behavioural Support
 
 | <u>Name of Allied Educator</u> | <u>E-mail Address</u> | <u>DID</u> |
 |---|---|---|
