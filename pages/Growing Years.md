@@ -61,6 +61,17 @@ c. Character and Citizenship Education (CCE)
 | What Can I Do? (Part 2)<br>(30 min) | * identify the stresses caused by physical and emotional changes during puberty<br>* describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>* describe the emotions caused by physical changes during puberty<br>* recognise that one's identity does not change even when one's body is experiencing change due to puberty | Term 4 Week 5 |
 | Main Task<br>(30 min) | Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.  | Term 4 Week 5 |
 
+**Unit: Where I Belong**
+
+| LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, pupils will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
+|:---:|:---:|---|
+| What Are Families?<br>(30 min) | * know that there are different types of family structures<br>* know that every family is unique<br>* state that the three basic functions of families are to provide love, protection and guidance<br>* identify the right sources of help to turn to when in need | Term 4 Week 5 |
+| What Is My Role?<br>(30 min) | * know that gender is about being male or female<br>* choose not to stereotype by gender | Term 4 Week 9 |
+
+**Unit: How Do I Keep Myself Safe?**
+
+
+
 #### Information for Parents
 8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
