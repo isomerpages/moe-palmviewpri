@@ -31,7 +31,8 @@ description: ""
 
 You may click **[here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education)** for more information on MOE Sexuality Education. **ERROR 404 PAGE NOT FOUND**
 
-**OVERVIEW OF PALM VIEW PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2022**<br><br>
+<u>**OVERVIEW OF PALM VIEW PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2022**</u> <br>
+<br>
 4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click **[here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach)** for more information on the scope of Sexuality Education in the school curriculum.
 
 5. The subjects that incorporate topics on sexuality include:
