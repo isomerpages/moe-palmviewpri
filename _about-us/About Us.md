@@ -3,6 +3,8 @@ title: About Us
 permalink: /about-us/
 description: ""
 ---
+## ABOUT US
+
 **_Education is what remains after one has forgotten what one has learned in school.  ~ Albert Einstein_**
 
 **Our School Focus**
