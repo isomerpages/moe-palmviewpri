@@ -4,8 +4,9 @@ permalink: /about-us/our-people/primary-3-teachers/
 description: ""
 third_nav_title: Our People
 ---
-Form Teachers
-----------------
+## PRIMARY 3 TEACHERS
+
+### Form Teachers
 
 | Class | Form Teacher | Form Teacher |
 |---|---|---|
@@ -16,8 +17,7 @@ Form Teachers
 | 3 Edison | Ms Candice Khoo (P3 Level Manager)<br>65087-323<br>[khoo\_yun\_xuan\_candice@moe.edu.sg](mailto:khoo_yun_xuan_candice@moe.edu.sg) | Mr Rave Tay / 戴老师 (HOD, Mother Tongue)<br>65083-172<br>[tay\_tze\_rong@moe.edu.sg](mailto:tay_tze_rong@moe.edu.sg) |
 | 3 Frank | Mrs Michelle Wee<br>65080-667<br>[michelle\_tyoh\_whei\_theng@moe.edu.sg](mailto:michelle_tyoh_whei_theng@moe.edu.sg) | Mr Farris<br>65087-317<br>[mohammad\_farris\_salleh@moe.edu.sg](mailto:mohammad_farris_salleh@moe.edu.sg) |
 
-Subject Teachers
------------------
+### Subject Teachers
 
 | Subject | Teacher |
 |---|---|
