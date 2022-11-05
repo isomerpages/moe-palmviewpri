@@ -5,7 +5,7 @@ description: ""
 ---
 ## FREQUENTLY ASKED QUESTIONS
 
-**School Operations**
+#### School Operations
 
 **What is the reporting time for school?** <br>
 Students are to arrive in school and be ready for morning assembly by 7.30 a.m.
