@@ -3,13 +3,13 @@ title: Vision, Mission & Core Values
 permalink: /about-us/vision-mission-n-core-values/
 description: ""
 ---
-Vision and Mission
----------------------
+## VISION, MISSION & CORE VALUES
+
+### Vision and Mission
 
 Underlying Palm View Primary School’s (PLVPS) vision of “ Curious Minds, Caring Hearts, Creative Spirits” is a belief that children can be inspired towards excellence. As educators, we are guardians of our children’s future and to safeguard what is entrusted to us, it is critical that we channel our educational efforts towards developing the whole child to be 21<sup>st</sup> century learners so that they can be a force for good in the world. This is our mission and calling.
 
-School Crest
-------------
+### School Crest
 
 <img src="/images/pvlogo.jpg" style="width:35%" align="left"/>
 
@@ -19,7 +19,6 @@ The torch is a bearer of light and symbolises the school’s belief in the poten
 
 The colours of orange and green are chosen for this emblem to signify youthfulness, courage and vitality, qualities that the school hopes the students of the school will exude.
 
-Values
-------
+### Values
 
 In Palm View Primary School, our desire to develop the holistic child to become a force for good in the world embodies itself in 6 core values - the R<sup>3</sup>ICH values. Unpacking it, we believe that a child that is a force for good in the world has Respect, Responsibility, Resilience, Integrity, Care and Harmony, and anchors these values within their internal compass to do good for everyone around them and the world.
