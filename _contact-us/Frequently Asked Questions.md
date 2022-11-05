@@ -35,4 +35,4 @@ All the parking lots in the school are reserved for season parking. We do not ha
 
 **Technical Assistance**<br>
 **Q: How do I find technical assistance for the various school digital platforms i.e. SLS, Learning portals, Student Intranet?** <br>
-A: Please contact our ICT Service Help Desk at [ICT\_Service\_Request@plvps.edu.sg](mailto:ICT\_Service\_Request@plvps.edu.sg).
+A: Please contact our ICT Service Help Desk at [ICT_Service_Request@plvps.edu.sg](mailto:ICT_Service_Request@plvps.edu.sg).
