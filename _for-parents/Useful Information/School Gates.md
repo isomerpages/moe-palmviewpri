@@ -39,7 +39,7 @@ third_nav_title: Useful Information
 
 | **Day** | **Timing** |
 |:---:|:---:|
-| <p align="left">Monday-Friday | * 6.40a.m. to 7.20a.m.<br>* 1.30p.m. to 1.50p.m.</p> |
+| Monday-Friday | * 6.40a.m. to 7.20a.m.<br>* 1.30p.m. to 1.50p.m. |
 
 #### Visitor Information
 All visitors (other than those on official visits) are to **sign in** at the Security Post and **register themselves** through the Visitors Management System (VMS). 
