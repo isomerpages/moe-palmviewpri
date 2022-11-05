@@ -16,16 +16,16 @@ Monday to Friday (School holidays) : 8am to 5pm  <br>
 _\*The General Office is not opened on weekends._
 
 **Does the school have a student care centre?**   <br>
-Yes, the school has a school-based student care centre. The service provider is Pro-Teach Education Group Pte Ltd. For more information on the student care centre, including enrolment matters, please contact them at 6388 2125 or email them at palmview@pro-teach.com.   
+Yes, the school has a school-based student care centre. The service provider is Pro-Teach Education Group Pte Ltd. For more information on the student care centre, including enrolment matters, please contact them at 6388 2125 or email them at [palmview@pro-teach.com](mailto:palmview@pro-teach.com).   
   
 **When can parents proceed to the school bookshop to buy books, uniform or stationery for their children?**   <br>
 Parents are allowed into the school between 1.45 p.m. to 2.30 p.m. on Wednesday and Friday to purchase books, stationery and uniform from the bookshop.
 
 **Who can I contact to arrange for daily bus service for my children who are attending Palm View Primary School?**   <br>
-We have appointed Loh Gim Chong Transport to provide daily bus services for our students.  Please contact Mr Louis Loh at 9628 4743 or email him at louis@mybus.com.sg to sign up for the daily bus services.   
+We have appointed Loh Gim Chong Transport to provide daily bus services for our students.  Please contact Mr Louis Loh at 9628 4743 or email him at [louis@mybus.com.sg](mailto:louis@mybus.com.sg) to sign up for the daily bus services.   
   
 **How do I contact the school vendors i.e. Bookshop, School Bus Operators, Dental Clinic, Student Care Centre?** <br>
-You may find the contact details **[here](https://palmviewpri-moe-edu-sg-admin.cwp.sg/for-parents/useful-information/service-providers)**.
+You may find the contact details **[here](/for-parents/service-providers/)**.
 
 **My child has forgotten to bring her water bottle to school. Can I bring her water bottle to the General Office for the school to pass it to her?**   <br>
 In line with our school’s R3ICH values of responsibility and resilience, we would like to seek your assistance to encourage your children to be responsible in packing their school bags. With the exception of medical emergencies, our school no longer entertains requests from parents/guardians to send items and pocket money to their children. We seek your understanding and cooperation in working with us on this matter.
