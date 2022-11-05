@@ -4,8 +4,9 @@ permalink: /about-us/our-people/primary-1-teachers/
 description: ""
 third_nav_title: Our People
 ---
-Form Teachers
-----------------
+## PRIMARY 1 TEACHERS
+
+### Form Teachers
 
 | Class | Form Teacher | Form Teacher |
 |---|---|---|
@@ -20,8 +21,7 @@ Form Teachers
 | 1 Keller | Mrs Desiree Soo (School Staff Developer)<br>65080-660<br>[tan_ee_lee@moe.edu.sg](mailto:tan_ee_lee@moe.edu.sg) | Mrs Michelle Khoo<br>65087-278<br>[lee_jing_wen_michelle@moe.edu.sg](mailto:lee_jing_wen_michelle@moe.edu.sg) |
 | | | |
 
-Subject Teachers
-------------------
+### Subject Teachers
 
 | Subject | Teacher |
 |---|---|
