@@ -30,3 +30,5 @@ Buangkok Station (B67601) 
 Tel: - 6508 - 7300   
 Fax: -  6875 - 4150   
 Email:  [palmview\_ps@moe.edu.sg](mailto:palmview_ps@moe.edu.sg)
+
+### INSERT GOOGLE MAP
