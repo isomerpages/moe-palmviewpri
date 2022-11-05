@@ -3,6 +3,8 @@ title: School Song
 permalink: /about-us/school-song/
 description: ""
 ---
+## SCHOOL SONG
+
 <p align="center"> Rise up Palm View let your voice be heard,
 <br>
 the siren beckons our flag unfurled.
