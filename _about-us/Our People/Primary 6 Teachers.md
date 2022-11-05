@@ -4,8 +4,9 @@ permalink: /about-us/our-people/primary-6-teachers/
 description: ""
 third_nav_title: Our People
 ---
-Form Teachers
------------------
+## PRIMARY 6 TEACHERS
+
+### Form Teachers
 
 | Class | Form Teacher | Form Teacher |
 |---|---|---|
@@ -17,8 +18,7 @@ Form Teachers
 | 6 Frank | Mdm Josephine Kee<br>65067-342<br>[kee_wan_cheng@moe.edu.sg](mailto:kee_wan_cheng@moe.edu.sg) | Ms Emellyn Lim (HOD, English)<br>65080-652<br>[lim_yee_hoon_emellyn@moe.edu.sg](mailto:lim_yee_hoon_emellyn@moe.edu.sg) |
 | | | |
 
-Subject Teachers
---------------------
+### Subject Teachers
 
 | Subject | Teacher |
 |---|---|
