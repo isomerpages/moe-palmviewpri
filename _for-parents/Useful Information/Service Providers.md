@@ -20,30 +20,34 @@ third_nav_title: Useful Information
 
 ### School Bookshop
 
-| **Company:**   | The Continental Book Centre  |
-|----------------|------------------------------|
-| **Telephone:** | 62478482                     |
-| **Fax:**       | 68441779                     |
-| **Email:**     | [admin@the-continental.com.sg](mailto:admin@the-continental.com.sg) |
+|  |  |
+|:---:|:---:|
+| **Company:** | The Continental Book Centre |
+| **Telephone:** | 62478482 |
+| **Fax:** | 68441779 |
+| **Email:** | [admin@the-continental.com.sg](mailto:admin@the-continental.com.sg) |
 
 ### School Bus Operator
 
-| **Company:**   | Arcelie Bus Service                 |
-|----------------|-------------------------------------|
-| **Telephone:** | Mr Lim (90982622) Mr Mok (82816868) |
-| **Fax:**       | N.A                                 |
-| **Email:**     | [mel_8088@yahoo.com.sg](mailto:mel_8088@yahoo.com.sg )               |
+|  |  |
+|:---:|:---:|
+| **Company:** | Arcelie Bus Service |
+| **Telephone:** | Mr Lim (90982622)<br>Mr Mok (82816868) |
+| **Fax:** | NA |
+| **Email:** | [mel_8088@yahoo.com.sg](mailto:mel_8088@yahoo.com.sg) |
 
 ### Student Care Centre
 
-| **Company:**   | Pro-Teach Education Group (Palm View) Pte Ltd |
-|----------------|-----------------------------------------------|
-| **Telephone:** | 63882125                                      |
-| **Fax:**       | 63883134                                      |
-| **Email:**     | [palmview@pro-teach.com](mailto:palmview@pro-teach.com)                        |
+|  |  |
+|:---:|:---:|
+| **Company:** | Arcelie Bus Service |
+| **Telephone:** | Mr Lim (90982622)<br>Mr Mok (82816868) |
+| **Fax:** | NA |
+| **Email:** | mel_8088@yahoo.com.sg |
 
 ### Dental Clinic
 
-| **Telephone:** | 87641250 |
+|  |  |
 |:---:|:---:|
-| **Opening Hours:** | 8am to 5.30pm, Tues and Wed (Closed on Mon, Thurs and Fri)<br><br>Prior appointment required for after-school hours consultation/treatment.<br>In the event of urgent need, parents can contact our buddy clinics at<br><br>* Yio Chu Kang Primary School: 63854154<br>* North Vista Primary School: 67538332<br>* Compassvale Primary School: 63847759 |
+| **Telephone:** | 87461250 |
+| **Opening hours:** | 8 am to 5.30 pm, Tues and Wed (Closed on Mon, Thurs and Fri)<br><br>Prior appointment required for after-school hours consultation/treatment.<br>In the event of urgent need, parents can contact our buddy clinics at<br><br>* **Yio Chu Kang Primary School:** 63854154<br>* **North Vista Primary School:** 67538332<br>* **Compassvale Primary School:** 63847759 |
