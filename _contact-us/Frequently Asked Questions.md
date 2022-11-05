@@ -31,8 +31,8 @@ You may find the contact details **[here](/for-parents/service-providers/)**.
 In line with our school’s R3ICH values of responsibility and resilience, we would like to seek your assistance to encourage your children to be responsible in packing their school bags. With the exception of medical emergencies, our school no longer entertains requests from parents/guardians to send items and pocket money to their children. We seek your understanding and cooperation in working with us on this matter.
 
 **I am attending a meeting in the school. Can I park in the school compound?**   <br>
-All the parking lots in the school are reserved for season parking. We do not have any visitors’ parking lots available. We seek your understanding to park at nearby public car parks should you require ad-hoc or short-term parking when you visit the school. Click **[here](https://palmviewpri.moe.edu.sg/for-parents/useful-information/parking-facilities-near-school)** for the nearest public parking.
+All the parking lots in the school are reserved for season parking. We do not have any visitors’ parking lots available. We seek your understanding to park at nearby public car parks should you require ad-hoc or short-term parking when you visit the school. Click **[here](/for-parents/pearking-facilities-near-school/)** for the nearest public parking.
 
 **Technical Assistance**<br>
 **Q: How do I find technical assistance for the various school digital platforms i.e. SLS, Learning portals, Student Intranet?** <br>
-A: Please contact our ICT Service Help Desk at ICT\_Service\_Request@plvps.edu.sg.
+A: Please contact our ICT Service Help Desk at [ICT\_Service\_Request@plvps.edu.sg](mailto:ICT\_Service\_Request@plvps.edu.sg).
