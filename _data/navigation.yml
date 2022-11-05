@@ -48,5 +48,5 @@ links:
         url: https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#
       - title: Useful Information
         url: /for-parents/Useful-Links/
-  - title: Contact Us
-    url: /contact-us/
+  - title: About Us
+    collection: about-us
