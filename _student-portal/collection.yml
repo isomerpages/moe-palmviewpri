@@ -1,4 +1,5 @@
 collections:
   student-portal:
     output: true
-    order: []
+    order:
+      - Student Portal.md
