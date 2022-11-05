@@ -4,8 +4,9 @@ permalink: /about-us/our-people/school-steering-committee/
 description: ""
 third_nav_title: Our People
 ---
-School Leaders
-----------------
+## SCHOOL STEERING COMMITTEE
+
+### School Leaders
 
 |  |  |  |
 |:---:|:---:|:---:|
@@ -14,8 +15,7 @@ School Leaders
 | Vice-Principal | Ms Chua Chew Hiang |[chua_chew_hiang@schools.gov.sg](mailto:chua_chew_hiang@schools.gov.sg) |
 | | | |
 
-Key Personnel
-----------------
+### Key Personnel
 
 | Designation | Name | Contact Information |
 |:---:|:---:|:---:|
@@ -39,8 +39,7 @@ Key Personnel
 |  Subject Head,<br>CCE |  Mdm Cheang Ching Ee |  65080-658<br>[cheang_ching_ee@moe.edu.sg](mailto:cheang_ching_ee@moe.edu.sg) |
 | | | | |
 
-Teacher Leaders
-------------------
+### Teacher Leaders
 
 | Designation | Name | Contact Information |
 |:---:|:---:|:---:|
