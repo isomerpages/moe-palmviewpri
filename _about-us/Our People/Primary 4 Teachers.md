@@ -4,8 +4,9 @@ permalink: /about-us/our-people/primary-4-teachers/
 description: ""
 third_nav_title: Our People
 ---
-Form Teachers
--------------
+## PRIMARY 4 TEACHERS
+
+### Form Teachers
 
 | Class | Form Teacher | Form Teacher |
 |---|---|---|
@@ -18,8 +19,7 @@ Form Teachers
 | 4 Galileo | Mrs Priscillia Chen<br>65087-274<br>[tan_yi_siu_priscillia@moe.edu.sg](mailto:tan_yi_siu_priscillia@moe.edu.sg)| Mr Theva (HOD, Student Management)<br>65083-170<br>[thevarajan_nagarajan@moe.edu.sg](mailto:thevarajan_nagarajan@moe.edu.sg)|
 | | |
 
-Subject Teachers
-------------------
+### Subject Teachers
 
 | Subject | Teacher |
 |---|---|
