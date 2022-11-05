@@ -1,0 +1,4 @@
+collections:
+  student-portal:
+    output: true
+    order: []
