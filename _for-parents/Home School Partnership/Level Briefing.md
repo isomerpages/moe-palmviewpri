@@ -8,9 +8,9 @@ third_nav_title: Home School Partnership
 
 #### P1 e-Orientation (2022)
 
+
 * [Presentation by School Leaders](/files/2022_P1 e orientation) //**PDF FILE EXCEED 5MB**
 * **[Presentation by Parent Support Group](/files/24%20Nov%2021%20P1%20Orientation_PSG%20Sharing.pdf)**
-
 
 #### Briefing by School Leaders (2022)
 
