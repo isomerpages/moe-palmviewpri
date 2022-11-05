@@ -4,8 +4,9 @@ permalink: /about-us/our-people/primary-2-teachers/
 description: ""
 third_nav_title: Our People
 ---
-Form Teachers
-------------
+## PRIMARY 2 TEACHERS
+
+### Form Teachers
 
 | Class | Form Teacher | Form Teacher |
 |---|---|---|
@@ -20,8 +21,7 @@ Form Teachers
 | 2 Keller | Mdm Fatin<br>65067-649<br>[nur_ishmah_fatin_rahim@moe.edu.sg](mailto:nur_ishmah_fatin_rahim@moe.edu.sg)| Ms Siti Norrulhudha65087-320<br>[siti_norrulhudha_sonny@moe.edu.sg](mailto:siti_norrulhudha_sonny@moe.edu.sg)|
 | | | |
 
-Subject Teachers
--------------------
+### Subject Teachers
 
 | Subject | Teacher |
 |---|---|
