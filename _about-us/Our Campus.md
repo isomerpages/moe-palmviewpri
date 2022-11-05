@@ -3,8 +3,9 @@ title: Our Campus
 permalink: /about-us/our-campus/
 description: ""
 ---
-School Facilities
------------------
+## OUR CAMPUS
+
+### School Facilities
 
 The school is a 6-storey building designed with additional infrastructural support in line with PERI for a more holistic education. Learning spaces are built-in to support broad-based and effective learning. Classrooms are designed and equipped with a rich array of learning resources to cater to a range of learning approaches. The school is equipped with the following facilities to deliver quality programmes to the students:
 
