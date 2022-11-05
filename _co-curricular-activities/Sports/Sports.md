@@ -15,5 +15,5 @@ third_nav_title: Sports
 	<br>
 	<a href="/palm-view-experience/co-curricular-activities/sports/football">Football</a>
 	<br>
-	<a href="/palm-view-experience/co-curricular-activities/sports/table-tennis">Table Tennis</a>
+	<a href="/palm-view-experience/co-curricular-activities/sports/tabletennis">Table Tennis</a>
 </p>
