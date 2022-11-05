@@ -3,6 +3,8 @@ title: School Contact Details
 permalink: /contact-us/sch-contact-details/
 description: ""
 ---
+## SCHOOL CONTACT DETAILS
+
 **School Hours :** <br>
 Monday to Friday: 7.00 a.m. to 6.00 p.m.
 
