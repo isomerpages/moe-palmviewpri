@@ -31,7 +31,7 @@ description: ""
 
 You may click **[here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education)** for more information on MOE Sexuality Education. **ERROR 404 PAGE NOT FOUND**
 
-<u>**OVERVIEW OF PALM VIEW PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2022**</u> <br>
+<u>OVERVIEW OF PALM VIEW PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2022</u> <br>
 <br>
 4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click **[here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach)** for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -43,7 +43,7 @@ b. Form Teacher Guidance Period (FTGP)
 
 c. Character and Citizenship Education (CCE)
 
-<u>**Sexuality Education**: “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package</u>
+<u>Sexuality Education: “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package</u>
 
 6. The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
 
