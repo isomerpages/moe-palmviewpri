@@ -8,14 +8,15 @@ third_nav_title: Useful Information
 
 ### School Uniform
 
-| **Company:**       | Beau Voix Uniform                                                                                                                                                 |
-|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Telephone:**     | 67436645/67447084                                                                                                                                                 |
-| **Fax:**           | 67460687                                                                                                                                                          |
-| **Email:**         | [info@beauvoix.com.sg](mailto:info@beauvoix.com.sg)                                                                                                                                              |
-| **Retail outlet:** | 2 Sims Close, Gemini@Sims #03-08, singapore 387298                                                                                                                |
-| **Opening hours:** | Monday to Fridays - 09:30a.m. to 05:30p.m. Closed on Saturday's, Sunday's and Public Holidays  School uniform is also available for sale from the school bookshop |
-| **Online Store:**  | **[www.beauvoix.com](https://beauvoix.com/)**                                                                                                                                                                |
+|  |  |
+|:---:|:---:|
+| **Company:** | Beau Voix Uniform |
+| **Telephone:** | 67436645 / 67447084 |
+| **Fax:** | 67460687 |
+| **Email:** | [info@beauvoix.com.sg](mailto:info@beauvoix.com.sg) |
+| **Retail outlet:** | 2 Sims Close, Gemini@Sims<br>#03-08, Singapore 387298 |
+| **Opening hours:** | Mondays to Fridays - 09:30a.m. to 05:30p.m。<br><br>School uniform is also available for sale from the school bookshop. |
+| **Online store:** | www.beauvoix.com |
 
 ### School Bookshop
 
