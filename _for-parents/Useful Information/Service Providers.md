@@ -31,10 +31,10 @@ third_nav_title: Useful Information
 
 |  |  |
 |:---:|:---:|
-| **Company:** | Arcelie Bus Service |
-| **Telephone:** | Mr Lim (90982622)<br>Mr Mok (82816868) |
-| **Fax:** | NA |
-| **Email:** | [mel_8088@yahoo.com.sg](mailto:mel_8088@yahoo.com.sg) |
+| **Company:** | Yellow Bus Services Pte Ltd |
+| **Name:** | Ms. Stephanie Heng |
+| **Telephone:** | 9898 8171 (5am - 8pm) |
+| **Email:** | [palmviewbus@yellowbus.com.sg](mailto:palmviewbus@yellowbus.com.sg)
 
 ### Student Care Centre
 
