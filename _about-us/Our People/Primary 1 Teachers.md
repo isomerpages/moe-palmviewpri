@@ -10,9 +10,9 @@ third_nav_title: Our People
 
 | Class | Form Teacher | Form Teacher |
 |---|---|---|
-| 1 Aristotle | Mrs Tay Yuyan (ST, Mathematics)<br>65067-642<br>[tay_yuyan@moe.edu.sg](mailto:tay_yuyan@moe.edu.sg) | Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine_quek_jiamin@moe.edu.sg](mailto:germaine_quek_jiamin@moe.edu.sg) |
-| 1 Beethoven | Mrs Tan Lirong<br>65080-669<br>[sun_lirong@moe.edu.sg](mailto:sun_lirong@moe.edu.sg) | Mrs Faye Loh / 柯老师<br>65087-264<br>[quah_pei_jun@moe.edu.sg](mailto:quah_pei_jun@moe.edu.sg) |
-| 1 Curie | Ms Joyce Lim<br>65067-641<br>[joyce_lim@moe.edu.sg](mailto:joyce_lim@moe.edu.sg) | Mdm Teo Siow Yee / 张老师 (ST, SEN)<br>65087-270<br>[teo_siow_yee@moe.edu.sg](mailto:teo_siow_yee@moe.edu.sg) |
+| 1 Aristotle | Ms Esther Quek <br>65089-453<br>[quek\_jia\_en\_esther@moe.edu.sg](mailto:quek_jia_en_esther@moe.edu.sg) | Mdm Koh Siew Bee<br>65087-261<br>[koh_siew_bee@moe.edu.sg](mailto:koh_siew_bee@moe.edu.sg) |
+| 1 Beethoven | Mrs Grace Chua<br>65089-468<br>[grace_lim_hui_leng@moe.edu.sg](mailto:sun_lirong@moe.edu.sg) | Mdm Teo Siow Yee / 张老师 (ST, SEN)<br>65087-270<br>[teo_siow_yee@moe.edu.sg](mailto:teo_siow_yee@moe.edu.sg) |
+| 1 Curie | Mrs Melanie Lau (Year Head, Lower Pri)<br>65087-322<br>[chew_mun_piau@moe.edu.sg](mailto:chew_mun_piau@moe.edu.sg) | Ms Sumitha<br>65087-323<br>[s_sumitha@moe.edu.sg](mailto:s_sumitha@moe.edu.sg) |
 | 1 Da Vinci | Mdm Siti Nurmunirah<br>65080-656<br>[siti_nurmunirah_mohd_arsad@moe.edu.sg](mailto:siti_nurmunirah_mohd_arsad@moe.edu.sg) | Mrs Gracelyn Tham (P1 Level Manager)<br>65067-648<br>[lim_ai_zhen_gracelyn@moe.edu.sg](mailto:lim_ai_zhen_gracelyn@moe.edu.sg) |
 | 1 Edison | Mdm Liza<br>65067-347<br>[siti_nur_haliza@moe.edu.sg](mailto:siti_nur_haliza@moe.edu.sg) | Mdm Jane Mah / 马老师<br>65087-267<br>[mah_zhiwei_jane@moe.edu.sg](mailto:mah_zhiwei_jane@moe.edu.sg) |
 | 1 Frank | Ms Tabigail Hung<br>65080-657<br>[hung_shao_hui_tabigail@moe.edu.sg](mailto:hung_shao_hui_tabigail@moe.edu.sg) | Mrs Joshua<br>[65087-324kiran_jacqueline_rafeek@moe.edu.sg](mailto:65087-324kiran_jacqueline_rafeek@moe.edu.sg) |
