@@ -16,10 +16,9 @@ third_nav_title: Our People
 | 1 Da Vinci | Mdm Hailwa<br>65067-641<br>[hailwa_moree@moe.edu.sg](mailto:hailwa_moree@moe.edu.sg) | Mdm Clara Koh (SH, Aesthetics)<br>65089-455<br>[lim_xiu_fang_clara@moe.edu.sg](mailto:lim_xiu_fang_clara@moe.edu.sg) |
 | 1 Edison | Ms Shannon Lim<br>65080-659<br>[lim_eu_li@moe.edu.sg](mailto:lim_eu_li@moe.edu.sg) | Mr Bryon Luo<br>65080-662<br>[luo_youde_bryon@moe.edu.sg](mailto:luo_youde_bryon@moe.edu.sg) |
 | 1 Frank | Mrs Sharon Seow (ST, Lower Pr Learners)<br>65067-644<br>[chew_sharon@moe.edu.sg](mailto:chew_sharon@moe.edu.sg) | Mr Guah Boon Heng Yue / 张老师<br>65087-314<br>[guah_boon_heng@moe.edu.sg](mailto:guah_boon_heng@moe.edu.sg) | 
-| 1 Galileo | Ms Rachel Loh<br>65067-640<br>[loh_hui_xian_rachel@moe.edu.sg](mailto:loh_hui_xian_rachel@moe.edu.sg) | Mdm Zhang Yue / 张老师<br>65087-262<br>[zhang_yue_a@moe.edu.sg](mailto:zhang_yue_a@moe.edu.sg) |
-| 1 Hillary | Mrs Serene Yue<br>65067-345<br>[wong_may_san_serene@moe.edu.sg](mailto:wong_may_san_serene@moe.edu.sg) | Mdm Li Li / 李老师<br>65087-263<br>[li_li@moe.edu.sg](mailto:li_li@moe.edu.sg) |
-| 1 Keller | Mrs Desiree Soo (School Staff Developer)<br>65080-660<br>[tan_ee_lee@moe.edu.sg](mailto:tan_ee_lee@moe.edu.sg) | Mrs Michelle Khoo<br>65087-278<br>[lee_jing_wen_michelle@moe.edu.sg](mailto:lee_jing_wen_michelle@moe.edu.sg) |
-| | | |
+| 1 Galileo | Ms Foo Shi Rui (LH, Mathematics)<br>65067-645<br>[foo_shi_rui@moe.edu.sg](mailto:foo_shi_rui@moe.edu.sg) | Mdm Lim Hwee Yeng / 林老师<br>65087-315<br>[lim_hwee_yeng@moe.edu.sg](mailto:lim_hwee_yeng@moe.edu.sg) |
+| 1 Hillary |Ms Rebecca Tan En Hui (LH, English Language)<br>65087-327<br>[tan_en_hui_rebecca@moe.edu.sg](mailto:tan_en_hui_rebecca@moe.edu.sg) | Ms Josephine Teow<br>65087-279<br>[josephine\_teow@moe.edu.sg](mailto:josephine\_teow@moe.edu.sg) |
+
 
 ### Subject Teachers
 
