@@ -2,7 +2,7 @@
 layout: homepage
 title: Palm View Primary School
 description: Official Website for Palm View Primary School
-image: /images/isomer-logo.svg
+image: /images/School Logo Background.jpg
 permalink: /
 notification: ""
 sections:
@@ -17,3 +17,4 @@ sections:
           url: /plvps/featured-news
       subtitle: Welcome to Palm View Primary School
 ---
+
