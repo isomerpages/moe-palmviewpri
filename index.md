@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Palm View Primary School
+description: Official Website for Palm View Primary School
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -33,3 +33,4 @@ sections:
       image: /images/fd0157e83_134.jpg
       alt: Inspiring Excellence
 ---
+
