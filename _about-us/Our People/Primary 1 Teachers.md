@@ -25,15 +25,26 @@ third_nav_title: Our People
 | Subject | Teacher |
 |---|---|
 | Art | Mr Fong Yan Kin (LT, Art)<br>65087-300 (ext. 126)<br>[fong_yan_kin@moe.edu.sg](mailto:fong_yan_kin@moe.edu.sg) |
-| Art | Ms May Lim (P2 Level Manager)<br>65089-459<br>[may_lim_wan_yee@moe.edu.sg](mailto:may_lim_wan_yee@moe.edu.sg) |
-| Character & Citizenship Education | Mr Guah Boon Heng / 倪老师<br>65087-314<br>[guah_boon_heng@moe.edu.sg](mailto:guah_boon_heng@moe.edu.sg) |
-| Character & Citizenship Education | Ms Kang Chao / 康老师<br>65087-269<br>[kang_chao@moe.edu.sg](mailto:kang_chao@moe.edu.sg) |
-| Character & Citizenship Education | Mdm Nabilah<br>65087-319<br>[nabilah_abdul_rahman@moe.edu.sg](mailto:nabilah_abdul_rahman@moe.edu.sg) |
-| Character & Citizenship Education | Mr Theva (HOD, Student Management)<br>65083-170<br>[thevarajan_nagarajan@moe.edu.sg](mailto:thevarajan_nagarajan@moe.edu.sg) |
-| Chinese and Character & Citizenship Education | Mr Warren Thin / 邓老师 (SH, ICT)<br>65087-268<br>[thin_dongqi@moe.edu.sg](mailto:thin_dongqi@moe.edu.sg) |
-| Chinese and Character & Citizenship Education | Mdm Wong Soo Mei / 黄老师<br>65087-271<br>[oth_wong_soo_mei@moe.edu.sg](mailto:oth_wong_soo_mei@moe.edu.sg) |
-| English and Social Studies | Ms Esther Quek<br>65089-453<br>[quek_jia_en_esther@moe.edu.sg](mailto:quek_jia_en_esther@moe.edu.sg) |
-| English and Mathematics | Mrs Sharon Seow<br>65087-328<br>[chew_sharon@moe.edu.sg](mailto:chew_sharon@moe.edu.sg) |
+| Art |Mrs Chew Yi Xin<br>65087-300 (ext. 291)<br>[tan\_yixin@moe.edu.sg](mailto:tan\_yixin@moe.edu.sg) |
+|
+| English Language | Ms Esther Quek<br>65089-453<br>[quek_jia_en_esther@moe.edu.sg](mailto:quek_jia_en_esther@moe.edu.sg) |
+| English Language | Mrs Grace Chua<br>65089-468<br>[grace\_lim\_hui\_leng@moe.edu.sg](mailto:grace\_lim\_hui\_leng@moe.edu.sg) |
+| English Language | Ms Esther Quek<br>65089-453<br>[quek_jia_en_esther@moe.edu.sg](mailto:quek_jia_en_esther@moe.edu.sg) |
+| English Language | Mrs Melanie Lau (Year Head, Lower Pri)<br>65087-322<br>[chew\_mun\_piau@moe.edu.sg](mailto:chew\_mun\_piau@moe.edu.sg) |
+| English Language | Mdm Hailwa<br>65067-641<br>[hailwa\_moree@moe.edu.sg](mailto:hailwa\_moree@moe.edu.sg) |
+| English Language | Ms Shannon Lim<br>65080-659<br>[lim\_eu\_li@moe.edu.sg](mailto:lim\_eu\_li@moe.edu.sg) |
+| English Language | Mrs Sharon Seow<br>65067-644<br>[chew\_sharon@moe.edu.sg](mailto:chew\_sharon@moe.edu.sg) |
+| English Language | Ms Rebecca Tan En Hui (LH, English Language)<br>65087-327<br>[tan\_en\_hui\_rebecca@moe.edu.sg](mailto:tan\_en\_hui\_rebecca@moe.edu.sg) |
+| English Language | Mdm Suritha<br>65080-663<br>[suritha\_banu@moe.edu.sg](mailto:suritha\_banu@moe.edu.sg) |
+| 
+| Mathematics | Ms Nurul Farha<br>65067-647<br>[nurul\_farha\_abdul\_talib@moe.edu.sg](mailto:nurul\_farha\_abdul\_talib@moe.edu.sg) |
+Mathematics | Mrs Sharon Seow<br>65087-328<br>[chew_sharon@moe.edu.sg](mailto:chew_sharon@moe.edu.sg) |
+Mathematics | Mrs Sharon Seow<br>65087-328<br>[chew_sharon@moe.edu.sg](mailto:chew_sharon@moe.edu.sg) |
+Mathematics | Mrs Sharon Seow<br>65087-328<br>[chew_sharon@moe.edu.sg](mailto:chew_sharon@moe.edu.sg) |
+Mathematics | Mrs Sharon Seow<br>65087-328<br>[chew_sharon@moe.edu.sg](mailto:chew_sharon@moe.edu.sg) |
+Mathematics | Mrs Sharon Seow<br>65087-328<br>[chew_sharon@moe.edu.sg](mailto:chew_sharon@moe.edu.sg) |
+Mathematics | Mrs Sharon Seow<br>65087-328<br>[chew_sharon@moe.edu.sg](mailto:chew_sharon@moe.edu.sg) |
+Mathematics | Mrs Sharon Seow<br>65087-328<br>[chew_sharon@moe.edu.sg](mailto:chew_sharon@moe.edu.sg) |
 | Malay  | Mr Rahman<br>65080-654<br>[abdul_rahman_omar@moe.edu.sg](mailto:abdul_rahman_omar@moe.edu.sg) |
 | Malay and Character & Citizenship Education | Mdm Noraisha<br>65087-318<br>[noraisha_ahmad@moe.edu.sg](mailto:noraisha_ahmad@moe.edu.sg) |
 | Mathematics | Mdm Fatin<br>65067-649<br>[nur_ishmah_fatin_rahim@moe.edu.sg](mailto:nur_ishmah_fatin_rahim@moe.edu.sg) |
