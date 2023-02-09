@@ -11,14 +11,14 @@ third_nav_title: Our People
 | Class | Form Teacher | Form Teacher |
 |---|---|---|
 | 2 Aristotle | Mrs Tay Yuyan (ST, Mathematics)<br>65067-642<br>[tay\_yuyan@moe.edu.sg](mailto:tay\_yuyan@moe.edu.sg)| Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg)|
-| 2 Beethoven | Mrs Tan Lirong<br>65089-468<br>[grace_lim_hui_leng@moe.edu.sg](mailto:grace_lim_hui_leng@moe.edu.sg)| Mdm Joy Tan / 陈老师<br>65087-265<br>[tan_boon_hui@moe.edu.sg](mailto:tan_boon_hui@moe.edu.sg)|
-| 2 Curie | Ms Nurul Farha<br>65067-647<br>[nurul_farha_abdul_talib@moe.edu.sg](mailto:nurul_farha_abdul_talib@moe.edu.sg)| Mrs Clara Koh<br>65089-455<br>[lim_xiu_fang_clara@moe.edu.sg](mailto:lim_xiu_fang_clara@moe.edu.sg)|
-| 2 Da Vinci | Ms Esther Quek<br>65089-453<br>[quek_jia_en_esther@moe.edu.sg](mailto:quek_jia_en_esther@moe.edu.sg)| Mrs Chew Yi Xin<br>65087-300 (ext. 291)<br>[tan_yixin@moe.edu.sg](mailto:tan_yixin@moe.edu.sg)|
-| 2 Edison | Ms Shannon Lim<br>65080-659<br>[lim_eu_li@moe.edu.sg](mailto:lim_eu_li@moe.edu.sg)| Mr Noel Chan<br>65083-173<br>[noel_chan_tze_sunn@moe.edu.sg](mailto:noel_chan_tze_sunn@moe.edu.sg)|
-| 2 Frank | Mdm Suhailah<br>65067-643<br>[suhailah_fauzi_abdat@moe.edu.sg](mailto:suhailah_fauzi_abdat@moe.edu.sg)| Mr Fong Yan Kin (LT, Art)<br>65087-300 (ext. 126)<br>[fong_yan_kin@moe.edu.sg](mailto:fong_yan_kin@moe.edu.sg)|
-| 2 Galileo | Mrs Melanie Lau (Year Head, Lower Pri)<br>65087-322<br>[chew_mun_piau@moe.edu.sg](mailto:chew_mun_piau@moe.edu.sg)| Ms Fiona Ho / 何老师<br>65087-272<br>[ho_kok_luei@moe.edu.sg](mailto:ho_kok_luei@moe.edu.sg)|
-| 2 Hillary | Mrs Ruoen Cheong<br>65067-348<br>[wong_ai_lynn_ruoen@moe.edu.sg](mailto:wong_ai_lynn_ruoen@moe.edu.sg)| Ms Josephine Teow<br>65087-279<br>[josephine_teow@moe.edu.sg](mailto:josephine_teow@moe.edu.sg)|
-| 2 Keller | Mdm Fatin<br>65067-649<br>[nur_ishmah_fatin_rahim@moe.edu.sg](mailto:nur_ishmah_fatin_rahim@moe.edu.sg)| Ms Siti Norrulhudha65087-320<br>[siti_norrulhudha_sonny@moe.edu.sg](mailto:siti_norrulhudha_sonny@moe.edu.sg)|
+| 2 Beethoven | Mrs Tan Lirong<br>65080-669<br>[sun\_lirong@moe.edu.sg](mailto:sun\_lirong@moe.edu.sg)| Mrs Faye Loh / 柯老师<br>65087-264<br>[quah\_pei\_jun@moe.edu.sg](mailto:quah\_pei\_jun@moe.edu.sg)|
+| 2 Curie | Mdm Cheang Ching Ee (SH, CCE)<br>665080-658<br>[cheang\_ching\_ee@moe.edu.sg](mailto:cheang\_ching\_ee@moe.edu.sg)|Mdm Nabilah<br>65087-319<br>[nabilah\_abdul\_rahman@moe.edu.sg](mailto:nabilah\_abdul\_rahman@moe.edu.sg)|
+| 2 Da Vinci | Mdm Siti Nurmunirah<br>65080-656<br>[siti\_nurmunirah\_mohd\_arsad@moe.edu.sg](mailto:siti\_nurmunirah\_mohd\_arsad@moe.edu.sg)| Mrs Gracelyn Tham<br>65067-648<br>[lim\_ai\_zhen\_gracelyn@moe.edu.sg](mailto:lim\_ai\_zhen\_gracelyn@moe.edu.sg)|
+| 2 Edison |Mdm Siti Nur Haliza<br>65067-347<br>[siti\_nur\_haliza@moe.edu.sg](mailto:siti\_nur\_haliza@moe.edu.sg)| Mdm Jane Mah / 马老师<br>65087-267<br>[mah\_zhiwei\_jane@moe.edu.sg](mailto:mah\_zhiwei\_jane@moe.edu.sg)|
+| 2 Frank |Ms Tabigail Hung<br>65080-657<br>[hung\_shao\_hui\_tabigail@moe.edu.sg](mailto:hung\_shao\_hui\_tabigail@moe.edu.sg)| Mr Noel Chan<br>65083-173<br>[noel\_chan\_tze\_sunn@moe.edu.sg](mailto:noel\_chan\_tze\_sunn@moe.edu.sg)|
+| 2 Galileo | Ms Rachel Loh)<br>65067-640<br>[loh\_hui\_xian\_rachel@moe.edu.sg](mailto:loh\_hui\_xian\_rachel@moe.edu.sg)| Mdm Zhang Yue / 张老师<br>65087-262<br>[zhang\_yue\_a@moe.edu.sg](mailto:zhang\_yue\_a@moe.edu.sg)|
+| 2 Hillary | Mrs Serene Yue<br>65067-345<br>[wong\_may\_san\_serene@moe.edu.sg](mailto:wong\_may\_san\_serene@moe.edu.sg)| Mdm Cheong Lee Chin / 张老师 (ST, Chinese)<br>65087-260<br>[cheong\_lee\_chin@moe.edu.sg](mailto:cheong\_lee\_chin@moe.edu.sg)|
+| 2 Keller | Mdm Radiah<br>65067-341<br>[radiah\_rahmat@moe.edu.sg](mailto:radiah\_rahmat@moe.edu.sg)| Mrs Michelle Khoo (SH, Physical Education & CCA)<br>65087-278<br>[lee\_jing\_wen\_michelle@moe.edu.sg](mailto:lee\_jing\_wen\_michelle@moe.edu.sg)|
 | | | |
 
 ### Subject Teachers
