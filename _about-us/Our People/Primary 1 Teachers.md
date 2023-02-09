@@ -53,19 +53,31 @@ Chinese Language  | Mr Warren Thin / 邓老师 (SH, ICT))<br>65087-268<br>[thin\
 Chinese Language  | Mdm Li Li / 李老师)<br>665087-263<br>[li\_li@moe.edu.sg](mailto:li\_li@moe.edu.sg) |
 Chinese Language  | Mdm Koh Siew Bee<br>65087-261<br>[koh\_siew\_bee@moe.edu.sg](mailto:koh\_siew\_bee@moe.edu.sg) |
 |
-| Malay and Character & Citizenship Education | Mdm Noraisha<br>65087-318<br>[noraisha_ahmad@moe.edu.sg](mailto:noraisha_ahmad@moe.edu.sg) |
-| Mathematics | Mdm Fatin<br>65067-649<br>[nur_ishmah_fatin_rahim@moe.edu.sg](mailto:nur_ishmah_fatin_rahim@moe.edu.sg) |
-| Mathematics | Mdm Teo Soke Wai<br>65087-274<br>[teo_soke_wai@moe.edu.sg](mailto:teo_soke_wai@moe.edu.sg) |
-| Mathematics | Mdm Ho Sze Yin<br>65067-646<br>[ho_sze_yin@moe.edu.sg](mailto:ho_sze_yin@moe.edu.sg) |
-| Mathematics and PAL | Mdm Radiah<br>65067-341<br>[radiah_rahmat@moe.edu.sg](mailto:radiah_rahmat@moe.edu.sg) |
-| Mathematics  | Mdm Suritha<br>65080-663<br>[suritha_banu_mohamed_shah@moe.edu.sg](mailto:suritha_banu_mohamed_shah@moe.edu.sg) |
-| Music | Mr Bryon Luo<br>65080-662<br>[luo_youde_bryon@moe.edu.sg](mailto:luo_youde_bryon@moe.edu.sg) |
-| Music | Mrs Clara Koh<br>65089-455<br>[lim_xiu_fang_clara@moe.edu.sg](mailto:lim_xiu_fang_clara@moe.edu.sg) |
-| PAL | Mr Bakri<br>65087-300 (ext. 653)<br>[ahmad_bakri_marfi@moe.edu.sg](mailto:ahmad_bakri_marfi@moe.edu.sg) |
-| PAL | Mr Noel Chan<br>65083-173<br>[noel_chan_tze_sunn@moe.edu.sg](mailto:noel_chan_tze_sunn@moe.edu.sg) |
-| PAL | Mrs Saj<br>65089-454<br>[vanisree_sajjan@moe.edu.sg](mailto:vanisree_sajjan@moe.edu.sg) |
-| PAL | Mr Zack<br>65080-664<br>[subramaniyan_senthil@moe.edu.sg](mailto:subramaniyan_senthil@moe.edu.sg) |
-| Physical Education and Health Education | Ms Nazurah<br>65087-275<br>[nazurah_syazana_nordin@moe.edu.sg](mailto:nazurah_syazana_nordin@moe.edu.sg) |
-| Physical Education and Health Education | Ms Josephine Teow<br>[65087-279josephine_teow@moe.edu.sg](mailto:65087-279josephine_teow@moe.edu.sg) |
-| Social Studies | Ms Grace Chua<br>65089-468<br>[grace_lim_hui_leng@moe.edu.sg](mailto:grace_lim_hui_leng@moe.edu.sg) |
-| | |
+| Malay Language | Mdm Noorashikin<br>65087-320<br>[noorashikin\_zainuldin@moe.edu.sg](mailto:noorashikin\_zainuldin@moe.edu.sg) |
+Malay Language | Ms Nurbayah<br>65087-300 (ext. 651)<br>[nurbayah\_ismail@moe.edu.sg](mailto:nurbayah\_ismail@moe.edu.sg)
+|
+| Tamil Language |Ms Sumitha<br>65087-323<br>[s\_sumitha@moe.edu.sg](mailto:s\_sumitha@moe.edu.sg) |
+|
+| Social Studies | Mrs Grace Chua<br>65089-468<br>[grace\_lim\_hui\_leng@moe.edu.sg](mailto:grace\_lim\_hui\_leng@moe.edu.sg) |
+Social Studies | Mdm Radiah<br>65067-341<br>[radiah\_rahmat@moe.edu.sg](mailto:radiah\_rahmat@moe.edu.sg)
+Social Studies | Ms Shannon Lim<br>65080-659<br>[lim\_eu\_li@moe.edu.sg](mailto:lim\_eu\_li@moe.edu.sg)
+Social Studies | Mrs Sharon Seow<br>65087-328<br>[chew\_sharon@moe.edu.sg](mailto:chew\_sharon@moe.edu.sg)
+Social Studies | Ms Rebecca Tan En Hui (LH, English Language)<br>65087-327<br>[tan\_en\_hui\_rebecca@moe.edu.sg](mailto:tan\_en\_hui\_rebecca@moe.edu.sg)
+|
+| Music | Mdm Clara Koh (SH, Aesthetics)<br>65089-455<br>[lim\_xiu\_fang\_clara@moe.edu.sg](mailto:lim\_xiu\_fang\_clara@moe.edu.sg) |
+Music |Mr Bryon Luo<br>65080-662<br>[luo\_youde\_bryon@moe.edu.sg](mailto:luo\_youde\_bryon@moe.edu.sg) 
+|
+| Physical Education & Health Education | Mrs Michelle Khoo (SH, Physical Education & CCA)<br>65087-278<br>[lee\_jing\_wen\_michelle@moe.edu.sg](mailto:lee\_jing\_wen\_michelle@moe.edu.sg) |
+Physical Education & Health Education | Ms Josephine Teow<br>65087-279<br>[josephine\_teow@moe.edu.sg](mailto:josephine\_teow@moe.edu.sg)
+Physical Education & Health Education | Mrs Michelle Khoo (SH, Physical Education & CCA)<br>65087-278<br>[lee\_jing\_wen\_michelle@moe.edu.sg](mailto:lee\_jing\_wen\_michelle@moe.edu.sg)
+Physical Education & Health Education | Ms Nazurah<br>65087-275<br>[nazurah\_syazana\_nordin@moe.edu.sg](mailto:nazurah\_syazana\_nordin@moe.edu.sg)
+Physical Education & Health Education | Mr Bakri<br>65087-300 (ext. 653)<br>[ahmad\_bakri\_marfi@moe.edu.sg](mailto:ahmad\_bakri\_marfi@moe.edu.sg)
+|
+| PAL  | Ms Nurul Farha<br>65067-647<br>[nurul\_farha\_abdul\_talib@moe.edu.sg](mailto:nurul\_farha\_abdul\_talib@moe.edu.sg) |
+PAL  |Mrs Grace Chua<br>65089-468<br>[grace\_lim\_hui\_leng@moe.edu.sg](mailto:grace\_lim\_hui\_leng@moe.edu.sg)
+PAL  | Mr Bryon Luo<br>65080-662<br>[luo\_youde\_bryon@moe.edu.sg](mailto:luo\_youde\_bryon@moe.edu.sg)
+PAL  |Mdm Hailwa<br>65067-641<br>[hailwa\_moree@moe.edu.sg](mailto:hailwa\_moree@moe.edu.sg)
+PAL  | Ms Shannon Lim<br>65080-659<br>[lim\_eu\_li@moe.edu.sg](mailto:lim\_eu\_li@moe.edu.sg)
+PAL  | Mrs Sharon Seow<br>65067-644<br>[chew\_sharon@moe.edu.sg](mailto:chew\_sharon@moe.edu.sg)
+PAL  | Ms Foo Shi Rui (LH, Mathematics)<br>65067-645<br>[foo\_shi\_rui@moe.edu.sg](mailto:foo\_shi\_rui@moe.edu.sg)
+PAL  | Ms Rebecca Tan En Hui (LH, English Language)<br>65087-327<br>[tan\_en\_hui\_rebecca@moe.edu.sg](mailto:tan\_en\_hui\_rebecca@moe.edu.sg)
