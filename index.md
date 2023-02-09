@@ -15,6 +15,6 @@ sections:
         - title: Featured News
           description: ""
           url: /plvps/featured-news
-      title: Palm View Primary School
-      subtitle: Inspiring Excellence
+      title: Inspiring Excellence
+      subtitle: Palm View Primary School
 ---
