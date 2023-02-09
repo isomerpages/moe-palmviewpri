@@ -10,8 +10,8 @@ third_nav_title: Our People
 
 | Class | Form Teacher | Form Teacher |
 |---|---|---|
-| 2 Aristotle | Mdm Rebecca Tan (LH, English)<br>65087-327<br>[tan_en_hui_rebecca@moe.edu.sg](mailto:tan_en_hui_rebecca@moe.edu.sg)| Ms May Lim (P2 Level Manager)<br>65089-459<br>[may_lim_wan_yee@moe.edu.sg](mailto:may_lim_wan_yee@moe.edu.sg)|
-| 2 Beethoven | Mrs Grace Chua<br>65089-468<br>[grace_lim_hui_leng@moe.edu.sg](mailto:grace_lim_hui_leng@moe.edu.sg)| Mdm Joy Tan / 陈老师<br>65087-265<br>[tan_boon_hui@moe.edu.sg](mailto:tan_boon_hui@moe.edu.sg)|
+| 2 Aristotle | Mrs Tay Yuyan (ST, Mathematics)<br>65067-642<br>[tay\_yuyan@moe.edu.sg](mailto:tay\_yuyan@moe.edu.sg)| Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg)|
+| 2 Beethoven | Mrs Tan Lirong<br>65089-468<br>[grace_lim_hui_leng@moe.edu.sg](mailto:grace_lim_hui_leng@moe.edu.sg)| Mdm Joy Tan / 陈老师<br>65087-265<br>[tan_boon_hui@moe.edu.sg](mailto:tan_boon_hui@moe.edu.sg)|
 | 2 Curie | Ms Nurul Farha<br>65067-647<br>[nurul_farha_abdul_talib@moe.edu.sg](mailto:nurul_farha_abdul_talib@moe.edu.sg)| Mrs Clara Koh<br>65089-455<br>[lim_xiu_fang_clara@moe.edu.sg](mailto:lim_xiu_fang_clara@moe.edu.sg)|
 | 2 Da Vinci | Ms Esther Quek<br>65089-453<br>[quek_jia_en_esther@moe.edu.sg](mailto:quek_jia_en_esther@moe.edu.sg)| Mrs Chew Yi Xin<br>65087-300 (ext. 291)<br>[tan_yixin@moe.edu.sg](mailto:tan_yixin@moe.edu.sg)|
 | 2 Edison | Ms Shannon Lim<br>65080-659<br>[lim_eu_li@moe.edu.sg](mailto:lim_eu_li@moe.edu.sg)| Mr Noel Chan<br>65083-173<br>[noel_chan_tze_sunn@moe.edu.sg](mailto:noel_chan_tze_sunn@moe.edu.sg)|
