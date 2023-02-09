@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/956a732dd_130.jpg
+      background: /images/web banner (1280x580)72dpi.png
       key_highlights:
         - title: Palm View Connection
           description: ""
@@ -15,6 +15,4 @@ sections:
         - title: Featured News
           description: ""
           url: /plvps/featured-news
-      subtitle: Welcome to Palm View Primary School
 ---
-
