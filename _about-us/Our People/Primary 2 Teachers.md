@@ -47,7 +47,14 @@ English Language | Mdm Radiah<br>65067-341<br>[radiah\_rahmat@moe.edu.sg](mailto
  Mathematics |Mdm Kumutha<br>65089-458<br>[kumutha\_jayandran@moe.edu.sg](mailto:kumutha\_jayandran@moe.edu.sg) |
  Mathematics | Mdm Radiah<br>65067-341<br>[radiah\_rahmat@moe.edu.sg](mailto:radiah\_rahmat@moe.edu.sg) |
 |
-| Chinese and Character & Citizenship Education | Ms Laura Ng/ 黄老师<br>65087-261<br>[oth-ng_wee_hoong_laura@moe.edu.sg](mailto:oth-ng_wee_hoong_laura@moe.edu.sg) |
+| Chinese Language | Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg) |
+Chinese Language | Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg) |
+Chinese Language | Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg) |
+Chinese Language | Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg) |
+Chinese Language | Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg) |
+Chinese Language | Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg) |
+Chinese Language | Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg) |
+Chinese Language | Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg) |
 | Chinese and Character & Citizenship Education | Ms Lee Loo Yee /李老师<br>65087-273<br>[lee_loo_yee_a@moe.edu.sg](mailto:lee_loo_yee_a@moe.edu.sg) |
 | Chinese and Character & Citizenship Education | Mdm Lim Hwee Yeng/ 林老师<br>65087-315<br>[lim_hwee_yeng@moe.edu.sg](mailto:lim_hwee_yeng@moe.edu.sg) |
 | Chinese and Character & Citizenship Education | Mdm Poh Wee Hoon/ 傅老师<br>65089-451<br>[poh_wee_hoon@moe.edu.sg](mailto:poh_wee_hoon@moe.edu.sg) |
