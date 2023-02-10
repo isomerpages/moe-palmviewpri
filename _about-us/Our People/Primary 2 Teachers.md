@@ -48,20 +48,25 @@ English Language | Mdm Radiah<br>65067-341<br>[radiah\_rahmat@moe.edu.sg](mailto
  Mathematics | Mdm Radiah<br>65067-341<br>[radiah\_rahmat@moe.edu.sg](mailto:radiah\_rahmat@moe.edu.sg) |
 |
 | Chinese Language | Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg) |
-Chinese Language | Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg) |
-Chinese Language | Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg) |
-Chinese Language | Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg) |
-Chinese Language | Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg) |
-Chinese Language | Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg) |
-Chinese Language | Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg) |
-Chinese Language | Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg) |
-| Chinese and Character & Citizenship Education | Ms Lee Loo Yee /李老师<br>65087-273<br>[lee_loo_yee_a@moe.edu.sg](mailto:lee_loo_yee_a@moe.edu.sg) |
-| Chinese and Character & Citizenship Education | Mdm Lim Hwee Yeng/ 林老师<br>65087-315<br>[lim_hwee_yeng@moe.edu.sg](mailto:lim_hwee_yeng@moe.edu.sg) |
-| Chinese and Character & Citizenship Education | Mdm Poh Wee Hoon/ 傅老师<br>65089-451<br>[poh_wee_hoon@moe.edu.sg](mailto:poh_wee_hoon@moe.edu.sg) |
-| Chinese and Character & Citizenship Education | Mdm Yeung Yuk/ 杨老师<br>65087-300 (ext. 242)<br>[oth_yeung_yuk@moe.edu.sg](mailto:oth_yeung_yuk@moe.edu.sg) |
-| English | Mrs Serene Yue<br>65067-345<br>[wong_may_san_serene@moe.edu.sg](mailto:wong_may_san_serene@moe.edu.sg) |
-| English  | Ms Tabigail Hung<br>65080-657<br>[hung_shao_hui_tabigail@moe.edu.sg](mailto:hung_shao_hui_tabigail@moe.edu.sg) |
-| Malay and Character & Citizenship Education | Mdm Rose<br>65087-300 (ext. 651)<br>[rose_binty_salleh@moe.edu.sg](mailto:rose_binty_salleh@moe.edu.sg) |
+Chinese Language |Mdm Ng Lay Hwa<br>65087-271<br>[ng\_lay\_hwa\_a@moe.edu.sg](mailto:ng\_lay\_hwa\_a@moe.edu.sg) |
+Chinese Language | Mrs Faye Loh / 柯老师<br>65087-264<br>[quah\_pei\_jun@moe.edu.sg](mailto:quah\_pei\_jun@moe.edu.sg) |
+Chinese Language | Ms Kang Chao / 康老师<br>65087-269<br>[kang\_chao@moe.edu.sg](mailto:kang\_chao@moe.edu.sg) |
+Chinese Language | Mdm Cheong Lee Chin / 张老师 (ST, Chinese)<br>65087-260<br>[cheong\_lee\_chin@moe.edu.sg](mailto:cheong\_lee\_chin@moe.edu.sg) |
+Chinese Language |Mdm Jane Mah / 马老师<br>65087-267<br>[mah\_zhiwei\_jane@moe.edu.sg](mailto:mah\_zhiwei\_jane@moe.edu.sg) |
+Chinese Language | Mdm Zhang Yue / 张老师<br>65087-262<br>[zhang\_yue\_a@moe.edu.sg](mailto:zhang\_yue\_a@moe.edu.sg) |
+|
+|Malay Language | Mdm Noraisha<br>65087-318<br>[noraisha\_ahmad@moe.edu.sg](mailto:noraisha\_ahmad@moe.edu.sg) |
+| Malay Language  | Mdm Nabilah<br>65087-319<br>[nabilah\_abdul\_rahman@moe.edu.sg](mailto:nabilah\_abdul\_rahman@moe.edu.sg) 
+|
+| Social Studies | Ms Nur Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@moe.edu.sg](mailto:nur\_hidayah\_mohshin@moe.edu.sg) |
+Social Studies | Mrs Saj<br>65089-454<br>[vanisree\_sajjan@moe.edu.sg](mailto:vanisree\_sajjan@moe.edu.sg)
+Social Studies | Mrs Joshua<br>65087-324<br>[kiran\_jacqueline\_rafeek@moe.edu.sg](mailto:kiran\_jacqueline\_rafeek@moe.edu.sg)
+Social Studies | Mrs Gracelyn Tham<br>65067-648<br>[im\_ai\_zhen\_gracelyn@moe.edu.sg](mailto:im\_ai\_zhen\_gracelyn@moe.edu.sg)
+Social Studies | Mdm Fatin<br>65067-649<br>[nur\_ishmah\_fatin\_rahim@moe.edu.sg](mailto:nur\_ishmah\_fatin\_rahim@moe.edu.sg)
+Social Studies | Ms Tabigail Hung<br>65080-657<br>[hung\_shao\_hui\_tabigail@moe.edu.sg](mailto:hung\_shao\_hui\_tabigail@moe.edu.sg)
+Social Studies | Ms Rachel Loh<br>65067-640<br>[loh\_hui\_xian\_rachel@moe.edu.sg](mailto:loh\_hui\_xian\_rachel@moe.edu.sg)
+Social Studies | Mrs Serene Yue<br>65067-345<br>[wong\_may\_san\_serene@moe.edu.sg](mailto:nur\_hidayah\_mohshin@moe.edu.sg)
+Social Studies |Mdm Radiah<br>65067-341<br>[radiah\_rahmat@moe.edu.sg](mailto:radiah\_rahmat@moe.edu.sg)
 | Mathematics | Mdm Ho Sze Yin<br>65087-646<br>[ho_sze_yin@moe.edu.sg](mailto:ho_sze_yin@moe.edu.sg) |
 | Mathematics and Social Studies | Mrs Gracelyn Tham<br>65067-648<br>[lim_ai_zhen_gracelyn@moe.edu.sg](mailto:lim_ai_zhen_gracelyn@moe.edu.sg) |
 | Mathematics | Mdm Suritha<br>65080-663<br>[suritha_banu_mohamed_shah@moe.edu.sg](mailto:suritha_banu_mohamed_shah@moe.edu.sg) |
