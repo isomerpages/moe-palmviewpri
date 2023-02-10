@@ -36,7 +36,17 @@ English Language | Ms Tabigail Hung<br>65080-657<br>[hung\_shao\_hui\_tabigail@m
 English Language | Ms Rachel Loh<br>65067-640<br>[loh\_hui\_xian\_rachel@moe.edu.sg](mailto:loh\_hui\_xian\_rachel@moe.edu.sg)
 English Language | Mrs Serene Yue<br>65067-345<br>[wong\_may\_san\_serene@moe.edu.sg](mailto:wong\_may\_san\_serene@moe.edu.sg)
 English Language | Mdm Radiah<br>65067-341<br>[radiah\_rahmat@moe.edu.sg](mailto:radiah\_rahmat@moe.edu.sg)
-| Chinese and Character & Citizenship Education | Ms Chen Jiaying / 陈老师<br>65089-450<br>[chen_jiaying@moe.edu.sg](mailto:chen_jiaying@moe.edu.sg) |
+|
+| Mathematics | Mrs Tay Yuyan (ST, Mathematics)<br>65067-642<br>[tay\_yuyan@moe.edu.sg](mailto:tay\_yuyan@moe.edu.sg) |
+ Mathematics | Mrs Saj<br>65089-454<br>[vanisree\_sajjan@moe.edu.sg](mailto:vanisree\_sajjan@moe.edu.sg) |
+  Mathematics | Mdm Cheang Ching Ee (SH, CCE)<br>65080-658<br>[cheang\_ching\_ee@moe.edu.sg](mailto:cheang\_ching\_ee@moe.edu.sg) |
+ Mathematics | Mrs Gracelyn Tham<br>65067-648<br>[lim\_ai\_zhen\_gracelyn@moe.edu.sg](mailto:lim\_ai\_zhen\_gracelyn@moe.edu.sg) |
+  Mathematics | Mdm Siti Nur Haliza<br>65067-347<br>[siti\_nur\_haliza@moe.edu.sg](mailto:siti\_nur\_haliza@moe.edu.sg) |
+ Mathematics | Mdm Suritha<br>65080-663<br>[suritha\_banu@moe.edu.sg](mailto:suritha\_banu@moe.edu.sg) |
+  Mathematics | Mrs Joshua<br>65087-324<br>[kiran\_jacqueline\_rafeek@moe.edu.sg](mailto:kiran\_jacqueline\_rafeek@moe.edu.sg) |
+ Mathematics |Mdm Kumutha<br>65089-458<br>[kumutha\_jayandran@moe.edu.sg](mailto:kumutha\_jayandran@moe.edu.sg) |
+ Mathematics | Mdm Radiah<br>65067-341<br>[radiah\_rahmat@moe.edu.sg](mailto:radiah\_rahmat@moe.edu.sg) |
+|
 | Chinese and Character & Citizenship Education | Ms Laura Ng/ 黄老师<br>65087-261<br>[oth-ng_wee_hoong_laura@moe.edu.sg](mailto:oth-ng_wee_hoong_laura@moe.edu.sg) |
 | Chinese and Character & Citizenship Education | Ms Lee Loo Yee /李老师<br>65087-273<br>[lee_loo_yee_a@moe.edu.sg](mailto:lee_loo_yee_a@moe.edu.sg) |
 | Chinese and Character & Citizenship Education | Mdm Lim Hwee Yeng/ 林老师<br>65087-315<br>[lim_hwee_yeng@moe.edu.sg](mailto:lim_hwee_yeng@moe.edu.sg) |
