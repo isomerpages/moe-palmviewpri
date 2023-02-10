@@ -65,11 +65,10 @@ Chinese Language| Ms Lee Loo Yee / 李老师<br>665087-273<br>[lee\_loo\_yee\_a@
  Social Studies | Mrs Serene Yue<br>65067-345<br>[wong\_may\_san\_serene@moe.edu.sg](mailto:wong\_may\_san\_serene@moe.edu.sg)|
  Social Studies | Ms Rachel Loh<br>65067-640<br>[loh\_hui\_xian\_rachel@moe.edu.sg](mailto:loh\_hui\_xian\_rachel@moe.edu.sg)|
 |
-| Music | Ms Valerie Koh<br>65087-277<br>[valerie_koh_sock_hwee@moe.edu.sg](mailto:valerie_koh_sock_hwee@moe.edu.sg)|
+| Music | Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca\_lau\_yuen\_sun@moe.edu.sg](mailto:rebecca\_lau\_yuen\_sun@moe.edu.sg)|
+Music | Mdm Clara Koh (SH, Aesthetics)<br>65089-455<br>[lim\_xiu\_fang\_clara@moe.edu.sg](mailto:lim\_xiu\_fang\_clara@moe.edu.sg)|
+Music | Mr Bryon Luo<br>65080-662<br>[luo\_youde\_bryon@moe.edu.sg](mailto:luo\_youde\_bryon@moe.edu.sg)|
+|
 | Physical Education and Health Education | Mr Bakri<br>65087-300 (ext. 293)<br>[ahmad_bakri_marfi@moe.edu.sg](mailto:ahmad_bakri_marfi@moe.edu.sg)|
 | Physical Education and Health Education | Ms Nazurah<br>65087-275<br>[nazurah_syazana_nordin@moe.edu.sg](mailto:nazurah_syazana_nordin@moe.edu.sg)|
-| Science | Mrs Tan Lirong<br>65080-669<br>[sun_lirong@moe.edu.sg](mailto:sun_lirong@moe.edu.sg)|
-| Science and Social Studies | Mdm Teo Soke Wai<br>65087-274<br>[teo_soke_wai@moe.edu.sg](mailto:teo_soke_wai@moe.edu.sg)|
-| Social Studies | Mdm Kumutha<br>65089-458<br>[kumutha_a@moe.edu.sg](mailto:kumutha_a@moe.edu.sg)|
-| Social Studies | Ms Rachel Loh<br>65067-640<br>[loh_hui_xian_rachel@moe.edu.sg](mailto:loh_hui_xian_rachel@moe.edu.sg)|
-| Social Studies | Mrs Ruoen Cheong<br>65067-348<br>[wong_ai_lynn_ruoen@moe.edu.sg](mailto:wong_ai_lynn_ruoen@moe.edu.sg)|
+| Physical Education and Health Education | Mr Noel Chan<br>65083-173<br>[noel\_chan\_tze\_sunn@moe.edu.sg](mailto:noel\_chan\_tze\_sunn@moe.edu.sg)|
