@@ -25,8 +25,17 @@ third_nav_title: Our People
 
 | Subject | Teacher |
 |---|---|
-| Character & Citizenship Education | Mr Theva (HOD, Student Management)<br>65083-170<br>[thevarajan_nagarajan@moe.edu.sg](mailto:thevarajan_nagarajan@moe.edu.sg) |
-| Character & Citizenship Education | Mr Farris<br>65087-317<br>[mohammad_farris_salleh@moe.edu.sg](mailto:mohammad_farris_salleh@moe.edu.sg) |
+| Art | Mrs Chew Yi Xin<br>65087-300 (ext. 291)<br>[tan\_yixin@moe.edu.sg](mailto:tan\_yixin@moe.edu.sg) |
+|
+| English Language | Ms Nur Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@moe.edu.sg](mailto:nur\_hidayah\_mohshin@moe.edu.sg) |
+English Language | Mrs Tan Lirong<br>65080-669<br>[sun\_lirong@moe.edu.sg](mailto:sun\_lirong@moe.edu.sg)
+English Language | Ms Nur Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@moe.edu.sg](mailto:nur\_hidayah\_mohshin@moe.edu.sg)
+English Language | Ms Nur Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@moe.edu.sg](mailto:nur\_hidayah\_mohshin@moe.edu.sg)
+English Language | Ms Nur Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@moe.edu.sg](mailto:nur\_hidayah\_mohshin@moe.edu.sg)
+English Language | Ms Nur Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@moe.edu.sg](mailto:nur\_hidayah\_mohshin@moe.edu.sg)
+English Language | Ms Nur Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@moe.edu.sg](mailto:nur\_hidayah\_mohshin@moe.edu.sg)
+English Language | Ms Nur Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@moe.edu.sg](mailto:nur\_hidayah\_mohshin@moe.edu.sg)
+English Language | Ms Nur Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@moe.edu.sg](mailto:nur\_hidayah\_mohshin@moe.edu.sg)
 | Chinese and Character & Citizenship Education | Ms Chen Jiaying / 陈老师<br>65089-450<br>[chen_jiaying@moe.edu.sg](mailto:chen_jiaying@moe.edu.sg) |
 | Chinese and Character & Citizenship Education | Ms Laura Ng/ 黄老师<br>65087-261<br>[oth-ng_wee_hoong_laura@moe.edu.sg](mailto:oth-ng_wee_hoong_laura@moe.edu.sg) |
 | Chinese and Character & Citizenship Education | Ms Lee Loo Yee /李老师<br>65087-273<br>[lee_loo_yee_a@moe.edu.sg](mailto:lee_loo_yee_a@moe.edu.sg) |
