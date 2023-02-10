@@ -24,8 +24,15 @@ third_nav_title: Our People
 |---|---|
 | Art | Mr Fong Yan Kin (LT, Art)<br>65087-300 (ext. 126)<br>[fong_yan_kin@moe.edu.sg](mailto:fong_yan_kin@moe.edu.sg)|
 | Art | Mr Matthias Seet<br>65080-661<br>[seet_qin_fong@moe.edu.sg](mailto:seet_qin_fong@moe.edu.sg)|
-| Art | Ms May Lim<br>65089-459<br>[may_lim_wan_yee@moe.edu.sg](mailto:may_lim_wan_yee@moe.edu.sg)|
-| Character & Citizenship Education | Mdm Noraisha<br>65087-318<br>[noraisha_ahmad@moe.edu.sg](mailto:noraisha_ahmad@moe.edu.sg)|
+|
+| English Language | Ms Serene Yap Hui Yun<br>65067-646<br>[yap\_hui\_yun\_serene@moe.edu.sg](mailto:yap\_hui\_yun\_serene@moe.edu.sg)|
+English Language | Ms Tabigail Hung<br>65080-657<br>[hung\_shao\_hui\_tabigail@moe.edu.sg](mailto:hung\_shao\_hui\_tabigail@moe.edu.sg)|
+English Language | Ms Serene Yap Hui Yun<br>65067-646<br>[yap\_hui\_yun\_serene@moe.edu.sg](mailto:yap\_hui\_yun\_serene@moe.edu.sg)|
+English Language | Ms Serene Yap Hui Yun<br>65067-646<br>[yap\_hui\_yun\_serene@moe.edu.sg](mailto:yap\_hui\_yun\_serene@moe.edu.sg)|
+English Language | Ms Serene Yap Hui Yun<br>65067-646<br>[yap\_hui\_yun\_serene@moe.edu.sg](mailto:yap\_hui\_yun\_serene@moe.edu.sg)|
+English Language | Ms Serene Yap Hui Yun<br>65067-646<br>[yap\_hui\_yun\_serene@moe.edu.sg](mailto:yap\_hui\_yun\_serene@moe.edu.sg)|
+English Language | Ms Serene Yap Hui Yun<br>65067-646<br>[yap\_hui\_yun\_serene@moe.edu.sg](mailto:yap\_hui\_yun\_serene@moe.edu.sg)|
+English Language | Ms Serene Yap Hui Yun<br>65067-646<br>[yap\_hui\_yun\_serene@moe.edu.sg](mailto:yap\_hui\_yun\_serene@moe.edu.sg)|
 | Character & Citizenship Education | Mdm Joy Tan / 陈老师 <br>65087-265<br>[tan_boon_hui@moe.edu.sg](mailto:tan_boon_hui@moe.edu.sg)|
 | Chinese and Character & Citizenship Education | Mr Guah Boon Heng / 倪老师<br>65087-314<br>[guah_boon_heng@moe.edu.sg](mailto:guah_boon_heng@moe.edu.sg)|
 | Chinese and Character & Citizenship Education | Ms Kang Chao / 康老师<br>65087-269<br>[kang_chao@moe.edu.sg](mailto:kang_chao@moe.edu.sg)|
