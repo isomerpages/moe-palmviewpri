@@ -10,12 +10,13 @@ third_nav_title: Our People
 
 | Class | Form Teacher | Form Teacher |
 |---|---|---|
-| 3 Aristotle | Ms Nurul Ain (ST, English)<br>65087-328<br>[nurul\_ain\_mohamad\_ibrahim@moe.edu.sg](mailto:nurul_ain_mohamad_ibrahim@moe.edu.sg) | Mdm Esther Tay (LH, Science)<br>65087-274<br>[tay\_wei\_jing@moe.edu.sg](mailto:tay_wei_jing@moe.edu.sg) |
-| 3 Beethoven | Ms Nur Asyikin65067-343<br>[nur\_asyikin\_mohd\_agos@moe.edu.sg](mailto:nur_asyikin_mohd_agos@moe.edu.sg) | Ms Priscilla Teng<br>65087-326<br>[teng\_yu\_hui\_priscilla@moe.edu.sg](mailto:teng_yu_hui_priscilla@moe.edu.sg) |
-| 3 Curie | Mrs Saj<br>65089-454<br>[vanisree\_sajjan@moe.edu.sg](mailto:vanisree_sajjan@moe.edu.sg) | Mr Bryon Luo<br>65080-662<br>[luo\_youde\_bryon@moe.edu.sg](mailto:luo_youde_bryon@moe.edu.sg) |
-| 3 Da Vinci | Mr Freddie Tan (Year Head, Middle Pri)<br>65087-311<br>[tan\_soh\_meng@moe.edu.sg](mailto:tan_soh_meng@moe.edu.sg) | Ms Valerie Koh<br>65087-277<br>[valerie\_koh\_sock\_hwee@moe.edu.sg](mailto:valerie_koh_sock_hwee@moe.edu.sg) |
-| 3 Edison | Ms Candice Khoo (P3 Level Manager)<br>65087-323<br>[khoo\_yun\_xuan\_candice@moe.edu.sg](mailto:khoo_yun_xuan_candice@moe.edu.sg) | Mr Rave Tay / 戴老师 (HOD, Mother Tongue)<br>65083-172<br>[tay\_tze\_rong@moe.edu.sg](mailto:tay_tze_rong@moe.edu.sg) |
-| 3 Frank | Mrs Michelle Wee<br>65080-667<br>[michelle\_tyoh\_whei\_theng@moe.edu.sg](mailto:michelle_tyoh_whei_theng@moe.edu.sg) | Mr Farris<br>65087-317<br>[mohammad\_farris\_salleh@moe.edu.sg](mailto:mohammad_farris_salleh@moe.edu.sg) |
+| 3 Aristotle | Mdm Esther Tay (LH, Science)<br>65087-330<br>[tay\_wei\_jing@moe.edu.sg](mailto:tay\_wei\_jing@moe.edu.sg) |Mdm Joy Tan / 陈老师<br>65087-265<br>[tan\_boon\_hui@moe.edu.sg](mailto:tan\_boon\_hui@moe.edu.sg) |
+|3 Beethoven |Ms Nurul Farha<br>65067-647<br>[nurul\_farha\_abdul\_talib@moe.edu.sg](mailto:nurul\_farha\_abdul\_talib@moe.edu.sg) | Mdm Dai Ping / 代老师 (ST, Chinese)<br>65087-266<br>[dai\_ping@moe.edu.sg](mailto:dai\_ping@moe.edu.sg) |
+| 3 Curie | Mr John Leong (Assistant Year Head, Middle Pri)<br>65089-462<br>[leong\_john\_woon@moe.edu.sg](mailto:leong\_john\_woon@moe.edu.sg) | Ms Emellyn Lim (HOD, English)<br>65080-652<br>[lim\_yee\_hoon\_emellyn@moe.edu.sg](mailto:lim\_yee\_hoon\_emellyn@moe.edu.sg) |
+| 3 Da Vinci | Mr Theva (HOD, Student Management)<br>65083-170<br>[thevarajan\_nagarajan@moe.edu.sg](mailto:thevarajan\_nagarajan@moe.edu.sg) | Mdm Elyani<br>65080-654<br>[elyani\_mohamed@moe.edu.sg](mailto:elyani\_mohamed@moe.edu.sg) |
+| 3 Edison |Ms Serene Yap<br>65067-646<br>[yap\_hui\_yun\_serene@moe.edu.sg](mailto:yap\_hui\_yun\_serene@moe.edu.sg) | Ms Lee Loo Yee / 李老师<br>65087-273<br>[lee\_loo\_yee\_a@moe.edu.sg](mailto:lee\_loo\_yee\_a@moe.edu.sg) |
+| 3 Frank | Mr Isa<br>65067-346<br>[mohamed\_isa\_b\_osman@moe.edu.sg](mailto:mohamed\_isa\_b\_osman@moe.edu.sg) | Ms May Lim<br>65089-459<br>[may\_lim\_wan\_yee@moe.edu.sg](mailto:may\_lim\_wan\_yee@moe.edu.sg) |
+| 3 Galileo | Mdm Josephine Kee<br>65067-342<br>[kee\_wan\_cheng@moe.edu.sg](mailto:kee\_wan\_cheng@moe.edu.sg) | Mdm Noorashikin<br>65087-320<br>[noorashikin\_zainuldin@moe.edu.sg](mailto:noorashikin\_zainuldin@moe.edu.sg) |
 
 ### Subject Teachers
 
