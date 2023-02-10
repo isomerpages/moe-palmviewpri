@@ -67,20 +67,19 @@ Social Studies | Ms Tabigail Hung<br>65080-657<br>[hung\_shao\_hui\_tabigail@moe
 Social Studies | Ms Rachel Loh<br>65067-640<br>[loh\_hui\_xian\_rachel@moe.edu.sg](mailto:loh\_hui\_xian\_rachel@moe.edu.sg)
 Social Studies | Mrs Serene Yue<br>65067-345<br>[wong\_may\_san\_serene@moe.edu.sg](mailto:nur\_hidayah\_mohshin@moe.edu.sg)
 Social Studies |Mdm Radiah<br>65067-341<br>[radiah\_rahmat@moe.edu.sg](mailto:radiah\_rahmat@moe.edu.sg)
-| Mathematics | Mdm Ho Sze Yin<br>65087-646<br>[ho_sze_yin@moe.edu.sg](mailto:ho_sze_yin@moe.edu.sg) |
-| Mathematics and Social Studies | Mrs Gracelyn Tham<br>65067-648<br>[lim_ai_zhen_gracelyn@moe.edu.sg](mailto:lim_ai_zhen_gracelyn@moe.edu.sg) |
-| Mathematics | Mdm Suritha<br>65080-663<br>[suritha_banu_mohamed_shah@moe.edu.sg](mailto:suritha_banu_mohamed_shah@moe.edu.sg) |
-| Mathematics | Mrs Tan Boon Yen<br>65089-466<br>[wee_boon_yen@moe.edu.sg](mailto:wee_boon_yen@moe.edu.sg) |
-| Mathematics | Mrs Priscillia Chen<br>65087-274<br>[tan_yi_siu_priscillia@moe.edu.sg](mailto:tan_yi_siu_priscillia@moe.edu.sg) |
-| Music | Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca_lau_yuen_sun@moe.edu.sg](mailto:rebecca_lau_yuen_sun@moe.edu.sg) |
-| PAL | Mdm Leong Fong Fong<br>65080-655<br>[leong_fong_fong@moe.edu.sg](mailto:leong_fong_fong@moe.edu.sg) |
-| PAL | Mr Bryon Luo<br>65080-662<br>[luo_youde_bryon@moe.edu.sg](mailto:luo_youde_bryon@moe.edu.sg) |
-| PAL | Mdm Subaitha<br>65089-467<br>[subaitha_bee_sahul_hameed@moe.edu.sg](mailto:subaitha_bee_sahul_hameed@moe.edu.sg) |
-| Physical Education & Health Education | Mr Bakri<br>65087-300 (ext. 653)<br>[ahmad_bakri_marfi@moe.edu.sg](mailto:ahmad_bakri_marfi@moe.edu.sg) |
-| Physical Education & Health Education | Mrs Michelle Khoo<br>65087-278<br>[lee_jing_wen_michelle@moe.edu.sg](mailto:lee_jing_wen_michelle@moe.edu.sg) |
-| Physical Education & Health Education | Ms Nazurah<br>65087-275<br>[nazurah_syazana_nordin@moe.edu.sg](mailto:nazurah_syazana_nordin@moe.edu.sg) |
-| Physical Education & Health Education | Ms Valerie Koh<br>65087-277<br>[valerie_koh_sock_hwee@moe.edu.sg](mailto:valerie_koh_sock_hwee@moe.edu.sg) |
-| Social Studies | Mrs Joshua<br>65087-324<br>[Kiran_jacqueline_rafeek@moe.edu.sg](mailto:Kiran_jacqueline_rafeek@moe.edu.sg) |
-| Social Studies | Mdm Kumutha<br>65089-458<br>[kumutha_a@moe.edu.sg](mailto:kumutha_a@moe.edu.sg) |
-| Social Studies | Mrs Sharon Seow<br>65087-328<br>[chew_sharon@moe.edu.sg](mailto:chew_sharon@moe.edu.sg) |
-| | |
+|
+| Music| Mdm Clara Koh (SH, Aesthetics)<br>65089-455<br>[lim\_xiu\_fang\_clara@moe.edu.sg](mailto:lim\_xiu\_fang\_clara@moe.edu.sg) |
+| Music |Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca\_lau\_yuen\_sun@moe.edu.sg](mailto:rebecca\_lau\_yuen\_sun@moe.edu.sg) |
+|
+|Physical Education & Health Education | Mr Noel Chan<br>65083-173<br>[noel\_chan\_tze\_sunn@moe.edu.sg](mailto:noel\_chan\_tze\_sunn@moe.edu.sg) |
+|Physical Education & Health Education | Ms Valerie Koh<br>65087-277<br>[valerie\_koh\_sock\_hwee@moe.edu.sg](mailto:valerie\_koh\_sock\_hwee@moe.edu.sg) |
+|Physical Education & Health Education | Mr Bakri<br>65087-300 (ext. 293)<br>[ahmad\_bakri\_marfi@moe.edu.sg](mailto:ahmad\_bakri\_marfi@moe.edu.sg) |
+|
+|PAL | Mrs Tay Yuyan (ST, Mathematics)<br>65067-642<br>[tay\_yuyan@moe.edu.sg](mailto:tay\_yuyan@moe.edu.sg) |
+|PAL | Mrs Tan Lirong<br>65080-669<br>[sun\_lirong@moe.edu.sg](mailto:sun\_lirong@moe.edu.sg) |
+|PAL | Mdm Clara Koh (SH, Aesthetics)<br>65089-455<br>[lim\_xiu\_fang\_clara@moe.edu.sg](mailto:lim\_xiu\_fang\_clara@moe.edu.sg) |
+|PAL | Mdm Siti Nurmunirah<br>65080-656<br>[siti\_nurmunirah\_mohd\_arsad@moe.edu.sg](mailto:siti\_nurmunirah\_mohd\_arsad@moe.edu.sg) |
+|PAL | Mdm Siti Nur Haliza<br>65067-347<br>[siti\_nur\_haliza@moe.edu.sg](mailto:siti\_nur\_haliza@moe.edu.sg) |
+|PAL | Mr Noel Chan<br>65083-173<br>[noel\_chan\_tze\_sunn@moe.edu.sg](mailto:noel\_chan\_tze\_sunn@moe.edu.sg) |
+|PAL | Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca\_lau\_yuen\_sun@moe.edu.sg](mailto:rebecca\_lau\_yuen\_sun@moe.edu.sg) |
+|PAL | Mrs Michelle Khoo (SH, Physical Education & CCA)<br>65087-278<br>[lee\_jing\_wen\_michelle@moe.edu.sg](mailto:lee\_jing\_wen\_michelle@moe.edu.sg) |
