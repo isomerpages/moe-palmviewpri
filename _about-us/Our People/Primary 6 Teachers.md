@@ -10,12 +10,12 @@ third_nav_title: Our People
 
 | Class | Form Teacher | Form Teacher |
 |---|---|---|
-| 6 Aristotle | Mr Shaun Png<br>65080-666<br>[png_jia_shun@moe.edu.sg](mailto:png_jia_shun@moe.edu.sg) | Mdm Nabilah<br>65087-319<br>[nabilah_abdul_rahman@moe.edu.sg](mailto:nabilah_abdul_rahman@moe.edu.sg) |
-| 6 Beethoven | Mdm Radiah<br>65067-341<br>[radiah_rahmat@moe.edu.sg](mailto:radiah_rahmat@moe.edu.sg) | Ms Lee Loo Yee / 李老师<br>65087-273<br>[lee_loo_yee_a@moe.edu.sg](mailto:lee_loo_yee_a@moe.edu.sg) |
-| 6 Curie | Mdm Leong Fong Fong<br>65080-655<br>[leong_fong_fong@moe.edu.sg](mailto:leong_fong_fong@moe.edu.sg) | Mr Hisham (HOD, PE & CCA)<br>65087-309<br>[hisham_b_spono@moe.edu.sg](mailto:hisham_b_spono@moe.edu.sg) |
-| 6 Da Vinci | Mr Kelvin Chia (ST, Science)<br>65080-665<br>[chia_peng_lin_kelvin@moe.edu.sg](mailto:chia_peng_lin_kelvin@moe.edu.sg) | Mdm Lim Hwee Yeng / 林老师<br>65087-315<br>[lim_hwee_yeng@moe.edu.sg](mailto:lim_hwee_yeng@moe.edu.sg) |
-| 6 Edison | Mrs Irene Ang (Assistant Year Head, Upper Pri)<br>65089-457<br>[irene_chia@moe.edu.sg](mailto:irene_chia@moe.edu.sg) | Mr Guah Boon Heng / 倪老师<br>65087-314<br>[guah_boon_heng@moe.edu.sg](mailto:guah_boon_heng@moe.edu.sg) |
-| 6 Frank | Mdm Josephine Kee<br>65067-342<br>[kee_wan_cheng@moe.edu.sg](mailto:kee_wan_cheng@moe.edu.sg) | Ms Emellyn Lim (HOD, English)<br>65080-652<br>[lim_yee_hoon_emellyn@moe.edu.sg](mailto:lim_yee_hoon_emellyn@moe.edu.sg) |
+| 6 Aristotle | Ms Nur Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@moe.edu.sg](mailto:nur\_hidayah\_mohshin@moe.edu.sg) |Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca\_lau\_yuen\_sun@moe.edu.sg](mailto:rebecca\_lau\_yuen\_sun@moe.edu.sg) |
+| 6 Beethoven | Ms Nicole Anne Chee<br>65067-340<br>[chee\_shu\_rong\_nicole@moe.edu.sg](mailto:chee\_shu\_rong\_nicole@moe.edu.sg) | Mdm Noraisha<br>65087-318<br>[noraisha\_ahmad@moe.edu.sg](mailto:noraisha\_ahmad@moe.edu.sg) |
+| 6 Curie | Mdm Kalpana<br>65067-349<br>[kalpana\_manimohan@moe.edu.sg](mailto:kalpana\_manimohan@moe.edu.sg) | Mr Nadeem<br>65087-276<br>[mohamed\_nadeem@moe.edu.sg](mailto:mohamed\_nadeem@moe.edu.sg) |
+| 6 Da Vinci |Mdm Hasanah (HOD, CCE)<br>65080-660<br>[nur\_hasanah\_osman@moe.edu.sg](mailto:nur\_hasanah\_osman@moe.edu.sg) | Ms Kang Chao / 康老师<br>65087-269<br>[kang\_chao@moe.edu.sg](mailto:kang\_chao@moe.edu.sg) |
+| 6 Edison | Mr Zack<br>65080-664<br>[subramaniyan\_senthil@moe.edu.sg](mailto:subramaniyan\_senthil@moe.edu.sg) | Mr Warren Thin / 邓老师 (SH, ICT)<br>65087-268<br>[thin\_dongqi@moe.edu.sg](mailto:thin\_dongqi@moe.edu.sg) |
+| 6 Frank | Mrs Sarah Tan<br>65067-344<br>[sarah\_yu\_xueli@moe.edu.sg](mailto:sarah\_yu\_xueli@moe.edu.sg) |Mrs Priscillia Chen<br>65087-274<br>[tan\_yi\_siu\_priscillia@moe.edu.sg](mailto:tan\_yi\_siu\_priscillia@moe.edu.sg) |
 | | | |
 
 ### Subject Teachers
