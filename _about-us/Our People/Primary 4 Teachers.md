@@ -16,8 +16,7 @@ third_nav_title: Our People
 | 4 Da Vinci | Mr Gerald Wong (HOD, Science)<br>65087-313<br>[gerald\_wong\_yew\_meng@moe.edu.sg](mailto:gerald\_wong\_yew\_meng@moe.edu.sg)| Ms Valerie Koh<br>65087-277<br>[valerie\_koh\_sock\_hwee@moe.edu.sg](mailto:valerie\_koh\_sock\_hwee@moe.edu.sg)|
 | 4 Edison |Ms Candice Khoo<br>65067-643<br>[khoo\_yun\_xuan\_candice@moe.edu.sg](mailto:khoo\_yun\_xuan\_candice@moe.edu.sg)| Mr Rave Tay / 戴老师 (HOD, Mother Tongue)<br>65083-172<br>[tay\_tze\_rong@moe.edu.sg](mailto:tay\_tze\_rong@moe.edu.sg)|
 | 4 Frank | Mrs Jodie Siow<br>65087-316<br>[yeo\_mui\_hong@moe.edu.sg](mailto:yeo\_mui\_hong@moe.edu.sg)|Mr Farris<br>65087-317<br>[mohammad\_farris\_salleh@moe.edu.sg](mailto:mohammad\_farris\_salleh@moe.edu.sg)|
-| 
-| | |
+
 
 ### Subject Teachers
 
@@ -25,14 +24,8 @@ third_nav_title: Our People
 |---|---|
 | Art | Mrs Chew Yi Xin<br>65087-300 (ext. 291)<br>[tan_yixin@moe.edu.sg](mailto:tan_yixin@moe.edu.sg)|
 | Art  | Mr Fong Yan Kin (LT, Art)<br>65087-300 (ext. 126)<br>[fong_yan_kin@moe.edu.sg](mailto:fong_yan_kin@moe.edu.sg)|
-| Character & Citizenship Education | Mdm Jane Mah / 马老师<br>65087-267<br>[mah_zhiwei_jane@moe.edu.sg](mailto:mah_zhiwei_jane@moe.edu.sg)|
-| Character & Citizenship Education | Ms Lee Loo Yee / 李老师<br>65087-273<br>[lee_loo_yee_a@moe.edu.sg](mailto:lee_loo_yee_a@moe.edu.sg)|
-| Character & Citizenship Education | Mdm Rose<br>65087-300 (ext. 651)<br>[rose_binty_salleh@moe.edu.sg](mailto:rose_binty_salleh@moe.edu.sg)|
-| Chinese | Mrs Faye Loh / 柯老师<br>65087-264<br>[quah_pei_jun@moe.edu.sg](mailto:quah_pei_jun@moe.edu.sg)|
-| Chinese and Character & Citizenship Education | Ms Fiona Ho / 何老师<br> 65087-272<br>[ho_kok_luei@moe.edu.sg](mailto:ho_kok_luei@moe.edu.sg)|
-| Chinese and Character & Citizenship Education | Ms Laura Ng/ 黄老师<br>65087-261<br>[oth-ng_wee_hoong_laura@moe.edu.sg](mailto:oth-ng_wee_hoong_laura@moe.edu.sg)|
-| Chinese and Character & Citizenship Education | Mdm Wong Soo Mei / 黄老师<br>65087-271<br>[oth_wong_soo_mei@moe.edu.sg](mailto:oth_wong_soo_mei@moe.edu.sg)|
-| English | Mdm Rebecca Tan (LH, English)<br>65087-327<br>[tan_en_hui_rebecca@moe.edu.sg](mailto:tan_en_hui_rebecca@moe.edu.sg)|
+| 
+| English | Mdm Nurul Ain<br>65087-327<br>[tan_en_hui_rebecca@moe.edu.sg](mailto:tan_en_hui_rebecca@moe.edu.sg)|
 | English and Social Studies | Mrs Joshua<br>65087-324<br>[kiran_jacqueline_rafeek@moe.edu.sg](mailto:kiran_jacqueline_rafeek@moe.edu.sg)|
 | English and Social Studies | Ms Priscilla Teng<br>65087-326<br>[teng_yu_hui_priscilla@moe.edu.sg](mailto:teng_yu_hui_priscilla@moe.edu.sg)|
 | English and Social Studies | Ms Rachel Loh<br>65067-640<br>[loh_hui_xian_rachel@moe.edu.sg](mailto:loh_hui_xian_rachel@moe.edu.sg)|
