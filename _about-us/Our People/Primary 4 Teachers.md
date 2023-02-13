@@ -47,21 +47,27 @@ Science | Mrs Michelle Wee<br>65080-667<br>[michelle\_tyoh\_whei\_theng@moe.edu.
 |
 | Chinese Language | Mr Rave Tay / 戴老师 (HOD, Mother Tongue)<br>65083-172<br>[tay\_tze\_rong@moe.edu.sg](mailto:tay\_tze\_rong@moe.edu.sg)|
 Chinese Language | Mdm Jane Mah / 马老师)<br>65087-267<br>[mah\_zhiwei\_jane@moe.edu.sg](mailto:mah\_zhiwei\_jane@moe.edu.sg)|
-Chinese Language | Mr Rave Tay / 戴老师 (HOD, Mother Tongue)<br>65083-172<br>[tay\_tze\_rong@moe.edu.sg](mailto:tay\_tze\_rong@moe.edu.sg)|
-Chinese Language | Mr Rave Tay / 戴老师 (HOD, Mother Tongue)<br>65083-172<br>[tay\_tze\_rong@moe.edu.sg](mailto:tay\_tze\_rong@moe.edu.sg)|
-Chinese Language | Mr Rave Tay / 戴老师 (HOD, Mother Tongue)<br>65083-172<br>[tay\_tze\_rong@moe.edu.sg](mailto:tay\_tze\_rong@moe.edu.sg)|
-Chinese Language | Mr Rave Tay / 戴老师 (HOD, Mother Tongue)<br>65083-172<br>[tay\_tze\_rong@moe.edu.sg](mailto:tay\_tze\_rong@moe.edu.sg)|
-| Mathematics | Ms Nicole Anne Chee<br>65067-340<br>[chee_shu_rong_nicole@moe.edu.sg](mailto:chee_shu_rong_nicole@moe.edu.sg)|
-| Mathematics | Mdm Kumutha<br>65089-458<br>[kumutha_a@moe.edu.sg](mailto:kumutha_a@moe.edu.sg)|
-| Mathematics | Ms Foo Shi Rui (LH, Mathematics)<br>65067-645<br>[foo_shi_rui@moe.edu.sg](mailto:foo_shi_rui@moe.edu.sg)|
+Chinese Language | Mdm Li Li / 李老师<br>65087-263<br>[li\_li@moe.edu.sg](mailto:li\_li@moe.edu.sg)|
+Chinese Language | Mr Guah Boon Heng / 倪老师<br>65087-314<br>[guah\_boon\_heng@moe.edu.sg](mailto:guah\_boon\_heng@moe.edu.sg)|
+Chinese Language | Mdm Heng Wei Shan<br>65089-450<br>[heng\_wei\_shan\_a@moe.edu.sg](mailto:heng\_wei\_shan\_a@moe.edu.sg)|
+Chinese Language | Mdm Teo Siow Yee / 张老师 (ST, SEN)<br>65087-270<br>[teo\_siow\_yee@moe.edu.sg](mailto:teo\_siow\_yee@moe.edu.sg)|
+|
+| Malay Language | Mdm Nabilah<br>65087-319<br>[nabilah\_abdul\_rahman@moe.edu.sg](mailto:nabilah\_abdul\_rahman@moe.edu.sg)|
+|
+| Social Studies | Mdm Nurul Ain (Senior Teacher, English Language)<br>65087-328<br>[nurul\_ain\_mohamad\_ibrahim@moe.edu.sg](mailto:nurul\_ain\_mohamad\_ibrahim@moe.edu.sg)|
+| Social Studies | Mrs Sharon Seow<br>65067-644<br>[chew\_sharon@moe.edu.sg](mailto:chew\_sharon@moe.edu.sg)|
+Social Studies |Mrs Saj<br>65089-454<br>[vanisree\_sajjan@moe.edu.sg](mailto:vanisree\_sajjan@moe.edu.sg)|
+Social Studies | Mrs Sarah Tan<br>65067-344<br>[sarah\_yu\_xueli@moe.edu.sg](mailto:sarah\_yu\_xueli@moe.edu.sg)|
+Social Studies | Mdm Hasanah (HOD, CCE)<br>65080-660<br>[nur\_hasanah\_osman@moe.edu.sg](mailto:nur\_hasanah\_osman@moe.edu.sg)|
+Social Studies | Ms Esther Quek<br>65089-453<br>[quek\_jia\_en\_esther@moe.edu.sg](mailto:quek\_jia\_en\_esther@moe.edu.sg)|
+|
 | Music | Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca_lau_yuen_sun@moe.edu.sg](mailto:rebecca_lau_yuen_sun@moe.edu.sg)|
 | Music | Mrs Clara Koh<br>65089-455<br>[lim_xiu_fang_clara@moe.edu.sg](mailto:lim_xiu_fang_clara@moe.edu.sg)|
+| Music | Mr Bryon Luo<br>65080-662<br>[luo\_youde\_bryon@moe.edu.sg](mailto:luo\_youde\_bryon@moe.edu.sg)|
+|
 | Physical Education and Health Education | Miss Valerie Koh<br>65087-277<br>[valerie_koh_sock_hwee@moe.edu.sg](mailto:valerie_koh_sock_hwee@moe.edu.sg)|
 | Physical Education and Health Education | Mr Nadeem<br>65087-276<br>[mohamed_nadeem@moe.edu.sg](mailto:mohamed_nadeem@moe.edu.sg)|
 | Physical Education and Health Education | Mr Noel Chan<br>65083-173<br>[noel_chan_tze_sunn@moe.edu.sg](mailto:noel_chan_tze_sunn@moe.edu.sg)|
 | Physical Education and Health Education | Mrs Michelle Khoo<br>65087-278<br>[lee_jing_wen_michelle@moe.edu.sg](mailto:lee_jing_wen_michelle@moe.edu.sg)|
 | Physical Education and Health Education | Ms Josephine Teow<br>65087-279<br>[josephine_teow@moe.edu.sg](mailto:josephine_teow@moe.edu.sg)|
-| Science | Mr Kelvin Chia (ST, Science)<br>65080-665<br>[chia_peng_lin_kelvin@moe.edu.sg](mailto:chia_peng_lin_kelvin@moe.edu.sg)|
-| Science | Mdm Siti Nurmunirah65080-656<br>[siti_nurmunirah_mohd_arsad@moe.edu.sg](mailto:siti_nurmunirah_mohd_arsad@moe.edu.sg)|
-| Social Studies | Ms Ignez Tay<br>65087-300 (ext. 241)<br>[ignez_tay_geok_choo@moe.edu.sg](mailto:ignez_tay_geok_choo@moe.edu.sg)|
-| | |
+| Physical Education and Health Education | Ms Nazurah<br>65087-275<br>[nazurah\_syazana\_nordin@moe.edu.sg](mailto:nazurah\_syazana\_nordin@moe.edu.sg)|
