@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 ## ALLIED EDUCATORS
 
-### Counselling
+### Counseling
 
 | <u>Name of Allied Educator</u> | <u>Email Address</u> | <u>DID</u> |
 | :---: | :---: | :---: |
