@@ -23,37 +23,52 @@ third_nav_title: Our People
 
 | Subject | Teacher |
 |---|---|
-| Art | Mr Fong Yan Kin (LT, Art)<br>65087-300 (ext. 126)<br>[fong_yan_kin@moe.edu.sg](mailto:fong_yan_kin@moe.edu.sg) |
-| Art | Mrs Chew Yi Xin<br>65087-300 (ext. 291)<br>[tan_yixin@moe.edu.sg](mailto:tan_yixin@moe.edu.sg) |
 | Art | Mr Matthias Seet<br>65080-661<br>[seet_qin_fong@moe.edu.sg](mailto:seet_qin_fong@moe.edu.sg) |
-| Character & Citizenship Education | Mdm Cheang Ching Ee (SH, CCE)<br>65080-658<br>[cheang_ching_ee@moe.edu.sg](mailto:cheang_ching_ee@moe.edu.sg) |
-| Chinese and Character & Citizenship Education  | Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine_quek_jiamin@moe.edu.sg](mailto:germaine_quek_jiamin@moe.edu.sg) |
-| Chinese and Character & Citizenship Education  | Mdm Dai Ping / 代老师 (ST, Chinese)<br>65087-266<br>[dai_ping@moe.edu.sg](mailto:dai_ping@moe.edu.sg) |
-| Chinese and Character & Citizenship Education | Mdm Joy Tan / 陈老师<br>65087-265<br>[tan_boon_hui@moe.edu.sg](mailto:tan_boon_hui@moe.edu.sg) |
-| Chinese and Character & Citizenship Education | Mdm Li Li / 李老师<br>65087-263<br>[li_li@moe.edu.sg](mailto:li_li@moe.edu.sg) |
-| Chinese and Character & Citizenship Education | Mdm Yeung Yuk/ 杨老师<br>65087-300 (ext. 242)<br>[oth_yeung_yuk@moe.edu.sg](mailto:oth_yeung_yuk@moe.edu.sg) |
-| English | Mdm Subaitha<br>65089-467<br>[subaitha_bee_sahul_hameed@moe.edu.sg](mailto:subaitha_bee_sahul_hameed@moe.edu.sg) |
-| English and Mathematics | Ms Ignez Tay<br>65087-300 (ext. 241)<br>[ignez_tay_geok_choo@moe.edu.sg](mailto:ignez_tay_geok_choo@moe.edu.sg) |
-| English and Social Studies | Ms Nur Hidayah<br>65089-469<br>[nur_hidayah_mohshin@moe.edu.sg](mailto:nur_hidayah_mohshin@moe.edu.sg) |
-| English and Social Studies | Ms Nurul Ain (ST, English)<br>65087-328<br>[nurul_ain_mohamad_ibrahim@moe.edu.sg](mailto:nurul_ain_mohamad_ibrahim@moe.edu.sg) |
-| Malay and Character & Citizenship Education | Mdm Rose<br>65087-300 (ext. 651)<br>[rose_binty_salleh@moe.edu.sg](mailto:rose_binty_salleh@moe.edu.sg) |
-| Malay and Character & CItizenship Education | Mr Rahman<br>65080-654<br>[abdul_rahman_omar@moe.edu.sg](mailto:abdul_rahman_omar@moe.edu.sg) |
-| Mathematics | Mrs Jodie Siow <br>65087-316<br>[yeo_mui_hong@moe.edu.sg](mailto:yeo_mui_hong@moe.edu.sg) |
-| Mathematics | Ms Foo Shi Rui (LH, Mathematics)<br>65067-645<br>[foo_shi_rui@moe.edu.sg](mailto:foo_shi_rui@moe.edu.sg) |
-| Mathematics | Ms Nur Asyikin<br>65067-343<br>[nur_asyikin_mohd_agos@moe.edu.sg](mailto:nur_asyikin_mohd_agos@moe.edu.sg) |
-| Music | Mrs Clara Koh<br>65089-455<br>[lim_xiu_fang_clara@moe.edu.sg](mailto:lim_xiu_fang_clara@moe.edu.sg) |
-| Physical Education and Health Education | Mr Bakri<br>65087-300 (ext. 653)<br>[ahmad_bakri_marfi@moe.edu.sg](mailto:ahmad_bakri_marfi@moe.edu.sg) |
-| Physical Education and Health Education | Ms Josephine Teow<br>65087-279<br>[josephine_teow@moe.edu.sg](mailto:josephine_teow@moe.edu.sg) |
-| Physical Education and Health Education | Mr Hisham (HOD, PE & CCA)<br>65087-309<br>[hisham_b_spono@moe.edu.sg](mailto:hisham_b_spono@moe.edu.sg) |
-| Physical Education and Health Education | Mr Nadeem<br>65087-276<br>[mohamed_nadeem@moe.edu.sg](mailto:mohamed_nadeem@moe.edu.sg) |
-| Physical Education and Health Education | Mr Noel Chan<br>65083-173<br>[noel_chan_tze_sunn@moe.edu.sg](mailto:noel_chan_tze_sunn@moe.edu.sg) |
-| Science | Mdm Esther Tay (LH, Science)<br>65087-274<br>[tay_wei_jing@moe.edu.sg](mailto:tay_wei_jing@moe.edu.sg) |
-| Science | Mrs Priscillia Chen<br>65087-274<br>[tan_yi_siu_priscillia@moe.edu.sg](mailto:tan_yi_siu_priscillia@moe.edu.sg) |
-| Science | Ms Jo Ko<br>65089-461<br>[ko_hiang@moe.edu.sg](mailto:ko_hiang@moe.edu.sg) |
-| Science | Mr Gerald Wong (HOD, Science)<br>65087-313<br>[gerald_wong_yew_meng@moe.edu.sg](mailto:gerald_wong_yew_meng@moe.edu.sg) |
-| Science | Mrs Tan Lirong<br>65080-669<br>[sun_lirong@moe.edu.sg](mailto:sun_lirong@moe.edu.sg) |
-| Science | Mdm Siti Nurmunirah<br>65080-656<br>[siti_nurmunirah_mohd_arsad@moe.edu.sg](mailto:siti_nurmunirah_mohd_arsad@moe.edu.sg) |
-| Science | Mdm Teo Soke Wai<br>65087-274<br>[teo_soke_wai@moe.edu.sg](mailto:teo_soke_wai@moe.edu.sg) |
-| Social Studies | Ms Shannon Lim<br>65080-659<br>[lim_eu_li@moe.edu.sg](mailto:lim_eu_li@moe.edu.sg) |
-| Social Studies | Mr Theva (HOD, Student Management)<br>65083-170<br>[thevarajan_nagarajan@moe.edu.sg](mailto:thevarajan_nagarajan@moe.edu.sg) |
-| | |
+|
+| English Language | Mdm Leong Fong Fong<br>65080-655<br>[leong\_fong\_fong@moe.edu.sg](mailto:leong\_fong\_fong@moe.edu.sg) |
+ English Language | Ms Jo Ko<br>65089-461<br>[ko\_hiang@moe.edu.sg](mailto:ko\_hiang@moe.edu.sg) |
+  English Language | Mrs Irene Ang (Assistant Year Head, Upper Pri)<br>65089-457<br>[irene\_chia@moe.edu.sg](mailto:irene\_chia@moe.edu.sg) |
+ English Language | Mrs Michelle Wee<br>65080-667<br>[michelle\_tyoh\_whei\_theng@moe.edu.sg](mailto:michelle\_tyoh\_whei\_theng@moe.edu.sg) |
+ English Language |Mr Kelvin Chia (ST, Science)<br>65080-665<br>[chia\_peng\_lin\_kelvin@moe.edu.sg](mailto:chia\_peng\_lin\_kelvin@moe.edu.sg) |
+ English Language | Mr Isa<br>65067-346<br>[mohamed\_isa\_b\_osman@moe.edu.sg](mailto:mohamed\_isa\_b\_osman@moe.edu.sg) | 
+ English Language | Mdm Nurul Ain<br>65087-328<br>[nurul\_ain\_mohamad\_ibrahim@moe.edu.sg](mailto:nurul\_ain\_mohamad\_ibrahim@moe.edu.sg) | 
+|
+| Mathematics  | Mdm Leong Fong Fong<br>65080-655<br>[leong\_fong\_fong@moe.edu.sg](mailto:leong\_fong\_fong@moe.edu.sg) |
+ Mathematics  | Mrs Quek (SH, Education Technology)<br>65087-300 (ext. 286)<br>[lim\_jing\_jing@moe.edu.sg](mailto:lim\_jing\_jing@moe.edu.sg) |
+  Mathematics  | Mrs Irene Ang (Assistant Year Head, Upper Pri)<br>65089-457<br>[irene\_chia@moe.edu.sg](mailto:irene\_chia@moe.edu.sg) |
+ Mathematics  | Mrs Tay Yuyan (ST, Mathematics)<br>65067-642<br>[tay\_yuyan@moe.edu.sg](mailto:tay\_yuyan@moe.edu.sg) |
+ Mathematics  |Mdm Josephine Kee<br>65067-342<br>[kee\_wan\_cheng@moe.edu.sg](mailto:kee\_wan\_cheng@moe.edu.sg) |
+ Mathematics  | Mr Shaun Png<br>65080-666<br>[png\_jia\_shun@moe.edu.sg](mailto:png\_jia\_shun@moe.edu.sg) |
+ Mathematics  |Mr Guna<br>65080-668<br>[sargunan\_ilangovan@moe.edu.sg](mailto:lsargunan\_ilangovan@moe.edu.sg) |
+|
+| Science | Mr Zack<br>65080-664<br>[subramaniyan\_senthil@moe.edu.sg](mailto:subramaniyan\_senthil@moe.edu.sg) |
+Science | Mrs Quek (SH, Education Technology)<br>65080-653<br>[lim\_jing\_jing@moe.edu.sg](mailto:lim\_jing\_jing@moe.edu.sg) |
+Science | Mdm Esther Tay (LH, Science)<br>65087-330<br>[tay\_wei\_jing@moe.edu.sg](mailto:tay\_wei\_jing@moe.edu.sg) |
+Science | Mrs Michelle Wee<br>65080-667<br>[michelle\_tyoh\_whei\_theng@moe.edu.sg](mailto:michelle\_tyoh\_whei\_theng@moe.edu.sg) |
+Science | Mr Kelvin Chia (ST, Science)<br>65080-665<br>[chia\_peng\_lin\_kelvin@moe.edu.sg](mailto:chia\_peng\_lin\_kelvin@moe.edu.sg) |
+Science | Mr Shaun Png<br>65080-666<br>[png\_jia\_shun@moe.edu.sg](mailto:png\_jia\_shun@moe.edu.sg) |
+Science | Mr Guna<br>65080-668<br>[sargunan\_ilangovan@moe.edu.sg](mailto:sargunan\_ilangovan@moe.edu.sg) |
+|
+| Chinese Language | Mdm Zhang Yue / 张老师<br>65087-262<br>[zhang\_yue\_a@moe.edu.sg](mailto:zhang\_yue\_a@moe.edu.sg) |
+Chinese Language | Ms Lee Loo Yee / 李老师<br>65087-273<br>[lee\_loo\_yee\_a@moe.edu.sg](mailto:lee\_loo\_yee\_a@moe.edu.sg) |
+Chinese Language |Ms Fiona Ho / 何老师<br>65087-272<br>[ho\_kok\_luei@moe.edu.sg](mailto:ho\_kok\_luei@moe.edu.sg) |
+Chinese Language | Mdm Cheong Lee Chin / 张老师 (ST, Chinese)<br>65087-260<br>[cheong\_lee\_chin@moe.edu.sg](mailto:cheong\_lee\_chin@moe.edu.sg) |
+Chinese Language |Mdm Lim Hwee Yeng / 林老师<br>65087-315<br>[lim\_hwee\_yeng@moe.edu.sg](mailto:lim\_hwee\_yeng@moe.edu.sg) |
+Chinese Language |Mrs Faye Loh / 柯老师<br>65087-264<br>[quah\_pei\_jun@moe.edu.sg](mailto:quah\_pei\_jun@moe.edu.sg) |
+Chinese Language | Mr Rave Tay / 戴老师 (HOD, Mother Tongue)<br>65083-172<br>[tay\_tze\_rong@moe.edu.sg](mailto:tay\_tze\_rong@moe.edu.sg) |
+|
+|Malay Language| Mr Farris<br>65087-317<br>[mohammad\_farris\_salleh@moe.edu.sg](mailto:mohammad\_farris\_salleh@moe.edu.sg) |
+Malay Language| Ms Nurbayah<br>65087-300 (ext. 651)<br>[nurbayah\_ismail@moe.edu.sg](mailto:nurbayah\_ismail@moe.edu.sg) |
+Malay Language| Mdm Nabilah<br>65087-319<br>[nabilah\_abdul\_rahman@moe.edu.sg](mailto:nabilah\_abdul\_rahman@moe.edu.sg) |
+|
+| Social Studies | Ms Nurul Ain (ST, English)<br>65087-328<br>[nurul_ain_mohamad_ibrahim@moe.edu.sg](mailto:nurul_ain_mohamad_ibrahim@moe.edu.sg) |
+ Social Studies |Mdm Leong Fong Fong<br>65080-655<br>[leong\_fong\_fong@moe.edu.sg](mailto:leong\_fong\_fong@moe.edu.sg) 
+ Social Studies | Mdm Hasanah (HOD, CCE))<br>65080-660<br>[nur\_hasanah\_osman@moe.edu.sg](mailto:nur\_hasanah\_osman@moe.edu.sg) 
+ Social Studies | Mdm Kalpana<br>65067-349<br>[kalpana\_manimohan@moe.edu.sg](mailto:kalpana\_manimohan@moe.edu.sg) 
+ Social Studies |Mdm Fatin<br>65067-649<br>[nur\_ishmah\_fatin\_rahim@moe.edu.sg](mailto:nur\_ishmah\_fatin\_rahim@moe.edu.sg) 
+ Social Studies | Mdm Josephine Kee<br>65067-342<br>[kee\_wan\_cheng@moe.edu.sg](mailto:kee\_wan\_cheng@moe.edu.sg) 
+ Social Studies | Mr Isa<br>65067-346<br>[mohamed\_isa\_b\_osman@moe.edu.sg](mailto:mohamed\_isa\_b\_osman@moe.edu.sg) 
+|
+| Physical Education and Health Education | Mr Nadeem<br>65087-276)<br>[mohamed\_nadeem@moe.edu.sg](mailto:mohamed\_nadeem@moe.edu.sg) |
+Physical Education and Health Education | Mr Hisham (HOD, PE & CCA)<br>65087-309<br>[hisham\_b\_spono@moe.edu.sg](mailto:hisham\_b\_spono@moe.edu.sg) |
+Physical Education and Health Education | Ms Valerie Koh<br>65087-277)<br>[valerie\_koh\_sock\_hwee@moe.edu.sg](mailto:valerie\_koh\_sock\_hwee@moe.edu.sg) |
