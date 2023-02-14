@@ -56,22 +56,16 @@ Chinese Language | Mr Warren Thin / 邓老师 (SH, ICT)<br>65087-268<br>[thin\
 | Malay Language |Mdm Elyani<br>65080-654<br>[elyani\_mohamed@moe.edu.sg](mailto:elyani\_mohamed@moe.edu.sg) |
 | Malay Language  |Mdm Noorashikin<br>65087-320<br>[noorashikin\_zainuldin@moe.edu.sg](mailto:noorashikin\_zainuldin@moe.edu.sg) |
 |
-| Social Studies |Mdm Kalpana<br>65067-349<br>[kalpana\_manimohan@moe.edu.sg](mailto:kalpana\_manimohan@moe.edu.sg) |
-| Mathematics | Ms Teo Ai Lin (HOD, Mathematics)<br>65087-312<br>[teo_ai_lin@moe.edu.sg](mailto:teo_ai_lin@moe.edu.sg) |
-| Music | Mr Bryon Luo<br>65080-662<br>[luo_youde_bryon@moe.edu.sg](mailto:luo_youde_bryon@moe.edu.sg) |
-| Music | Mrs Clara Koh<br>65089-455<br>[lim_xiu_fang_clara@moe.edu.sg](mailto:lim_xiu_fang_clara@moe.edu.sg) |
-| Physical Education and Health Education | Mr Bakri<br>65087-300 (ext. 293)<br>[ahmad_bakri_marfi@moe.edu.sg](mailto:ahmad_bakri_marfi@moe.edu.sg) |
-| Physical Education and Health Education | Mr Noel Chan<br>65083-173<br>[noel_chan_tze_sunn@moe.edu.sg](mailto:noel_chan_tze_sunn@moe.edu.sg) |
+| Social Studies |Mdm Kalpana<br>65067-349<br>[kalpana\_manimohan@moe.edu.sg](mailto:kalpana\_manimohan@moe.edu.sg) 
+Social Studies |Ms Nur Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@moe.edu.sg](mailto:nur\_hidayah\_mohshin@moe.edu.sg) |
+Social Studies |Ms Priscilla Teng<br>65087-326<br>[teng\_yu\_hui\_priscilla@moe.edu.sg](mailto:teng\_yu\_hui\_priscilla@moe.edu.sg) 
+Social Studies |Mdm Hasanah (HOD, CCE)<br>65080-660<br>[nur\_hasanah\_osman@moe.edu.sg](mailto:nur\_hasanah\_osman@moe.edu.sg) |
+Social Studies |Mrs Sarah Tan<br>65067-344<br>[sarah\_yu\_xueli@moe.edu.sg](mailto:sarah\_yu\_xueli@moe.edu.sg) |
+Social Studies |Ms Shannon Lim<br>65080-659<br>[lim\_eu\_li@moe.edu.sg](mailto:lim\_eu\_li@moe.edu.sg) 
+|
+| Music | Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca\_lau\_yuen\_sun@moe.edu.sg](mailto:rebecca\_lau\_yuen\_sun@moe.edu.sg) |
+| Music | Mrs Clara Koh (SH, Aesthetics)<br>65089-455<br>[lim_xiu_fang_clara@moe.edu.sg](mailto:lim_xiu_fang_clara@moe.edu.sg) |
+|
+| Physical Education and Health Education | Mr Hisham (HOD, PE & CCA)<br>65087-309<br>[hisham\_b\_spono@moe.edu.sg](mailto:hisham\_b\_spono@moe.edu.sg) |
+| Physical Education and Health Education | Ms Valerie Koh<br>65087-277<br>[valerie\_koh\_sock\_hwee@moe.edu.sg](mailto:valerie\_koh\_sock\_hwee@moe.edu.sg) |
 | Physical Education and Health Education | Mr Nadeem<br>65087-276<br>[mohamed_nadeem@moe.edu.sg](mailto:mohamed_nadeem@moe.edu.sg) |
-| Science | Mr John Leong (Assistant Year Head, Upper Pri)<br>65089-462<br>[leong_john_woon@moe.edu.sg](mailto:leong_john_woon@moe.edu.sg) |
-| Science | Mr Zack<br>65080-664<br>[subramaniyan_senthil@moe.edu.sg](mailto:subramaniyan_senthil@moe.edu.sg) |
-| Science | Mrs Michelle Wee<br>65080-667<br>[michelle_tyoh_whei_theng@moe.edu.sg](mailto:michelle_tyoh_whei_theng@moe.edu.sg) |
-| Science | Mr Guna<br>65080-668<br>[sargunan_ilangovan@moe.edu.sg](mailto:sargunan_ilangovan@moe.edu.sg) |
-| Science | Ms Jo Ko<br>65089-461<br>[ko_hiang@moe.edu.sg](mailto:ko_hiang@moe.edu.sg) |
-| Science  | Mrs Priscillia Chen<br>65087-274<br>[tan_yi_siu_priscillia@moe.edu.sg](mailto:tan_yi_siu_priscillia@moe.edu.sg) |
-| Social Studies  | Mdm Fatin<br>65067-649<br>[nur_ishmah_fatin_rahim@moe.edu.sg](mailto:nur_ishmah_fatin_rahim@moe.edu.sg) |
-| Social Studies | Mdm Kalpana<br>65067-349<br>[kalpana_manimohan@moe.edu.sg](mailto:kalpana_manimohan@moe.edu.sg) |
-| Social Studies | Mrs Tan Boon Yen<br>65089-466<br>[wee_boon_yen@moe.edu.sg](mailto:wee_boon_yen@moe.edu.sg) |
-| Social Studies | Mr Theva (HOD, Student Management)<br>65083-170<br>[thevarajan_nagarajan@moe.edu.sg](mailto:thevarajan_nagarajan@moe.edu.sg) |
-| Social Studies | Mrs Sharon Seow<br>65087-328<br>[chew_sharon@moe.edu.sg](mailto:chew_sharon@moe.edu.sg) |
-| | |
