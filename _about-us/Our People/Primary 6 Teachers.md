@@ -22,24 +22,41 @@ third_nav_title: Our People
 
 | Subject | Teacher |
 |---|---|
-| Art | Mr Fong Yan Kin (LT, Art)<br>65087-300 (ext. 126)<br>[fong_yan_kin@moe.edu.sg](mailto:fong_yan_kin@moe.edu.sg) |
 | Art | Mr Matthias Seet<br>65080-661<br>[seet_qin_fong@moe.edu.sg](mailto:seet_qin_fong@moe.edu.sg) |
-| Character & Citizenship Education | Ms Fiona Ho / 何老师<br>65087-272<br>[ho_kok_luei@moe.edu.sg](mailto:ho_kok_luei@moe.edu.sg) |
-| Chinese and Character & Citizenship | Mdm Cheong Lee Chin / 张老师 (ST, Chinese)<br>65087-260<br>[cheong_lee_chin@moe.edu.sg](mailto:cheong_lee_chin@moe.edu.sg) |
-| Chinese and Character & Citizenship Education | Mdm Jane Mah / 马老师<br>65087-267<br>[mah_zhiwei_jane@moe.edu.sg](mailto:mah_zhiwei_jane@moe.edu.sg) |
-| Chinese and Character & Citizenship Education   | Mrs Faye Loh / 柯老师 <br>65087-264<br>[quah_pei_jun@moe.edu.sg](mailto:quah_pei_jun@moe.edu.sg) |
-| Chinese and Character & Citizenship Education  | Mdm Zhang Yue / 张老师<br>65087-262<br>[zhang_yue_a@moe.edu.sg](mailto:zhang_yue_a@moe.edu.sg) |
-| Chinese and Character & Citizenship Education | Mr Rave Tay / 戴老师 (HOD, Mother Tongue)<br>65083-172<br>[tay_tze_rong@moe.edu.sg](mailto:tay_tze_rong@moe.edu.sg) |
-| English | Mdm Hasanah (HOD, CCE)<br>65087-310<br>[nur_hasanah_osman@moe.edu.sg](mailto:nur_hasanah_osman@moe.edu.sg) |
-| English | Mdm Rebecca Tan (LH, English)<br>65087-327<br>[tan_en_hui_rebecca@moe.edu.sg](mailto:tan_en_hui_rebecca@moe.edu.sg) |
-| English | Mdm Subaitha<br>65089-467<br>[subaitha_bee_sahul_hameed@moe.edu.sg](mailto:subaitha_bee_sahul_hameed@moe.edu.sg) |
-| English and Social Studies | Mr Isa<br>65067-346<br>[mohamed_isa_b_osman@moe.edu.sg](mailto:mohamed_isa_b_osman@moe.edu.sg) |
-| Malay and Character & Citizenship Education | Mr Farris<br>65087-317<br>[mohammad_farris_salleh@moe.edu.sg](mailto:mohammad_farris_salleh@moe.edu.sg) |
-| Malay and Character & Citizenship Education | Mdm Nabilah<br>65087-319<br>[nabilah_abdul_rahman@moe.edu.sg](mailto:nabilah_abdul_rahman@moe.edu.sg) |
-| Malay and Character & Citizenship Education | Ms Siti Norrulhudha<br>65087-320<br>[siti_norrulhudha_sonny@moe.edu.sg](mailto:siti_norrulhudha_sonny@moe.edu.sg) |
-| Mathematics | Mr Freddie Tan (Year Head, Middle Pri)<br>65087-311<br>[tan_soh_meng@moe.edu.sg](mailto:tan_soh_meng@moe.edu.sg) |
-| Mathematics  | Mdm Kumutha<br>65089-458<br>[kumutha_a@moe.edu.sg](mailto:kumutha_a@moe.edu.sg) |
-| Mathematics | Mrs Tay Yuyan (ST, Mathematics)<br>65067-642<br>[tay_yuyan@moe.edu.sg](mailto:tay_yuyan@moe.edu.sg) |
+|
+| English | Ms Nur Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@moe.edu.sg](mailto:nur\_hidayah\_mohshin@moe.edu.sg) |
+| English | Ms Priscilla Teng<br>65087-326<br>[teng\_yu\_hui\_priscilla@moe.edu.sg](mailto:teng\_yu\_hui\_priscilla@moe.edu.sg) |
+| English | Mdm Kalpana<br>65067-349<br>[kalpana\_manimohan@moe.edu.sg](mailto:kalpana\_manimohan@moe.edu.sg) |
+| English | Mdm Hasanah (HOD, CCE)<br>65080-660<br>[nur\_hasanah\_osman@moe.edu.sg](mailto:nur\_hasanah\_osman@moe.edu.sg) |
+| English | Mr Zack<br>65080-664<br>[subramaniyan\_senthil@moe.edu.sg](mailto:subramaniyan\_senthil@moe.edu.sg) |
+| English | Mrs Sarah Tan<br>65067-344<br>[sarah\_yu\_xueli@moe.edu.sg](mailto:sarah\_yu\_xueli@moe.edu.sg) |
+|
+| Mathematics | Mr John Leong (Assistant Year Head, Middle Pri)<br>65089-462<br>[leong\_john\_woon@moe.edu.sg](mailto:leong\_john\_woon@moe.edu.sg) |
+| Mathematics |Ms Nicole Anne Chee<br>65067-340<br>[chee\_shu\_rong\_nicole@moe.edu.sg](mailto:chee\_shu\_rong\_nicole@moe.edu.sg) |
+Mathematics |Mdm Kalpana<br>65067-349<br>[kalpana\_manimohan@moe.edu.sg](mailto:chee\_shu\_rong\_nicole@moe.edu.sg) |
+Mathematics |Ms Nur Asyikin<br>65067-343<br>[nur\_asyikin\_mohd\_agos@moe.edu.sg](mailto:nur\_asyikin\_mohd\_agos@moe.edu.sg) |
+Mathematics |Ms Foo Shi Rui (LH, Mathematics)<br>65067-645<br>[foo\_shi\_rui@moe.edu.sg](mailto:foo\_shi\_rui@moe.edu.sg) |
+Mathematics |Mrs Priscillia Chen<br>65087-274<br>[tan\_yi\_siu\_priscillia@moe.edu.sg](mailto:tan\_yi\_siu\_priscillia@moe.edu.sg) |
+|
+Science |Mr John Leong (Assistant Year Head, Upper Pri)<br>65089-462<br>[leong\_john\_woon@moe.edu.sg](mailto:leong\_john\_woon@moe.edu.sg) |
+Science |Mr Zack<br>65080-664<br>[subramaniyan\_senthil@moe.edu.sg](mailto:subramaniyan\_senthil@moe.edu.sg) |
+Science |Ms Jo Ko<br>65089-461<br>[ko\_hiang@moe.edu.sg](mailto:vko\_hiang@moe.edu.sg) 
+Science |Mrs Priscillia Chen<br>65087-274<br>[tan\_yi\_siu\_priscillia@moe.edu.sg](mailto:tan\_yi\_siu\_priscillia@moe.edu.sg) |
+Science| Mr Kelvin Chia (ST, Science)<br>65080-665<br>[chia\_peng\_lin\_kelvin@moe.edu.sg](mailto:chia\_peng\_lin\_kelvin@moe.edu.sg) |
+Science |Ms Nicole Anne Chee<br>65067-340<br>[chee\_shu\_rong\_nicole@moe.edu.sg](mailto:chee\_shu\_rong\_nicole@moe.edu.sg) |
+Science |Mr Gerald Wong (HOD, Science)<br>65087-313<br>[gerald\_wong\_yew\_meng@moe.edu.sg](mailto:gerald\_wong\_yew\_meng@moe.edu.sg) |
+|
+| Chinese Language | Mdm Dai Ping / 代老师 (ST, Chinese)<br>65087-266<br>[dai\_ping@moe.edu.sg](mailto:dai\_ping@moe.edu.sg) |
+Chinese Language | Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg) 
+Chinese Language |Ms Kang Chao / 康老师<br>65087-269<br>[kang\_chao@moe.edu.sg](mailto:kang\_chao@moe.edu.sg) 
+Chinese Language | Mdm Joy Tan / 陈老师<br>65087-265<br>[tan\_boon\_hui@moe.edu.sg](mailto:tan\_boon\_hui@moe.edu.sg) 
+Chinese Language | Mdm Heng Wei Shan<br>65089-450<br>[heng\_wei\_shan\_a@moe.edu.sg](mailto:heng\_wei\_shan\_a@moe.edu.sg) 
+Chinese Language | Mr Warren Thin / 邓老师 (SH, ICT)<br>65087-268<br>[thin\_dongqi@moe.edu.sg](mailto:thin\_dongqi@moe.edu.sg) 
+|
+| Malay Language |Mdm Elyani<br>65080-654<br>[elyani\_mohamed@moe.edu.sg](mailto:elyani\_mohamed@moe.edu.sg) |
+| Malay Language  |Mdm Noorashikin<br>65087-320<br>[noorashikin\_zainuldin@moe.edu.sg](mailto:noorashikin\_zainuldin@moe.edu.sg) |
+|
+| Social Studies | Mrs Tay Yuyan (ST, Mathematics)<br>65067-642<br>[tay_yuyan@moe.edu.sg](mailto:tay_yuyan@moe.edu.sg) |
 | Mathematics | Ms Teo Ai Lin (HOD, Mathematics)<br>65087-312<br>[teo_ai_lin@moe.edu.sg](mailto:teo_ai_lin@moe.edu.sg) |
 | Music | Mr Bryon Luo<br>65080-662<br>[luo_youde_bryon@moe.edu.sg](mailto:luo_youde_bryon@moe.edu.sg) |
 | Music | Mrs Clara Koh<br>65089-455<br>[lim_xiu_fang_clara@moe.edu.sg](mailto:lim_xiu_fang_clara@moe.edu.sg) |
