@@ -56,7 +56,7 @@ Chinese Language | Mr Warren Thin / 邓老师 (SH, ICT)<br>65087-268<br>[thin\
 | Malay Language |Mdm Elyani<br>65080-654<br>[elyani\_mohamed@moe.edu.sg](mailto:elyani\_mohamed@moe.edu.sg) |
 | Malay Language  |Mdm Noorashikin<br>65087-320<br>[noorashikin\_zainuldin@moe.edu.sg](mailto:noorashikin\_zainuldin@moe.edu.sg) |
 |
-| Social Studies | Mrs Tay Yuyan (ST, Mathematics)<br>65067-642<br>[tay_yuyan@moe.edu.sg](mailto:tay_yuyan@moe.edu.sg) |
+| Social Studies |Mdm Kalpana<br>65067-349<br>[kalpana\_manimohan@moe.edu.sg](mailto:kalpana\_manimohan@moe.edu.sg) |
 | Mathematics | Ms Teo Ai Lin (HOD, Mathematics)<br>65087-312<br>[teo_ai_lin@moe.edu.sg](mailto:teo_ai_lin@moe.edu.sg) |
 | Music | Mr Bryon Luo<br>65080-662<br>[luo_youde_bryon@moe.edu.sg](mailto:luo_youde_bryon@moe.edu.sg) |
 | Music | Mrs Clara Koh<br>65089-455<br>[lim_xiu_fang_clara@moe.edu.sg](mailto:lim_xiu_fang_clara@moe.edu.sg) |
