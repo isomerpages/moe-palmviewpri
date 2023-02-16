@@ -20,9 +20,6 @@ Yes, the school has a school-based student care centre. The service provider is 
   
 **When can parents proceed to the school bookshop to buy books, uniform or stationery for their children?**   <br>
 Parents are allowed into the school between 1.45 p.m. to 2.30 p.m. on Wednesday and Friday to purchase books, stationery and uniform from the bookshop.
-
-**Who can I contact to arrange for daily bus service for my children who are attending Palm View Primary School?**   <br>
-We have appointed Loh Gim Chong Transport to provide daily bus services for our students.  Please contact Mr Louis Loh at 9628 4743 or email him at [louis@mybus.com.sg](mailto:louis@mybus.com.sg) to sign up for the daily bus services.   
   
 **How do I contact the school vendors i.e. Bookshop, School Bus Operators, Dental Clinic, Student Care Centre?** <br>
 You may find the contact details **[here](/for-parents/service-providers/)**.
