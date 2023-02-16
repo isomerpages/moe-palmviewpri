@@ -4,7 +4,6 @@ permalink: /palm-view-experience/Character-and-Citizen-Education/
 description: ""
 third_nav_title: Character & Citizen Education
 ---
-
 ## CHARACTER & CITIZENSHIP EDUCATION
 
 **Vision**
@@ -67,9 +66,6 @@ Our P6s get to interact with selected speakers to learn more about their occupat
 <figure>
 <img src="/images/R3ich for Your Dream.jpeg" style="width:49%" align=left>
 <img src="/images/R3ich for your dream3.jpeg" style="width:49%" align=right>
-	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<figcaption>Students dressing up in their dream occupations.
- </figcaption>
 </figure>
 
 **Values in Action (VIA) Programme** <br>
@@ -83,5 +79,3 @@ The school-wide programmes include the training <br>
 • Clean & Green programmes
 
 The level-based programmes are designed in alignment with the head, heart and hands approach. Thus, the students not only feel a sense of empathy for another individual but are inspired to make the community a better place for everyone.
-
-<img src="/images/photo_6278328153743143275_m.jpg" style="width:49%" align=left> <br clear="left">
