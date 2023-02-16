@@ -14,12 +14,6 @@ At Palm View Primary School, we recognise our students to be digital natives and
 
 This is actualised through programmes and activities implemented through the various subject disciplines to provide opportunities for our students to connect, grow and innovate not only with class content, but also with each other, and the world around them.
 
-<figure> //**image size exceeded 5mb, unable to upload**
-<img src="/images/P1 student using the chromebook (1).jpg" style="width:90%">
-<figcaption>Student using a Chromebook in the classroom.
- </figcaption>
-</figure>
-
 <figure>
 <img src="/images/L06-Comlabs01 (1).jpg" style="width:90%">
 <figcaption>Students enjoying activities in the Computer Lab.
