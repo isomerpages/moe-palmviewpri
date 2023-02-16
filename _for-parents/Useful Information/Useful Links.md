@@ -11,6 +11,9 @@ third_nav_title: Useful Information
 
 **Parents Portal** <br>
 **[Parent Gateway](https://sites.google.com/plvps.edu.sg/plvpsparentsgateway/home)**
+<br>
+[OPAC](https://schoolibrary.moe.edu.sg/palmviewpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+<br>
 
 **Other Resources** <br>
 **[Methodist Welfare Services](https://mws.sg/)** <br>
