@@ -19,9 +19,9 @@ links:
         url: /palm-view-experience/Physical-Education/
       - title: Aesthetics
         url: /palm-view-experience/Aesthetics/
-      - title: Info & Comm Tech
+      - title: ICT
         url: /palm-view-experience/information-and-communication-tech/
-      - title: Character & Citizenship Edu
+      - title: CCE
         url: /palm-view-experience/Character-and-Citizen-Education/
       - title: Co-Curricular Activities
         url: /palm-view-experience/co-curricular-activities/
@@ -34,16 +34,14 @@ links:
   - title: For Parents
     url: /for-parents/school-calendar/
     sublinks:
-      - title: School Calander
+      - title: School Calendar
         url: /for-parents/school-calendar/
-      - title: Palm View Connection
-        url: https://sites.google.com/plvps.edu.sg/student-intranet/school-bulletin?authuser=0
       - title: Home-School Partnership
         url: /for-parents/home-school-partnership/
       - title: Parent Support Group
         url: /for-parents/Parent-Support-Group/
       - title: SLS Troubleshooting
-        url: https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#
+        url: https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html
       - title: Useful Information
         url: /for-parents/Useful-Links/
   - title: Contact Us
