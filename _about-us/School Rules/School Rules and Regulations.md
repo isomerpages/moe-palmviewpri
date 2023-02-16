@@ -29,11 +29,6 @@ third_nav_title: School Rules
 ### Attire
 
 * Students are to wear the prescribed school uniform and modification to the uniform is strictly not allowed. They are to wear the school uniform with plain white shoes and socks.
-* The school has introduced coloured name tags for each incoming cohort since 2018. This provides a unique identity for each level and build a sense of belonging to for our students. The coloured name tags for the 2019 Primary 1 students will be green.
-
-![](/images/Sch%20Uniform%20Website.png)
-
-![](/images/Sch%20PE%20Uniform%20Website.png)
 
 ### Grooming
 
@@ -42,11 +37,9 @@ third_nav_title: School Rules
 | •     Hair at shoulder-length should not touch the blouse collar.<br><br>•     Long hair should be neatly plaited/ tied.<br><br>•     Fringe must be short and above the eyebrows.<br><br>•     Only black hair band/ribbon/rubber band/hair clip is allowed. | •     Hair should be neatly cropped and not touch the eyes, shirt collar or ears.<br><br>•     Unkempt and messy, as well as thickly-gelled hairstyles are not allowed.<br><br>•     Face should be clean-shaven and not to spot beard or moustache.<br><br>•     No facial hair is allowed. |
 | | |
 
-No colouring of hair is allowed.
-
-Nails must be kept short and clean and no nail polish is allowed.
-
-No decorative body art is allowed on any part of the body.
+* No colouring of hair is allowed.
+* Nails must be kept short and clean and no nail polish is allowed.
+* No decorative body art is allowed on any part of the body.
 
 **Valuable jewellery (gold chains, rings and bangles) and/or costume jewellery are not to be worn to school. Earring studs, if any, are only to be worn by girls and should be plain and non-fanciful. The size of the studs should be small, covering only the pierced hole. Not more than one pair of earring studs should be worn at any one time. Religious articles such as talisman, medallions, and/or prayer beads which are not part of the school uniform should not be worn to school.**
 
