@@ -16,4 +16,5 @@ sections:
           url: /plvps/featured-news
       title: Inspiring Excellence
       subtitle: Palm View Primary School
+      background: /images/web_banner 1.png
 ---
