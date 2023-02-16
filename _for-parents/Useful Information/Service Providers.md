@@ -40,10 +40,10 @@ third_nav_title: Useful Information
 
 |  |  |
 |:---:|:---:|
-| **Company:** | Arcelie Bus Service |
-| **Telephone:** | Mr Lim (90982622)<br>Mr Mok (82816868) |
-| **Fax:** | NA |
-| **Email:** | mel_8088@yahoo.com.sg |
+| **Company:** | Pro-Teach Education Group (Palm View) Pte Ltd |
+| **Telephone:** | 63882125<br>
+| **Fax:** | 63883134 |
+| **Email:** | palmview@pro-teach.com |
 
 ### Dental Clinic
 
