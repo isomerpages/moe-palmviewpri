@@ -32,7 +32,7 @@ Students are to arrive in school and be ready for morning assembly by 7.30 a.m. 
 | | |
 | --- | --- |
 | a. Gate A (drive in and drop-off) | Mondays to Friday: 6.40 a.m. to 7.20 a.m. <br> 1.45 p.m. to 2.25 p.m. |
-| b Gate B, C & D | Mondays to Friday: 6.40 a.m.to 7.20 a.m. <br> 1.30 p.m.to 1.50 p.m. |
+| b. Gate B, C & D | Mondays to Friday: 6.40 a.m.to 7.20 a.m. <br> 1.30 p.m.to 1.50 p.m. |
 | | |
 
 ### School Safety and Security
