@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/web banner (1280x580)72dpi.png
+      background: /images/web banner (1280x580) version 2 150ppi.png
       key_highlights:
         - title: Palm View Connection
           description: ""
