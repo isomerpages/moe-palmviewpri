@@ -11,11 +11,10 @@ sections:
       key_highlights:
         - title: Palm View Connection
           description: ""
-          url: /plvps/palm-view-connection
+          url: https://drive.google.com/drive/u/0/folders/1VM7pXX8i5Upvvdjg65RvQKxFvJ-24gMV
         - title: Featured News
           description: ""
           url: /plvps/featured-news
       title: Inspiring Excellence
       subtitle: Palm View Primary School
 ---
-
