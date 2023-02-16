@@ -39,5 +39,3 @@ The school uses the affordance of ICT to help students to understand mathematica
 
 #### Enrichment Programmes  
 The school plans enrichment programmes for upper primary students with an aptitude for mathematics. Selected P4 and P5 students will also be invited to join the E2K programme. There are various competitions that selected students can participate in. Some of these  mathematics competitions are Singapore Mathematical Olympiad for Primary Schools (SMOPS), National Mathematical Olympiad of Singapore (NMOS) and Annual Mathlympics.
-
-<img src="/images/photo_6278328153743143275_m.jpg" style="width:30%" align=left> <br clear="left">
