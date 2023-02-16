@@ -9,9 +9,4 @@ Students are to wear the prescribed school uniform and PE attire. Modification t
 
 The school has introduced coloured name tags for each incoming cohort since 2018. This provides a unique identity for each level and builds a sense of belonging for our students. The coloured name tags for the 2023 Primary 1 students will be blue.
 
-
-
-
-
-
 ![](/images/SchUniform%202.jpg)
