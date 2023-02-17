@@ -14,6 +14,7 @@ third_nav_title: Home School Partnership
 
 #### Briefing by School Leaders (2023)
 
-*
+*  [Lower Primary](/files/For%20Parents%20(2023)/Lower%20Pri%20Parents'%20Briefing%20Slides%20-%2017%20Feb%202023%20Final_V2.pdf)
+
 * [Middle Primary](/files/For%20Parents%20(2023)/Middle%20Pri%20Briefing%20to%20Parents%20on%2010%20Feb%202023%20Final.pdf)
 * [Upper Primary](/files/For%20Parents%20(2023)/Upper%20Primary%20Briefing%20to%20Parents%20on%203%20Feb%202023.pdf)
