@@ -17,7 +17,8 @@ third_nav_title: Useful Information
 
 **Other Resources** <br>
 **[Methodist Welfare Services](https://mws.sg/)** <br>
-
+[Primary School Education Booklet – Preparing Your Child for Tomorrow](/files/For%20Parents%20(2023)/primary-school-education-booklet.pdf)
+<br>
 **[MOE Website](https://www.moe.gov.sg/)**
 <br>
 **[Schoolbag](http://schoolbag.sg/)**
