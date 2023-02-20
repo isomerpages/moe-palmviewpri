@@ -1,15 +1,51 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/pvlogo.jpg
 links:
+  - title: ABOUT US
+    collection: about-us
+  - title: Palm View Experience
+    url: /palm-view-experience/learning-for-lifeProgramme/
+    sublinks:
+      - title: Niche Programmes
+        url: /palm-view-experience/learning-for-lifeProgramme/
+      - title: English Language
+        url: /palm-view-experience/english-language/
+      - title: Mother Tongue Languages
+        url: /palm-view-experience/chinese-language/
+      - title: Mathematics
+        url: /palm-view-experience/mathematics/
+      - title: Science
+        url: /palm-view-experience/science/
+      - title: Physical Education
+        url: /palm-view-experience/Physical-Education/
+      - title: Aesthetics
+        url: /palm-view-experience/Aesthetics/
+      - title: ICT
+        url: /palm-view-experience/information-and-communication-tech/
+      - title: CCE
+        url: /palm-view-experience/Character-and-Citizen-Education/
+      - title: Co-Curricular Activities
+        url: /palm-view-experience/co-curricular-activities/
+      - title: Student Leadership
+        url: /palm-view-experience/student-leadership/
+      - title: Student Development
+        url: /palm-view-experience/student-development/
+      - title: E-Arts @ PLVPS
+        url: /palm-view-experience/e-arts-at-plvps/
+  - title: For Parents
+    url: /for-parents/school-calendar/
+    sublinks:
+      - title: School Calendar
+        url: /for-parents/school-calendar/
+      - title: Home-School Partnership
+        url: /for-parents/home-school-partnership/
+      - title: Parent Support Group
+        url: /for-parents/Parent-Support-Group/
+      - title: SLS Troubleshooting
+        url: https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html
+      - title: Useful Information
+        url: /for-parents/Useful-Links/
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    sublinks:
+      - title: Frequently Asked Questions
+        url: /contact-us/fre-asked-qn/

@@ -1,0 +1,25 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - CoCurricular Activities.md
+      - Clubs And Societies/.keep
+      - Clubs And Societies/Club And Societies.md
+      - Clubs And Societies/Art Club.md
+      - Clubs And Societies/Robotics Club.md
+      - Clubs And Societies/Science Club.md
+      - Performing Arts/.keep
+      - Performing Arts/Performing Arts.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Drama Club.md
+      - Performing Arts/Modern Dance.md
+      - Sports/.keep
+      - Sports/Sports.md
+      - Sports/Badminton.md
+      - Sports/Basketball.md
+      - Sports/Netball.md
+      - Sports/Football.md
+      - Sports/Table Tennis.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Groups.md
+      - Uniformed Groups/Red Cross.md

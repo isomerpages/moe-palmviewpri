@@ -1,32 +1,20 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Palm View Primary School
+description: Official Website for Palm View Primary School
+image: /images/pvlogo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      key_highlights:
+        - title: Palm View Connection
+          description: ""
+          url: https://drive.google.com/drive/u/0/folders/1VM7pXX8i5Upvvdjg65RvQKxFvJ-24gMV
+        - title: Featured News
+          description: ""
+          url: /plvps/featured-news
+      title: Inspiring Excellence
+      subtitle: Palm View Primary School
+      background: /images/web_banner 1.png
 ---
-
