@@ -69,7 +69,6 @@ Music |Mr Bryon Luo<br>65080-662<br>[luo\_youde\_bryon@moe.edu.sg](mailto:luo\_y
 |
 | Physical Education & Health Education | Mrs Michelle Khoo (SH, Physical Education & CCA)<br>65087-278<br>[lee\_jing\_wen\_michelle@moe.edu.sg](mailto:lee\_jing\_wen\_michelle@moe.edu.sg) |
 Physical Education & Health Education | Ms Josephine Teow<br>65087-279<br>[josephine\_teow@moe.edu.sg](mailto:josephine\_teow@moe.edu.sg)
-Physical Education & Health Education | Mrs Michelle Khoo (SH, Physical Education & CCA)<br>65087-278<br>[lee\_jing\_wen\_michelle@moe.edu.sg](mailto:lee\_jing\_wen\_michelle@moe.edu.sg)
 Physical Education & Health Education | Ms Nazurah<br>65087-275<br>[nazurah\_syazana\_nordin@moe.edu.sg](mailto:nazurah\_syazana\_nordin@moe.edu.sg)
 Physical Education & Health Education | Mr Bakri<br>65087-300 (ext. 653)<br>[ahmad\_bakri\_marfi@moe.edu.sg](mailto:ahmad\_bakri\_marfi@moe.edu.sg)
 |
