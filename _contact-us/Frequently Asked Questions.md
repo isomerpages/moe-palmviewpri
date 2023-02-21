@@ -31,5 +31,5 @@ In line with our school’s R3ICH values of responsibility and resilience, we wo
 All the parking lots in the school are reserved for season parking. We do not have any visitors’ parking lots available. We seek your understanding to park at nearby public car parks should you require ad-hoc or short-term parking when you visit the school. Click **[here](/for-parents/pearking-facilities-near-school/)** for the nearest public parking.
 
 **Technical Assistance**<br>
-**Q: How do I find technical assistance for the various school digital platforms i.e. SLS, Learning portals, Student Intranet?** <br>
+**Q: How do I find technical assistance for the various school digital platforms i.e. SLS, Learning portals, Student iCON, etc?** <br>
 A: Please contact our ICT Service Help Desk at [ICT_Service_Request@plvps.edu.sg](mailto:ICT_Service_Request@plvps.edu.sg).
