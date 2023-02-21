@@ -69,6 +69,6 @@ Malay Language| Mdm Nabilah<br>65087-319<br>[nabilah\_abdul\_rahman@moe.edu.sg](
  Social Studies | Mdm Josephine Kee<br>65067-342<br>[kee\_wan\_cheng@moe.edu.sg](mailto:kee\_wan\_cheng@moe.edu.sg) 
  Social Studies | Mr Isa<br>65067-346<br>[mohamed\_isa\_b\_osman@moe.edu.sg](mailto:mohamed\_isa\_b\_osman@moe.edu.sg) 
 |
-| Physical Education and Health Education | Mr Nadeem<br>65087-276)<br>[mohamed\_nadeem@moe.edu.sg](mailto:mohamed\_nadeem@moe.edu.sg) |
+| Physical Education and Health Education | Mr Nadeem<br>65087-276<br>[mohamed\_nadeem@moe.edu.sg](mailto:mohamed\_nadeem@moe.edu.sg) |
 Physical Education and Health Education | Mr Hisham (HOD, PE & CCA)<br>65087-309<br>[hisham\_b\_spono@moe.edu.sg](mailto:hisham\_b\_spono@moe.edu.sg) |
 Physical Education and Health Education | Ms Valerie Koh<br>65087-277)<br>[valerie\_koh\_sock\_hwee@moe.edu.sg](mailto:valerie\_koh\_sock\_hwee@moe.edu.sg) |
