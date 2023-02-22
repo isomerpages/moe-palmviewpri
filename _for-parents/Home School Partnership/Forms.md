@@ -19,7 +19,7 @@ third_nav_title: Home School Partnership
 11.  **[Request Form for Updating of Student's Official Address](/files/Form%20C%20(Address%20Updates).pdf)**
 12.  **[Standing Order for Use of Edusave Account (For Singaporeans)](/files/Standing%20Order%20for%20use%20of%20Edusave%20ac(for%20Singaporeans).pdf)**
 13.  **[Leaving Mainstream School](/files/Mainstream%20School%20Leaver%20form.pdf)**
-14.  **[MOE Student Group Personal Accident Insurance (Online Claim Form)](/files/GPA%20Product%20Fact%20Sheet%202022.pdf)**
+14. **[MOE Student Group Personal Accident Insurance (Online Claim Form)](/files/For%20Parents%20(2023)/Student%20GPA%20Claims%20Procedure.pdf)**
 15.  **[Request Form for Updating Parents' or Legal Guardian's Particulars](/files/Request%20form%20for%20Updating%20Parents'%20or%20Legal%20Guardian's%20Particulars%20(Form%20A).pdf)**
 16.  **[Request Form for Updating of Caregiver's Particulars](/files/Request%20form%20for%20Updating%20of%20Caregiver's%20Particulars%20(Form%20B2).pdf)**
 17.  **[Request Form for Authorised Caregiver](/files/Request%20form%20for%20Authorised%20Caregiver%20(Form%20B1).pdf)**
