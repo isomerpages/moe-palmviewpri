@@ -11,7 +11,7 @@ third_nav_title: Home School Partnership
 3. **[Application for Leave of Absence (LOA)](https://form.gov.sg/60d2be21dfd78e00127ccc5c)**
 4. **[MOE FAS Application Form](/files/GGAS_Application%20Form.pdf)**
 5. **[P1 Registration Phase 2B Parent Volunteer Application Form](/files/Application%20as%20Parent%20Volunteer%20for%20P1%20Phase%202B%20Registration.pdf)**
-6.  [MOE Termination of Interbank GIRO form](/files/For%20Parents%20(2023)/Termination%20of%20Interbank%20Giro.pdf)
+6. **[Termination of Interbank GIRO Form](/files/For%20Parents%20(2023)/Termination%20of%20Interbank%20Giro.pdf)**
 7.  **[Termination of Standing Order (Fees and Programmes](/files/Termination%20of%20Edusave%20Standing%20Order%20(fees%20and%20programmes).pdf)**
 8.  **[Informing School of Child's Absence during Term Time (Singapore Citizens and Permanent Residents)](/files/Informing%20Sch%20of%20Child%20Absence%20during%20Term%20Time%20SCs%20and%20PRs.pdf)**
 9.  **[Informing School of Child's Absence during Term Time (International Students)](/files/Informing%20Sch%20of%20Child%20Absence%20during%20Term%20Time%20International%20Students.pdf)**
