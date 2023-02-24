@@ -16,7 +16,7 @@ third_nav_title: Our People
 | 2 Da Vinci | Mdm Siti Nurmunirah<br>65080-656<br>[siti\_nurmunirah\_mohd\_arsad@moe.edu.sg](mailto:siti\_nurmunirah\_mohd\_arsad@moe.edu.sg)| Mrs Gracelyn Tham<br>65067-648<br>[lim\_ai\_zhen\_gracelyn@moe.edu.sg](mailto:lim\_ai\_zhen\_gracelyn@moe.edu.sg)|
 | 2 Edison |Mdm Siti Nur Haliza<br>65067-347<br>[siti\_nur\_haliza@moe.edu.sg](mailto:siti\_nur\_haliza@moe.edu.sg)| Mdm Jane Mah / 马老师<br>65087-267<br>[mah\_zhiwei\_jane@moe.edu.sg](mailto:mah\_zhiwei\_jane@moe.edu.sg)|
 | 2 Frank |Ms Tabigail Hung<br>65080-657<br>[hung\_shao\_hui\_tabigail@moe.edu.sg](mailto:hung\_shao\_hui\_tabigail@moe.edu.sg)| Mr Noel Chan<br>65083-173<br>[noel\_chan\_tze\_sunn@moe.edu.sg](mailto:noel\_chan\_tze\_sunn@moe.edu.sg)|
-| 2 Galileo | Ms Rachel Loh)<br>65067-640<br>[loh\_hui\_xian\_rachel@moe.edu.sg](mailto:loh\_hui\_xian\_rachel@moe.edu.sg)| Mdm Zhang Yue / 张老师<br>65087-262<br>[zhang\_yue\_a@moe.edu.sg](mailto:zhang\_yue\_a@moe.edu.sg)|
+| 2 Galileo | Ms Rachel Loh<br>65067-640<br>[loh\_hui\_xian\_rachel@moe.edu.sg](mailto:loh\_hui\_xian\_rachel@moe.edu.sg)| Mdm Zhang Yue / 张老师<br>65087-262<br>[zhang\_yue\_a@moe.edu.sg](mailto:zhang\_yue\_a@moe.edu.sg)|
 | 2 Hillary | Mrs Serene Yue<br>65067-345<br>[wong\_may\_san\_serene@moe.edu.sg](mailto:wong\_may\_san\_serene@moe.edu.sg)| Mdm Cheong Lee Chin / 张老师 (ST, Chinese)<br>65087-260<br>[cheong\_lee\_chin@moe.edu.sg](mailto:cheong\_lee\_chin@moe.edu.sg)|
 | 2 Keller | Mdm Radiah<br>65067-341<br>[radiah\_rahmat@moe.edu.sg](mailto:radiah\_rahmat@moe.edu.sg)| Mrs Michelle Khoo (SH, Physical Education & CCA)<br>65087-278<br>[lee\_jing\_wen\_michelle@moe.edu.sg](mailto:lee\_jing\_wen\_michelle@moe.edu.sg)|
 | | | |
