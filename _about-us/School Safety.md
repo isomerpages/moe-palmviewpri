@@ -30,7 +30,7 @@ According to MOE CW framework, the three principles, ‘Respect for Self and Oth
 
 ### School Emergency Preparedness (EP)
 
-The school has procedures in place to respond to and take appropriate measures corresponding to the severity and extent of any impending emergencies. Each year, two emergency exercises will be conducted to equip our staff and students with the necessary knowledge and skills to respond in the event of an emergency. 
+The school has procedures in place to respond to and take appropriate measures corresponding to the severity and extent of any impending emergencies. Each year, emergency exercises will be conducted to equip our staff and students with the necessary knowledge and skills to respond in the event of an emergency. 
 
 Do refer to the SGSecure website, [www.sgsecure.sg](http://www.sgsecure.sg/), for more information on the community’s response to the threat of terrorism. SGSecure is a national movement to sensitise, train and mobilise Singaporeans to play a part to prevent and deal with a terrorist attack. It is our community’s response to safeguard our way of life against terrorism and community strife. 
 
