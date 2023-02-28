@@ -16,6 +16,5 @@ third_nav_title: Our People
 |   Corporate Support Officer | Mdm Asiah Bte K. Mohamed |
 |   Corporate Support Officer | Ms Nur Alifah Mohamad Nordin  |
 |   Corporate Support Officer |  Mdm Esther Tan |
-| Library Assistant | Mdm Tan Mong Sze |
-|  Operations Support Officers | Mdm Yvonne Keh<br>Mdm Sushila Devi d/o Suppiah<br>Mr Alex Lim<br>Mdm Lum Yoke Har<br>Mr Ng Swee Meng |
+|  Operations Support Officers | Mdm Yvonne Keh<br>Mdm Sushila Devi d/o Suppiah<br>Mr Alex Lim<br>Mdm Phad Wongchai<br>Mr Ng Swee Meng |
 | | |
