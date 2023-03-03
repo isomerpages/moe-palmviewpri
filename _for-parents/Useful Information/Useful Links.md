@@ -14,8 +14,9 @@ third_nav_title: Useful Information
 <br>
 [OPAC](https://schoolibrary.moe.edu.sg/palmviewpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 <br>
-[List of Approved Dictionaries for Examinations](/files/For%20Parents%20(2023)/list_of_dictionaries_for_examination.pdf)
-<br>
+
+**Assessment Resources** <br>
+
 
 **Other Resources** <br>
 [Methodist Welfare Services](https://mws.sg/) 
