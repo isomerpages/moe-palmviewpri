@@ -16,7 +16,7 @@ third_nav_title: Useful Information
 <br>
 
 **Assessment Resources** <br>
-
+[List of Approved Dictionaries for Examinations](/files/For%20Parents%20(2023)/list_of_dictionaries_for_examination.pdf)
 
 **Other Resources** <br>
 [Methodist Welfare Services](https://mws.sg/) 
