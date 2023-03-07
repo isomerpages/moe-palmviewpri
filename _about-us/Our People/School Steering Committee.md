@@ -40,7 +40,7 @@ third_nav_title: Our People
 |  Subject Head,<br>Physical Education & CCA |  Mrs Michelle Khoo |  65087-278<br>lee_jing_wen_michelle@moe.edu.sg
 |  Subject Head,<br>ICT |  Mr Warren Thin |  65087-268<br>[thin_dongqi@moe.edu.sg](mailto:thin_dongqi@moe.edu.sg) |
 |  Subject Head,<br>Aesthetics | Mrs Clara Koh | 65089-455<br>[lim_xiu_fang_clara@moe.edu.sg](mailto:lim_xiu_fang_clara@moe.edu.sg) |
-|  Subject Head,<br>Education Technology | Mrs Quek |  65080-653<br>[lim_jing_jing@moe.edu.sg](mailto:lim_jing_jing@moe.edu.sg) |
+|  Subject Head,<br>Education Technology | Mrs Quek Jing Jing |  65080-653<br>[lim_jing_jing@moe.edu.sg](mailto:lim_jing_jing@moe.edu.sg) |
 | | | | |
 
 ### Teacher Leaders
