@@ -34,7 +34,7 @@ third_nav_title: Our People
  English Language | Mdm Nurul Ain<br>65087-328<br>[nurul\_ain\_mohamad\_ibrahim@moe.edu.sg](mailto:nurul\_ain\_mohamad\_ibrahim@moe.edu.sg) | 
 |
 | Mathematics  | Mdm Leong Fong Fong<br>65080-655<br>[leong\_fong\_fong@moe.edu.sg](mailto:leong\_fong\_fong@moe.edu.sg) |
- Mathematics  | Mrs Quek (SH, Education Technology)<br>65087-300 (ext. 286)<br>[lim\_jing\_jing@moe.edu.sg](mailto:lim\_jing\_jing@moe.edu.sg) |
+ Mathematics  | Mrs Quek Jing Jing (SH, Education Technology)<br>65087-300 (ext. 286)<br>[lim\_jing\_jing@moe.edu.sg](mailto:lim\_jing\_jing@moe.edu.sg) |
   Mathematics  | Mrs Irene Ang (Assistant Year Head, Upper Pri)<br>65089-457<br>[irene\_chia@moe.edu.sg](mailto:irene\_chia@moe.edu.sg) |
  Mathematics  | Mrs Tay Yuyan (ST, Mathematics)<br>65067-642<br>[tay\_yuyan@moe.edu.sg](mailto:tay\_yuyan@moe.edu.sg) |
  Mathematics  |Mdm Josephine Kee<br>65067-342<br>[kee\_wan\_cheng@moe.edu.sg](mailto:kee\_wan\_cheng@moe.edu.sg) |
@@ -42,7 +42,7 @@ third_nav_title: Our People
  Mathematics  |Mr Guna<br>65080-668<br>[sargunan\_ilangovan@moe.edu.sg](mailto:lsargunan\_ilangovan@moe.edu.sg) |
 |
 | Science | Mr Zack<br>65080-664<br>[subramaniyan\_senthil@moe.edu.sg](mailto:subramaniyan\_senthil@moe.edu.sg) |
-Science | Mrs Quek (SH, Education Technology)<br>65080-653<br>[lim\_jing\_jing@moe.edu.sg](mailto:lim\_jing\_jing@moe.edu.sg) |
+Science | Mrs Quek Jing Jing (SH, Education Technology)<br>65080-653<br>[lim\_jing\_jing@moe.edu.sg](mailto:lim\_jing\_jing@moe.edu.sg) |
 Science | Mdm Esther Tay (LH, Science)<br>65087-330<br>[tay\_wei\_jing@moe.edu.sg](mailto:tay\_wei\_jing@moe.edu.sg) |
 Science | Mrs Michelle Wee<br>65080-667<br>[michelle\_tyoh\_whei\_theng@moe.edu.sg](mailto:michelle\_tyoh\_whei\_theng@moe.edu.sg) |
 Science | Mr Kelvin Chia (ST, Science)<br>65080-665<br>[chia\_peng\_lin\_kelvin@moe.edu.sg](mailto:chia\_peng\_lin\_kelvin@moe.edu.sg) |
