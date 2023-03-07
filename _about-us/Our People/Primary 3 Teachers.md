@@ -46,7 +46,7 @@ Science | Mrs Tan Lirong <br>65080-669<br>[sun\_lirong@moe.edu.sg](mailto:sun\_l
 Science | Ms Jo Ko <br>65089-461<br>[ko\_hiang@moe.edu.sg](mailto:ko\_hiang@moe.edu.sg)|
 Science |Mr John Leong (Assistant Year Head, Middle Pri)<br>65089-462<br>[leong\_john\_woon@moe.edu.sg](mailto:leong\_john\_woon@moe.edu.sg)|
 Science | Mdm Siti Nurmunirah <br>65080-656<br>[siti\_nurmunirah\_mohd\_arsad@moe.edu.sg](mailto:siti\_nurmunirah\_mohd\_arsad@moe.edu.sg)|
-Science | Mrs Quek (SH, Education Technology) <br>65080-653<br>[lim\_jing\_jing@moe.edu.sg](mailto:lim\_jing\_jing@moe.edu.sg)|
+Science | Mrs Quek Jing Jing (SH, Education Technology) <br>65080-653<br>[lim\_jing\_jing@moe.edu.sg](mailto:lim\_jing\_jing@moe.edu.sg)|
 Science | Mdm Josephine Kee <br>65067-342<br>[kee\_wan\_cheng@moe.edu.sg](mailto:kee\_wan\_cheng@moe.edu.sg)|
 |
 | Chinese Language| Mdm Koh Siew Bee<br>65087-261<br>[koh\_siew\_bee@moe.edu.sg](mailto:koh\_siew\_bee@moe.edu.sg)|
