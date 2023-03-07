@@ -10,7 +10,7 @@ third_nav_title: Our People
 
 | Class | Form Teacher | Form Teacher |
 |---|---|---|
-| 5 Aristotle | Ms Jo Ko<br>65089-461<br>[ko\_hiang@moe.edu.sg](mailto:ko\_hiang@moe.edu.sg) |  Mrs Quek (Subject Head, Education Technology)<br>65080-653<br>[lim\_jing\_jing@moe.edu.sg](mailto:lim\_jing\_jing@moe.edu.sg) |
+| 5 Aristotle | Ms Jo Ko<br>65089-461<br>[ko\_hiang@moe.edu.sg](mailto:ko\_hiang@moe.edu.sg) |  Mrs Quek Jing Jing (Subject Head, Education Technology)<br>65080-653<br>[lim\_jing\_jing@moe.edu.sg](mailto:lim\_jing\_jing@moe.edu.sg) |
 | 5 Beethoven | Mdm Leong Fong Fong<br>65080-655<br>[leong\_fong\_fong@moe.edu.sg](mailto:leong\_fong\_fong@moe.edu.sg) | Ms Nazurah<br>65087-275<br>[nazurah\_syazana\_nordin@moe.edu.sg](mailto:nazurah\_syazana\_nordin@moe.edu.sg) |
 | 5 Curie | Mrs Irene Ang (Assistant Year Head, Upper Pri)<br>65089-457<br>[irene\_chia@moe.edu.sg](mailto:irene\_chia@moe.edu.sg) | Ms Fiona Ho / 何老师<br>65087-272<br>[ho\_kok\_luei@moe.edu.sg](mailto:ho\_kok\_luei@moe.edu.sg) |
 | 5 Da Vinci | Mr Kelvin Chia (ST, Science)<br>65080-665<br>[chia\_peng\_lin\_kelvin@moe.edu.sg](mailto:chia\_peng\_lin\_kelvin@moe.edu.sg) | Mrs Chew Yi Xin<br>65087-300 (ext. 291)<br>[tan\_yixin@moe.edu.sg](mailto:tan\_yixin@moe.edu.sg) |
