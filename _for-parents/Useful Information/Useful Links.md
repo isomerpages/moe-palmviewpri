@@ -7,17 +7,20 @@ third_nav_title: Useful Information
 ## USEFUL LINKS
 
 **Student Portals** <br>
-**[SLS Homepage](https://vle.learning.moe.edu.sg/login)**
+[SLS Homepage](https://vle.learning.moe.edu.sg/login)
 
 **Parents Portal** <br>
-**[Parent Gateway](https://sites.google.com/plvps.edu.sg/plvpsparentsgateway/home)**
+[Parent Gateway](https://sites.google.com/plvps.edu.sg/plvpsparentsgateway/home)
 <br>
 [OPAC](https://schoolibrary.moe.edu.sg/palmviewpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 <br>
 
+**Assessment Resources** <br>
+[List of Approved Dictionaries for Examinations](/files/For%20Parents%20(2023)/list_of_dictionaries_for_examination.pdf)
+
 **Other Resources** <br>
-**[Methodist Welfare Services](https://mws.sg/)** 
+[Methodist Welfare Services](https://mws.sg/) 
 <br>
-**[MOE Website](https://www.moe.gov.sg/)**
+[MOE Website](https://www.moe.gov.sg/)
 <br>
 [Primary School Education Booklet – Preparing Your Child for Tomorrow](/files/For%20Parents%20(2023)/primary-school-education-booklet.pdf)
