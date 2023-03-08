@@ -38,7 +38,7 @@ Mathematics |Ms Nur Asyikin<br>65067-343<br>[nur\_asyikin\_mohd\_agos@moe.edu.sg
 Mathematics |Ms Foo Shi Rui (LH, Mathematics)<br>65067-645<br>[foo\_shi\_rui@moe.edu.sg](mailto:foo\_shi\_rui@moe.edu.sg) |
 Mathematics |Mrs Priscillia Chen<br>65087-274<br>[tan\_yi\_siu\_priscillia@moe.edu.sg](mailto:tan\_yi\_siu\_priscillia@moe.edu.sg) |
 |
-Science |Mr John Leong (Assistant Year Head, Upper Pri)<br>65089-462<br>[leong\_john\_woon@moe.edu.sg](mailto:leong\_john\_woon@moe.edu.sg) |
+Science |Mr John Leong (Assistant Year Head, Middle Pri)<br>65089-462<br>[leong\_john\_woon@moe.edu.sg](mailto:leong\_john\_woon@moe.edu.sg) |
 Science |Mr Zack<br>65080-664<br>[subramaniyan\_senthil@moe.edu.sg](mailto:subramaniyan\_senthil@moe.edu.sg) |
 Science |Ms Jo Ko<br>65089-461<br>[ko\_hiang@moe.edu.sg](mailto:vko\_hiang@moe.edu.sg) 
 Science |Mrs Priscillia Chen<br>65087-274<br>[tan\_yi\_siu\_priscillia@moe.edu.sg](mailto:tan\_yi\_siu\_priscillia@moe.edu.sg) |
