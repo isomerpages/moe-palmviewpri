@@ -6,4 +6,4 @@ third_nav_title: Parent Support Group
 ---
 ## EXECUTIVE COMMITTEE
 
-<img src="/images/PLVPS EXCO Team for School Website 3.jpg" style="width:100%">
+![](/images/PHOTO-2023-03-21-10-43-00.jpg)
