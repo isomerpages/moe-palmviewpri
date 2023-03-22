@@ -35,7 +35,6 @@ third_nav_title: Our People
 |  Level Head,<br>English Lanugage |  Ms Rebecca Tan En Hui |  65087-327<br>[tan_en_hui_rebecca@moe.edu.sg](mailto:tan_en_hui_rebecca@moe.edu.sg) |
 | Level Head,<br>Science | Mdm Esther Tay | 65087-330<br>[tay_wei_jing@moe.edu.sg](mailto:foo_shi_rui@moe.edu.sg) |
 | Level Head,<br>Mathematics | Ms Foo Shi Rui | 65067-645<br>[foo_shi_rui@moe.edu.sg](mailto:foo_shi_rui@moe.edu.sg) |
-|  Subject Head,<br>ICT |  Mr Warren Thin |  65087-268<br>[thin_dongqi@moe.edu.sg](mailto:thin_dongqi@moe.edu.sg) |
 |  Subject Head,<br>CCE |  Mdm Cheang Ching Ee |  65080-658<br>[cheang_ching_ee@moe.edu.sg](mailto:cheang_ching_ee@moe.edu.sg) |
 |  Subject Head,<br>Physical Education & CCA |  Mrs Michelle Khoo |  65087-278<br>lee_jing_wen_michelle@moe.edu.sg
 |  Subject Head,<br>ICT |  Mr Warren Thin |  65087-268<br>[thin_dongqi@moe.edu.sg](mailto:thin_dongqi@moe.edu.sg) |
