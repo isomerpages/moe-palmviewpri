@@ -49,5 +49,5 @@ third_nav_title: Useful Information
 
 |  |  |
 |:---:|:---:|
-| **Telephone:** | 87461250 |
+| **Telephone:** | 8764 1250 |
 | **Opening hours:** | 8 am to 5.30 pm, Tues and Wed (Closed on Mon, Thurs and Fri)<br><br>Prior appointment required for after-school hours consultation/treatment.<br>In the event of urgent need, parents can contact our buddy clinics at<br><br>* **Yio Chu Kang Primary School:** 63854154<br>* **North Vista Primary School:** 67538332<br>* **Compassvale Primary School:** 63847759 |
