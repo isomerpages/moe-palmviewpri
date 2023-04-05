@@ -3,13 +3,9 @@ title: CoCurricular Activities
 permalink: /palm-view-experience/co-curricular-activities/
 description: ""
 ---
-
-
-
-
 ## CO-CURRICULAR ACTIVITIES
 
-As part of Palm View Primary School commitment towards developing each student holistically, we started our CCA programme for the first batch of Primary Three students in the year 2015. Through CCAs, students discover their interests and talents while developing values and competencies that will prepare them for a rapidly changing world. CCA also promotes friendships among students from diverse backgrounds as they learn, play and grow together. Participation in CCA fosters social integration and deepens students’ sense of belonging, commitment and sense of responsibility to school, community and nation.
+As part of Palm View Primary School commitment towards developing each student holistically, we started our CCA programme for the first batch of Primary Three students in the year 2015.&nbsp;Through CCAs, students discover their interests and talents while developing values and competencies that will prepare them for a rapidly changing world. CCA also promotes friendships among students from diverse backgrounds as they learn, play and grow together. Participation in CCA fosters social integration and deepens students’ sense of belonging, commitment and sense of responsibility to school, community and nation.
 
 The school will be offering the following CCAs: 
 
@@ -18,6 +14,7 @@ The school will be offering the following CCAs:
 | CCA | Teacher In Charge |
 |:---:|:---:|
 | Art Club | Mr Matthias Seet<br>65080-661<br>[seet_qin_fong@moe.edu.sg](mailto:seet_qin_fong@moe.edu.sg) |
+| Infocomm Club | Ms Germaine Quek<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine_quek_jiamin@moe.edu.sg) |
 | Robotics Club | Miss Priscilla Teng<br>65087-326<br>[teng_yu_hui_priscilla@moe.edu.sg](mailto:teng_yu_hui_priscilla@moe.edu.sg) |
 | Science Club | Mr Shuan Png<br>65080-666<br>[png_jia_shun@moe.edu.sg](mailto:png_jia_shun@moe.edu.sg) |
 
