@@ -34,5 +34,3 @@ third_nav_title: Useful Information
 *   Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
 Shortlised applicants will be notifed for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.
-
-
