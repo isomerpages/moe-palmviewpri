@@ -58,4 +58,4 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 
 **CCE(FTGP) THEME: Growing Years**
 
-Please click [here](/files/Growing%20Years%20Programme%202023.pdf) for the lesson overview.
+Please click [[here](/files/updated%20gyp%20for%20website.pdf)] for the lesson overview
