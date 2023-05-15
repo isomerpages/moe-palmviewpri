@@ -7,7 +7,8 @@ third_nav_title: Character & Citizen Education
 ## GROWING YEARS
 
 PALM VIEW PRIMARY SCHOOL
-</br>Moe Sexuality Education in Schools
+
+Moe Sexuality Education in Schools
 
 1.	Sexuality Education in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. Sexuality Education covers the following dimensions of a person’s sexuality: 
 
@@ -57,11 +58,4 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 
 **CCE(FTGP) THEME: Growing Years**
 
-Please click [here](/files/Growing%20Years%20Programme%202023.pdf) for the lesson overview.
-
-
-
-
-
-
-
+Please click [[here](/files/updated%20gyp%20for%20website.pdf)] for the lesson overview
