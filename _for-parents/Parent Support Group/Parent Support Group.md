@@ -19,6 +19,6 @@ The&nbsp;PSG&nbsp;volunteers their time to plan and conduct the school’s progr
 
 **Join us**
 Please access the PSG Registration Form Link using the following QR code.
-![](/images/psg%20qr%20code%20(updated%20may%202023).jpg)
+![](/images/psg%20qr%20code%20(updated%2015%20may%202023).jpg)
 
 For the latest updates of PSG activities, please go to our Facebook page for details.
