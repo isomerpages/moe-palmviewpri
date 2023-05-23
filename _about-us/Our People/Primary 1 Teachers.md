@@ -27,9 +27,8 @@ third_nav_title: Our People
 | Art | Mr Fong Yan Kin (LT, Art)<br>65087-300 (ext. 126)<br>[fong_yan_kin@moe.edu.sg](mailto:fong_yan_kin@moe.edu.sg) |
 | Art |Mrs Chew Yi Xin<br>65087-300 (ext. 291)<br>[tan\_yixin@moe.edu.sg](mailto:tan\_yixin@moe.edu.sg) |
 |
-| English Language | Ms Esther Quek<br>65089-453<br>[quek_jia_en_esther@moe.edu.sg](mailto:quek_jia_en_esther@moe.edu.sg) |
+| English Language | Ms Nabilah <br>65089-452<br>[nabilah\_abdullah@moe.edu.sg](mailto:nabilah\_abdullah@moe.edu.sg) |
 | English Language | Mrs Grace Chua<br>65089-468<br>[grace\_lim\_hui\_leng@moe.edu.sg](mailto:grace\_lim\_hui\_leng@moe.edu.sg) |
-| English Language | Ms Esther Quek<br>65089-453<br>[quek_jia_en_esther@moe.edu.sg](mailto:quek_jia_en_esther@moe.edu.sg) |
 | English Language | Mrs Melanie Lau (Year Head, Lower Pri)<br>65087-322<br>[chew\_mun\_piau@moe.edu.sg](mailto:chew\_mun\_piau@moe.edu.sg) |
 | English Language | Mdm Hailwa<br>65067-641<br>[hailwa\_moree@moe.edu.sg](mailto:hailwa\_moree@moe.edu.sg) |
 | English Language | Ms Shannon Lim<br>65080-659<br>[lim\_eu\_li@moe.edu.sg](mailto:lim\_eu\_li@moe.edu.sg) |
