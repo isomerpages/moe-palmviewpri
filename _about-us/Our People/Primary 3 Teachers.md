@@ -30,6 +30,7 @@ English Language | Ms Tabigail Hung<br>65080-657<br>[hung\_shao\_hui\_tabigail@m
 English Language |Mr Theva (HOD, Student Management)<br>65083-170<br>[thevarajan\_nagarajan@moe.edu.sg](mailto:thevarajan\_nagarajan@moe.edu.sg)|
 English Language | Mrs Serene Yue<br>65067-345<br>[wong\_may\_san\_serene@moe.edu.sg](mailto:wong\_may\_san\_serene@moe.edu.sg)|
 English Language | Mr&nbsp;Isa<br>65067-346<br>[mohamed\_isa\_b\_osman@moe.edu.sg](mailto:mohamed\_isa\_b\_osman@moe.edu.sg)|
+English Language | Ms Vanna Ong<br>65067-348<br>[vanna\_ong\_limei@moe.edu.sg](mailto:vanna_ong_limei@moe.edu.sg)|
 English Language | Ms Rachel Loh<br>65067-640<br>[loh\_hui\_xian\_rachel@moe.edu.sg](mailto:loh\_hui\_xian\_rachel@moe.edu.sg)|
 |
 | Mathematics | Mdm Esther Tay (LH, Science) <br>65087-330<br>[tay\_wei\_jing@moe.edu.sg](mailto:tay\_wei\_jing@moe.edu.sg)|
