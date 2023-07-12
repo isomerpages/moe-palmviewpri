@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - SLS Troubleshooting.md
       - School Calendar.md
       - Home School Partnership/.keep
       - Home School Partnership/Level Briefing.md
@@ -13,10 +12,11 @@ collections:
       - Parent Support Group/Parent Support Group.md
       - Parent Support Group/Executive Committee.md
       - Parent Support Group/Contact Us.md
-      - Useful Information/School Canteen Advertisement.md
       - Useful Information/.keep
+      - Useful Information/School Canteen Advertisement.md
       - Useful Information/Useful Links.md
       - Useful Information/Service Providers.md
       - Useful Information/School Gates.md
       - Useful Information/Parking Facilities Near School.md
       - Useful Information/2023 School Booklist.md
+      - SLS Troubleshooting.md
