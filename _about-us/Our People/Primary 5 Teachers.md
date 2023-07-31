@@ -41,7 +41,7 @@ third_nav_title: Our People
  Mathematics  | Mr Shaun Png<br>65080-666<br>[png\_jia\_shun@moe.edu.sg](mailto:png\_jia\_shun@moe.edu.sg) |
  Mathematics  |Mr Sargunan<br>65080-668<br>[sargunan\_ilangovan@moe.edu.sg](mailto:lsargunan\_ilangovan@moe.edu.sg) |
 |
-| Science | Mr&nbsp;Zack<br>65080-664<br>[subramaniyan\_senthil@moe.edu.sg](mailto:subramaniyan\_senthil@moe.edu.sg) |
+| Science | Mr Senthil (Zack)<br>65080-664<br>[subramaniyan\_senthil@moe.edu.sg](mailto:subramaniyan\_senthil@moe.edu.sg) |
 Science | Mrs Quek Jing Jing (SH, Education Technology)<br>65080-653<br>[lim\_jing\_jing@moe.edu.sg](mailto:lim\_jing\_jing@moe.edu.sg) |
 Science | Mdm Esther Tay (LH, Science)<br>65087-330<br>[tay\_wei\_jing@moe.edu.sg](mailto:tay\_wei\_jing@moe.edu.sg) |
 Science | Mrs Michelle Wee<br>65080-667<br>[michelle\_tyoh\_whei\_theng@moe.edu.sg](mailto:michelle\_tyoh\_whei\_theng@moe.edu.sg) |
