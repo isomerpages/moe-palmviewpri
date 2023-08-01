@@ -36,7 +36,7 @@ Mathematics | Mrs Jodie Siow<br>65087-316<br>[yeo\_mui\_hong@moe.edu.sg](mailto:
 Mathematics | Mr Shaun Png<br>65080-666<br>[png\_jia\_shun@moe.edu.sg](mailto:png\_jia\_shun@moe.edu.sg)
 Mathematics | Ms Nur Asyikin<br>65067-343<br>[nur\_asyikin\_mohd\_agos@moe.edu.sg](mailto:nur\_asyikin\_mohd\_agos@moe.edu.sg)
 Mathematics | Mrs Priscillia Chen<br>65087-274<br>[tan\_yi\_siu\_priscillia@moe.edu.sg](mailto:tan\_yi\_siu\_priscillia@moe.edu.sg)
-Mathematics | Mr Guna<br>65080-668<br>[khoo\_yun\_xuan\_candice@moe.edu.sg](mailto:khoo\_yun\_xuan\_candice@moe.edu.sg)
+Mathematics | Mr Sargunan<br>65080-668<br>[sargunan_ilangovan@moe.edu.sg](mailto:sargunan_ilangovan@moe.edu.sg)
 |
 | Science | Ms Nur Asyikin<br>65067-343<br>[nur\_asyikin\_mohd\_agos@moe.edu.sg](mailto:nur\_asyikin\_mohd\_agos@moe.edu.sg)|
 Science | Mr Gerald Wong (HOD, Science)<br>65087-313<br>[gerald\_wong\_yew\_meng@moe.edu.sg](mailto:gerald\_wong\_yew\_meng@moe.edu.sg)|
