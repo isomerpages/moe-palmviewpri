@@ -4,21 +4,21 @@ permalink: /palm-view-experience/Character-and-Citizen-Education/
 description: ""
 third_nav_title: Character & Citizen Education
 ---
-## CHARACTER & CITIZENSHIP EDUCATION
+## CHARACTER &amp; CITIZENSHIP EDUCATION
 
 **Vision**
 
 Curious Minds, Caring Hearts, Creative Spirits
 
-**Mission** 
+**Mission**&nbsp;
 
 To develop the whole child to be a force for good in the world.
 
-**Key Programmes/Activities** 
+**Key Programmes/Activities**&nbsp;
 
 Palm View Primary School believes that every student can be nurtured to be a force for good in the world. Thus, we plan programmes to inculcate values and build competencies in our students to develop them to be good individuals and useful citizens.
 
-Our key drivers for Character & Citizenship Education are the: <br>
+Our key drivers for Character &amp; Citizenship Education are the: <br>
 * Character and Citizenship Education Curriculum
 * Social Studies Programme and
 * National Education Programme
@@ -50,7 +50,7 @@ National Education (NE) is part of our holistic education. It strives to develop
 
 **Values Education/FTGP Curriculum** <br>
 As Form Teachers (FTs) play a central role in shaping the holistic development of students, the Form Teacher Guidance Period (FTGP) has been introduced in all primary schools since 2012. <br>
- The objectives of FTGP are to: <br>
+&nbsp;The objectives of FTGP are to:&nbsp;<br>
 \- provide quality interaction time between form teachers and students, and <br>
 \- equip students with social and emotional competencies.
 
@@ -59,23 +59,23 @@ In Palm View, FTGP is conducted from 7.45 a.m. – 8.30 a.m. on Tuesdays for all
 Termly Values Education lesson packages are conducted during these lessons. Explicit teaching of the school core values (R3ICH) are done through stories, songs and rich classroom discussions curated for the students.
 
 **Education and Career Guidance Programme** <br>
-Students are guided with their career plans and choices through the school’s Education and Career Guidance Programme. The  P5 students are given access to the Career Guidance Portal and guided through exposure to the various secondary school choices and industries available. In Palm View, the experience is further enhanced through our R3ICH for Your Dreams Programme, a week-long Education and Career Guidance (ECG) programme which enriches our students’ career awareness and aspirations through the learning of work values from the various professions in the real world. Parents are invited to share their occupations via videos and students were encouraged to dress in their dream occupation.
+Students are guided with their career plans and choices through the school’s Education and Career Guidance Programme. The&nbsp; P5 students are given access to the Career Guidance Portal and guided through exposure to the various secondary school choices and industries available. In Palm View, the experience is further enhanced through our R3ICH for Your Dreams Programme, a week-long Education and Career Guidance (ECG) programme which enriches our students’ career awareness and aspirations through the learning of work values from the various professions in the real world. Parents are invited to share their occupations via videos and students were encouraged to dress in their dream occupation.
 
 Our P6s get to interact with selected speakers to learn more about their occupations and their daily work during the annual Career Seminar Day.
 
 <figure>
-<img src="/images/R3ich for Your Dream.jpeg" style="width:49%" align=left>
-<img src="/images/R3ich for your dream3.jpeg" style="width:49%" align=right>
+<img src="/images/R3ich for Your Dream.jpeg" style="width:49%" align="left">
+<img src="/images/R3ich for your dream3.jpeg" style="width:49%" align="right">
 </figure>
 
 **Values in Action (VIA) Programme** <br>
-Students are encouraged to display positive traits and internalise the values through our level-based and school-wide programmes. 
+Students are encouraged to display positive traits and internalise the values through our level-based and school-wide programmes.&nbsp;
 
-The school-wide programmes include the training <br>
+The school-wide programmes include the training&nbsp;<br>
 • VIA Monitors <br>
 • Wipe Down @ The Classroom <br>
 • Wipe Down @ The Canteen <br>
-• VIA e-Job Cards <br>
-• Clean & Green programmes
+• VIA e-Job Cards&nbsp;<br>
+• Clean &amp; Green programmes
 
 The level-based programmes are designed in alignment with the head, heart and hands approach. Thus, the students not only feel a sense of empathy for another individual but are inspired to make the community a better place for everyone.
