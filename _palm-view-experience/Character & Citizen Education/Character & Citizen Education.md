@@ -63,10 +63,12 @@ Students are guided with their career plans and choices through the school’s E
 
 Our P6s get to interact with selected speakers to learn more about their occupations and their daily work during the annual Career Seminar Day.
 
-<figure>
-<img src="/images/R3ich for Your Dream.jpeg" style="width:49%" align="left">
-<img src="/images/R3ich for your dream3.jpeg" style="width:49%" align="right">
-</figure>
+<table>
+	<tbody><tr>
+		<td><img src="/images/R3ich for Your Dream.jpeg"></td>
+		<td><img src="/images/R3ich for your dream3.jpeg"></td>
+	</tr>
+</tbody></table>
 
 **Values in Action (VIA) Programme** <br>
 Students are encouraged to display positive traits and internalise the values through our level-based and school-wide programmes.&nbsp;
