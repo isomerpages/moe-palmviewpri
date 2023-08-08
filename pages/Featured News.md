@@ -14,4 +14,4 @@ The Edusave Character Award (ECHA) 2023 is now open for nominations. Please down
 
 # E-Arts@PLVPS
 
-Click [Here](https://sites.google.com/view/e-artsplvps-2023/e-artsplvps-ndp-edition) to access the the E-Arts@PLVPS microsite.
+Click [Here](https://sites.google.com/view/e-artsplvps-2023/e-artsplvps-ndp-edition) to access the E-Arts@PLVPS microsite.
