@@ -14,6 +14,9 @@ third_nav_title: Home School Partnership
 #### PSLE Scoring & S1 Posting  (2023)
 * [Primary 6 Parent's Briefing](/files/psle%202023%20-%20parent%20engagement.pdf)
 
+#### Briefing on Subject-Based Banding
+* Primary 4 Parent's Briefing
+
 #### Palm View Primary School Open House   (2023)
 * [2023 School Open House Slides](/files/For%20Parents%20(2023)/2023%20palm%20view%20open%20house%20slides.pdf)
 
