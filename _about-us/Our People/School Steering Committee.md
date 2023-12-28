@@ -50,12 +50,8 @@ Asst Year Head,<br>Middle Primary | Ms Nicholyn Teo |  65087-323<br>[nicholyn_te
 | Designation | Name | Contact Information |
 |:---:|:---:|:---:|
 | Senior Teacher, Malay Language | Mdm Elyani | 65080-654 <br>[elyani_mohamed@moe.edu.sg](mailto:elyani_mohamed@moe.edu.sg) |
-| Senior Teacher, English Language  | Mdm Nurul Ain Binte Mohamad Ibrahim |  65087-328<br>[nurul_ain_mohamad_ibrahim@moe.edu.sg](mailto:nurul_ain_mohamad_ibrahim@moe.edu.sg) |
-| Senior Teacher, Chinese Language | Mdm Cheong Lee Chin | 65087-260<br>[cheong_lee_chin@moe.edu.sg](mailto:cheong_lee_chin@moe.edu.sg) |
-| Senior Teacher, Chinese Language | Mdm Dai Ping | 65087-266<br>[dai_ping@moe.edu.sg](mailto:dai_ping@moe.edu.sg) |
-|  Senior Teacher, Mathematics | Mrs Tay Yuyan  |  65067-642<br>[tay_yuyan@moe.edu.sg](mailto:tay_yuyan@moe.edu.sg) |
+| Senior Teacher, English Language  | Mdm Nurul Ain |  65087-328<br>[nurul_ain_mohamad_ibrahim@moe.edu.sg](mailto:nurul_ain_mohamad_ibrahim@moe.edu.sg) |
 |  Senior Teacher, Science |  Mr Kelvin Chia | 65080-665 <br>[chia_peng_lin_kelvin@moe.edu.sg](mailto:chia_peng_lin_kelvin@moe.edu.sg) |
-| Senior Teacher, SN | Mdm Teo Siow Yee | 65087-270<br>[teo_siow_yee@moe.edu.sg](mailto:teo_siow_yee@moe.edu.sg) |
+| Senior Teacher, SEN | Mdm Teo Siow Yee | 65087-270<br>[teo_siow_yee@moe.edu.sg](mailto:teo_siow_yee@moe.edu.sg) |
 | Senior Teacher, Music | Ms Rebecca Lau | 65089-456<br>[rebecca_lau_yuen_sun@moe.edu.sg](mailto:rebecca_lau_yuen_sun@moe.edu.sg) |
-| Senior Teacher, English Language | Mdm Kalpana | &nbsp;65067-349<br>[kalpana_manimohan@moe.edu.sg](mailto:kalpana_manimohan@moe.edu.sg) |
 | Senior Teacher,&nbsp;Lower Pr Learners |&nbsp;Mrs Sharon Seow | 65067-644<br>[chew_sharon@moe.edu.sg](mailto:chew_sharon@moe.edu.sg) |
