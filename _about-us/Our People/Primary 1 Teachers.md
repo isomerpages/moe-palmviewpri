@@ -41,25 +41,25 @@ variant: markdown
 | English Language | Mdm Suritha<br>65083-178<br>[suritha\_banu@moe.edu.sg](mailto:suritha\_banu@moe.edu.sg) |
 | 
 | Mathematics | Ms Nurul Farha<br>65067-647<br>[nurul\_farha\_abdul\_talib@moe.edu.sg](mailto:nurul\_farha\_abdul\_talib@moe.edu.sg) |
-Mathematics |Mrs Grace Chua<br>65089-468<br>[grace\_lim\_hui\_leng@moe.edu.sg](mailto:grace\_lim\_hui\_leng@moe.edu.sg) |
-Mathematics | Mrs Melanie Lau (Year Head, Lower Pri)<br>65087-322<br>[chew\_mun\_piau@moe.edu.sg](mailto:chew\_mun\_piau@moe.edu.sg) |
-Mathematics | Mdm Hailwa<br>65067-641<br>[hailwa\_moree@moe.edu.sg](mailto:hailwa\_moree@moe.edu.sg) |
-Mathematics | Ms Shannon Lim<br>65080-659<br>[lim\_eu\_li@moe.edu.sg](mailto:lim\_eu\_li@moe.edu.sg) |
-Mathematics | Mrs Sharon Seow<br>65087-328<br>[chew_sharon@moe.edu.sg](mailto:chew_sharon@moe.edu.sg) |
-Mathematics | Ms Foo Shi Rui (LH, Mathematics)<br>65067-645<br>[foo\_shi\_rui@moe.edu.sg](mailto:foo\_shi\_rui@moe.edu.sg) |
-Mathematics | Ms Rebecca Tan En Hui (LH, English Language)<br>65087-327<br>[tan\_en\_hui\_rebecca@moe.edu.sg](mailto:tan\_en\_hui\_rebecca@moe.edu.sg) |
+Mathematics |Mrs Gracelyn Tham <br>65067-648<br>[lim\_ai\_zhen\_gracelyn@moe.edu.sg](mailto:lim\_ai\_zhen\_gracelyn@moe.edu.sg) |
+Mathematics |Mdm Fatin<br>65067-649<br>[nur\_ishmah\_fatin\_rahim@moe.edu.sg](mailto:nur\_ishmah\_fatin\_rahim@moe.edu.sg) |
+Mathematics |  Ms Vanna<br>65067-642<br>[vanna\_ong\_limei@schools.gov.sg](mailto:vanna\_ong\_limei@schools.gov.sg) |
+Mathematics | Mdm Joey Cheang (Subject Head, CCE)<br>65080-658<br>[cheang\_ching\_ee@moe.edu.sg](mailto:cheang\_ching\_ee@moe.edu.sg) |
+Mathematics | Mdm Radiah<br>65067-341<br>[radiah\_rahmat@moe.edu.sg](mailto:radiah\_rahmat@moe.edu.sg) |
+Mathematics |  Mdm Suritha<br>65083-178<br>[suritha\_banu@moe.edu.sg](mailto:suritha\_banu@moe.edu.sg) | |
 |
-| Chinese Language  | Mdm Teo Siow Yee / 张老师 (ST, SEN)<br>65087-270<br>[teo\_siow\_yee@moe.edu.sg](mailto:teo\_siow\_yee@moe.edu.sg) |
-Chinese Language  | Mdm Lim&nbsp;Hwee Yeng / 林老师<br>65087-315<br>[lim\_hwee\_yeng@moe.edu.sg](mailto:lim\_hwee\_yeng@moe.edu.sg) |
-Chinese Language  | Mr Guah&nbsp;Boon Heng / 倪老师<br>65087-314<br>[guah\_boon\_heng@moe.edu.sg](mailto:guah\_boon\_heng@moe.edu.sg) |
-Chinese Language  | Mr Warren Thin / 邓老师 (SH, ICT))<br>65087-268<br>[thin\_dongqi@moe.edu.sg](mailto:thin\_dongqi@moe.edu.sg) |
-Chinese Language  | Mdm Li Li / 李老师)<br>665087-263<br>[li\_li@moe.edu.sg](mailto:li\_li@moe.edu.sg) |
-Chinese Language  | Mdm Koh Siew Bee<br>65087-261<br>[koh\_siew\_bee@moe.edu.sg](mailto:koh\_siew\_bee@moe.edu.sg) |
+| Chinese Language  | Mdm Teo Siow Yee (ST, SEN)<br>65087-270<br>[teo\_siow\_yee@moe.edu.sg](mailto:teo\_siow\_yee@moe.edu.sg) |
+Chinese Language  |Ms Tay Bee Li<br>65087-266<br>[tay\_bee\_li@moe.edu.sg](mailto:tay\_bee\_li@moe.edu.sg) |
+Chinese Language  | Ms Cher Xin Joo<br>65087-260<br>[cher\_xin\_joo@moe.edu.sg](mailto:cher\_xin\_joo@moe.edu.sg) |
+Chinese Language  | Mdm Jane Mah<br>65087-267<br>[mah\_zhiwei\_jane@moe.edu.sg](mailto:mah\_zhiwei\_jane@moe.edu.sg)  |
+Chinese Language  | Miss Germaine<br>65087-272<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg) |
+Chinese Language  | Mrs Faye Loh<br>65087-264<br>[quah\_pei\_jun@moe.edu.sg](mailto:quah\_pei\_jun@moe.edu.sg) |
+Chinese Language  | Mdm Zhang Yue<br>65087-262<br>[zhang\_yue\_a@moe.edu.sg](mailto:zhang\_yue\_a@moe.edu.sg) |
 |
-| Malay Language | Mdm Noorashikin<br>65087-320<br>[noorashikin\_zainuldin@moe.edu.sg](mailto:noorashikin\_zainuldin@moe.edu.sg) |
-Malay Language | Ms Nurbayah<br>65087-300 (ext. 651)<br>[nurbayah\_ismail@moe.edu.sg](mailto:nurbayah\_ismail@moe.edu.sg)
+| Malay Language | Ms Masturah  (Subject Head, ML)<br>65087-317<br>[masturah\_salleh@moe.edu.sg](mailto:masturah\_salleh@moe.edu.sg) |
+Malay Language | Mdm Nabilah<br>65087-319 <br>[nabilah\_abdul\_rahman@moe.edu.sg](mailto:nabilah\_abdul\_rahman@moe.edu.sg)
 |
-| Tamil Language |Ms Sumitha<br>65087-323<br>[s\_sumitha@moe.edu.sg](mailto:s\_sumitha@moe.edu.sg) |
+| Tamil Language |Ms Sumitha<br>65087-315<br>[s\_sumitha@moe.edu.sg](mailto:s\_sumitha@moe.edu.sg) |
 |
 | Social Studies | Mrs Grace Chua<br>65089-468<br>[grace\_lim\_hui\_leng@moe.edu.sg](mailto:grace\_lim\_hui\_leng@moe.edu.sg) |
 Social Studies | Mdm Radiah<br>65067-341<br>[radiah\_rahmat@moe.edu.sg](mailto:radiah\_rahmat@moe.edu.sg)
