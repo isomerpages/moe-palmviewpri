@@ -25,17 +25,20 @@ variant: markdown
 
 | Subject | Teacher |
 |---|---|
-| Art | Mr Fong Yan Kin (LT, Art)<br>65087-300 (ext. 126)<br>[fong_yan_kin@moe.edu.sg](mailto:fong_yan_kin@moe.edu.sg) |
-| Art |Mrs Chew Yi Xin<br>65087-300 (ext. 291)<br>[tan\_yixin@moe.edu.sg](mailto:tan\_yixin@moe.edu.sg) |
+| Art | Mr Fong Yan Kin<br>65087-300 (ext. 126)<br>[fong_yan_kin@moe.edu.sg](mailto:fong_yan_kin@moe.edu.sg) |
+| Art |Mrs Chew Yi Xin<br>65080-662<br>[tan\_yixin@moe.edu.sg](mailto:tan\_yixin@moe.edu.sg) |
+| Art |Mdm Nor Karmila<br>65089-458<br>[nor\_karmila\_hamzah@moe.edu.sg](mailto:nor\_karmila\_hamzah@moe.edu.sg) |
 |
-| English Language | Ms Nabilah <br>65089-452<br>[nabilah\_abdullah@moe.edu.sg](mailto:nabilah\_abdullah@moe.edu.sg) |
-| English Language | Mrs Grace Chua<br>65089-468<br>[grace\_lim\_hui\_leng@moe.edu.sg](mailto:grace\_lim\_hui\_leng@moe.edu.sg) |
-| English Language | Mrs Melanie Lau (Year Head, Lower Pri)<br>65087-322<br>[chew\_mun\_piau@moe.edu.sg](mailto:chew\_mun\_piau@moe.edu.sg) |
-| English Language | Mdm Hailwa<br>65067-641<br>[hailwa\_moree@moe.edu.sg](mailto:hailwa\_moree@moe.edu.sg) |
-| English Language | Ms Shannon Lim<br>65080-659<br>[lim\_eu\_li@moe.edu.sg](mailto:lim\_eu\_li@moe.edu.sg) |
-| English Language | Mrs Sharon Seow<br>65067-644<br>[chew\_sharon@moe.edu.sg](mailto:chew\_sharon@moe.edu.sg) |
-| English Language | Ms Rebecca Tan En Hui (LH, English Language)<br>65087-327<br>[tan\_en\_hui\_rebecca@moe.edu.sg](mailto:tan\_en\_hui\_rebecca@moe.edu.sg) |
-| English Language | Mdm Suritha<br>65080-663<br>[suritha\_banu@moe.edu.sg](mailto:suritha\_banu@moe.edu.sg) |
+| English Language |  Mrs Gracelyn Tham <br>65067-648<br>[lim\_ai\_zhen\_gracelyn@moe.edu.sg](mailto:lim\_ai\_zhen\_gracelyn@moe.edu.sg) |
+| English Language |  Ms Rachel Loh<br>65067-640<br>[loh\_hui\_xian\_rachel@moe.edu.sg](mailto:loh\_hui\_xian\_rachel@moe.edu.sg) |
+| English Language | Mdm Fatin<br>65067-649<br>[nur\_ishmah\_fatin\_rahim@moe.edu.sg](mailto:nur\_ishmah\_fatin\_rahim@moe.edu.sg) |
+| English Language | Mrs Tan Lirong<br>65080-669<br>[sun\_lirong@moe.edu.sg](mailto:sun\_lirong@moe.edu.sg) |
+| English Language | Ms Vanna<br>65067-642<br>[vanna\_ong\_limei@schools.gov.sg](mailto:vanna\_ong\_limei@schools.gov.sg) |
+| English Language |Ms Tabigail Hung<br>65080-657<br>[hung\_shao\_hui\_tabigail@moe.edu.sg](mailto:hung\_shao\_hui\_tabigail@moe.edu.sg) |
+| English Language | Mdm Joey Cheang (Subject Head, CCE)<br>65080-658<br>[cheang\_ching\_ee@moe.edu.sg](mailto:cheang\_ching\_ee@moe.edu.sg)  |
+| English Language | Mdm Siti Munirah<br>65080-656<br>[siti\_nurmunirah\_mohd\_arsad@moe.edu.sg](mailto:siti\_nurmunirah\_mohd\_arsad@moe.edu.sg)  |
+ English Language | Mdm Liza<br>65067-347<br>[siti\_nur\_haliza@moe.edu.sg](mailto:siti\_nur\_haliza@moe.edu.sg)
+| English Language | Mdm Suritha<br>65083-178<br>[suritha\_banu@moe.edu.sg](mailto:suritha\_banu@moe.edu.sg) |
 | 
 | Mathematics | Ms Nurul Farha<br>65067-647<br>[nurul\_farha\_abdul\_talib@moe.edu.sg](mailto:nurul\_farha\_abdul\_talib@moe.edu.sg) |
 Mathematics |Mrs Grace Chua<br>65089-468<br>[grace\_lim\_hui\_leng@moe.edu.sg](mailto:grace\_lim\_hui\_leng@moe.edu.sg) |
