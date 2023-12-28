@@ -3,6 +3,7 @@ title: Primary 1 Teachers
 permalink: /about-us/our-people/primary-1-teachers/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ## PRIMARY 1 TEACHERS
 
@@ -10,14 +11,14 @@ third_nav_title: Our People
 
 | Class | Form Teacher | Form Teacher |
 |---|---|---|
-| 1 Aristotle | Ms Nabilah <br>65089-452<br>[nabilah\_abdullah@moe.edu.sg](mailto:nabilah\_abdullah@moe.edu.sg) | Mdm Koh Siew Bee<br>65087-261<br>[koh_siew_bee@moe.edu.sg](mailto:koh_siew_bee@moe.edu.sg) |
-| 1 Beethoven | Mrs Grace Chua<br>65089-468<br>[grace_lim_hui_leng@moe.edu.sg](mailto:sun_lirong@moe.edu.sg) | Mdm Teo Siow Yee / 张老师 (ST, SEN)<br>65087-270<br>[teo_siow_yee@moe.edu.sg](mailto:teo_siow_yee@moe.edu.sg) |
-| 1 Curie | Mrs Melanie Lau (Year Head, Lower Pri)<br>65087-322<br>[chew_mun_piau@moe.edu.sg](mailto:chew_mun_piau@moe.edu.sg) | Ms Sumitha<br>65087-323<br>[s_sumitha@moe.edu.sg](mailto:s_sumitha@moe.edu.sg) |
-| 1 Da Vinci | Mdm Hailwa<br>65067-641<br>[hailwa_moree@moe.edu.sg](mailto:hailwa_moree@moe.edu.sg) | Mdm Clara Koh (SH, Aesthetics)<br>65089-455<br>[lim_xiu_fang_clara@moe.edu.sg](mailto:lim_xiu_fang_clara@moe.edu.sg) |
-| 1 Edison | Ms Shannon Lim<br>65080-659<br>[lim_eu_li@moe.edu.sg](mailto:lim_eu_li@moe.edu.sg) | Mr Bryon Luo<br>65080-662<br>[luo_youde_bryon@moe.edu.sg](mailto:luo_youde_bryon@moe.edu.sg) |
-| 1 Frank | Mrs Sharon Seow (ST, Lower Pr Learners)<br>65067-644<br>[chew_sharon@moe.edu.sg](mailto:chew_sharon@moe.edu.sg) | Mr Guah&nbsp;Boon Heng Yue / 张老师<br>65087-314<br>[guah_boon_heng@moe.edu.sg](mailto:guah_boon_heng@moe.edu.sg) | 
-| 1 Galileo | Ms Foo Shi Rui (LH, Mathematics)<br>65067-645<br>[foo_shi_rui@moe.edu.sg](mailto:foo_shi_rui@moe.edu.sg) | Mdm Lim&nbsp;Hwee Yeng / 林老师<br>65087-315<br>[lim_hwee_yeng@moe.edu.sg](mailto:lim_hwee_yeng@moe.edu.sg) |
-| 1 Hillary |Ms Rebecca Tan En Hui (LH, English Language)<br>65087-327<br>[tan_en_hui_rebecca@moe.edu.sg](mailto:tan_en_hui_rebecca@moe.edu.sg) | Ms Josephine Teow<br>65087-279<br>[josephine\_teow@moe.edu.sg](mailto:josephine\_teow@moe.edu.sg) |
+| 1 Aristotle | Ms Rachel Loh <br>65067-640<br>[loh\_hui\_xian\_rachel@moe.edu.sg](mailto:loh\_hui\_xian\_rachel@moe.edu.sg) | Mrs Valerie Koh<br>65087-279<br>[valerie\_koh\_sock\_hwee@moe.edu.sg](mailto:valerie\_koh\_sock\_hwee@moe.edu.sg) |
+| 1 Beethoven | Mdm Jane Mah<br>65087-267<br>[mah\_zhiwei\_jane@moe.edu.sg](mailto:mah\_zhiwei\_jane@moe.edu.sg) | Mrs Gracelyn Tham<br>65067-648<br>[lim\_ai\_zhen\_gracelyn@moe.edu.sg](mailto:lim\_ai\_zhen\_gracelyn@moe.edu.sg) |
+| 1 Curie | Mdm Fatin<br>65067-649<br>[nur\_ishmah\_fatin\_rahim@moe.edu.sg](mailto:nur\_ishmah\_fatin\_rahim@moe.edu.sg) | Mrs Faye Loh<br>65087-264<br>[quah\_pei\_jun@moe.edu.sg](mailto:quah\_pei\_jun@moe.edu.sg) |
+| 1 Da Vinci | Mrs Tan Lirong<br>65080-669<br>[sun\_lirong@moe.edu.sg](mailto:sun\_lirong@moe.edu.sg) | Ms Masturah  (Subject Head, ML)<br>65087-317<br>[masturah\_salleh@moe.edu.sg](mailto:masturah\_salleh@moe.edu.sg) |
+| 1 Edison | Ms Vanna<br>65067-642<br>[vanna\_ong\_limei@schools.gov.sg](mailto:vanna\_ong\_limei@schools.gov.sg) | Ms Teow Siow Yee  (Senior Teacher, SEN)<br>65087-270<br>[teo\_siow\_yee@moe.edu.sg](mailto:teo\_siow\_yee@moe.edu.sg) |
+| 1 Frank | Ms Nurul<br>65067-647<br>[nurul\_farha\_abdul\_talib@moe.edu.sg](mailto:nurul\_farha\_abdul\_talib@moe.edu.sg) | Ms Tay Bee Li<br>65087-266<br>[tay\_bee\_li@moe.edu.sg](mailto:tay\_bee\_li@moe.edu.sg) | 
+| 1 Galileo | Mdm Radiah<br>65067-341<br>[radiah\_rahmat@moe.edu.sg](mailto:radiah\_rahmat@moe.edu.sg) | Mrs Michelle Khoo (Subject Head, PE &amp; CCA)<br>65087-278<br>[lee\_jing\_wen\_michelle@moe.edu.sg](mailto:lee\_jing\_wen\_michelle@moe.edu.sg) |
+| 1 Hillary |Mdm Joey Cheang (Subject Head, CCE)<br>65080-658<br>[cheang\_ching\_ee@moe.edu.sg](mailto:cheang\_ching\_ee@moe.edu.sg) | Mr Fong Yan Kin<br>65080-661<br>[fong\_yan\_kin@moe.edu.sg](mailto:fong\_yan\_kin@moe.edu.sg) |
 
 
 ### Subject Teachers
