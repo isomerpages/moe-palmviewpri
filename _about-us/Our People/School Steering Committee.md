@@ -3,6 +3,7 @@ title: School Steering Committee
 permalink: /about-us/our-people/school-steering-committee/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ## SCHOOL STEERING COMMITTEE
 
@@ -19,24 +20,27 @@ third_nav_title: Our People
 
 | Designation | Name | Contact Information |
 |:---:|:---:|:---:|
+| Head of Department,<br>Mathematics | Ms Audrey Loke | 65083-170<br>[loke_ai_guat_audrey@moe.edu.sg](mailto:loke_ai_guat_audrey@moe.edu.sg) |
 | Head of Department,<br>Mother Tongue Languages | Mr Rave Tay | 65083-172<br>[tay_tze_rong@moe.edu.sg](mailto:tay_tze_rong@moe.edu.sg) |
 | Head of Department,<br>Science | Mr Gerald Wong | 65087-313<br>[gerald_wong_yew_meng@moe.edu.sg](mailto:gerald_wong_yew_meng@moe.edu.sg) |
 | Head of Department,<br>Physical Education &amp; CCA | Mr Hisham | 65087-309<br>[hisham_b_spono@moe.edu.sg](mailto:hisham_b_spono@moe.edu.sg) |
 |  Head of Department, <br>CCE |  Mdm Hasanah |  &nbsp;65080-660<br>[nur_hasanah_osman@moe.edu.sg](mailto:nur_hasanah_osman@moe.edu.sg) |
-|  Head of Department, <br>Student Management |  Mr Theva |  65083-170<br>[thevarajan_nagarajan@moe.edu.sg](mailto:thevarajan_nagarajan@moe.edu.sg) |
+|  Head of Department, <br>Student Management |  Mr Zhou Wencong |  65087-322<br>[zhou_wencong@moe.edu.sg](mailto:zhou_wencong@moe.edu.sg) |
+Head of Department, <br>ICT |  Mr Warren Thin |  65080-652<br>[thin_dongqi@moe.edu.sg](mailto:thin_dongqi@moe.edu.sg) |
 |
 | - | - | - |
 | 
-| Year Head,<br>Lower Primary | Mrs Melanie Lau | 65087-322<br>[chew_mun_piau@moe.edu.sg](mailto:chew_mun_piau@moe.edu.sg) |
-| Assistant Year Head,<br>Middle Primary | Mr John Leong | 65089-462<br>[leong_john_woon@moe.edu.sg](mailto:leong_john_woon@moe.edu.sg) |
-|  Assistant Year Head,<br>Upper Primary | Mrs Irene Ang |  65089-457<br>[irene_chia@moe.edu.sg](mailto:irene_chia@moe.edu.sg) |
+| Year Head,<br>Lower Primary | Mr Sathis Kumar | 65087-311<br>[kanapa_sathis_kumar@moe.edu.sg](mailto:kanapa_sathis_kumar@moe.edu.sg) |
+| Year Head,<br>Middle Primary | Mr Teng Tse Peng | 65087-310<br>[teng_tse_peng_a@moe.edu.sg](mailto:teng_tse_peng_a@moe.edu.sg) |
+| Year Head,<br>Upper Primary | Mrs Irene Ang |  65089-457<br>[irene_chia@moe.edu.sg](mailto:irene_chia@moe.edu.sg) |
+Asst Year Head,<br>Middle Primary | Ms Nicholyn Teo |  65087-323<br>[nicholyn_teo@moe.edu.sg](mailto:nicholyn_teo@moe.edu.sg) |
 | - | - | - |
-|  Level Head,<br>English Lanugage |  Ms Rebecca Tan En Hui |  65087-327<br>[tan_en_hui_rebecca@moe.edu.sg](mailto:tan_en_hui_rebecca@moe.edu.sg) |
+|  Level Head,<br>English Lanugage |  Mdm Kalpana |  65067-349<br>[kalpana_manimohan@moe.edu.sg](mailto:kalpana_manimohan@moe.edu.sg) |
 | Level Head,<br>Science | Mdm Esther Tay | 65087-330<br>[tay_wei_jing@moe.edu.sg](mailto:foo_shi_rui@moe.edu.sg) |
 | Level Head,<br>Mathematics | Ms Foo Shi Rui | 65067-645<br>[foo_shi_rui@moe.edu.sg](mailto:foo_shi_rui@moe.edu.sg) |
 |  Subject Head,<br>CCE |  Mdm Cheang Ching Ee |  65080-658<br>[cheang_ching_ee@moe.edu.sg](mailto:cheang_ching_ee@moe.edu.sg) |
 |  Subject Head,<br>Physical Education &amp; CCA |  Mrs Michelle Khoo |  65087-278<br>lee_jing_wen_michelle@moe.edu.sg
-|  Subject Head,<br>ICT |  Mr Warren Thin |  65087-268<br>[thin_dongqi@moe.edu.sg](mailto:thin_dongqi@moe.edu.sg) |
+|  Subject Head,<br>Malay Language |  Ms Masturah|  65087-317<br>[masturah_salleh@moe.edu.sg](mailto:masturah_salleh@moe.edu.sg) |
 |  Subject Head,<br>Aesthetics | Mrs Clara Koh | 65089-455<br>[lim_xiu_fang_clara@moe.edu.sg](mailto:lim_xiu_fang_clara@moe.edu.sg) |
 |  Subject Head,<br>Education Technology | Mrs Quek Jing Jing |  65080-653<br>[lim_jing_jing@moe.edu.sg](mailto:lim_jing_jing@moe.edu.sg) |
 | | | | |
@@ -45,7 +49,7 @@ third_nav_title: Our People
 
 | Designation | Name | Contact Information |
 |:---:|:---:|:---:|
-| Lead Teacher, Art | Mr Fong Yan Kin | 65087-300 (ext. 126)<br>[fong_yan_kin@moe.edu.sg](mailto:fong_yan_kin@moe.edu.sg) |
+| Senior Teacher, Malay Language | Mdm Elyani | 65080-654 <br>[elyani_mohamed@moe.edu.sg](mailto:elyani_mohamed@moe.edu.sg) |
 | Senior Teacher, English Language  | Mdm Nurul Ain Binte Mohamad Ibrahim |  65087-328<br>[nurul_ain_mohamad_ibrahim@moe.edu.sg](mailto:nurul_ain_mohamad_ibrahim@moe.edu.sg) |
 | Senior Teacher, Chinese Language | Mdm Cheong Lee Chin | 65087-260<br>[cheong_lee_chin@moe.edu.sg](mailto:cheong_lee_chin@moe.edu.sg) |
 | Senior Teacher, Chinese Language | Mdm Dai Ping | 65087-266<br>[dai_ping@moe.edu.sg](mailto:dai_ping@moe.edu.sg) |
