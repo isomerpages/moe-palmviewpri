@@ -3,6 +3,7 @@ title: Service Providers
 permalink: /for-parents/service-providers/
 description: ""
 third_nav_title: Useful Information
+variant: markdown
 ---
 ## SERVICE PROVIDERS
 
@@ -41,7 +42,7 @@ third_nav_title: Useful Information
 |  |  |
 |:---:|:---:|
 | **Company:** | Pro-Teach Education Group (Palm View) Pte Ltd |
-| **Telephone:** | 63882125<br>
+| **Telephone:** | 87776940<br>
 | **Fax:** | 63883134 |
 | **Email:** | palmview@pro-teach.com |
 
