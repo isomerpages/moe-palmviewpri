@@ -3,6 +3,7 @@ title: Primary 2 Teachers
 permalink: /about-us/our-people/primary-2-teachers/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ## PRIMARY 2 TEACHERS
 
@@ -10,15 +11,15 @@ third_nav_title: Our People
 
 | Class | Form Teacher | Form Teacher |
 |---|---|---|
-| 2 Aristotle | Mrs Tay Yuyan (ST, Mathematics)<br>65067-642<br>[tay\_yuyan@moe.edu.sg](mailto:tay\_yuyan@moe.edu.sg)| Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg)|
-| 2 Beethoven | Mrs Tan Lirong<br>65080-669<br>[sun\_lirong@moe.edu.sg](mailto:sun\_lirong@moe.edu.sg)| Mrs Faye Loh / 柯老师<br>65087-264<br>[quah\_pei\_jun@moe.edu.sg](mailto:quah\_pei\_jun@moe.edu.sg)|
-| 2 Curie | Mdm Cheang Ching Ee (SH, CCE)<br>665080-658<br>[cheang\_ching\_ee@moe.edu.sg](mailto:cheang\_ching\_ee@moe.edu.sg)|Mdm Nabilah<br>65087-319<br>[nabilah\_abdul\_rahman@moe.edu.sg](mailto:nabilah\_abdul\_rahman@moe.edu.sg)|
-| 2 Da Vinci | Mdm Siti Nurmunirah<br>65080-656<br>[siti\_nurmunirah\_mohd\_arsad@moe.edu.sg](mailto:siti\_nurmunirah\_mohd\_arsad@moe.edu.sg)| Mrs Gracelyn Tham<br>65067-648<br>[lim\_ai\_zhen\_gracelyn@moe.edu.sg](mailto:lim\_ai\_zhen\_gracelyn@moe.edu.sg)|
-| 2 Edison |Mdm Siti Nur Haliza<br>65067-347<br>[siti\_nur\_haliza@moe.edu.sg](mailto:siti\_nur\_haliza@moe.edu.sg)| Mdm Jane Mah / 马老师<br>65087-267<br>[mah\_zhiwei\_jane@moe.edu.sg](mailto:mah\_zhiwei\_jane@moe.edu.sg)|
-| 2 Frank |Ms Tabigail Hung<br>65080-657<br>[hung\_shao\_hui\_tabigail@moe.edu.sg](mailto:hung\_shao\_hui\_tabigail@moe.edu.sg)| Mr Noel Chan<br>65083-173<br>[noel\_chan\_tze\_sunn@moe.edu.sg](mailto:noel\_chan\_tze\_sunn@moe.edu.sg)|
-| 2 Galileo | Ms Rachel Loh<br>65067-640<br>[loh\_hui\_xian\_rachel@moe.edu.sg](mailto:loh\_hui\_xian\_rachel@moe.edu.sg)| Mdm Zhang Yue / 张老师<br>65087-262<br>[zhang\_yue\_a@moe.edu.sg](mailto:zhang\_yue\_a@moe.edu.sg)|
-| 2 Hillary | Mrs Serene Yue<br>65067-345<br>[wong\_may\_san\_serene@moe.edu.sg](mailto:wong\_may\_san\_serene@moe.edu.sg)| Mdm Cheong Lee Chin / 张老师 (ST, Chinese)<br>65087-260<br>[cheong\_lee\_chin@moe.edu.sg](mailto:cheong\_lee\_chin@moe.edu.sg)|
-| 2 Keller | Mdm Radiah<br>65067-341<br>[radiah\_rahmat@moe.edu.sg](mailto:radiah\_rahmat@moe.edu.sg)| Mrs Michelle Khoo (SH, Physical Education & CCA)<br>65087-278<br>[lee\_jing\_wen\_michelle@moe.edu.sg](mailto:lee\_jing\_wen\_michelle@moe.edu.sg)|
+| 2 Aristotle |Ms Nabilah<br>65067-344<br>[nabilah\_abdullah@moe.edu.sg](mailto:nabilah\_abdullah@moe.edu.sg)| Mdm Koh Siew Bee<br>65087-261<br>[koh\_siew\_bee@moe.edu.sg](mailto:koh\_siew\_bee@moe.edu.sg)|
+| 2 Beethoven | Mrs Grace Chua<br>65089-468<br>[grace\_lim\_hui\_leng@moe.edu.sg](mailto:grace\_lim\_hui\_leng@moe.edu.sg)| Mr Sathis Kumar (YH, Lower Primary)<br>65087-311<br>[kanapa\_sathis\_kumar@moe.edu.sg](mailto:kanapa\_sathis\_kumar@moe.edu.sg)|
+| 2 Curie | Mdm Nurulhuda<br>65087-325<br>[nurulhuda\_md\_salleh@moe.edu.sg](mailto:nurulhuda\_md\_salleh@moe.edu.sg)|Ms Sumitha<br>65087-315<br>[s\_sumitha@moe.edu.sg](mailto:s\_sumitha@moe.edu.sg)|
+| 2 Da Vinci |Mdm Hailwa<br>65067-641<br>[hailwa\_moree@moe.edu.sg](mailto:hailwa\_moree@moe.edu.sg)| Mr Noel Chan<br>65089-459<br>[noel\_chan\_tze\_sunn@moe.edu.sg](mailto:noel\_chan\_tze\_sunn@moe.edu.sg)|
+| 2 Edison |Ms Shannon Lim<br>65080-659<br>[lim\_eu\_li@moe.edu.sg](mailto:lim\_eu\_li@moe.edu.sg)| Mr Guah <br>65087-314<br>[guah\_boon\_heng@moe.edu.sg](mailto:guah\_boon\_heng@moe.edu.sg)|
+| 2 Frank |Mrs Sharon Seow<br>65067-644<br>[chew\_sharon@moe.edu.sg](mailto:chew\_sharon@moe.edu.sg)| Mr Bryon Luo<br>65089-457<br>[luo\_youde\_bryon@moe.edu.sg](mailto:luo\_youde\_bryon@moe.edu.sg)|
+| 2 Galileo | Mdm Siti Munirah<br>65080-656<br>[siti\_nurmunirah\_mohd\_arsad@moe.edu.sg](mailto:siti\_nurmunirah\_mohd\_arsad@moe.edu.sg)| Ms Foo Shi Rui<br>65067-645<br>[foo\_shi\_rui@moe.edu.sg](mailto:foo\_shi\_rui@moe.edu.sg)|
+| 2 Hillary | Ms Candice Khoo<br>65067-643<br>[khoo\_yun\_xuan\_candice@moe.edu.sg](mailto:khoo\_yun\_xuan\_candice@moe.edu.sg)| Mdm Nor Karmila<br>65089-458<br>[nor\_karmila\_hamzah@moe.edu.sg](mailto:nor\_karmila\_hamzah@moe.edu.sg)|
+|
 | | | |
 
 ### Subject Teachers
@@ -26,60 +27,44 @@ third_nav_title: Our People
 | Subject | Teacher |
 |---|---|
 | Art | Mrs Chew Yi Xin<br>65087-300 (ext. 291)<br>[tan\_yixin@moe.edu.sg](mailto:tan\_yixin@moe.edu.sg) |
+Art |Mdm Nor Karmila<br>65089-458<br>[nor\_karmila\_hamzah@moe.edu.sg](mailto:nor\_karmila\_hamzah@moe.edu.sg)
+Art | Ms Noor Adzilah<br>65080-663<br>[noor\_adzilah\_tahir@moe.edu.sg](mailto:noor\_adzilah\_tahir@moe.edu.sg)
 |
-| English Language | Ms Nur Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@moe.edu.sg](mailto:nur\_hidayah\_mohshin@moe.edu.sg) |
-English Language | Mrs Tan Lirong<br>65080-669<br>[sun\_lirong@moe.edu.sg](mailto:sun\_lirong@moe.edu.sg)
-English Language | Mdm Cheang Ching Ee (SH, CCE)<br>65080-658<br>[cheang\_ching\_ee@moe.edu.sg](mailto:cheang\_ching\_ee@moe.edu.sg)
-English Language | Mdm Siti Nurmunirah<br>65080-656<br>[siti\_nurmunirah\_mohd\_arsad@moe.edu.sg](mailto:siti\_nurmunirah\_mohd\_arsad@moe.edu.sg)
-English Language | Mdm Siti Nur Haliza<br>65067-347<br>[siti\_nur\_haliza@moe.edu.sg](mailto:siti\_nur\_haliza@moe.edu.sg)
-English Language | Ms Tabigail Hung<br>65080-657<br>[hung\_shao\_hui\_tabigail@moe.edu.sg](mailto:hung\_shao\_hui\_tabigail@moe.edu.sg)
-English Language | Ms Rachel Loh<br>65067-640<br>[loh\_hui\_xian\_rachel@moe.edu.sg](mailto:loh\_hui\_xian\_rachel@moe.edu.sg)
-English Language | Mrs Serene Yue<br>65067-345<br>[wong\_may\_san\_serene@moe.edu.sg](mailto:wong\_may\_san\_serene@moe.edu.sg)
-English Language | Mdm Radiah<br>65067-341<br>[radiah\_rahmat@moe.edu.sg](mailto:radiah\_rahmat@moe.edu.sg)
+| English Language | Ms Nabilah<br>65067-344<br>[nabilah\_abdullah@moe.edu.sg](mailto:nabilah\_abdullah@moe.edu.sg) |
+English Language | Mrs Grace Chua<br>65089-468<br>[grace\_lim\_hui\_leng@moe.edu.sg](mailto:grace\_lim\_hui\_leng@moe.edu.sg)
+English Language | Mdm Nurulhuda<br>65087-325<br>[nurulhuda\_md\_salleh@moe.edu.sg](mailto:nurulhuda\_md\_salleh@moe.edu.sg))
+English Language | Mdm Hailwa<br>65067-641<br>[hailwa\_moree@moe.edu.sg](mailto:hailwa_moree@moe.edu.sg)
+English Language | Ms Shannon Lim<br>65080-659<br>[lim\_eu\_li@moe.edu.sg](mailto:lim\_eu\_li@moe.edu.sg)
+English Language | Mrs Sharon Seow<br>65067-644<br>[chew\_sharon@moe.edu.sg](mailto:chew\_sharon@moe.edu.sg)
+English Language | Mdm Siti Munirah<br>65080-656<br>[siti\_nurmunirah\_mohd\_arsad@moe.edu.sg](mailto:siti\_nurmunirah\_mohd\_arsad@moe.edu.sg)
+English Language | Ms Candice Khoo<br>65067-643<br>[khoo\_yun\_xuan\_candice@moe.edu.sg](mailto:khoo\_yun\_xuan\_candice@moe.edu.sg)
 |
-| Mathematics | Mrs Tay Yuyan (ST, Mathematics)<br>65067-642<br>[tay\_yuyan@moe.edu.sg](mailto:tay\_yuyan@moe.edu.sg) |
- Mathematics | Mrs Saj<br>65089-454<br>[vanisree\_sajjan@moe.edu.sg](mailto:vanisree\_sajjan@moe.edu.sg) |
-  Mathematics | Mdm Cheang Ching Ee (SH, CCE)<br>65080-658<br>[cheang\_ching\_ee@moe.edu.sg](mailto:cheang\_ching\_ee@moe.edu.sg) |
- Mathematics | Mrs Gracelyn Tham<br>65067-648<br>[lim\_ai\_zhen\_gracelyn@moe.edu.sg](mailto:lim\_ai\_zhen\_gracelyn@moe.edu.sg) |
-  Mathematics | Mdm Siti Nur Haliza<br>65067-347<br>[siti\_nur\_haliza@moe.edu.sg](mailto:siti\_nur\_haliza@moe.edu.sg) |
- Mathematics | Mdm Suritha<br>65080-663<br>[suritha\_banu@moe.edu.sg](mailto:suritha\_banu@moe.edu.sg) |
-  Mathematics | Mrs Joshua<br>65087-324<br>[kiran\_jacqueline\_rafeek@moe.edu.sg](mailto:kiran\_jacqueline\_rafeek@moe.edu.sg) |
+| Mathematics | Mrs Grace Chua<br>65089-468<br>[grace\_lim\_hui\_leng@moe.edu.sg](mailto:grace\_lim\_hui\_leng@moe.edu.sg) |
+ Mathematics | Mdm Nurulhuda<br>65087-325<br>[nurulhuda\_md\_salleh@moe.edu.sg](mailto:nurulhuda\_md\_salleh@moe.edu.sg) |
+  Mathematics | Mdm Hailwa<br>65067-641<br>[hailwa\_moree@moe.edu.sg](mailto:hailwa_moree@moe.edu.sg) |
+ Mathematics | Ms Shannon Lim<br>65080-659<br>[lim\_eu\_li@moe.edu.sg](mailto:lim\_eu\_li@moe.edu.sg) |
+  Mathematics | Mrs Sharon Seow<br>65067-644<br>[chew\_sharon@moe.edu.sg](mailto:chew\_sharon@moe.edu.sg) |
+ Mathematics | Ms Foo Shi Rui<br>65067-645<br>[foo\_shi\_rui@moe.edu.sg](mailto:foo\_shi\_rui@moe.edu.sg) |
+  Mathematics | Ms Candice Khoo<br>65067-643<br>[khoo\_yun\_xuan\_candice@moe.edu.sg](mailto:khoo\_yun\_xuan\_candice@moe.edu.sg) |
  Mathematics |Mdm Kumutha<br>65089-458<br>[kumutha\_jayandran@moe.edu.sg](mailto:kumutha\_jayandran@moe.edu.sg) |
  Mathematics | Mdm Radiah<br>65067-341<br>[radiah\_rahmat@moe.edu.sg](mailto:radiah\_rahmat@moe.edu.sg) |
+ Mathematics | Ms Nurul<br>65067-647<br>[nurul\_farha\_abdul\_talib@moe.edu.sg](mailto:nurul\_farha\_abdul\_talib@moe.edu.sg)
 |
-| Chinese Language | Ms Germaine Quek / 郭老师<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg) |
-Chinese Language |Mdm Ng Lay Hwa<br>65087-271<br>[ng\_lay\_hwa\_a@moe.edu.sg](mailto:ng\_lay\_hwa\_a@moe.edu.sg) |
-Chinese Language | Mrs Faye Loh / 柯老师<br>65087-264<br>[quah\_pei\_jun@moe.edu.sg](mailto:quah\_pei\_jun@moe.edu.sg) |
-Chinese Language | Ms Kang Chao / 康老师<br>65087-269<br>[kang\_chao@moe.edu.sg](mailto:kang\_chao@moe.edu.sg) |
-Chinese Language | Mdm Cheong Lee Chin / 张老师 (ST, Chinese)<br>65087-260<br>[cheong\_lee\_chin@moe.edu.sg](mailto:cheong\_lee\_chin@moe.edu.sg) |
-Chinese Language |Mdm Jane Mah / 马老师<br>65087-267<br>[mah\_zhiwei\_jane@moe.edu.sg](mailto:mah\_zhiwei\_jane@moe.edu.sg) |
-Chinese Language | Mdm Zhang Yue / 张老师<br>65087-262<br>[zhang\_yue\_a@moe.edu.sg](mailto:zhang\_yue\_a@moe.edu.sg) |
+| Chinese Language | Mdm Koh Siew Bee<br>65087-261<br>[koh\_siew\_bee@moe.edu.sg](mailto:koh\_siew\_bee@moe.edu.sg) |
+Chinese Language |Ms Tan Hui Yang<br>65083-171<br>[tan\_hui\_yang@moe.edu.sg](mailto:tan\_hui\_yang@moe.edu.sg) |
+Chinese Language |Ms Li Li<br>65087-263<br>[li\_li@moe.edu.sg](mailto:li\_li@moe.edu.sg) |
+Chinese Language | Mr Guah <br>65087-314<br>[guah\_boon\_heng@moe.edu.sg](mailto:guah\_boon\_heng@moe.edu.sg) |
+Chinese Language | Mdm Joy Tan<br>65087-265<br>[tan\_boon\_hui@moe.edu.sg](mailto:tan\_boon\_hui@moe.edu.sg) |
+Chinese Language |Mdm Hwee Yeng<br>65087-268<br>[lim\_hwee\_yeng@moe.edu.sg](mailto:lim\_hwee\_yeng@moe.edu.sg) |
+|Chinese Language | Mdm Yong<br>65087-273<br>[yong\_puay\_pin\_a@moe.edu.sg](mailto:yong\_puay\_pin\_a@moe.edu.sg)
 |
-|Malay Language | Mdm Noraisha<br>65087-318<br>[noraisha\_ahmad@moe.edu.sg](mailto:noraisha\_ahmad@moe.edu.sg) |
-| Malay Language  | Mdm Nabilah<br>65087-319<br>[nabilah\_abdul\_rahman@moe.edu.sg](mailto:nabilah\_abdul\_rahman@moe.edu.sg) 
+|Malay Language | Ms Nurbayah<br>65087-300 (Ext 651)<br>[nurbayah\_ismail@moe.edu.sg](mailto:nurbayah\_ismail@moe.edu.sg) |
+| Malay Language  | Mdm Shikin<br>65087-320<br>[noorashikin\_zainuldin@moe.edu.sg](mailto:noorashikin\_zainuldin@moe.edu.sg) 
 |
-| Social Studies | Ms Nur Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@moe.edu.sg](mailto:nur\_hidayah\_mohshin@moe.edu.sg) |
-Social Studies | Mrs Saj<br>65089-454<br>[vanisree\_sajjan@moe.edu.sg](mailto:vanisree\_sajjan@moe.edu.sg)
-Social Studies | Mrs Joshua<br>65087-324<br>[kiran\_jacqueline\_rafeek@moe.edu.sg](mailto:kiran\_jacqueline\_rafeek@moe.edu.sg)
-Social Studies | Mrs Gracelyn Tham<br>65067-648<br>[im\_ai\_zhen\_gracelyn@moe.edu.sg](mailto:im\_ai\_zhen\_gracelyn@moe.edu.sg)
-Social Studies | Mdm Fatin<br>65067-649<br>[nur\_ishmah\_fatin\_rahim@moe.edu.sg](mailto:nur\_ishmah\_fatin\_rahim@moe.edu.sg)
-Social Studies | Ms Tabigail Hung<br>65080-657<br>[hung\_shao\_hui\_tabigail@moe.edu.sg](mailto:hung\_shao\_hui\_tabigail@moe.edu.sg)
-Social Studies | Ms Rachel Loh<br>65067-640<br>[loh\_hui\_xian\_rachel@moe.edu.sg](mailto:loh\_hui\_xian\_rachel@moe.edu.sg)
-Social Studies | Mrs Serene Yue<br>65067-345<br>[wong\_may\_san\_serene@moe.edu.sg](mailto:nur\_hidayah\_mohshin@moe.edu.sg)
-Social Studies |Mdm Radiah<br>65067-341<br>[radiah\_rahmat@moe.edu.sg](mailto:radiah\_rahmat@moe.edu.sg)
-|
-| Music| Mdm Clara Koh (SH, Aesthetics)<br>65089-455<br>[lim\_xiu\_fang\_clara@moe.edu.sg](mailto:lim\_xiu\_fang\_clara@moe.edu.sg) |
+| Music| Mr Bryon Luo <br>65089-457<br>[luo\_youde\_bryon@moe.edu.sg](mailto:luo\_youde\_bryon@moe.edu.sg) |
 | Music |Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca\_lau\_yuen\_sun@moe.edu.sg](mailto:rebecca\_lau\_yuen\_sun@moe.edu.sg) |
 |
-|Physical Education & Health Education | Mr Noel Chan<br>65083-173<br>[noel\_chan\_tze\_sunn@moe.edu.sg](mailto:noel\_chan\_tze\_sunn@moe.edu.sg) |
-|Physical Education & Health Education | Ms Valerie Koh<br>65087-277<br>[valerie\_koh\_sock\_hwee@moe.edu.sg](mailto:valerie\_koh\_sock\_hwee@moe.edu.sg) |
-|Physical Education & Health Education | Mr Bakri<br>65087-300 (ext. 293)<br>[ahmad\_bakri\_marfi@moe.edu.sg](mailto:ahmad\_bakri\_marfi@moe.edu.sg) |
-|
-|PAL | Mrs Tay Yuyan (ST, Mathematics)<br>65067-642<br>[tay\_yuyan@moe.edu.sg](mailto:tay\_yuyan@moe.edu.sg) |
-|PAL | Mrs Tan Lirong<br>65080-669<br>[sun\_lirong@moe.edu.sg](mailto:sun\_lirong@moe.edu.sg) |
-|PAL | Mdm Clara Koh (SH, Aesthetics)<br>65089-455<br>[lim\_xiu\_fang\_clara@moe.edu.sg](mailto:lim\_xiu\_fang\_clara@moe.edu.sg) |
-|PAL | Mdm Siti Nurmunirah<br>65080-656<br>[siti\_nurmunirah\_mohd\_arsad@moe.edu.sg](mailto:siti\_nurmunirah\_mohd\_arsad@moe.edu.sg) |
-|PAL | Mdm Siti Nur Haliza<br>65067-347<br>[siti\_nur\_haliza@moe.edu.sg](mailto:siti\_nur\_haliza@moe.edu.sg) |
-|PAL | Mr Noel Chan<br>65083-173<br>[noel\_chan\_tze\_sunn@moe.edu.sg](mailto:noel\_chan\_tze\_sunn@moe.edu.sg) |
-|PAL | Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca\_lau\_yuen\_sun@moe.edu.sg](mailto:rebecca\_lau\_yuen\_sun@moe.edu.sg) |
-|PAL | Mrs Michelle Khoo (SH, Physical Education & CCA)<br>65087-278<br>[lee\_jing\_wen\_michelle@moe.edu.sg](mailto:lee\_jing\_wen\_michelle@moe.edu.sg) |
+|Physical Education &amp; Health Education | Mr Noel Chan<br>65083-173<br>[noel\_chan\_tze\_sunn@moe.edu.sg](mailto:noel\_chan\_tze\_sunn@moe.edu.sg) |
+|Physical Education &amp; Health Education | Mr Nadeem<br>65087-276<br>[mohamed\_nadeem@moe.edu.sg](mailto:mohamed\_nadeem@moe.edu.sg) |
+|Physical Education &amp; Health Education | Mrs Michelle Khoo (SH, PE &amp; CCA)<br>65087-278<br>[lee\_jing\_wen\_michelle@moe.edu.sg](mailto:lee\_jing\_wen\_michelle@moe.edu.sg) |
+| |
