@@ -54,21 +54,14 @@ Chinese Language | Mdm Jane Mah<br>65087-267<br>[mah\_zhiwei\_jane@moe.edu.sg](m
 Chinese Language |Miss Germaine<br>65087-272<br>[ho\_kok\_luei@moe.edu.sg](mailto:ho\_kok\_luei@moe.edu.sg) |
 Chinese Language | Mr Guah <br>65087-314<br>[guah\_boon\_heng@moe.edu.sg](mailto:guah\_boon\_heng@moe.edu.sg) |
 Chinese Language |Ms Kang<br>65087-269<br>[kang\_chao@moe.edu.sg](mailto:kang\_chao@moe.edu.sg) |
-Chinese Language |Mrs Faye Loh / 柯老师<br>65087-264<br>[quah\_pei\_jun@moe.edu.sg](mailto:quah\_pei\_jun@moe.edu.sg) |
 Chinese Language | Mr&nbsp;Rave Tay&nbsp;&nbsp;(HOD, MTL)<br>65083-172<br>[tay\_tze\_rong@moe.edu.sg](mailto:tay\_tze\_rong@moe.edu.sg) |
 |
-|Malay Language| Mr&nbsp;Farris<br>65087-317<br>[mohammad\_farris\_salleh@moe.edu.sg](mailto:mohammad\_farris\_salleh@moe.edu.sg) |
-Malay Language| Ms Nurbayah<br>65087-300 (ext. 651)<br>[nurbayah\_ismail@moe.edu.sg](mailto:nurbayah\_ismail@moe.edu.sg) |
-Malay Language| Mdm Nabilah<br>65087-319<br>[nabilah\_abdul\_rahman@moe.edu.sg](mailto:nabilah\_abdul\_rahman@moe.edu.sg) |
+|Malay Language| Mdm Masturah<br>65087-317<br>[masturah\_salleh@moe.edu.sg](mailto:masturah\_salleh@moe.edu.sg) |
+Malay Language| Mdm Shikin<br>65087-320<br>[noorashikin\_zainuldin@moe.edu.sg](mailto:noorashikin\_zainuldin@moe.edu.sg) |
 |
-| Social Studies | Ms Nurul Ain (ST, English)<br>65087-328<br>[nurul_ain_mohamad_ibrahim@moe.edu.sg](mailto:nurul_ain_mohamad_ibrahim@moe.edu.sg) |
- Social Studies |Mdm Leong&nbsp;Fong Fong<br>65080-655<br>[leong\_fong\_fong@moe.edu.sg](mailto:leong\_fong\_fong@moe.edu.sg) 
- Social Studies | Mdm&nbsp;Hasanah (HOD, CCE))<br>65080-660<br>[nur\_hasanah\_osman@moe.edu.sg](mailto:nur\_hasanah\_osman@moe.edu.sg) 
- Social Studies | Mdm&nbsp;Kalpana<br>65067-349<br>[kalpana\_manimohan@moe.edu.sg](mailto:kalpana\_manimohan@moe.edu.sg) 
- Social Studies |Mdm Fatin<br>65067-649<br>[nur\_ishmah\_fatin\_rahim@moe.edu.sg](mailto:nur\_ishmah\_fatin\_rahim@moe.edu.sg) 
- Social Studies | Mdm Josephine Kee<br>65067-342<br>[kee\_wan\_cheng@moe.edu.sg](mailto:kee\_wan\_cheng@moe.edu.sg) 
- Social Studies | Mr&nbsp;Isa<br>65067-346<br>[mohamed\_isa\_b\_osman@moe.edu.sg](mailto:mohamed\_isa\_b\_osman@moe.edu.sg) 
+Music| Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca\_lau\_yuen\_sun@moe.edu.sg](mailto:rebecca\_lau\_yuen\_sun@moe.edu.sg) |
+Music| Mr Bryon Luo<br>65089-457<br>[luo\_youde\_bryon@moe.edu.sg](mailto:luo\_youde\_bryon@moe.edu.sg) |
 |
-| Physical Education and Health Education | Mr Nadeem<br>65087-276<br>[mohamed\_nadeem@moe.edu.sg](mailto:mohamed\_nadeem@moe.edu.sg) |
+| Physical Education and Health Education | Mr Rafiei<br>65087-275<br>[mohamad\_rafiei\_sakeyam@moe.edu.sg](mailto:mohamad\_rafiei\_sakeyam@moe.edu.sg) |
 Physical Education and Health Education | Mr&nbsp;Hisham (HOD, PE &amp; CCA)<br>65087-309<br>[hisham\_b\_spono@moe.edu.sg](mailto:hisham\_b\_spono@moe.edu.sg) |
 Physical Education and Health Education | Ms Valerie Koh<br>65087-277)<br>[valerie\_koh\_sock\_hwee@moe.edu.sg](mailto:valerie\_koh\_sock\_hwee@moe.edu.sg) |
