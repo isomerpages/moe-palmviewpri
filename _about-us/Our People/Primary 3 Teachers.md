@@ -23,24 +23,24 @@ variant: markdown
 
 | Subject | Teacher |
 |---|---|
-| Art | Mr Fong Yan Kin (LT, Art)<br>65087-300 (ext. 126)<br>[fong_yan_kin@moe.edu.sg](mailto:fong_yan_kin@moe.edu.sg)|
-| Art | Mr Matthias Seet<br>65080-661<br>[seet_qin_fong@moe.edu.sg](mailto:seet_qin_fong@moe.edu.sg)|
+| Art | Mr Fong Yan Kin<br>65080-661<br>[fong_yan_kin@moe.edu.sg](mailto:fong_yan_kin@moe.edu.sg)|
+| Art | Ms Noor Adzilah<br>65080-663<br>[noor\_adzilah\_tahir@moe.edu.sg](mailto:noor\_adzilah\_tahir@moe.edu.sg)|
 |
-| English Language | Ms&nbsp;Serene Yap Hui Yun<br>65067-646<br>[yap\_hui\_yun\_serene@moe.edu.sg](mailto:yap\_hui\_yun\_serene@moe.edu.sg)|
-English Language | Ms Tabigail Hung<br>65080-657<br>[hung\_shao\_hui\_tabigail@moe.edu.sg](mailto:hung\_shao\_hui\_tabigail@moe.edu.sg)|
-English Language |Mr Theva (HOD, Student Management)<br>65083-170<br>[thevarajan\_nagarajan@moe.edu.sg](mailto:thevarajan\_nagarajan@moe.edu.sg)|
-English Language | Mrs Serene Yue<br>65067-345<br>[wong\_may\_san\_serene@moe.edu.sg](mailto:wong\_may\_san\_serene@moe.edu.sg)|
-English Language | Mr&nbsp;Isa<br>65067-346<br>[mohamed\_isa\_b\_osman@moe.edu.sg](mailto:mohamed\_isa\_b\_osman@moe.edu.sg)|
-English Language | Ms Vanna Ong<br>65067-348<br>[vanna\_ong\_limei@moe.edu.sg](mailto:vanna_ong_limei@moe.edu.sg)|
-English Language | Ms Rachel Loh<br>65067-640<br>[loh\_hui\_xian\_rachel@moe.edu.sg](mailto:loh\_hui\_xian\_rachel@moe.edu.sg)|
+| English Language | Ms Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@moe.edu.sg](mailto:nur\_hidayah\_mohshin@moe.edu.sg)|
+English Language | Mr Sathis Kumar (YH, Lower Primary)<br>65087-311<br>[kanapa\_sathis\_kumar@moe.edu.sg](mailto:kanapa\_sathis\_kumar@moe.edu.sg)|
+English Language |Mrs Sarah Tan<br>65067-348<br>[sarah\_yu\_xueli@moe.edu.sg](mailto:sarah\_yu\_xueli@moe.edu.sg)|
+English Language | Ms Priscilla Teng<br>65087-326<br>[teng\_yu\_hui\_priscilla@moe.edu.sg](mailto:teng\_yu\_hui\_priscilla@moe.edu.sg)|
+English Language | Ms Jo Ko<br>65089-461<br>[ko\_hiang@moe.edu.sg](mailto:ko\_hiang@moe.edu.sg)|
+English Language | Mrs Saj<br>65089-454<br>[vanisree\_sajjan@moe.edu.sg](mailto:vanisree\_sajjan@moe.edu.sg)|
+English Language | Ms Nicholyn Teo<br>65087-323<br>[teo\_hui\_wen\_nicholyn@moe.edu.sg](mailto:teo\_hui\_wen\_nicholyn@moe.edu.sg)|
 |
-| Mathematics | Mdm Esther Tay (LH, Science) <br>65087-330<br>[tay\_wei\_jing@moe.edu.sg](mailto:tay\_wei\_jing@moe.edu.sg)|
-Mathematics | Ms Nurul Farha <br>65067-647<br>[nurul\_farha\_abdul\_talib@moe.edu.sg](mailto:nurul\_farha\_abdul\_talib@moe.edu.sg)|
-Mathematics |Mrs Jodie Siow <br>65087-316<br>[yeo\_mui\_hong@moe.edu.sg](mailto:yeo\_mui\_hong@moe.edu.sg)|
-Mathematics | Mr Theva (HOD, Student Management)<br>65083-170<br>[thevarajan\_nagarajan@moe.edu.sg](mailto:thevarajan\_nagarajan@moe.edu.sg)|
-Mathematics | Ms&nbsp;Serene Yap Hui Yun<br>65067-646<br>[yap\_hui\_yun\_serene@moe.edu.sg](mailto:yap\_hui\_yun\_serene@moe.edu.sg)|
-Mathematics | Ms&nbsp;Nicole Anne Chee<br>65067-340<br>[chee\_shu\_rong\_nicole@moe.edu.sg](mailto:chee\_shu\_rong\_nicole@moe.edu.sg)|
-Mathematics | Mdm Josephine Kee<br>65067-342<br>[kee\_wan\_cheng@moe.edu.sg](mailto:kee\_wan\_cheng@moe.edu.sg)|
+| Mathematics | Mrs Quek Jing Jing<br>65080-653<br>[lim\_jing\_jing@moe.edu.sg](mailto:lim\_jing\_jing@moe.edu.sg)|
+Mathematics | Mdm Asyikin<br>65067-343<br>[nur\_asyikin\_mohd\_agos@moe.edu.sg](mailto:nur\_asyikin\_mohd\_agos@moe.edu.sg)|
+Mathematics |Ms Serene Yap<br>65067-646<br>[yap\_hui\_yun\_serene@moe.edu.sg](mailto:yap\_hui\_yun\_serene@moe.edu.sg)|
+Mathematics | Mr Shaun Png<br>65080-666<br>[png\_jia\_shun@moe.edu.sg](mailto:png\_jia\_shun@moe.edu.sg)|
+Mathematics | Ms Audrey Loke<br>65083-170<br>[loke\_ai\_guat\_audrey@moe.edu.sg](mailto:loke\_ai\_guat\_audrey@moe.edu.sg)|
+Mathematics | Ms Magdalene Tan<br>65089-452<br>[tan\_kai\_lin\_magdalene@moe.edu.sg](mailto:tan\_kai\_lin\_magdalene@moe.edu.sg)|
+Mathematics | Mr Guna<br>65080-668<br>[sargunan\_ilangovan@moe.edu.sg](mailto:sargunan\_ilangovan@moe.edu.sg)|
 |
 Science | Mdm Esther Tay (LH, Science)<br>65087-330<br>[tay\_wei\_jing@moe.edu.sg](mailto:tay\_wei\_jing@moe.edu.sg)|
 Science | Mrs Tan Lirong <br>65080-669<br>[sun\_lirong@moe.edu.sg](mailto:sun\_lirong@moe.edu.sg)|
