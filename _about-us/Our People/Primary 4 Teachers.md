@@ -37,16 +37,15 @@ English Language | Mdm Subaitha<br>65089-467<br>[subaitha\_bee\_sahul\_hameed@mo
 |
 | Mathematics | Mdm Esther Tay (LH, Science)<br>65087-330<br>[tay\_wei\_jing@moe.edu.sg](mailto:tay\_wei\_jing@moe.edu.sg)|
 Mathematics | Mrs Priscillia Chen<br>65087-274<br>[tan\_yi\_siu\_priscillia@moe.edu.sg](mailto:tan\_yi\_siu\_priscillia@moe.edu.sg)
-Mathematics | Mr Shaun Png<br>65080-666<br>[png\_jia\_shun@moe.edu.sg](mailto:png\_jia\_shun@moe.edu.sg)
-Mathematics | Ms Nur Asyikin<br>65067-343<br>[nur\_asyikin\_mohd\_agos@moe.edu.sg](mailto:nur\_asyikin\_mohd\_agos@moe.edu.sg)
-Mathematics | Mrs Priscillia Chen<br>65087-274<br>[tan\_yi\_siu\_priscillia@moe.edu.sg](mailto:tan\_yi\_siu\_priscillia@moe.edu.sg)
-Mathematics | Mr Sargunan<br>65080-668<br>[sargunan_ilangovan@moe.edu.sg](mailto:sargunan_ilangovan@moe.edu.sg)
+Mathematics | Mdm Jodie Siow<br>65087-316<br>[yeo\_mui\_hong@moe.edu.sg](mailto:yeo\_mui\_hong@moe.edu.sg)
+Mathematics | Ms Nicole Chee<br>65067-340<br>[chee\_shu\_rong\_nicole@moe.edu.sg](mailto:chee\_shu\_rong\_nicole@moe.edu.sg)
+Mathematics | Mdm Josephine Kee<br>65067-342<br>[kee\_wan\_cheng@moe.edu.sg](mailto:kee\_wan\_cheng@moe.edu.sg)
 |
-| Science | Ms Nur Asyikin<br>65067-343<br>[nur\_asyikin\_mohd\_agos@moe.edu.sg](mailto:nur\_asyikin\_mohd\_agos@moe.edu.sg)|
-Science | Mr Gerald Wong (HOD, Science)<br>65087-313<br>[gerald\_wong\_yew\_meng@moe.edu.sg](mailto:gerald\_wong\_yew\_meng@moe.edu.sg)|
+| Science | Mdm Esther Tay (LH, Science)<br>65087-330<br>[tay\_wei\_jing@moe.edu.sg](mailto:tay\_wei\_jing@moe.edu.sg)|
+Science | Ms Nabilah<br>65067-344<br>[nabilah\_abdullah@moe.edu.sg](mailto:nabilah\_abdullah@moe.edu.sg)|
 Science | Mrs Tan Lirong<br>65080-669<br>[sun\_lirong@moe.edu.sg](mailto:sun\_lirong@moe.edu.sg)|
 Science | Mrs Jodie Siow<br>65087-316<br>[yeo\_mui\_hong@moe.edu.sg](mailto:yeo\_mui\_hong@moe.edu.sg)|
-Science | Mrs Michelle Wee<br>65080-667<br>[michelle\_tyoh\_whei\_theng@moe.edu.sg](mailto:michelle\_tyoh\_whei\_theng@moe.edu.sg)|
+Science | Mdm Josephine Kee<br>65067-342<br>[kee\_wan\_cheng@moe.edu.sg](mailto:kee\_wan\_cheng@moe.edu.sg)|
 |
 | Chinese Language | Mr&nbsp;Rave Tay /&nbsp;戴老师&nbsp;(HOD, Mother Tongue)<br>65083-172<br>[tay\_tze\_rong@moe.edu.sg](mailto:tay\_tze\_rong@moe.edu.sg)|
 Chinese Language | Mdm Jane Mah / 马老师)<br>65087-267<br>[mah\_zhiwei\_jane@moe.edu.sg](mailto:mah\_zhiwei\_jane@moe.edu.sg)|
