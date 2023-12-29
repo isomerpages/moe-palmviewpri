@@ -3,6 +3,7 @@ title: Primary 4 Teachers
 permalink: /about-us/our-people/primary-4-teachers/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ## PRIMARY 4 TEACHERS
 
@@ -10,7 +11,7 @@ third_nav_title: Our People
 
 | Class | Form Teacher | Form Teacher |
 |---|---|---|
-| 4 Aristotle | Mdm Nurul Ain (Senior Teacher, English Language)<br>65087-328<br>[nurul\_ain\_mohamad\_ibrahim@moe.edu.sg](mailto:nurul\_ain\_mohamad\_ibrahim@moe.edu.sg)| Mdm Heng Wei Shan<br>65089-450<br>[heng\_wei\_shan\_a@moe.edu.sg](mailto:heng\_wei\_shan\_a@moe.edu.sg)|
+| 4 Aristotle | Mdm Esther Tay (LH, Science)<br>65087-330<br>[tay\_wei\_jing@moe.edu.sg](mailto:tay\_wei\_jing@moe.edu.sg)| Mdm Joy Tan<br>65087-265<br>[tan\_boon\_hui@moe.edu.sg](mailto:tan\_boon\_hui@moe.edu.sg)|
 | 4 Beethoven |Ms Nur Asyikin<br>65067-343<br>[nur\_asyikin\_mohd\_agos@moe.edu.sg](mailto:nur\_asyikin\_mohd\_agos@moe.edu.sg)| Ms Priscilla Teng<br>65087-326<br>[teng\_yu\_hui\_priscilla@moe.edu.sg](mailto:teng\_yu\_hui\_priscilla@moe.edu.sg)|
 | 4 Curie | Mrs Saj<br>65089-454<br>[vanisree\_sajjan@moe.edu.sg](mailto:vanisree\_sajjan@moe.edu.sg)| Mdm Li Li / 李老师<br>65087-263<br>[li\_li@moe.edu.sg](mailto:li\_li@moe.edu.sg)|
 | 4 Da Vinci | Mr Gerald Wong (HOD, Science)<br>65087-313<br>[gerald\_wong\_yew\_meng@moe.edu.sg](mailto:gerald\_wong\_yew\_meng@moe.edu.sg)| Ms Valerie Koh<br>65087-277<br>[valerie\_koh\_sock\_hwee@moe.edu.sg](mailto:valerie\_koh\_sock\_hwee@moe.edu.sg)|
