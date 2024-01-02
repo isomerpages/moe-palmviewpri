@@ -28,7 +28,7 @@ variant: markdown
 |---|---|
 | Art | Mrs Chew Yi Xin<br>65087-300 (ext. 291)<br>[tan\_yixin@moe.edu.sg](mailto:tan\_yixin@moe.edu.sg) |
 Art |Mdm Nor Karmila<br>65089-458<br>[nor\_karmila\_hamzah@moe.edu.sg](mailto:nor\_karmila\_hamzah@moe.edu.sg)
-Art | Ms Noor Adzilah<br>65080-663<br>[noor\_adzilah\_tahir@moe.edu.sg](mailto:noor\_adzilah\_tahir@moe.edu.sg)
+Art | Mdm Adzilah<br>65080-663<br>[noor\_adzilah\_tahir@moe.edu.sg](mailto:noor\_adzilah\_tahir@moe.edu.sg)
 |
 | English Language | Ms Nabilah<br>65067-344<br>[nabilah\_abdullah@moe.edu.sg](mailto:nabilah\_abdullah@moe.edu.sg) |
 English Language | Mrs Grace Chua<br>65089-468<br>[grace\_lim\_hui\_leng@moe.edu.sg](mailto:grace\_lim\_hui\_leng@moe.edu.sg)

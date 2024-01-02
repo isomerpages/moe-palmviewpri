@@ -35,7 +35,7 @@ Head of Department, <br>ICT |  Mr Warren Thin |  65080-652<br>[thin_dongqi@moe.e
 | Year Head,<br>Upper Primary | Mrs Irene Ang |  65089-457<br>[irene_chia@moe.edu.sg](mailto:irene_chia@moe.edu.sg) |
 Asst Year Head,<br>Middle Primary | Ms Nicholyn Teo |  65087-323<br>[nicholyn_teo@moe.edu.sg](mailto:nicholyn_teo@moe.edu.sg) |
 | - | - | - |
-|  Level Head,<br>English Lanugage |  Mdm Kalpana |  65067-349<br>[kalpana_manimohan@moe.edu.sg](mailto:kalpana_manimohan@moe.edu.sg) |
+|  Level Head,<br>English Language |  Mdm Kalpana |  65067-349<br>[kalpana_manimohan@moe.edu.sg](mailto:kalpana_manimohan@moe.edu.sg) |
 | Level Head,<br>Science | Mdm Esther Tay | 65087-330<br>[tay_wei_jing@moe.edu.sg](mailto:foo_shi_rui@moe.edu.sg) |
 | Level Head,<br>Mathematics | Ms Foo Shi Rui | 65067-645<br>[foo_shi_rui@moe.edu.sg](mailto:foo_shi_rui@moe.edu.sg) |
 |  Subject Head,<br>CCE |  Mdm Cheang Ching Ee |  65080-658<br>[cheang_ching_ee@moe.edu.sg](mailto:cheang_ching_ee@moe.edu.sg) |
