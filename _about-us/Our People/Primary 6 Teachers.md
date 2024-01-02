@@ -24,13 +24,14 @@ variant: markdown
 
 | Subject | Teacher |
 |---|---|
-| Art | Mr Matthias Seet<br>65080-661<br>[seet_qin_fong@moe.edu.sg](mailto:seet_qin_fong@moe.edu.sg) |
+| Art |Mrs Chew Yixin<br>65080-662<br>[tan\_yixin@moe.edu.sg](mailto:tan\_yixin@moe.edu.sg) |
+Art |Mdm Karmila<br>65089-458<br>[nor\_karmila\_hamzah@moe.edu.sg](mailto:nor\_karmila\_hamzah@moe.edu.sg)
 |
 | English | Ms Nur Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@moe.edu.sg](mailto:nur\_hidayah\_mohshin@moe.edu.sg) |
-| English | Ms Priscilla Teng<br>65087-326<br>[teng\_yu\_hui\_priscilla@moe.edu.sg](mailto:teng\_yu\_hui\_priscilla@moe.edu.sg) |
-| English | Mdm&nbsp;Kalpana<br>65067-349<br>[kalpana\_manimohan@moe.edu.sg](mailto:kalpana\_manimohan@moe.edu.sg) |
-| English | Mdm Hasanah (HOD, CCE)<br>65080-660<br>[nur\_hasanah\_osman@moe.edu.sg](mailto:nur\_hasanah\_osman@moe.edu.sg) |
-| English | Mr Senthil (Zack)<br>65080-664<br>[subramaniyan\_senthil@moe.edu.sg](mailto:subramaniyan\_senthil@moe.edu.sg) |
+| English | Mdm Leong Fong Fong<br>65080-655<br>[leong\_fong\_fong@moe.edu.sg](mailto:leong\_fong\_fong@moe.edu.sg) |
+| English | Mrs Irene Ang (YH, Upper Primary)<br>65087-312<br>[irene\_chia@moe.edu.sg](mailto:irene\_chia@moe.edu.sg) |
+| English | Mr Kelvin Chia (ST, Science)<br>65080-665<br>[chia\_peng\_lin\_kelvin@moe.edu.sg](mailto:chia\_peng\_lin\_kelvin@moe.edu.sg) |
+| English | Mr Isa<br>65067-346<br>[mohamed\_isa\_b\_osman@moe.edu.sg](mailto:mohamed\_isa\_b\_osman@moe.edu.sg) |
 | English | Mrs&nbsp;Sarah Tan<br>65067-344<br>[sarah\_yu\_xueli@moe.edu.sg](mailto:sarah\_yu\_xueli@moe.edu.sg) |
 |
 | Mathematics | Mr&nbsp;John Leong (Assistant Year Head, Middle Pri)<br>65089-462<br>[leong\_john\_woon@moe.edu.sg](mailto:leong\_john\_woon@moe.edu.sg) |
