@@ -33,10 +33,10 @@ Art |Mdm Karmila<br>65089-458<br>[nor\_karmila\_hamzah@moe.edu.sg](mailto:nor\_k
 | English | Mr Kelvin Chia (ST, Science)<br>65080-665<br>[chia\_peng\_lin\_kelvin@moe.edu.sg](mailto:chia\_peng\_lin\_kelvin@moe.edu.sg) |
 | English | Mr Isa<br>65067-346<br>[mohamed\_isa\_b\_osman@moe.edu.sg](mailto:mohamed\_isa\_b\_osman@moe.edu.sg) |
 | English | Mrs Michelle Wee<br>65080-667<br>[michelle\_tyoh\_whei\_theng@moe.edu.sg](mailto:michelle\_tyoh\_whei\_theng@moe.edu.sg) |
-| English | Ms Nurul Ain<br>65087-328<br>[nurul\_ain\_mohamad\_ibrahim@moe.edu.sg](mailto:nurul\_ain\_mohamad\_ibrahim@moe.edu.sg) |
+| English | Ms Nurul Ain (ST, EL)<br>65087-328<br>[nurul\_ain\_mohamad\_ibrahim@moe.edu.sg](mailto:nurul\_ain\_mohamad\_ibrahim@moe.edu.sg) |
 | English | Mdm Subaitha<br>65089-467<br>[subaitha\_bee\_sahul\_hameed@moe.edu.sg](mailto:subaitha\_bee\_sahul\_hameed@moe.edu.sg) |
 |
-| Mathematics | Mrs Audrey Lim (HOD, Math)<br>65083-170<br>[loke\_ai\_guat\_audrey@moe.edu.sg](mailto:loke\_ai\_guat\_audrey@moe.edu.sg) |
+| Mathematics | Ms Audrey Loke (HOD, Math)<br>65083-170<br>[loke\_ai\_guat\_audrey@moe.edu.sg](mailto:loke\_ai\_guat\_audrey@moe.edu.sg) |
 | Mathematics |Mdm Leong Fong Fong<br>65080-655<br>[leong\_fong\_fong@moe.edu.sg](mailto:leong\_fong\_fong@moe.edu.sg) |
 Mathematics |Mrs Irene Ang (YH, Upper Primary)<br>65087-312<br>[irene\_chia@moe.edu.sg](mailto:irene\_chia@moe.edu.sg) |
 Mathematics |Mdm Josephine Kee<br>65067-342<br>[kee\_wan\_cheng@moe.edu.sg](mailto:kee\_wan\_cheng@moe.edu.sg) |
@@ -47,7 +47,7 @@ Mathematics |Mdm Radiah<br>65067-341<br>[radiah\_rahmat@moe.edu.sg](mailto:radia
 |
 Science |Mr Gerald Wong (HOD, Science)<br>65087-313<br>[gerald\_wong\_yew\_meng@moe.edu.sg](mailto:gerald\_wong\_yew\_meng@moe.edu.sg) |
 Science |Mr Senthil (Zack)<br>65080-664<br>[subramaniyan\_senthil@moe.edu.sg](mailto:subramaniyan\_senthil@moe.edu.sg) |
-Science |Mdm Esther Tay<br>65087-330<br>[tay\_wei\_jing@moe.edu.sg](mailto:tay\_wei\_jing@moe.edu.sg) 
+Science |Mdm Esther Tay (LH, Science)<br>65087-330<br>[tay\_wei\_jing@moe.edu.sg](mailto:tay\_wei\_jing@moe.edu.sg) 
 Science |Mr Shaun Png<br>65080-666<br>[png\_jia\_shun@moe.edu.sg](mailto:png\_jia\_shun@moe.edu.sg) |
 Science| Mr&nbsp;Kelvin Chia (ST, Science)<br>65080-665<br>[chia\_peng\_lin\_kelvin@moe.edu.sg](mailto:chia\_peng\_lin\_kelvin@moe.edu.sg) |
 Science |Mr Guna<br>65080-668<br>[sargunan\_ilangovan@moe.edu.sg](mailto:sargunan\_ilangovan@moe.edu.sg) |

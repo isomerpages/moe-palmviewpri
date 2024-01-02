@@ -20,7 +20,7 @@ variant: markdown
 
 | Designation | Name | Contact Information |
 |:---:|:---:|:---:|
-| Head of Department,<br>Mathematics | Mrs Audrey Lim | 65083-170<br>[loke_ai_guat_audrey@moe.edu.sg](mailto:loke_ai_guat_audrey@moe.edu.sg) |
+| Head of Department,<br>Mathematics | Ms Audrey Loke | 65083-170<br>[loke_ai_guat_audrey@moe.edu.sg](mailto:loke_ai_guat_audrey@moe.edu.sg) |
 | Head of Department,<br>Mother Tongue Languages | Mr Rave Tay | 65083-172<br>[tay_tze_rong@moe.edu.sg](mailto:tay_tze_rong@moe.edu.sg) |
 | Head of Department,<br>Science | Mr Gerald Wong | 65087-313<br>[gerald_wong_yew_meng@moe.edu.sg](mailto:gerald_wong_yew_meng@moe.edu.sg) |
 | Head of Department,<br>Physical Education &amp; CCA | Mr Hisham | 65087-309<br>[hisham_b_spono@moe.edu.sg](mailto:hisham_b_spono@moe.edu.sg) |
