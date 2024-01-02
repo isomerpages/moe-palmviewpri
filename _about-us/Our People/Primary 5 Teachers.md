@@ -51,12 +51,12 @@ Science | Mr Kelvin Chia<br>65080-665<br>[chia\_peng\_lin\_kelvin@moe.edu.sg](ma
 |
 | Chinese Language | Mdm Zhang Yue<br>65087-262<br>[zhang\_yue\_a@moe.edu.sg](mailto:zhang\_yue\_a@moe.edu.sg) |
 Chinese Language | Mdm Jane Mah<br>65087-267<br>[mah\_zhiwei\_jane@moe.edu.sg](mailto:mah\_zhiwei\_jane@moe.edu.sg) |
-Chinese Language |Miss Germaine<br>65087-272<br>[ho\_kok\_luei@moe.edu.sg](mailto:ho\_kok\_luei@moe.edu.sg) |
+Chinese Language |Miss Germaine<br>65087-272<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine\_quek\_jiamin@moe.edu.sg) |
 Chinese Language | Mr Guah <br>65087-314<br>[guah\_boon\_heng@moe.edu.sg](mailto:guah\_boon\_heng@moe.edu.sg) |
 Chinese Language |Ms Kang<br>65087-269<br>[kang\_chao@moe.edu.sg](mailto:kang\_chao@moe.edu.sg) |
 Chinese Language | Mr&nbsp;Rave Tay&nbsp;&nbsp;(HOD, MTL)<br>65083-172<br>[tay\_tze\_rong@moe.edu.sg](mailto:tay\_tze\_rong@moe.edu.sg) |
 |
-|Malay Language| Mdm Masturah<br>65087-317<br>[masturah\_salleh@moe.edu.sg](mailto:masturah\_salleh@moe.edu.sg) |
+|Malay Language| Mdm Masturah (SH, ML)<br>65087-317<br>[masturah\_salleh@moe.edu.sg](mailto:masturah\_salleh@moe.edu.sg) |
 Malay Language| Mdm Shikin<br>65087-320<br>[noorashikin\_zainuldin@moe.edu.sg](mailto:noorashikin\_zainuldin@moe.edu.sg) |
 |
 Music| Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca\_lau\_yuen\_sun@moe.edu.sg](mailto:rebecca\_lau\_yuen\_sun@moe.edu.sg) |
