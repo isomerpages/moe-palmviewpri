@@ -2,6 +2,7 @@
 title: CoCurricular Activities
 permalink: /palm-view-experience/co-curricular-activities/
 description: ""
+variant: markdown
 ---
 ## CO-CURRICULAR ACTIVITIES
 
@@ -13,7 +14,12 @@ The school will be offering the following CCAs:
 
 | CCA | Teacher In Charge |
 |:---:|:---:|
-| Art Club | Mr Matthias Seet<br>65080-661<br>[seet_qin_fong@moe.edu.sg](mailto:seet_qin_fong@moe.edu.sg) |
+| Art Club | Mrs Chew Yixin<br>65080-662<br>[tan\_yixin@moe.edu.sg](mailto:tan\_yixin@moe.edu.sg) |
+| Art Club | Mr Fong Yan Kin<br>65080-661<br>[fong\_yan\_kin@moe.edu.sg](mailto:fong\_yan\_kin@moe.edu.sg) |
+| Art Club | Mdm Josephine Kee<br>65067-342<br>[kee\_wan\_cheng@moe.edu.sg](mailto:kee\_wan\_cheng@moe.edu.sg) |
+| Art Club | Mdm Karmila<br>65089-458<br>[nor\_karmila\_hamzah@moe.edu.sg](mailto:nor\_karmila\_hamzah@moe.edu.sg) |
+| Art Club | Mdm Adzilah<br>65080-663<br>[noor\_adzilah\_tahir@moe.edu.sg](mailto:noor\_adzilah\_tahir@moe.edu.sg) |
+|
 | Infocomm Club | Ms Germaine Quek<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine_quek_jiamin@moe.edu.sg) |
 | Robotics Club | Miss Priscilla Teng<br>65087-326<br>[teng_yu_hui_priscilla@moe.edu.sg](mailto:teng_yu_hui_priscilla@moe.edu.sg) |
 | Science Club | Mr Shuan Png<br>65080-666<br>[png_jia_shun@moe.edu.sg](mailto:png_jia_shun@moe.edu.sg) |
