@@ -17,7 +17,7 @@ variant: markdown
 | 4 Da Vinci | Ms Nurul Ain (ST, English Language) <br>65087-328<br>[nurul\_ain\_mohamad\_ibrahim@moe.edu.sg](mailto:nurul\_ain\_mohamad\_ibrahim@moe.edu.sg)| Mdm Elyani<br>65080-654<br>[elyani\_mohamed@moe.edu.sg](mailto:elyani\_mohamed@moe.edu.sg)|
 | 4 Edison |Mdm Jodie Siow<br>65087-316<br>[yeo\_mui\_hong@moe.edu.sg](mailto:yeo\_mui\_hong@moe.edu.sg)| Ms Loo Yee<br>65087-271<br>[lee\_loo\_yee\_a@moe.edu.sg](mailto:lee\_loo\_yee\_a@moe.edu.sg)|
 | 4 Frank | Mr Isa<br>65067-346<br>[mohamed\_isa\_b\_osman@moe.edu.sg](mailto:mohamed\_isa\_b\_osman@moe.edu.sg)|Ms Li Li<br>65087-263<br>[li\_li@moe.edu.sg](mailto:li\_li@moe.edu.sg)|
-
+| 4 Galileo | Mdm Josephine Kee<br>65067-342<br>[kee\_wan\_cheng@moe.edu.sg](mailto:kee\_wan\_cheng@moe.edu.sg)|Mdm Shikin <br>65087-320<br>[noorashikin\_zainuldin@moe.edu.sg](mailto:noorashikin\_zainuldin@moe.edu.sg)|
 
 ### Subject Teachers
 
