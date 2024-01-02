@@ -24,7 +24,7 @@ variant: markdown
 | Subject | Teacher |
 |---|---|
 | Art | Mr Fong Yan Kin<br>65080-661<br>[fong_yan_kin@moe.edu.sg](mailto:fong_yan_kin@moe.edu.sg)|
-| Art | Ms Noor Adzilah<br>65080-663<br>[noor\_adzilah\_tahir@moe.edu.sg](mailto:noor\_adzilah\_tahir@moe.edu.sg)|
+| Art | Mdm Adzilah<br>65080-663<br>[noor\_adzilah\_tahir@moe.edu.sg](mailto:noor\_adzilah\_tahir@moe.edu.sg)|
 |
 | English Language | Ms Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@moe.edu.sg](mailto:nur\_hidayah\_mohshin@moe.edu.sg)|
 English Language | Mr Sathis Kumar (YH, Lower Primary)<br>65087-311<br>[kanapa\_sathis\_kumar@moe.edu.sg](mailto:kanapa\_sathis\_kumar@moe.edu.sg)|
