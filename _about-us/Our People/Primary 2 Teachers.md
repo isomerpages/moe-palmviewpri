@@ -17,7 +17,7 @@ variant: markdown
 | 2 Da Vinci |Mdm Hailwa<br>65067-641<br>[hailwa\_moree@moe.edu.sg](mailto:hailwa\_moree@moe.edu.sg)| Mr Noel Chan<br>65089-459<br>[noel\_chan\_tze\_sunn@moe.edu.sg](mailto:noel\_chan\_tze\_sunn@moe.edu.sg)|
 | 2 Edison |Ms Shannon Lim<br>65080-659<br>[lim\_eu\_li@moe.edu.sg](mailto:lim\_eu\_li@moe.edu.sg)| Mr Guah <br>65087-314<br>[guah\_boon\_heng@moe.edu.sg](mailto:guah\_boon\_heng@moe.edu.sg)|
 | 2 Frank |Mrs Sharon Seow<br>65067-644<br>[chew\_sharon@moe.edu.sg](mailto:chew\_sharon@moe.edu.sg)| Mr Bryon Luo<br>65089-457<br>[luo\_youde\_bryon@moe.edu.sg](mailto:luo\_youde\_bryon@moe.edu.sg)|
-| 2 Galileo | Mdm Siti Munirah<br>65080-656<br>[siti\_nurmunirah\_mohd\_arsad@moe.edu.sg](mailto:siti\_nurmunirah\_mohd\_arsad@moe.edu.sg)| Ms Foo Shi Rui<br>65067-645<br>[foo\_shi\_rui@moe.edu.sg](mailto:foo\_shi\_rui@moe.edu.sg)|
+| 2 Galileo | Mdm Munirah<br>65080-656<br>[siti\_nurmunirah\_mohd\_arsad@moe.edu.sg](mailto:siti\_nurmunirah\_mohd\_arsad@moe.edu.sg)| Ms Foo Shi Rui<br>65067-645<br>[foo\_shi\_rui@moe.edu.sg](mailto:foo\_shi\_rui@moe.edu.sg)|
 | 2 Hillary | Ms Candice Khoo<br>65067-643<br>[khoo\_yun\_xuan\_candice@moe.edu.sg](mailto:khoo\_yun\_xuan\_candice@moe.edu.sg)| Mdm Nor Karmila<br>65089-458<br>[nor\_karmila\_hamzah@moe.edu.sg](mailto:nor\_karmila\_hamzah@moe.edu.sg)|
 |
 | | | |
@@ -26,7 +26,7 @@ variant: markdown
 
 | Subject | Teacher |
 |---|---|
-| Art | Mrs Chew Yi Xin<br>65087-300 (ext. 291)<br>[tan\_yixin@moe.edu.sg](mailto:tan\_yixin@moe.edu.sg) |
+| Art | Mrs Chew Yi Xin<br>65080-662<br>[tan\_yixin@moe.edu.sg](mailto:tan\_yixin@moe.edu.sg) |
 Art |Mdm Nor Karmila<br>65089-458<br>[nor\_karmila\_hamzah@moe.edu.sg](mailto:nor\_karmila\_hamzah@moe.edu.sg)
 Art | Mdm Adzilah<br>65080-663<br>[noor\_adzilah\_tahir@moe.edu.sg](mailto:noor\_adzilah\_tahir@moe.edu.sg)
 |
@@ -36,7 +36,7 @@ English Language | Mdm Nurulhuda<br>65087-325<br>[nurulhuda\_md\_salleh@moe.edu.
 English Language | Mdm Hailwa<br>65067-641<br>[hailwa\_moree@moe.edu.sg](mailto:hailwa_moree@moe.edu.sg)
 English Language | Ms Shannon Lim<br>65080-659<br>[lim\_eu\_li@moe.edu.sg](mailto:lim\_eu\_li@moe.edu.sg)
 English Language | Mrs Sharon Seow<br>65067-644<br>[chew\_sharon@moe.edu.sg](mailto:chew\_sharon@moe.edu.sg)
-English Language | Mdm Siti Munirah<br>65080-656<br>[siti\_nurmunirah\_mohd\_arsad@moe.edu.sg](mailto:siti\_nurmunirah\_mohd\_arsad@moe.edu.sg)
+English Language | Mdm Munirah<br>65080-656<br>[siti\_nurmunirah\_mohd\_arsad@moe.edu.sg](mailto:siti\_nurmunirah\_mohd\_arsad@moe.edu.sg)
 English Language | Ms Candice Khoo<br>65067-643<br>[khoo\_yun\_xuan\_candice@moe.edu.sg](mailto:khoo\_yun\_xuan\_candice@moe.edu.sg)
 |
 | Mathematics | Mrs Grace Chua<br>65089-468<br>[grace\_lim\_hui\_leng@moe.edu.sg](mailto:grace\_lim\_hui\_leng@moe.edu.sg) |
