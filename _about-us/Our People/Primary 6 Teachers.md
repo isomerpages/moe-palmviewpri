@@ -36,7 +36,7 @@ Art |Mdm Karmila<br>65089-458<br>[nor\_karmila\_hamzah@moe.edu.sg](mailto:nor\_k
 | English | Ms Nurul Ain<br>65087-328<br>[nurul\_ain\_mohamad\_ibrahim@moe.edu.sg](mailto:nurul\_ain\_mohamad\_ibrahim@moe.edu.sg) |
 | English | Mdm Subaitha<br>65089-467<br>[subaitha\_bee\_sahul\_hameed@moe.edu.sg](mailto:subaitha\_bee\_sahul\_hameed@moe.edu.sg) |
 |
-| Mathematics | Mrs Audrey Lim (HOD, Math)<br>65083-170<br>[loke\_ai\_guat\_audrey@moe.edu.sg](mailto:loke\_ai\_guat\_audrey@moe.edu.sg) |
+| Mathematics | Ms Audrey Loke (HOD, Math)<br>65083-170<br>[loke\_ai\_guat\_audrey@moe.edu.sg](mailto:loke\_ai\_guat\_audrey@moe.edu.sg) |
 | Mathematics |Mdm Leong Fong Fong<br>65080-655<br>[leong\_fong\_fong@moe.edu.sg](mailto:leong\_fong\_fong@moe.edu.sg) |
 Mathematics |Mrs Irene Ang (YH, Upper Primary)<br>65087-312<br>[irene\_chia@moe.edu.sg](mailto:irene\_chia@moe.edu.sg) |
 Mathematics |Mdm Josephine Kee<br>65067-342<br>[kee\_wan\_cheng@moe.edu.sg](mailto:kee\_wan\_cheng@moe.edu.sg) |
