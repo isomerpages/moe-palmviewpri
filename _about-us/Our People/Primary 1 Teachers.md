@@ -25,7 +25,7 @@ variant: markdown
 
 | Subject | Teacher |
 |---|---|
-| Art | Mr Fong Yan Kin<br>65087-300 (ext. 126)<br>[fong_yan_kin@moe.edu.sg](mailto:fong_yan_kin@moe.edu.sg) |
+| Art | Mr Fong Yan Kin<br>65080-661<br>[fong_yan_kin@moe.edu.sg](mailto:fong_yan_kin@moe.edu.sg) |
 | Art |Mrs Chew Yi Xin<br>65080-662<br>[tan\_yixin@moe.edu.sg](mailto:tan\_yixin@moe.edu.sg) |
 | Art |Mdm Nor Karmila<br>65089-458<br>[nor\_karmila\_hamzah@moe.edu.sg](mailto:nor\_karmila\_hamzah@moe.edu.sg) |
 |
