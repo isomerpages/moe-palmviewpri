@@ -11,11 +11,11 @@ variant: markdown
 
 | Class | Form Teacher | Form Teacher |
 |---|---|---|
-| 3 Aristotle | Mdm Asyikin<br>65067-343<br>[nur\_asyikin\_mohd\_agos@moe.edu.sg](mailto:nur\_asyikin\_mohd\_agos@moe.edu.sg) | Ms Cher Xin Joo<br>65087-260<br>[cher\_xin\_joo@moe.edu.sg](mailto:cher\_xin\_joo@moe.edu.sg) |
+| 3 Aristotle |Ms Jo Ko<br>65089-461<br>[ko\_hiang@moe.edu.sg](mailto:ko\_hiang@moe.edu.sg) | Mr Nadeem<br>65087-276<br>[mohamed\_nadeem@moe.edu.sg](mailto:mohamed\_nadeem@moe.edu.sg) |
  3 Beethoven | Mdm Heng Wei Shan<br>65089-450<br>[heng\_wei\_shan\_a@moe.edu.sg](mailto:heng\_wei\_shan\_a@moe.edu.sg) |           -
 | 3 Curie | Ms Serene Yap<br>65067-646<br>[yap\_hui\_yun\_serene@moe.edu.sg](mailto:yap\_hui\_yun\_serene@moe.edu.sg) | Mr Teng Tse Peng (YH, Middle Primary)<br>65087-310<br>[teng\_tse\_peng\_a@moe.edu.sg](mailto:teng\_tse\_peng\_a@moe.edu.sg) |
 | 3 Da Vinci | Ms Priscilla Teng<br>65087-326<br>[teng\_yu\_hui\_priscilla@moe.edu.sg](mailto:teng\_yu\_hui\_priscilla@moe.edu.sg) |Ms Nabilah<br>65087-319<br>[nabilah\_abdul\_rahman@moe.edu.sg](mailto:nabilah\_abdul\_rahman@moe.edu.sg) |
-| 3 Edison |Ms Jo Ko<br>65089-461<br>[ko\_hiang@moe.edu.sg](mailto:ko\_hiang@moe.edu.sg) | Mr Nadeem<br>65087-276<br>[mohamed\_nadeem@moe.edu.sg](mailto:mohamed\_nadeem@moe.edu.sg) |
+| 3 Edison |Mdm Asyikin<br>65067-343<br>[nur\_asyikin\_mohd\_agos@moe.edu.sg](mailto:nur\_asyikin\_mohd\_agos@moe.edu.sg) | Ms Cher Xin Joo<br>65087-260<br>[cher\_xin\_joo@moe.edu.sg](mailto:cher\_xin\_joo@moe.edu.sg) |
 | 3 Frank | Mrs Saj<br>65089-454<br>[vanisree\_sajjan@moe.edu.sg](mailto:vanisree\_sajjan@moe.edu.sg) | Ms Audrey Loke (HOD, Math)<br>65083-170<br>[loke\_ai\_guat\_audrey@moe.edu.sg](mailto:loke\_ai\_guat\_audrey@moe.edu.sg) |
 | 3 Galileo | Ms Magdalene Tan<br>65089-452<br>[tan\_kai\_lin\_magdalene@moe.edu.sg](mailto:tan\_kai\_lin\_magdalene@moe.edu.sg) |Ms Kang<br>665087-269<br>[kang\_chao@moe.edu.sg](mailto:kang\_chao@moe.edu.sg) |
 
