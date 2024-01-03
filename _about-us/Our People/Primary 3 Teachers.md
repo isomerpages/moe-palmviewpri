@@ -51,7 +51,7 @@ Science | Mrs Michelle Wee <br>65080-667<br>[michelle\_tyoh\_whei\_theng@moe.edu
 Science | Ms Magdalene Tan<br>65089-452<br>[tan\_kai\_lin\_magdalene@moe.edu.sg](mailto:tan\_kai\_lin\_magdalene@moe.edu.sg)|
 |
 | Chinese Language| Mr Rave Tay (HOD, MTL)<br>65083-172<br>[tay\_tze\_rong@moe.edu.sg](mailto:tay\_tze\_rong@moe.edu.sg)|
-Chinese Language| Ms Kang<br>665087-269<br>[kang\_chao@moe.edu.sg](mailto:kang\_chao@moe.edu.sg)|
+Chinese Language| Ms Kang<br>65087-269<br>[kang\_chao@moe.edu.sg](mailto:kang\_chao@moe.edu.sg)|
 Chinese Language|Mr Zhou Wencong (HOD,SM)<br>65087-322<br>[zhou\_wencong@moe.edu.sg](mailto:zhou\_wencong@moe.edu.sg)|
 Chinese Language| Ms Cher Xin Joo<br>65087-260<br>[cher\_xin\_joo@moe.edu.sg](mailto:cher\_xin\_joo@moe.edu.sg)|
 Chinese Language| Mdm Heng Wei Shan<br>65089-450<br>[heng\_wei\_shan\_a@moe.edu.sg](mailto:heng\_wei\_shan\_a@moe.edu.sg)|
