@@ -50,7 +50,7 @@ Science | Mdm Josephine Kee<br>65067-342<br>[kee\_wan\_cheng@moe.edu.sg](mailto:
 | Chinese Language | Mdm Koh Siew Bee<br>65087-261<br>[koh\_siew\_bee@moe.edu.sg](mailto:koh\_siew\_bee@moe.edu.sg)|
 Chinese Language | Mr Teng Tse Peng (YH, Middle Primary)<br>65087-310<br>[teng\_tse\_peng\_a@moe.edu.sg](mailto:teng\_tse\_peng\_a@moe.edu.sg)|
 Chinese Language | Mdm Li Li<br>65087-263<br>[li\_li@moe.edu.sg](mailto:li\_li@moe.edu.sg)|
-Chinese Language | Ms Tan Hui Yang<br>65083-171<br>[tan\_hui\_yang@moe.edu.sg](mailto:tan\_hui\_yang@moe.edu.sg)|
+Chinese Language | Mdm Tan Hui Yang<br>65083-171<br>[tan\_hui\_yang@moe.edu.sg](mailto:tan\_hui\_yang@moe.edu.sg)|
 Chinese Language | Mdm Joy Tan<br>65087-265<br>[tan\_boon\_hui@moe.edu.sg](mailto:tan\_boon\_hui@moe.edu.sg)|
 Chinese Language | Mr Warren Thin (HOD, ICT)<br>65080-652<br>[thin\_dongqi@moe.edu.sg](mailto:thin\_dongqi@moe.edu.sg)|
 Chinese Language | Ms Loo Yee<br>65087-271<br>[lee\_loo\_yee\_a@moe.edu.sg](mailto:lee\_loo\_yee\_a@moe.edu.sg)|
