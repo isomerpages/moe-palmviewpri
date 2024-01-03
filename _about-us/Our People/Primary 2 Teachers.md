@@ -18,7 +18,7 @@ variant: markdown
 | 2 Edison |Ms Shannon Lim<br>65080-659<br>[lim\_eu\_li@moe.edu.sg](mailto:lim\_eu\_li@moe.edu.sg)| Mr Guah <br>65087-314<br>[guah\_boon\_heng@moe.edu.sg](mailto:guah\_boon\_heng@moe.edu.sg)|
 | 2 Frank |Mrs Sharon Seow<br>65067-644<br>[chew\_sharon@moe.edu.sg](mailto:chew\_sharon@moe.edu.sg)| Mr Bryon Luo<br>65089-457<br>[luo\_youde\_bryon@moe.edu.sg](mailto:luo\_youde\_bryon@moe.edu.sg)|
 | 2 Galileo | Mdm Munirah<br>65080-656<br>[siti\_nurmunirah\_mohd\_arsad@moe.edu.sg](mailto:siti\_nurmunirah\_mohd\_arsad@moe.edu.sg)| Ms Foo Shi Rui<br>65067-645<br>[foo\_shi\_rui@moe.edu.sg](mailto:foo\_shi\_rui@moe.edu.sg)|
-| 2 Hillary | Ms Candice Khoo<br>65067-643<br>[khoo\_yun\_xuan\_candice@moe.edu.sg](mailto:khoo\_yun\_xuan\_candice@moe.edu.sg)| Mdm Nor Karmila<br>65089-458<br>[nor\_karmila\_hamzah@moe.edu.sg](mailto:nor\_karmila\_hamzah@moe.edu.sg)|
+| 2 Hillary | Ms Candice Khoo<br>65067-643<br>[khoo\_yun\_xuan\_candice@moe.edu.sg](mailto:khoo\_yun\_xuan\_candice@moe.edu.sg)| Mdm Karmila<br>65089-458<br>[nor\_karmila\_hamzah@moe.edu.sg](mailto:nor\_karmila\_hamzah@moe.edu.sg)|
 |
 | | | |
 
