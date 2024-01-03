@@ -18,7 +18,7 @@ variant: markdown
 | 2 Edison |Ms Shannon Lim<br>65080-659<br>[lim\_eu\_li@moe.edu.sg](mailto:lim\_eu\_li@moe.edu.sg)| Mr Guah <br>65087-314<br>[guah\_boon\_heng@moe.edu.sg](mailto:guah\_boon\_heng@moe.edu.sg)|
 | 2 Frank |Mrs Sharon Seow<br>65067-644<br>[chew\_sharon@moe.edu.sg](mailto:chew\_sharon@moe.edu.sg)| Mr Bryon Luo<br>65089-457<br>[luo\_youde\_bryon@moe.edu.sg](mailto:luo\_youde\_bryon@moe.edu.sg)|
 | 2 Galileo | Mdm Munirah<br>65080-656<br>[siti\_nurmunirah\_mohd\_arsad@moe.edu.sg](mailto:siti\_nurmunirah\_mohd\_arsad@moe.edu.sg)| Ms Foo Shi Rui<br>65067-645<br>[foo\_shi\_rui@moe.edu.sg](mailto:foo\_shi\_rui@moe.edu.sg)|
-| 2 Hillary | Ms Candice Khoo<br>65067-643<br>[khoo\_yun\_xuan\_candice@moe.edu.sg](mailto:khoo\_yun\_xuan\_candice@moe.edu.sg)| Mdm Nor Karmila<br>65089-458<br>[nor\_karmila\_hamzah@moe.edu.sg](mailto:nor\_karmila\_hamzah@moe.edu.sg)|
+| 2 Hillary | Ms Candice Khoo<br>65067-643<br>[khoo\_yun\_xuan\_candice@moe.edu.sg](mailto:khoo\_yun\_xuan\_candice@moe.edu.sg)| Mdm Karmila<br>65089-458<br>[nor\_karmila\_hamzah@moe.edu.sg](mailto:nor\_karmila\_hamzah@moe.edu.sg)|
 |
 | | | |
 
@@ -27,7 +27,7 @@ variant: markdown
 | Subject | Teacher |
 |---|---|
 | Art | Mrs Chew Yi Xin<br>65080-662<br>[tan\_yixin@moe.edu.sg](mailto:tan\_yixin@moe.edu.sg) |
-Art |Mdm Nor Karmila<br>65089-458<br>[nor\_karmila\_hamzah@moe.edu.sg](mailto:nor\_karmila\_hamzah@moe.edu.sg)
+Art |Mdm Karmila<br>65089-458<br>[nor\_karmila\_hamzah@moe.edu.sg](mailto:nor\_karmila\_hamzah@moe.edu.sg)
 Art | Mdm Adzilah<br>65080-663<br>[noor\_adzilah\_tahir@moe.edu.sg](mailto:noor\_adzilah\_tahir@moe.edu.sg)
 |
 | English Language | Ms Nabilah<br>65067-344<br>[nabilah\_abdullah@moe.edu.sg](mailto:nabilah\_abdullah@moe.edu.sg) |
@@ -51,7 +51,7 @@ English Language | Ms Candice Khoo<br>65067-643<br>[khoo\_yun\_xuan\_candice@moe
  Mathematics | Ms Nurul<br>65067-647<br>[nurul\_farha\_abdul\_talib@moe.edu.sg](mailto:nurul\_farha\_abdul\_talib@moe.edu.sg)
 |
 | Chinese Language | Mdm Koh Siew Bee<br>65087-261<br>[koh\_siew\_bee@moe.edu.sg](mailto:koh\_siew\_bee@moe.edu.sg) |
-Chinese Language |Ms Tan Hui Yang<br>65083-171<br>[tan\_hui\_yang@moe.edu.sg](mailto:tan\_hui\_yang@moe.edu.sg) |
+Chinese Language |Mdm Tan Hui Yang<br>65083-171<br>[tan\_hui\_yang@moe.edu.sg](mailto:tan\_hui\_yang@moe.edu.sg) |
 Chinese Language |Ms Li Li<br>65087-263<br>[li\_li@moe.edu.sg](mailto:li\_li@moe.edu.sg) |
 Chinese Language | Mr Guah <br>65087-314<br>[guah\_boon\_heng@moe.edu.sg](mailto:guah\_boon\_heng@moe.edu.sg) |
 Chinese Language | Mdm Joy Tan<br>65087-265<br>[tan\_boon\_hui@moe.edu.sg](mailto:tan\_boon\_hui@moe.edu.sg) |

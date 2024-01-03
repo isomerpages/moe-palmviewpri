@@ -27,7 +27,7 @@ variant: markdown
 |---|---|
 | Art | Mr Fong Yan Kin<br>65080-661<br>[fong_yan_kin@moe.edu.sg](mailto:fong_yan_kin@moe.edu.sg) |
 | Art |Mrs Chew Yi Xin<br>65080-662<br>[tan\_yixin@moe.edu.sg](mailto:tan\_yixin@moe.edu.sg) |
-| Art |Mdm Nor Karmila<br>65089-458<br>[nor\_karmila\_hamzah@moe.edu.sg](mailto:nor\_karmila\_hamzah@moe.edu.sg) |
+| Art |Mdm Karmila<br>65089-458<br>[nor\_karmila\_hamzah@moe.edu.sg](mailto:nor\_karmila\_hamzah@moe.edu.sg) |
 |
 | English Language |  Mrs Gracelyn Tham <br>65067-648<br>[lim\_ai\_zhen\_gracelyn@moe.edu.sg](mailto:lim\_ai\_zhen\_gracelyn@moe.edu.sg) |
 | English Language |  Ms Rachel Loh<br>65067-640<br>[loh\_hui\_xian\_rachel@moe.edu.sg](mailto:loh\_hui\_xian\_rachel@moe.edu.sg) |

@@ -13,7 +13,7 @@ variant: markdown
 |:---:|:---:|:---:|
 | Principal | Mrs Ming Kum |[ming_antoinette_ramasamy@schools.gov.sg](mailto:ming_antoinette_ramasamy@schools.gov.sg) |
 | Vice-Principal | Mr Jeremy Ang |[ang_wei_teck@schools.gov.sg](mailto:ang_wei_teck@schools.gov.sg) |
-| Vice-Principal | Ms Chua Chew Hiang |[chua_chew_hiang@schools.gov.sg](mailto:chua_chew_hiang@schools.gov.sg) |
+| Vice-Principal (Admin) | Ms Chua Chew Hiang |[chua_chew_hiang@schools.gov.sg](mailto:chua_chew_hiang@schools.gov.sg) |
 | | | |
 
 ### Key Personnel

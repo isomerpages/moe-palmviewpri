@@ -16,7 +16,7 @@ The school will be offering the following CCAs:
 |:---:|:---:|
 | Art Club | Mrs Chew Yixin<br>65080-662<br>[tan\_yixin@moe.edu.sg](mailto:tan\_yixin@moe.edu.sg) |
 |
-| Infocomm Club | Ms Germaine Quek<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine_quek_jiamin@moe.edu.sg) |
+| Infocomm Club | Ms Germaine<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine_quek_jiamin@moe.edu.sg) |
 |
 | Robotics Club | Miss Priscilla Teng<br>65087-326<br>[teng_yu_hui_priscilla@moe.edu.sg](mailto:teng_yu_hui_priscilla@moe.edu.sg) |
 |

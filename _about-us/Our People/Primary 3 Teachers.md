@@ -17,7 +17,7 @@ variant: markdown
 | 3 Da Vinci | Ms Priscilla Teng<br>65087-326<br>[teng\_yu\_hui\_priscilla@moe.edu.sg](mailto:teng\_yu\_hui\_priscilla@moe.edu.sg) |Mdm Nabilah<br>65087-319<br>[nabilah\_abdul\_rahman@moe.edu.sg](mailto:nabilah\_abdul\_rahman@moe.edu.sg) |
 | 3 Edison |Mdm Asyikin<br>65067-343<br>[nur\_asyikin\_mohd\_agos@moe.edu.sg](mailto:nur\_asyikin\_mohd\_agos@moe.edu.sg) | Ms Cher Xin Joo<br>65087-260<br>[cher\_xin\_joo@moe.edu.sg](mailto:cher\_xin\_joo@moe.edu.sg) |
 | 3 Frank | Mrs Saj<br>65089-454<br>[vanisree\_sajjan@moe.edu.sg](mailto:vanisree\_sajjan@moe.edu.sg) | Ms Audrey Loke (HOD, Math)<br>65083-170<br>[loke\_ai\_guat\_audrey@moe.edu.sg](mailto:loke\_ai\_guat\_audrey@moe.edu.sg) |
-| 3 Galileo | Ms Magdalene Tan<br>65089-452<br>[tan\_kai\_lin\_magdalene@moe.edu.sg](mailto:tan\_kai\_lin\_magdalene@moe.edu.sg) |Ms Kang<br>665087-269<br>[kang\_chao@moe.edu.sg](mailto:kang\_chao@moe.edu.sg) |
+| 3 Galileo | Ms Magdalene Tan<br>65089-452<br>[tan\_kai\_lin\_magdalene@moe.edu.sg](mailto:tan\_kai\_lin\_magdalene@moe.edu.sg) |Ms Kang<br>65087-269<br>[kang\_chao@moe.edu.sg](mailto:kang\_chao@moe.edu.sg) |
 
 ### Subject Teachers
 
@@ -51,7 +51,7 @@ Science | Mrs Michelle Wee <br>65080-667<br>[michelle\_tyoh\_whei\_theng@moe.edu
 Science | Ms Magdalene Tan<br>65089-452<br>[tan\_kai\_lin\_magdalene@moe.edu.sg](mailto:tan\_kai\_lin\_magdalene@moe.edu.sg)|
 |
 | Chinese Language| Mr Rave Tay (HOD, MTL)<br>65083-172<br>[tay\_tze\_rong@moe.edu.sg](mailto:tay\_tze\_rong@moe.edu.sg)|
-Chinese Language| Ms Kang<br>665087-269<br>[kang\_chao@moe.edu.sg](mailto:kang\_chao@moe.edu.sg)|
+Chinese Language| Ms Kang<br>65087-269<br>[kang\_chao@moe.edu.sg](mailto:kang\_chao@moe.edu.sg)|
 Chinese Language|Mr Zhou Wencong (HOD,SM)<br>65087-322<br>[zhou\_wencong@moe.edu.sg](mailto:zhou\_wencong@moe.edu.sg)|
 Chinese Language| Ms Cher Xin Joo<br>65087-260<br>[cher\_xin\_joo@moe.edu.sg](mailto:cher\_xin\_joo@moe.edu.sg)|
 Chinese Language| Mdm Heng Wei Shan<br>65089-450<br>[heng\_wei\_shan\_a@moe.edu.sg](mailto:heng\_wei\_shan\_a@moe.edu.sg)|
