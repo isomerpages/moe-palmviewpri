@@ -53,7 +53,7 @@ Science| Mr&nbsp;Kelvin Chia (ST, Science)<br>65080-665<br>[chia\_peng\_lin\_kel
 Science |Mr Guna<br>65080-668<br>[sargunan\_ilangovan@moe.edu.sg](mailto:sargunan\_ilangovan@moe.edu.sg) |
 Science |Mrs Michelle Wee<br>65080-667<br>[michelle\_tyoh\_whei\_theng@moe.edu.sg](mailto:michelle\_tyoh\_whei\_theng@moe.edu.sg) |
 |
-| Chinese Language | Ms Loo Yee<br>65087-271<br>[lee\_loo\_yee\_a@moe.edu.sg](mailto:lee\_loo\_yee\_a@moe.edu.sg) |
+| Chinese Language | Ms Loo Yee<br>65087-271<br>[lee\_loo\_yee@schools.gov.sg](mailto:lee\_loo\_yee\@schools.gov.sg) |
 Chinese Language | Mdm Heng Wei Shan<br>65089-450<br>[heng\_wei\_shan\_a@moe.edu.sg](mailto:heng\_wei\_shan\_a@moe.edu.sg) 
 Chinese Language |Mdm Hwee Yeng<br>65087-268<br>[lim\_hwee\_yeng@moe.edu.sg](mailto:lim\_hwee\_yeng@moe.edu.sg) 
 Chinese Language | Mrs Lim Bee Li<br>65087-266<br>[tay\_bee\_li@moe.edu.sg](mailto:tay\_bee\_li@moe.edu.sg) 
