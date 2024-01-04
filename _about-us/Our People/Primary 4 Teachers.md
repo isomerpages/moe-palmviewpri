@@ -64,6 +64,6 @@ Chinese Language | Ms Loo Yee<br>65087-271<br>[lee\_loo\_yee\@schools.gov.sg](ma
 | Physical Education and Health Education | Miss Valerie Koh<br>65087-277<br>[valerie_koh_sock_hwee@schools.gov.sg](mailto:valerie_koh_sock_hwee@schools.gov.sg)|
 | Physical Education and Health Education | Mr Nadeem<br>65087-276<br>[mohamed_nadeem@schools.gov.sg](mailto:mohamed_nadeem@schools.gov.sg)|
 | Physical Education and Health Education | Mr Noel Chan<br>65083-173<br>[noel_chan_tze_sunn@schools.gov.sg](mailto:noel_chan_tze_sunn@schools.gov.sg)|
-| Physical Education and Health Education | Mrs Michelle Khoo<br>65087-278<br>[lee_jing_wen_michelle@moe.edu.sg](mailto:lee_jing_wen_michelle@moe.edu.sg)|
+| Physical Education and Health Education | Mrs Michelle Khoo<br>65087-278<br>[lee_jing_wen_michelle@schools.gov.sg](mailto:lee_jing_wen_michelle@schools.gov.sg)|
 | Physical Education and Health Education | Mr Rafiei <br>65087-275<br>[mohamad\_rafiei\_sakeyam@schools.gov.sg](mailto:mohamad\_rafiei\_sakeyam@schools.gov.sg)|
 | Physical Education and Health Education | Ms Nazurah<br>65087-275<br>[nazurah\_syazana\_nordin@schools.gov.sg](mailto:nazurah\_syazana\_nordin@schools.gov.sg)|
