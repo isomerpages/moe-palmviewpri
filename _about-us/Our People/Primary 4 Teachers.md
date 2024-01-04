@@ -41,29 +41,29 @@ Mathematics | Mrs Jodie Siow<br>65087-316<br>[yeo\_mui\_hong@schools.gov.sg](mai
 Mathematics | Ms Nicole Chee<br>65067-340<br>[chee\_shu\_rong\_nicole@schools.gov.sg](mailto:chee\_shu\_rong\_nicole@schools.gov.sg)
 Mathematics | Mdm Josephine Kee<br>65067-342<br>[kee\_wan\_cheng@schools.gov.sg](mailto:kee\_wan\_cheng@schools.gov.sg)
 |
-| Science | Mdm Esther Tay (LH, Science)<br>65087-330<br>[tay\_wei\_jing@moe.edu.sg](mailto:tay\_wei\_jing@moe.edu.sg)|
-Science | Ms Nabilah<br>65067-344<br>[nabilah\_abdullah@moe.edu.sg](mailto:nabilah\_abdullah@moe.edu.sg)|
-Science | Mrs Tan Lirong<br>65080-669<br>[sun\_lirong@moe.edu.sg](mailto:sun\_lirong@moe.edu.sg)|
+| Science | Mdm Esther Tay (LH, Science)<br>65087-330<br>[tay\_wei\_jing@schools.gov.sg](mailto:tay\_wei\_jing@schools.gov.sg)|
+Science | Ms Nabilah<br>65067-344<br>[nabilah\_abdullah@schools.gov.sg](mailto:nabilah\_abdullah@schools.gov.sg)|
+Science | Mrs Tan Lirong<br>65080-669<br>[sun\_lirong@schools.gov.sg](mailto:sun\_lirong@schools.gov.sg)|
 Science | Mrs Jodie Siow<br>65087-316<br>[yeo\_mui\_hong@schools.gov.sg](mailto:yeo\_mui\_hong@schools.gov.sg)|
-Science | Mdm Josephine Kee<br>65067-342<br>[kee\_wan\_cheng@moe.edu.sg](mailto:kee\_wan\_cheng@moe.edu.sg)|
+Science | Mdm Josephine Kee<br>65067-342<br>[kee\_wan\_cheng@schools.gov.sg](mailto:kee\_wan\_cheng@schools.gov.sg)|
 |
-| Chinese Language | Mdm Koh Siew Bee<br>65087-261<br>[koh\_siew\_bee@moe.edu.sg](mailto:koh\_siew\_bee@moe.edu.sg)|
-Chinese Language | Mr Teng Tse Peng (YH, Middle Primary)<br>65087-310<br>[teng\_tse\_peng\_a@moe.edu.sg](mailto:teng\_tse\_peng\_a@moe.edu.sg)|
-Chinese Language | Mdm Li Li<br>65087-263<br>[li\_li@moe.edu.sg](mailto:li\_li@moe.edu.sg)|
-Chinese Language | Mdm Tan Hui Yang<br>65083-171<br>[tan\_hui\_yang@moe.edu.sg](mailto:tan\_hui\_yang@moe.edu.sg)|
-Chinese Language | Mdm Joy Tan<br>65087-265<br>[tan\_boon\_hui@moe.edu.sg](mailto:tan\_boon\_hui@moe.edu.sg)|
-Chinese Language | Mr Warren Thin (HOD, ICT)<br>65080-652<br>[thin\_dongqi@moe.edu.sg](mailto:thin\_dongqi@moe.edu.sg)|
+| Chinese Language | Mdm Koh Siew Bee<br>65087-261<br>[koh\_siew\_bee@schools.gov.sg](mailto:koh\_siew\_bee@schools.gov.sg)|
+Chinese Language | Mr Teng Tse Peng (YH, Middle Primary)<br>65087-310<br>[teng\_tse\_peng\_a@schools.gov.sg](mailto:teng\_tse\_peng\_a@schools.gov.sg)|
+Chinese Language | Mdm Li Li<br>65087-263<br>[li\_li@schools.gov.sg](mailto:li\_li@schools.gov.sg)|
+Chinese Language | Mdm Tan Hui Yang<br>65083-171<br>[tan\_hui\_yang@schools.gov.sg](mailto:tan\_hui\_yang@schools.gov.sg)|
+Chinese Language | Mdm Joy Tan<br>65087-265<br>[tan\_boon\_hui@schools.gov.sg](mailto:tan\_boon\_hui@schools.gov.sg)|
+Chinese Language | Mr Warren Thin (HOD, ICT)<br>65080-652<br>[thin\_dongqi@schools.gov.sg](mailto:thin\_dongqi@schools.gov.sg)|
 Chinese Language | Ms Loo Yee<br>65087-271<br>[lee\_loo\_yee\@schools.gov.sg](mailto:lee\_loo\_yee@schools.gov.sg)|
 |
-| Malay Language | Mdm Elyani (ST, Malay Language)<br>65080-654<br>[elyani\_mohamed@moe.edu.sg](mailto:elyani\_mohamed@moe.edu.sg)|
- Malay Language | Mdm Shikin<br>65087-320<br>[noorashikin\_zainuldin@moe.edu.sg](mailto:noorashikin\_zainuldin@moe.edu.sg)
+| Malay Language | Mdm Elyani (ST, Malay Language)<br>65080-654<br>[elyani\_mohamed@schools.gov.sg](mailto:elyani\_mohamed@schools.gov.sg)|
+ Malay Language | Mdm Shikin<br>65087-320<br>[noorashikin\_zainuldin@schools.gov.sg](mailto:noorashikin\_zainuldin@schools.gov.sg)
 |
-| Music | Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca_lau_yuen_sun@moe.edu.sg](mailto:rebecca_lau_yuen_sun@moe.edu.sg)|
-| Music | Mr Bryon Luo<br>65080-662<br>[luo\_youde\_bryon@moe.edu.sg](mailto:luo\_youde\_bryon@moe.edu.sg)|
+| Music | Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@moe.edu.sg)|
+| Music | Mr Bryon Luo<br>65080-662<br>[luo\_youde\_bryon@schools.gov.sg](mailto:luo\_youde\_bryon@schools.gov.sg)|
 |
-| Physical Education and Health Education | Miss Valerie Koh<br>65087-277<br>[valerie_koh_sock_hwee@moe.edu.sg](mailto:valerie_koh_sock_hwee@moe.edu.sg)|
-| Physical Education and Health Education | Mr Nadeem<br>65087-276<br>[mohamed_nadeem@moe.edu.sg](mailto:mohamed_nadeem@moe.edu.sg)|
-| Physical Education and Health Education | Mr Noel Chan<br>65083-173<br>[noel_chan_tze_sunn@moe.edu.sg](mailto:noel_chan_tze_sunn@moe.edu.sg)|
+| Physical Education and Health Education | Miss Valerie Koh<br>65087-277<br>[valerie_koh_sock_hwee@schools.gov.sg](mailto:valerie_koh_sock_hwee@schools.gov.sg)|
+| Physical Education and Health Education | Mr Nadeem<br>65087-276<br>[mohamed_nadeem@schools.gov.sg](mailto:mohamed_nadeem@schools.gov.sg)|
+| Physical Education and Health Education | Mr Noel Chan<br>65083-173<br>[noel_chan_tze_sunn@schools.gov.sg](mailto:noel_chan_tze_sunn@schools.gov.sg)|
 | Physical Education and Health Education | Mrs Michelle Khoo<br>65087-278<br>[lee_jing_wen_michelle@moe.edu.sg](mailto:lee_jing_wen_michelle@moe.edu.sg)|
-| Physical Education and Health Education | Mr Rafiei <br>65087-275<br>[mohamad\_rafiei\_sakeyam@moe.edu.sg](mailto:mohamad\_rafiei\_sakeyam@moe.edu.sg)|
-| Physical Education and Health Education | Ms Nazurah<br>65087-275<br>[nazurah\_syazana\_nordin@moe.edu.sg](mailto:nazurah\_syazana\_nordin@moe.edu.sg)|
+| Physical Education and Health Education | Mr Rafiei <br>65087-275<br>[mohamad\_rafiei\_sakeyam@schools.gov.sg](mailto:mohamad\_rafiei\_sakeyam@schools.gov.sg)|
+| Physical Education and Health Education | Ms Nazurah<br>65087-275<br>[nazurah\_syazana\_nordin@schools.gov.sg](mailto:nazurah\_syazana\_nordin@schools.gov.sg)|
