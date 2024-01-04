@@ -56,7 +56,7 @@ Chinese Language |Ms Li Li<br>65087-263<br>[li\_li@schools.gov.sg](mailto:li\_li
 Chinese Language | Mr Guah <br>65087-314<br>[guah\_boon\_heng@schools.gov.sg](mailto:guah\_boon\_heng@schools.gov.sg) |
 Chinese Language | Mdm Joy Tan<br>65087-265<br>[tan\_boon\_hui@schools.gov.sg](mailto:tan\_boon\_hui@schools.gov.sg) |
 Chinese Language |Mdm Hwee Yeng<br>65087-268<br>[lim\_hwee\_yeng@schools.gov.sg](mailto:lim\_hwee\_yeng@schools.gov.sg) |
-|Chinese Language | Mdm Yong<br>65087-273<br>[yong\_puay\_pin\_a@schools.gov.sg](mailto:yong\_puay\_pin\_a@schools.gov.sg)
+|Chinese Language | Mdm Yong<br>65087-273<br>[yong\_puay\_pin\_a@moe.edu.sg](mailto:yong\_puay\_pin\_a@moe.edu.sg)
 |
 |Malay Language | Ms Nurbayah<br>65087-300 (Ext 651)<br>[nurbayah\_ismail@schools.gov.sg](mailto:nurbayah\_ismail@schools.gov.sg) |
 | Malay Language  | Mdm Shikin<br>65087-320<br>[noorashikin\_zainuldin@schools.gov.sg](mailto:noorashikin\_zainuldin@schools.gov.sg) 
