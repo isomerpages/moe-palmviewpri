@@ -28,7 +28,7 @@ variant: markdown
 | 
 | English Language | Mrs Serene Yue<br>65067-345<br>[wong\_may\_san\_serene@moe.edu.sg](mailto:wong\_may\_san\_serene@moe.edu.sg)|
 English Language | Ms Tabigail Hung<br>65080-657<br>[hung\_shao\_hui\_tabigail@moe.edu.sg](mailto:hung\_shao\_hui\_tabigail@moe.edu.sg)
-English Language | Ms Nicholyn Teo (AYH, Middle Primary)<br>65087-323<br>[teo\_hui\_wen\_nicholyn@moe.edu.sg](mailto:teo\_hui\_wen\_nicholyn@moe.edu.sg)
+English Language | Ms Nicholyn Teo (AYH, Middle Primary)<br>65087-323<br>[nicholyn_teo@schools.gov.sg](mailto:nicholyn_teo@schools.gov.sg)
 English Language |Ms Nurul Ain (ST, English Language) <br>65087-328<br>[nurul\_ain\_mohamad\_ibrahim@moe.edu.sg](mailto:nurul\_ain\_mohamad\_ibrahim@moe.edu.sg)
 English Language | Ms Serene Yap<br>65067-646<br>[yap\_hui\_yun\_serene@moe.edu.sg](mailto:yap\_hui\_yun\_serene@moe.edu.sg)
 English Language | Mr Isa<br>65067-346<br>[mohamed\_isa\_b\_osman@moe.edu.sg](mailto:mohamed\_isa\_b\_osman@moe.edu.sg)
