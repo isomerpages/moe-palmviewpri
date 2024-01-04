@@ -3,6 +3,7 @@ title: Useful Links
 permalink: /for-parents/Useful-Links/
 description: ""
 third_nav_title: Useful Information
+variant: markdown
 ---
 ## USEFUL LINKS
 
@@ -16,7 +17,9 @@ third_nav_title: Useful Information
 <br>
 
 **Assessment Resources** <br>
-[List of Approved Dictionaries for Examinations](/files/For%20Parents%20(2023)/list_of_dictionaries_for_examination.pdf)
+[List of Approved Dictionaries for Examinations](/files/For%20Parents%20(2024)/list_of_approved_mtl_dictionaries_2024_exam.pdf)
+<br>
+[List of Approved Calculators for Examinations](/files/For%20Parents%20(2024)/guidelines_on_the_use_of_calculators_for_2024_exam__website_.pdf)
 
 **Other Resources** <br>
 [Methodist Welfare Services](https://mws.sg/) 
