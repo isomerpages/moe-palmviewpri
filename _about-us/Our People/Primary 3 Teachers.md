@@ -32,7 +32,7 @@ English Language |Mrs Sarah Tan<br>65067-348<br>[sarah\_yu\_xueli@moe.edu.sg](ma
 English Language | Ms Priscilla Teng<br>65087-326<br>[teng\_yu\_hui\_priscilla@moe.edu.sg](mailto:teng\_yu\_hui\_priscilla@moe.edu.sg)|
 English Language | Ms Jo Ko<br>65089-461<br>[ko\_hiang@moe.edu.sg](mailto:ko\_hiang@moe.edu.sg)|
 English Language | Mrs Saj<br>65089-454<br>[vanisree\_sajjan@moe.edu.sg](mailto:vanisree\_sajjan@moe.edu.sg)|
-English Language | Ms Nicholyn Teo<br>65087-323<br>[teo\_hui\_wen\_nicholyn@moe.edu.sg](mailto:teo\_hui\_wen\_nicholyn@moe.edu.sg)|
+English Language | Ms Nicholyn Teo<br>65087-323<br>[nicholyn_teo@schools.gov.sg](mailto:nicholyn_teo@schools.gov.sg)|
 |
 | Mathematics | Mrs Quek Jing Jing<br>65080-653<br>[lim\_jing\_jing@moe.edu.sg](mailto:lim\_jing\_jing@moe.edu.sg)|
 Mathematics | Mdm Asyikin<br>65067-343<br>[nur\_asyikin\_mohd\_agos@moe.edu.sg](mailto:nur\_asyikin\_mohd\_agos@moe.edu.sg)|
