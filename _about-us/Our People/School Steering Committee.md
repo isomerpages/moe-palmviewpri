@@ -30,7 +30,7 @@ Head of Department, <br>ICT |  Mr Warren Thin |  65080-652<br>[thin_dongqi@schoo
 |
 | - | - | - |
 | 
-| Year Head,<br>Lower Primary | Mr Sathis Kumar | 65087-311<br>[kanapa_sathis_kumar@schools.gov.sgg](mailto:kanapa_sathis_kumar@schools.gov.sg) |
+| Year Head,<br>Lower Primary | Mr Sathis Kumar | 65087-311<br>[kanapa_sathis_kumar@schools.gov.sg](mailto:kanapa_sathis_kumar@schools.gov.sg) |
 | Year Head,<br>Middle Primary | Mr Teng Tse Peng | 65087-310<br>[teng_tse_peng_a@schools.gov.sg](mailto:teng_tse_peng_a@schools.gov.sg) |
 | Year Head,<br>Upper Primary | Mrs Irene Ang |  65089-457<br>[irene_chia@schools.gov.sg](mailto:irene_chia@schools.gov.sg) |
 Asst Year Head,<br>Middle Primary | Ms Nicholyn Teo |  65087-323<br>[nicholyn_teo@schools.gov.sg](mailto:nicholyn_teo@schools.gov.sg) |
