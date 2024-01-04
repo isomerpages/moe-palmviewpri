@@ -14,34 +14,34 @@ The school will be offering the following CCAs:
 
 | CCA | Teacher In Charge |
 |:---:|:---:|
-| Art Club | Mrs Chew Yixin<br>65080-662<br>[tan\_yixin@moe.edu.sg](mailto:tan\_yixin@moe.edu.sg) |
+| Art Club | Mrs Chew Yixin<br>65080-662<br>[tan\_yixin@schools.gov.sg](mailto:tan\_yixin@schools.gov.sg) |
 |
-| Infocomm Club | Ms Germaine<br>65083-171<br>[germaine\_quek\_jiamin@moe.edu.sg](mailto:germaine_quek_jiamin@moe.edu.sg) |
+| Infocomm Club | Ms Germaine<br>65083-171<br>[germaine\_quek\_jiamin@schools.gov.sg](mailto:germaine_quek_jiamin@schools.gov.sg) |
 |
-| Robotics Club | Miss Priscilla Teng<br>65087-326<br>[teng_yu_hui_priscilla@moe.edu.sg](mailto:teng_yu_hui_priscilla@moe.edu.sg) |
+| Robotics Club | Miss Priscilla Teng<br>65087-326<br>[teng_yu_hui_priscilla@schools.gov.sg](mailto:teng_yu_hui_priscilla@schools.gov.sg) |
 |
-| Science Club | Mrs Tan Lirong<br>65080-669<br>[sun\_lirong@moe.edu.sg](mailto:sun\_lirong@moe.edu.sg) |
+| Science Club | Mrs Tan Lirong<br>65080-669<br>[sun\_lirong@schools.gov.sg](mailto:sun\_lirong@schools.gov.sg) |
 
 ##### Visual and Performing Arts
 
 | CCA | Teacher In Charge |
 |:---:|:---:|
-| Choir | Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca_lau_yuen_sun@moe.edu.sg](mailto:rebecca_lau_yuen_sun@moe.edu.sg) |
+| Choir | Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
 |
-| Drama Club | Mr Isa<br>65067-346<br>[mohamed_isa_b_osman@moe.edu.sg](mailto:mohamed_isa_b_osman@moe.edu.sg) |
+| Drama Club | Mr Isa<br>65067-346<br>[mohamed_isa_b_osman@schools.gov.sg](mailto:mohamed_isa_b_osman@schools.gov.sg) |
 |
-| Modern Dance | Mrs Michelle Wee<br>65080-667<br>[michelle_tyoh_whei_theng@moe.edu.sg](mailto:michelle_tyoh_whei_theng@moe.edu.sg) |
+| Modern Dance | Mrs Michelle Wee<br>65080-667<br>[michelle_tyoh_whei_theng@schools.gov.sg](mailto:michelle_tyoh_whei_theng@schools.gov.sg) |
 
 ##### Sports and Games
 
 | CCA | Teacher In Charge |
 |:---:|:---:|
-| Badminton | Miss Valarie Koh<br>65087-277<br>[valarie_koh_sock_hwee@moe.edu.sg](mailto:valarie_koh_sock_hwee@moe.edu.sg) |
+| Badminton | Miss Valarie Koh<br>65087-277<br>[valarie_koh_sock_hwee@schools.gov.sg](mailto:valarie_koh_sock_hwee@schools.gov.sg) |
 |
-| Basketball | Ms Nazurah<br>65087-277<br>[nazurah\_syazana\_nordin@moe.edu.sg](mailto:nazurah\_syazana\_nordin@moe.edu.sg) |
+| Basketball | Ms Nazurah<br>65087-277<br>[nazurah\_syazana\_nordin@schools.gov.sg](mailto:nazurah\_syazana\_nordin@schools.gov.sg) |
 |
-| Netball | Mr Rafiei<br>65087-275<br>[mohamad\_rafiei\_sakeyam@moe.edu.sg](mailto:mohamad\_rafiei\_sakeyam@moe.edu.sg) |
+| Netball | Mr Rafiei<br>65087-275<br>[mohamad\_rafiei\_sakeyam@schools.gov.sg](mailto:mohamad\_rafiei\_sakeyam@schools.gov.sg) |
  |
-| Soccer | Mr Nadeem<br>65087-276<br>[mohamed\_nadeem@moe.edu.sg](mailto:mohamed\_nadeem@moe.edu.sg) |
+| Soccer | Mr Nadeem<br>65087-276<br>[mohamed\_nadeem@schools.gov.sg](mailto:mohamed\_nadeem@schools.gov.sg) |
 |
-| Table Tennis | Mr Noel Chan<br>65089-459<br>[noel\_chan\_tze\_sunn@moe.edu.sg](mailto:noel\_chan\_tze\_sunn@moe.edu.sg) |
+| Table Tennis | Mr Noel Chan<br>65089-459<br>[noel\_chan\_tze\_sunn@schools.gov.sg](mailto:noel\_chan\_tze\_sunn@schools.gov.sg) |
