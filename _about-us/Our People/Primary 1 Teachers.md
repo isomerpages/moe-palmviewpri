@@ -38,7 +38,7 @@ variant: markdown
 | English Language | Mdm Joey Cheang (Subject Head, CCE)<br>65080-658<br>[cheang\_ching\_ee@schools.gov.sg](mailto:cheang\_ching\_ee@schools.gov.sg)  |
 | English Language | Mdm Munirah<br>65080-656<br>[siti\_nurmunirah\_mohd\_arsad@schools.gov.sg](mailto:siti\_nurmunirah\_mohd\_arsad@schools.gov.sg)  |
  English Language | Mdm Liza<br>65067-347<br>[siti\_nur\_haliza@schools.gov.sg](mailto:siti\_nur\_haliza@schools.gov.sg)
-| English Language | Mdm Suritha<br>65083-178<br>[suritha\_banu@schools.gov.sg](mailto:suritha\_banu@schools.gov.sg) |
+| English Language | Mdm Suritha<br>65083-178<br>[suritha\_banu@moe.edu.sg](mailto:suritha\_banu@moe.edu.sg) |
 | 
 | Mathematics | Ms Nurul<br>65067-647<br>[nurul\_farha\_abdul\_talib@schools.gov.sg](mailto:nurul\_farha\_abdul\_talib@schools.gov.sg) |
 Mathematics |Mrs Gracelyn Tham <br>65067-648<br>[lim\_ai\_zhen\_gracelyn@schools.gov.sg](mailto:lim\_ai\_zhen\_gracelyn@schools.gov.sg) |
@@ -46,7 +46,7 @@ Mathematics |Mdm Fatin<br>65067-649<br>[nur\_ishmah\_fatin\_rahim@schools.gov.sg
 Mathematics |  Ms Vanna<br>65067-642<br>[vanna\_ong\_limei@schools.gov.sg](mailto:vanna\_ong\_limei@schools.gov.sg) |
 Mathematics | Mdm Joey Cheang (Subject Head, CCE)<br>65080-658<br>[cheang\_ching\_ee@schools.gov.sg](mailto:cheang\_ching\_ee@schools.gov.sg) |
 Mathematics | Mdm Radiah<br>65067-341<br>[radiah\_rahmat@schools.gov.sg](mailto:radiah\_rahmat@schools.gov.sg) |
-Mathematics |  Mdm Suritha<br>65083-178<br>[suritha\_banu@schools.gov.sg](mailto:suritha\_banu@schools.gov.sg) | |
+Mathematics |  Mdm Suritha<br>65083-178<br>[suritha\_banu@moe.edu.sg](mailto:suritha\_banu@moe.edu.sg) | |
 |
 | Chinese Language  | Mdm Teo Siow Yee (ST, SEN)<br>65087-270<br>[teo\_siow\_yee@schools.gov.sg](mailto:teo\_siow\_yee@schools.gov.sg) |
 Chinese Language  |Mrs Lim Bee Li<br>65087-266<br>[tay\_bee\_li@schools.gov.sg](mailto:tay\_bee\_li@schools.gov.sg) |
