@@ -49,7 +49,7 @@ Asst Year Head,<br>Middle Primary | Ms Nicholyn Teo |  65087-323<br>[nicholyn_te
 
 | Designation | Name | Contact Information |
 |:---:|:---:|:---:|
-| Senior Teacher, Malay Language | Mdm Elyani | 65080-654 <br>[elyani_mohamed@@schools.gov.sg](mailto:elyani_mohamed@@schools.gov.sg) |
+| Senior Teacher, Malay Language | Mdm Elyani | 65080-654 <br>[elyani_mohamed@schools.gov.sg](mailto:elyani_mohamed@@schools.gov.sg) |
 | Senior Teacher, English Language  | Mdm Nurul Ain |  65087-328<br>[nurul_ain_mohamad_ibrahim@schools.gov.sg](mailto:nurul_ain_mohamad_ibrahim@schools.gov.sg) |
 |  Senior Teacher, Science |  Mr Kelvin Chia | 65080-665 <br>[chia_peng_lin_kelvin@schools.gov.sg](mailto:chia_peng_lin_kelvin@schools.gov.sg) |
 | Senior Teacher, SEN | Mdm Teo Siow Yee | 65087-270<br>[teo_siow_yee@schools.gov.sg](mailto:teo_siow_yee@schools.gov.sg) |
