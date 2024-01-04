@@ -53,7 +53,7 @@ Chinese Language | Mdm Li Li<br>65087-263<br>[li\_li@moe.edu.sg](mailto:li\_li@m
 Chinese Language | Mdm Tan Hui Yang<br>65083-171<br>[tan\_hui\_yang@moe.edu.sg](mailto:tan\_hui\_yang@moe.edu.sg)|
 Chinese Language | Mdm Joy Tan<br>65087-265<br>[tan\_boon\_hui@moe.edu.sg](mailto:tan\_boon\_hui@moe.edu.sg)|
 Chinese Language | Mr Warren Thin (HOD, ICT)<br>65080-652<br>[thin\_dongqi@moe.edu.sg](mailto:thin\_dongqi@moe.edu.sg)|
-Chinese Language | Ms Loo Yee<br>65087-271<br>[lee\_loo\_yee\_a@moe.edu.sg](mailto:lee\_loo\_yee\_a@moe.edu.sg)|
+Chinese Language | Ms Loo Yee<br>65087-271<br>[lee\_loo\_yee\@schools.gov.sg](mailto:lee\_loo\_yee@schools.gov.sg)|
 |
 | Malay Language | Mdm Elyani (ST, Malay Language)<br>65080-654<br>[elyani\_mohamed@moe.edu.sg](mailto:elyani\_mohamed@moe.edu.sg)|
  Malay Language | Mdm Shikin<br>65087-320<br>[noorashikin\_zainuldin@moe.edu.sg](mailto:noorashikin\_zainuldin@moe.edu.sg)
