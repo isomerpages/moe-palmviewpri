@@ -61,7 +61,6 @@ Malay Language | Mdm Nabilah<br>65087-319 <br>[nabilah\_abdul\_rahman@schools.go
 |
 | Tamil Language |Ms Sumitha<br>65087-315<br>[s\_sumitha@schools.gov.sg](mailto:s\_sumitha@schools.gov.sg) |
 |
-|
 | Music | Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca\_lau\_yuen\_sun@schools.gov.sg](mailto:rebecca\_lau\_yuen\_sun@schools.gov.sg) |
 Music |Mr Bryon Luo<br>65080-662<br>[luo\_youde\_bryon@schools.gov.sg](mailto:luo\_youde\_bryon@schools.gov.sg) 
 |
