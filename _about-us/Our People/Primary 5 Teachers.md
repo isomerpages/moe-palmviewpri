@@ -27,7 +27,7 @@ variant: markdown
 Art | Mdm Karmila<br>65089-458<br>[nor\_karmila\_hamzah@schools.gov.sg](mailto:nor\_karmila\_hamzah@schools.gov.sg)
 Art | Mrs Chew Yixin<br>65080-662<br>[tan\_yixin@schools.gov.sg](mailto:tan\_yixin@schools.gov.sg)
 |
-| English Language | Mdm Kalpana (LH, English Language)<br>65067-349<br>[kalpana\_manimohan@schools.gov.sg](mailto:kalpana\_manimohan@schools.gov.sg) |
+| English Language | Mdm Kalpana (LH, EL)<br>65067-349<br>[kalpana\_manimohan@schools.gov.sg](mailto:kalpana\_manimohan@schools.gov.sg) |
  English Language | Mdm Hasanah (HOD, SSD)<br>65080-660<br>[nur\_hasanah\_osman@schools.gov.sg](mailto:nur\_hasanah\_osman@schools.gov.sg) |
  English Language | Mrs Sarah Tan<br>65067-348<br>[sarah\_yu\_xueli@schools.gov.sg](mailto:sarah\_yu\_xueli@schools.gov.sg)
  English Language | Mr Senthil (Zack)<br>65080-664<br>[subramaniyan\_senthil@schools.gov.sg](mailto:subramaniyan\_senthil@schools.gov.sg) |
@@ -35,7 +35,7 @@ Art | Mrs Chew Yixin<br>65080-662<br>[tan\_yixin@schools.gov.sg](mailto:tan\_yix
  English Language | Ms Priscilla Teng<br>65087-326<br>[teng\_yu\_hui\_priscilla@schools.gov.sg](mailto:teng\_yu\_hui\_priscilla@schools.gov.sg) | 
  English Language | Mrs Saj<br>65089-454<br>[vanisree\_sajjan@schools.gov.sg](mailto:vanisree\_sajjan@schools.gov.sg) | 
 |
-| Mathematics  | Mdm Kalpana (LH, English Language)<br>65067-349<br>[kalpana\_manimohan@schools.gov.sg](mailto:kalpana\_manimohan@schools.gov.sg) |
+| Mathematics  | Mdm Kalpana (LH, EL)<br>65067-349<br>[kalpana\_manimohan@schools.gov.sg](mailto:kalpana\_manimohan@schools.gov.sg) |
  Mathematics  | Ms Nicole Chee<br>65067-340<br>[chee\_shu\_rong\_nicole@schools.gov.sg](mailto:chee\_shu\_rong\_nicole@schools.gov.sg) |
   Mathematics  | Ms Foo Shi Rui (LH, Math)<br>65089-457<br>[foo\_shi\_rui@schools.gov.sg](mailto:foo\_shi\_rui@schools.gov.sg) |
  Mathematics  | Mdm Asyikin<br>65067-343<br>[nur\_asyikin\_mohd\_agos@schools.gov.sg](mailto:nur\_asyikin\_mohd\_agos@schools.gov.sg) |
