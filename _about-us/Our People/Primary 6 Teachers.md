@@ -27,7 +27,7 @@ variant: markdown
 | Art |Mrs Chew Yixin<br>65080-662<br>[tan\_yixin@schools.gov.sg](mailto:tan\_yixin@schools.gov.sg) |
 Art |Mdm Karmila<br>65089-458<br>[nor\_karmila\_hamzah@schools.gov.sg](mailto:nor\_karmila\_hamzah@schools.gov.sg)
 |
-| English | Ms Nur Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@schools.gov.sg](mailto:nur\_hidayah\_mohshin@schools.gov.sg) |
+| English | Ms Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@schools.gov.sg](mailto:nur\_hidayah\_mohshin@schools.gov.sg) |
 | English | Mdm Leong Fong Fong<br>65080-655<br>[leong\_fong\_fong@schools.gov.sg](mailto:leong\_fong\_fong@schools.gov.sg) |
 | English | Mrs Irene Ang (YH, Upper Primary)<br>65087-312<br>[irene\_chia@schools.gov.sg](mailto:irene\_chia@schools.gov.sg) |
 | English | Mr Kelvin Chia (ST, Science)<br>65080-665<br>[chia\_peng\_lin\_kelvin@schools.gov.sg](mailto:chia\_peng\_lin\_kelvin@schools.gov.sg) |
