@@ -11,7 +11,7 @@ variant: markdown
 
 | Class | Form Teacher | Form Teacher |
 |---|---|---|
-| 6 Aristotle | Ms Nur Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@schools.gov.sg](mailto:nur\_hidayah\_mohshin@schools.gov.sg) |Mr Warren Thin (HOD, ICT)<br>65080-652<br>[thin\_dongqi@schools.gov.sg](mailto:thin\_dongqi@schools.gov.sg) |
+| 6 Aristotle | Ms Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@schools.gov.sg](mailto:nur\_hidayah\_mohshin@schools.gov.sg) |Mr Warren Thin (HOD, ICT)<br>65080-652<br>[thin\_dongqi@schools.gov.sg](mailto:thin\_dongqi@schools.gov.sg) |
 | 6 Beethoven |Mdm Leong Fong Fong<br>65080-655<br>[leong\_fong\_fong@schools.gov.sg](mailto:leong\_fong\_fong@schools.gov.sg) | Mr Zhou Wencong (HOD, SM)<br>65087-322<br>[zhou\_wencong@schools.gov.sg](mailto:zhou\_wencong@schools.gov.sg) |
 | 6 Curie | Mrs Irene Ang (YH, Upper Primary)<br>65087-312<br>[irene\_chia@schools.gov.sg](mailto:irene\_chia@schools.gov.sg) | Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca\_lau\_yuen\_sun@schools.gov.sg](mailto:rebecca\_lau\_yuen\_sun@schools.gov.sg) |
 | 6 Da Vinci |Mr Kelvin Chia (ST, Science)<br>65080-665<br>[chia\_peng\_lin\_kelvin@schools.gov.sg](mailto:chia\_peng\_lin\_kelvin@schools.gov.sg) | Mrs Chew Yixin<br>65080-662<br>[tan\_yixin@schools.gov.sg](mailto:tan\_yixin@schools.gov.sg) |
