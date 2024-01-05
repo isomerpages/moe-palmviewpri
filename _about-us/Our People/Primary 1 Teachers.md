@@ -56,7 +56,7 @@ Chinese Language  | Miss Germaine<br>65087-272<br>[germaine\_quek\_jiamin@school
 Chinese Language  | Mrs Faye Loh<br>65087-264<br>[quah\_pei\_jun@schools.gov.sg](mailto:quah\_pei\_jun@schools.gov.sg) |
 Chinese Language  | Mdm Zhang Yue<br>65087-262<br>[zhang\_yue\_a@schools.gov.sg](mailto:zhang\_yue\_a@schools.gov.sg) |
 |
-| Malay Language | Ms Masturah  (Subject Head, ML)<br>65087-317<br>[masturah\_salleh@schools.gov.sg](mailto:masturah\_salleh@schools.gov.sg) |
+| Malay Language | Mdm Masturah  (SH, ML)<br>65087-317<br>[masturah\_salleh@schools.gov.sg](mailto:masturah\_salleh@schools.gov.sg) |
 Malay Language | Mdm Nabilah<br>65087-319 <br>[nabilah\_abdul\_rahman@schools.gov.sg](mailto:nabilah\_abdul\_rahman@schools.gov.sg)
 |
 | Tamil Language |Ms Sumitha<br>65087-315<br>[s\_sumitha@schools.gov.sg](mailto:s\_sumitha@schools.gov.sg) |
