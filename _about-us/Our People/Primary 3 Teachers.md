@@ -17,7 +17,7 @@ variant: markdown
 | 3 Da Vinci | Ms Priscilla Teng<br>65087-326<br>[teng\_yu\_hui\_priscilla@schools.gov.sg](mailto:teng\_yu\_hui\_priscilla@schools.gov.sg) |Mdm Nabilah<br>65087-319<br>[nabilah\_abdul\_rahman@schools.gov.sg](mailto:nabilah\_abdul\_rahman@schools.gov.sg) |
 | 3 Edison |Mdm Asyikin<br>65067-343<br>[nur\_asyikin\_mohd\_agos@schools.gov.sg](mailto:nur\_asyikin\_mohd\_agos@schools.gov.sg) | Ms Cher Xin Joo<br>65087-260<br>[cher\_xin\_joo@schools.gov.sg](mailto:cher\_xin\_joo@schools.gov.sg) |
 | 3 Frank | Mrs Saj<br>65089-454<br>[vanisree\_sajjan@schools.gov.sg](mailto:vanisree\_sajjan@schools.gov.sg) | Ms Audrey Loke (HOD, Math)<br>65083-170<br>[loke\_ai\_guat\_audrey@schools.gov.sg](mailto:loke\_ai\_guat\_audrey@schools.gov.sg) |
-| 3 Galileo | Ms Magdalene Tan<br>65089-452<br>[tan\_kai\_lin\_magdalene@schools.gov.sg](mailto:tan\_kai\_lin\_magdalene@schools.gov.sg) |Ms Kang<br>65087-269<br>[kang\_chao@schools.gov.sg](mailto:kang\_chao@schools.gov.sg) |
+| 3 Galileo | Mrs Kishore (Magdalene Tan)<br>65089-452<br>[tan\_kai\_lin\_magdalene@schools.gov.sg](mailto:tan\_kai\_lin\_magdalene@schools.gov.sg) |Ms Kang<br>65087-269<br>[kang\_chao@schools.gov.sg](mailto:kang\_chao@schools.gov.sg) |
 
 ### Subject Teachers
 
@@ -39,7 +39,7 @@ Mathematics | Mdm Asyikin<br>65067-343<br>[nur\_asyikin\_mohd\_agos@schools.gov.
 Mathematics |Ms Serene Yap<br>65067-646<br>[yap\_hui\_yun\_serene@schools.gov.sg](mailto:yap\_hui\_yun\_serene@schools.gov.sg)|
 Mathematics | Mr Shaun Png<br>65080-666<br>[png\_jia\_shun@schools.gov.sg](mailto:png\_jia\_shun@schools.gov.sg)|
 Mathematics | Ms Audrey Loke<br>65083-170<br>[loke\_ai\_guat\_audrey@schools.gov.sg](mailto:loke\_ai\_guat\_audrey@schools.gov.sg)|
-Mathematics | Ms Magdalene Tan<br>65089-452<br>[tan\_kai\_lin\_magdalene@schools.gov.sg](mailto:tan\_kai\_lin\_magdalene@schools.gov.sg)|
+Mathematics | Mrs Kishore (Magdalene Tan)<br>65089-452<br>[tan\_kai\_lin\_magdalene@schools.gov.sg](mailto:tan\_kai\_lin\_magdalene@schools.gov.sg)|
 Mathematics | Mr Guna<br>65080-668<br>[sargunan\_ilangovan@schools.gov.sg](mailto:sargunan\_ilangovan@schools.gov.sg)|
 |
 Science | Mrs Quek Jing Jing<br>65080-653<br>[lim\_jing\_jing@schools.gov.sg](mailto:lim\_jing\_jing@schools.gov.sg)|
@@ -48,7 +48,7 @@ Science | Ms Joanne Ko <br>65089-461<br>[ko\_hiang@schools.gov.sg](mailto:ko\_hi
 Science |Ms Nabilah<br>65067-344<br>[nabilah\_abdullah@schools.gov.sg](mailto:nabilah\_abdullah@schools.gov.sg)|
 Science | Mrs Tan Lirong <br>65080-669<br>[sun\_lirong@schools.gov.sg](mailto:sun\_lirong@schools.gov.sg)|
 Science | Mrs Michelle Wee <br>65080-667<br>[michelle\_tyoh\_whei\_theng@schools.gov.sg](mailto:michelle\_tyoh\_whei\_theng@schools.gov.sg)|
-Science | Ms Magdalene Tan<br>65089-452<br>[tan\_kai\_lin\_magdalene@schools.gov.sg](mailto:tan\_kai\_lin\_magdalene@schools.gov.sg)|
+Science | Mrs Kishore (Magdalene Tan)<br>65089-452<br>[tan\_kai\_lin\_magdalene@schools.gov.sg](mailto:tan\_kai\_lin\_magdalene@schools.gov.sg)|
 |
 | Chinese Language| Mr Rave Tay (HOD, MTL)<br>65083-172<br>[tay\_tze\_rong@schools.gov.sg](mailto:tay\_tze\_rong@schools.gov.sg)|
 Chinese Language| Ms Kang<br>65087-269<br>[kang\_chao@schools.gov.sg](mailto:kang\_chao@schools.gov.sg)|
