@@ -17,7 +17,7 @@ variant: markdown
 | **Email:** | [info@beauvoix.com.sg](mailto:info@beauvoix.com.sg) |
 | **Retail outlet:** | 2 Sims Close, Gemini@Sims<br>#03-08, Singapore 387298 |
 | **Opening hours:** | Mondays to Fridays - 09:30a.m. to 05:30p.m。<br><br>School uniform is also available for sale from the school bookshop. |
-| **Online store:** | www.beauvoix.com |
+| **Online store:** | www.beauvoix.com.sg |
 
 ### School Bookshop
 

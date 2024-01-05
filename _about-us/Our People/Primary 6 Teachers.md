@@ -11,7 +11,7 @@ variant: markdown
 
 | Class | Form Teacher | Form Teacher |
 |---|---|---|
-| 6 Aristotle | Ms Nur Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@schools.gov.sg](mailto:nur\_hidayah\_mohshin@schools.gov.sg) |Mr Warren Thin (HOD, ICT)<br>65080-652<br>[thin\_dongqi@schools.gov.sg](mailto:thin\_dongqi@schools.gov.sg) |
+| 6 Aristotle | Ms Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@schools.gov.sg](mailto:nur\_hidayah\_mohshin@schools.gov.sg) |Mr Warren Thin (HOD, ICT)<br>65080-652<br>[thin\_dongqi@schools.gov.sg](mailto:thin\_dongqi@schools.gov.sg) |
 | 6 Beethoven |Mdm Leong Fong Fong<br>65080-655<br>[leong\_fong\_fong@schools.gov.sg](mailto:leong\_fong\_fong@schools.gov.sg) | Mr Zhou Wencong (HOD, SM)<br>65087-322<br>[zhou\_wencong@schools.gov.sg](mailto:zhou\_wencong@schools.gov.sg) |
 | 6 Curie | Mrs Irene Ang (YH, Upper Primary)<br>65087-312<br>[irene\_chia@schools.gov.sg](mailto:irene\_chia@schools.gov.sg) | Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca\_lau\_yuen\_sun@schools.gov.sg](mailto:rebecca\_lau\_yuen\_sun@schools.gov.sg) |
 | 6 Da Vinci |Mr Kelvin Chia (ST, Science)<br>65080-665<br>[chia\_peng\_lin\_kelvin@schools.gov.sg](mailto:chia\_peng\_lin\_kelvin@schools.gov.sg) | Mrs Chew Yixin<br>65080-662<br>[tan\_yixin@schools.gov.sg](mailto:tan\_yixin@schools.gov.sg) |
@@ -27,7 +27,7 @@ variant: markdown
 | Art |Mrs Chew Yixin<br>65080-662<br>[tan\_yixin@schools.gov.sg](mailto:tan\_yixin@schools.gov.sg) |
 Art |Mdm Karmila<br>65089-458<br>[nor\_karmila\_hamzah@schools.gov.sg](mailto:nor\_karmila\_hamzah@schools.gov.sg)
 |
-| English | Ms Nur Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@schools.gov.sg](mailto:nur\_hidayah\_mohshin@schools.gov.sg) |
+| English | Ms Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@schools.gov.sg](mailto:nur\_hidayah\_mohshin@schools.gov.sg) |
 | English | Mdm Leong Fong Fong<br>65080-655<br>[leong\_fong\_fong@schools.gov.sg](mailto:leong\_fong\_fong@schools.gov.sg) |
 | English | Mrs Irene Ang (YH, Upper Primary)<br>65087-312<br>[irene\_chia@schools.gov.sg](mailto:irene\_chia@schools.gov.sg) |
 | English | Mr Kelvin Chia (ST, Science)<br>65080-665<br>[chia\_peng\_lin\_kelvin@schools.gov.sg](mailto:chia\_peng\_lin\_kelvin@schools.gov.sg) |
@@ -53,7 +53,7 @@ Science| Mr&nbsp;Kelvin Chia (ST, Science)<br>65080-665<br>[chia\_peng\_lin\_kel
 Science |Mr Guna<br>65080-668<br>[sargunan\_ilangovan@schools.gov.sg](mailto:sargunan\_ilangovan@schools.gov.sg) |
 Science |Mrs Michelle Wee<br>65080-667<br>[michelle\_tyoh\_whei\_theng@schools.gov.sg](mailto:michelle\_tyoh\_whei\_theng@schools.gov.sg) |
 |
-| Chinese Language | Ms Loo Yee<br>65087-271<br>[lee\_loo\_yee@schools.gov.sg](mailto:lee\_loo\_yee\@schools.gov.sg) |
+| Chinese Language | Ms Loo Yee<br>65087-271<br>[lee_loo_yee@schools.gov.sg](mailto:lee_loo_yee@schools.gov.sg) |
 Chinese Language | Mdm Heng Wei Shan<br>65089-450<br>[heng\_wei\_shan\_a@schools.gov.sg](mailto:heng\_wei\_shan\_a@schools.gov.sg) 
 Chinese Language |Mdm Hwee Yeng<br>65087-268<br>[lim\_hwee\_yeng@schools.gov.sg](mailto:lim\_hwee\_yeng@schools.gov.sg) 
 Chinese Language | Mrs Lim Bee Li<br>65087-266<br>[tay\_bee\_li@schools.gov.sg](mailto:tay\_bee\_li@schools.gov.sg) 
