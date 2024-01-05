@@ -52,7 +52,7 @@ English Language | Ms Candice Khoo<br>65067-643<br>[khoo\_yun\_xuan\_candice@sch
 |
 | Chinese Language | Mdm Koh Siew Bee<br>65087-261<br>[koh\_siew\_bee@schools.gov.sg](mailto:koh\_siew\_bee@schools.gov.sg) |
 Chinese Language |Mdm Tan Hui Yang<br>65083-171<br>[tan\_hui\_yang@schools.gov.sg](mailto:tan\_hui\_yang@schools.gov.sg) |
-Chinese Language |Ms Li Li<br>65087-263<br>[li\_li@schools.gov.sg](mailto:li\_li@schools.gov.sg) |
+Chinese Language |Mdm Li Li<br>65087-263<br>[li\_li@schools.gov.sg](mailto:li\_li@schools.gov.sg) |
 Chinese Language | Mr Guah <br>65087-314<br>[guah\_boon\_heng@schools.gov.sg](mailto:guah\_boon\_heng@schools.gov.sg) |
 Chinese Language | Mdm Joy Tan<br>65087-265<br>[tan\_boon\_hui@schools.gov.sg](mailto:tan\_boon\_hui@schools.gov.sg) |
 Chinese Language |Mdm Hwee Yeng<br>65087-268<br>[lim\_hwee\_yeng@schools.gov.sg](mailto:lim\_hwee\_yeng@schools.gov.sg) |
