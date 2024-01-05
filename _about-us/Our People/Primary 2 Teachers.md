@@ -32,7 +32,7 @@ Art | Mdm Adzilah<br>65080-663<br>[noor\_adzilah\_tahir@schools.gov.sg](mailto:n
 |
 | English Language | Ms Nabilah<br>65067-344<br>[nabilah\_abdullah@schools.gov.sg](mailto:nabilah\_abdullah@schools.gov.sg) |
 English Language | Mrs Grace Chua<br>65089-468<br>[grace\_lim\_hui\_leng@schools.gov.sg](mailto:grace\_lim\_hui\_leng@schools.gov.sg)
-English Language | Mdm Nurulhuda<br>65087-325<br>[nurulhuda\_md\_salleh@schools.gov.sg](mailto:nurulhuda\_md\_salleh@schools.gov.sg))
+English Language | Mdm Nurulhuda<br>65087-325<br>[nurulhuda\_md\_salleh@schools.gov.sg](mailto:nurulhuda\_md\_salleh@schools.gov.sg)
 English Language | Mdm Hailwa<br>65067-641<br>[hailwa\_moree@schools.gov.sg](mailto:hailwa_moree@schools.gov.sg)
 English Language | Ms Shannon Lim<br>65080-659<br>[lim\_eu\_li@schools.gov.sg](mailto:lim\_eu\_li@schools.gov.sg)
 English Language | Mrs Sharon Seow<br>65067-644<br>[chew\_sharon@schools.gov.sg](mailto:chew\_sharon@schools.gov.sg)
