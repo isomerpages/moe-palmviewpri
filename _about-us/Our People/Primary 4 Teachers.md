@@ -53,7 +53,7 @@ Chinese Language | Mdm Li Li<br>65087-263<br>[li\_li@schools.gov.sg](mailto:li\_
 Chinese Language | Mdm Tan Hui Yang<br>65083-171<br>[tan\_hui\_yang@schools.gov.sg](mailto:tan\_hui\_yang@schools.gov.sg)|
 Chinese Language | Mdm Joy Tan<br>65087-265<br>[tan\_boon\_hui@schools.gov.sg](mailto:tan\_boon\_hui@schools.gov.sg)|
 Chinese Language | Mr Warren Thin (HOD, ICT)<br>65080-652<br>[thin\_dongqi@schools.gov.sg](mailto:thin\_dongqi@schools.gov.sg)|
-Chinese Language | Ms Loo Yee<br>65087-271<br>[lee\_loo\_yee\@schools.gov.sg](mailto:lee\_loo\_yee@schools.gov.sg)|
+Chinese Language | Ms Loo Yee<br>65087-271<br>[lee_loo_yee@schools.gov.sg](mailto:lee_loo_yee@schools.gov.sg)|
 |
 | Malay Language | Mdm Elyani (ST, Malay Language)<br>65080-654<br>[elyani\_mohamed@schools.gov.sg](mailto:elyani\_mohamed@schools.gov.sg)|
  Malay Language | Mdm Shikin<br>65087-320<br>[noorashikin\_zainuldin@schools.gov.sg](mailto:noorashikin\_zainuldin@schools.gov.sg)
