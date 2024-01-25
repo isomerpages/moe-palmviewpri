@@ -1,0 +1,29 @@
+collections:
+  palm-view-experience:
+    output: true
+    order:
+      - Niche Programmes/.keep
+      - Niche Programmes/LEARNING FOR LIFE PROGRAMME.md
+      - Niche Programmes/APPLIED LEARNING PROGRAMME.md
+      - English Language.md
+      - Mother Tongue Language/.keep
+      - Mother Tongue Language/Chinese Language.md
+      - Mother Tongue Language/Malay Language.md
+      - Mathematics.md
+      - Science.md
+      - Physical Education/.keep
+      - Physical Education/Physical Education.md
+      - Physical Education/PAL (Outdoor Education).md
+      - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/PAL (Drama And Visual Arts).md
+      - Information and Communication Technology.md
+      - Character & Citizen Education/.keep
+      - Character & Citizen Education/Character & Citizen Education.md
+      - Character & Citizen Education/Global Citizenry.md
+      - Character & Citizen Education/Growing Years.md
+      - Character & Citizen Education/Values In Action.md
+      - Co Curricular Activities/.keep
+      - Student Leadership.md
+      - Student Development.md
+      - E Arts PLVPS.md

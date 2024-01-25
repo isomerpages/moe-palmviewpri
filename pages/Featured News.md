@@ -1,0 +1,25 @@
+---
+title: Featured News
+permalink: /plvps/featured-news/
+description: ""
+---
+# Teachers’ Day Alumni Visit
+
+Dear Palm View Alumni, 
+
+  
+We are excited to invite you back to Palm View Primary School in celebration of a very special day. 
+
+As Teachers' Day approaches, it's the perfect opportunity to reconnect with the teachers who played a significant role in shaping your journey in primary school. 
+
+Date: 31 August 
+
+Time: 10.30am - 12.30pm 
+
+Do take note that you will be denied entry if you are not in your school uniform. 
+
+Please share this information with your fellow alumni and let's make this Teachers' Day a heartwarming reunion to remember. We look forward to seeing you on campus again! 
+
+Warm regards, 
+
+Palm View Primary School
