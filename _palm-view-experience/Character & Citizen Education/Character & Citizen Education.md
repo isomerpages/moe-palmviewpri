@@ -3,6 +3,7 @@ title: Character & Citizen Education
 permalink: /palm-view-experience/Character-and-Citizen-Education/
 description: ""
 third_nav_title: Character & Citizen Education
+variant: markdown
 ---
 ## CHARACTER &amp; CITIZENSHIP EDUCATION
 
@@ -22,7 +23,7 @@ Our key drivers for Character &amp; Citizenship Education are the: <br>
 * Character and Citizenship Education Curriculum
 * Social Studies Programme and
 * National Education Programme
-* Values Education/FTGP Curriculum
+* CCE (FTGP) Curriculum
 * Education and Career Guidance Programme
 * Growing Years Programme (Co-curricular)
 * Values in Action Programme (Co-curricular)
@@ -48,15 +49,13 @@ National Education (NE) is part of our holistic education. It strives to develop
  </figcaption>
 </figure>
 
-**Values Education/FTGP Curriculum** <br>
+**CCE (FTGP) Curriculum** <br>
 As Form Teachers (FTs) play a central role in shaping the holistic development of students, the Form Teacher Guidance Period (FTGP) has been introduced in all primary schools since 2012. <br>
 &nbsp;The objectives of FTGP are to:&nbsp;<br>
 \- provide quality interaction time between form teachers and students, and <br>
 \- equip students with social and emotional competencies.
 
-In Palm View, FTGP is conducted from 7.45 a.m. – 8.30 a.m. on Tuesdays for all levels. Form Teachers conduct explicit teaching of Social and Emotional competencies to equip students with self-awareness, social awareness, self-management, relationship management and responsible decision-making skills. In addition, Form Teachers bond with students through interaction activities within the period. One-to-one student interaction is also conducted within this period.
-
-Termly Values Education lesson packages are conducted during these lessons. Explicit teaching of the school core values (R3ICH) are done through stories, songs and rich classroom discussions curated for the students.
+In Palm View, FTGP is conducted from 8.00 a.m. – 9.00 a.m. on Tuesdays for all levels. Form Teachers conduct explicit teaching of Social and Emotional competencies to equip students with self-awareness, social awareness, self-management, relationship management and responsible decision-making skills. In addition, Form Teachers bond with students through interaction activities within the period. One-to-one student interaction is also conducted within this period.
 
 **Education and Career Guidance Programme** <br>
 Students are guided with their career plans and choices through the school’s Education and Career Guidance Programme. The&nbsp; P5 students are given access to the Career Guidance Portal and guided through exposure to the various secondary school choices and industries available. In Palm View, the experience is further enhanced through our R3ICH for Your Dreams Programme, a week-long Education and Career Guidance (ECG) programme which enriches our students’ career awareness and aspirations through the learning of work values from the various professions in the real world. Parents are invited to share their occupations via videos and students were encouraged to dress in their dream occupation.
@@ -77,7 +76,5 @@ The school-wide programmes include the training&nbsp;<br>
 • VIA Monitors <br>
 • Wipe Down @ The Classroom <br>
 • Wipe Down @ The Canteen <br>
-• VIA e-Job Cards&nbsp;<br>
-• Clean &amp; Green programmes
 
 The level-based programmes are designed in alignment with the head, heart and hands approach. Thus, the students not only feel a sense of empathy for another individual but are inspired to make the community a better place for everyone.
