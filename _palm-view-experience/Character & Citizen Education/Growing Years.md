@@ -3,8 +3,9 @@ title: Growing Years
 permalink: /palm-view-experience/ccprog/growing/
 description: ""
 third_nav_title: Character & Citizen Education
+variant: markdown
 ---
-## GROWING YEARS
+## GROWING YEARS (SEd)
 
 PALM VIEW PRIMARY SCHOOL
 
