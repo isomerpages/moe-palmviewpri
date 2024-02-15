@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Home School Partnership
 variant: markdown
 ---
-## LEVEL BRIEFING
+## LEVEL BRIEFINGS
 
 
 
@@ -18,4 +18,4 @@ variant: markdown
 *  [Lower Primary]
 
 * [Middle Primary]
-* [Upper Primary]
+* [Upper Primary](/files/For%20Parents%20(2024)/Upper_Primary_Briefing_to_Parents_2_Feb_2024.pdf)
