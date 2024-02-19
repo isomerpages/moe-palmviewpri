@@ -86,7 +86,4 @@ Information for Parents
 
  At Palm View Primary School, the following Sexuality Education lessons will be taught in 2024:
  
- Please click HERE for the lesson overview
-
- 
-    
+ Please click [Here](/files/For%20Parents%20(2024)/PLVPS_2024_Info_on_CCE__FTGP__Growing_Years_Lesson_Overview.pdf) for the lesson overview
