@@ -1,8 +1,8 @@
 ---
-title: Character & Citizen Education
-permalink: /palm-view-experience/Character-and-Citizen-Education/
+title: Character & Citizenship Education
+permalink: /palm-view-experience/character-and-citizen-education/
 description: ""
-third_nav_title: Character & Citizen Education
+third_nav_title: Character & Citizenship Ed
 variant: markdown
 ---
 ## CHARACTER &amp; CITIZENSHIP EDUCATION
