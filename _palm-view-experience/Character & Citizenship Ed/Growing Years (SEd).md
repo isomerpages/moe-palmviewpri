@@ -10,7 +10,7 @@ variant: markdown
 PALM VIEW PRIMARY SCHOOL
 
 
-Moe Sexuality Education in Schools
+***Moe Sexuality Education in Schools***
 
   
 
@@ -48,7 +48,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education)  for more infor
 
 
 
-Overview of Palm View Primary School’s Sexuality Education Programme for 2024
+***Overview of Palm View Primary School’s Sexuality Education Programme for 2024***
 
   
 4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
@@ -62,7 +62,7 @@ b) Character & Citizenship Education  (CCE)
 
 
 
-Sexuality Education Lessons: 
+***Sexuality Education Lessons:*** 
 
 6. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require close guidance so that they can respond with discernment to the sexual messages in the media and other sources. 
 
@@ -73,7 +73,7 @@ Sexuality Education Lessons: 
 
   
 
-Information for Parents
+***Information for Parents***
 
   
 
