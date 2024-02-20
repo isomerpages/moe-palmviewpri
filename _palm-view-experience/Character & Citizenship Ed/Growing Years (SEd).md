@@ -10,7 +10,7 @@ variant: markdown
 PALM VIEW PRIMARY SCHOOL
 
 
-***Moe Sexuality Education in Schools***
+***MOE Sexuality Education in Schools***
 
   
 
