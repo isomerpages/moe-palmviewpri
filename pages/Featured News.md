@@ -13,5 +13,5 @@ variant: markdown
 								 
 								 
 # Nominate Your Malay Teacher
-
-[](/files/For%20Parents%20(2024)/Nominate_Malay_Teacher.pdf)
+![](/images/Nominate_Malay_Teacher.jpeg)
+https://form.gov.sg/659ded08db29b40012d3f731
