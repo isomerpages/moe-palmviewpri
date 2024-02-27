@@ -15,7 +15,7 @@ variant: markdown
 
 #### Briefing by School Leaders (2024)
 
-*  [Lower Primary]
+*  [Lower Primary](/files/For%20Parents%20(2024)/Lower_Pri_Briefing_to_Parents_23_Feb_2024.pdf)
 
 * [Middle Primary](/files/For%20Parents%20(2024)/Middle_Primary_Briefing_to_Parents_16_Feb_2024.pdf)
 * [Upper Primary](/files/For%20Parents%20(2024)/Upper_Primary_Briefing_to_Parents_2_Feb_2024.pdf)

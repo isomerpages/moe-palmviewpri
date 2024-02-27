@@ -1,6 +1,6 @@
 ---
 title: Growing Years (SEd)
-permalink: /palm-view-experience/ccprog/growing/
+permalink: /palm-view-experience/character-and-citizen-education/
 description: ""
 third_nav_title: Character & Citizenship Ed
 variant: tiptap
