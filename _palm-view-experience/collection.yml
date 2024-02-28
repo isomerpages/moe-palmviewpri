@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCE/.keep
-      - Character & Citizenship Education.md
       - Niche Programmes/.keep
       - Niche Programmes/LEARNING FOR LIFE PROGRAMME.md
       - Niche Programmes/APPLIED LEARNING PROGRAMME.md
