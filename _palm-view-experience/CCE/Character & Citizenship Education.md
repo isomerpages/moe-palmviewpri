@@ -3,6 +3,7 @@ title: Character & Citizenship Education
 permalink: /palm-view-experience/character-and-citizen-education/
 description: ""
 variant: markdown
+third_nav_title: CCE
 ---
 ## CHARACTER &amp; CITIZENSHIP EDUCATION
 

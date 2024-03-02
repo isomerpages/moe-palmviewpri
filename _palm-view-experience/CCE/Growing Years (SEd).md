@@ -2,7 +2,7 @@
 title: Growing Years (SEd)
 permalink: /palm-view-experience/character-and-citizen-education/
 description: ""
-third_nav_title: Character & Citizenship Ed
+third_nav_title: CCE
 variant: tiptap
 ---
 <h2>GROWING YEARS (SEd)</h2>
