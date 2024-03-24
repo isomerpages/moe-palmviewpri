@@ -36,7 +36,7 @@ The school will be offering the following CCAs:
 
 | CCA | Teacher In Charge |
 |:---:|:---:|
-| Badminton | Miss Valarie Koh<br>65087-277<br>[valarie_koh_sock_hwee@schools.gov.sg](mailto:valarie_koh_sock_hwee@schools.gov.sg) |
+| Badminton | Miss Valerie Koh<br>65087-277<br>[valerie_koh_sock_hwee@schools.gov.sg](mailto:valerie_koh_sock_hwee@schools.gov.sg) |
 |
 | Basketball | Ms Nazurah<br>65087-277<br>[nazurah\_syazana\_nordin@schools.gov.sg](mailto:nazurah\_syazana\_nordin@schools.gov.sg) |
 |
