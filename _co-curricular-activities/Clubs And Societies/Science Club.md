@@ -3,6 +3,7 @@ title: Science Club
 permalink: /palm-view-experience/co-curricular-activities/c-n-a/science/
 description: ""
 third_nav_title: Clubs And Societies
+variant: markdown
 ---
 ## SCIENCE CLUB
 
@@ -12,15 +13,15 @@ The Science Club aims to promote science interest and engagement through challen
 
 The three objectives are namely: <br>
 
-*  To understand information that comes with **_factual knowledge_**:
+* &nbsp;To understand information that comes with&nbsp;**_factual knowledge_**:
 
-Factual knowledge is a large part of science learning. The main objective for science learning with factual knowledge would be that the students understand whatever pieces of factual knowledge are required in their specific subject and are able to demonstrate those things. To meet this objective, students should know how to listen, take notes, research facts and comprehend the information they gather.
+Factual knowledge is a large part of science learning.&nbsp;The main objective for science learning with factual knowledge would be that the students understand whatever pieces of factual knowledge are required in their specific subject and are able to demonstrate those things. To meet this objective, students should know how to listen, take notes, research facts and comprehend the information they gather.
 
-*  To learn through **_discovery_**:
+* &nbsp;To learn through&nbsp;**_discovery_**:
 
 Discovery is an area in which students learn by doing. Many areas of science revolve around the discovery of new facts. The main objectives for science learning in terms of discovery would be that students understand how to use discovery methods such as research, taking things apart, exploring pieces of things and discovering new knowledge. They should be able to learn in these methods and demonstrate their learning.
 
-*  To learn by **_experimentation_**: 
+* &nbsp;To learn by&nbsp;**_experimentation_**: 
 
 To meet this science learning objective, students must understand the various parts of an experiment, such as presenting a question, doing research to gather information, and then setting up and following through with the experiment. They must be able to demonstrate this knowledge.
 
@@ -29,15 +30,12 @@ In the confines of the CCA, our children will learn how to:
 
 * Use their skills to exhibit scientific habits of mind including experimental design, data analysis, critical thinking skills, and evidence-based reasoning
 
-*  Give scientific explanation of various facts and incidents
+* &nbsp;Give scientific explanation of various facts and incidents
 
 * Encourage creative and innovative activities among the science club members
 
 * Encourage exchange of ideas and cooperation among the science club members
 
 #### Teacher-in-charge
-**Mr Shaun Png** <br>
-[png\_jia\_shun@moe.edu.sg](mailto:png\_jia\_shun@moe.edu.sg)
-
-
-
+**Mrs Tan Lirong** <br>
+[sun\_lirong@schools.gov.sg](mailto:sun\_lirong@schools.gov.sg)
