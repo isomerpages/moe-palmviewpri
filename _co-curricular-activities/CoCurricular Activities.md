@@ -16,7 +16,7 @@ The school will be offering the following CCAs:
 |:---:|:---:|
 | Art Club | Mrs Chew Yixin<br>65080-662<br>[tan\_yixin@schools.gov.sg](mailto:tan\_yixin@schools.gov.sg) |
 |
-| Infocomm Club | Ms Germaine<br>65083-171<br>[germaine\_quek\_jiamin@schools.gov.sg](mailto:germaine_quek_jiamin@schools.gov.sg) |
+| Infocomm Club | Ms Germaine Quek<br>65083-171<br>[germaine\_quek\_jiamin@schools.gov.sg](mailto:germaine_quek_jiamin@schools.gov.sg) |
 |
 | Robotics Club | Miss Priscilla Teng<br>65087-326<br>[teng_yu_hui_priscilla@schools.gov.sg](mailto:teng_yu_hui_priscilla@schools.gov.sg) |
 |
@@ -28,7 +28,7 @@ The school will be offering the following CCAs:
 |:---:|:---:|
 | Choir | Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
 |
-| Drama Club | Mr Isa<br>65067-346<br>[mohamed_isa_b_osman@schools.gov.sg](mailto:mohamed_isa_b_osman@schools.gov.sg) |
+| Drama Club | Mr Mohamed Isa<br>65067-346<br>[mohamed_isa_b_osman@schools.gov.sg](mailto:mohamed_isa_b_osman@schools.gov.sg) |
 |
 | Modern Dance | Mrs Michelle Wee<br>65080-667<br>[michelle_tyoh_whei_theng@schools.gov.sg](mailto:michelle_tyoh_whei_theng@schools.gov.sg) |
 
@@ -36,7 +36,7 @@ The school will be offering the following CCAs:
 
 | CCA | Teacher In Charge |
 |:---:|:---:|
-| Badminton | Miss Valarie Koh<br>65087-277<br>[valarie_koh_sock_hwee@schools.gov.sg](mailto:valarie_koh_sock_hwee@schools.gov.sg) |
+| Badminton | Miss Valerie Koh<br>65087-277<br>[valerie_koh_sock_hwee@schools.gov.sg](mailto:valerie_koh_sock_hwee@schools.gov.sg) |
 |
 | Basketball | Ms Nazurah<br>65087-277<br>[nazurah\_syazana\_nordin@schools.gov.sg](mailto:nazurah\_syazana\_nordin@schools.gov.sg) |
 |
