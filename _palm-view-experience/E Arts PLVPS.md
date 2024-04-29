@@ -2,5 +2,6 @@
 title: E Arts PLVPS
 permalink: /palm-view-experience/permalink/
 description: ""
+variant: markdown
 ---
-[E-Arts@PLVPS](https://sites.google.com/view/e-artsplvps-2023/e-artsplvps-ndp-edition)
+[E-Arts@PLVPS](https://sites.google.com/view/e-artsplvps2024/e-artsplvps-semester-1)
