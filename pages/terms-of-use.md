@@ -3,8 +3,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 variant: tiptap
 ---
-<h3><strong>General Terms and Conditions on the Use of the Isomer Pages Website</strong></h3>
-<h4><strong>Terms of Use</strong></h4>
+<h3>Terms of Use</h3>
 <p>Thank you for visiting Palm View Primary School’s Website. By accessing
 and using this Web Site, you shall be deemed to have accepted to be legally
 bound by these Terms of Use. If you do not agree to these Terms of Use,
