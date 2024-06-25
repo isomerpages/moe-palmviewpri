@@ -64,5 +64,5 @@ Chinese Language| Mdm Teo Siow Yee (Senior Teacher, SEN)<br>65087-270<br>[teo\_s
 Music | Mr Bryon Luo<br>65080-662<br>[luo\_youde\_bryon@schools.gov.sg](mailto:luo\_youde\_bryon@schools.gov.sg)|
 |
 | Physical Education and Health Education | Mr Nadeem<br>65087-276 <br>[mohamed\_nadeem@schools.gov.sg](mailto:mohamed\_nadeem@schools.gov.sg)|
-| Physical Education and Health Education | Ms Nazurah<br>65087-275<br>[nazurah_syazana_nordin@schools.gov.sg](mailto:nazurah_syazana_nordin@schools.gov.sg)|
+| Physical Education and Health Education |Mrs Valerie Koh<br>65087-279<br>[valerie\_koh\_sock\_hwee@schools.gov.sg](mailto:valerie\_koh\_sock\_hwee@schools.gov.sg)|
 | Physical Education and Health Education | Mr Noel Chan<br>65083-173<br>[noel\_chan\_tze\_sunn@schools.gov.sg](mailto:noel\_chan\_tze\_sunn@schools.gov.sg)|
