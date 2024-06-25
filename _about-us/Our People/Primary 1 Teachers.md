@@ -32,21 +32,25 @@ variant: markdown
 | English Language |  Mrs Gracelyn Tham <br>65067-648<br>[lim\_ai\_zhen\_gracelyn@schools.gov.sg](mailto:lim\_ai\_zhen\_gracelyn@schools.gov.sg) |
 | English Language |  Ms Rachel Loh<br>65067-640<br>[loh\_hui\_xian\_rachel@schools.gov.sg](mailto:loh\_hui\_xian\_rachel@schools.gov.sg) |
 | English Language | Mdm Fatin<br>65067-649<br>[nur\_ishmah\_fatin\_rahim@schools.gov.sg](mailto:nur\_ishmah\_fatin\_rahim@schools.gov.sg) |
+| English Language | Mr Dallon Kang<br>65083-173<br>[kang\_zhenlin\_dallon@moe.edu.sg](mailto:kang\_zhenlin\_dallon@moe.edu.sg) |
 | English Language | Mrs Tan Lirong<br>65080-669<br>[sun\_lirong@schools.gov.sg](mailto:sun\_lirong@schools.gov.sg) |
 | English Language | Ms Vanna Ong<br>65067-642<br>[vanna\_ong\_limei@schools.gov.sg](mailto:vanna\_ong\_limei@schools.gov.sg) |
-| English Language |Ms Tabigail Hung<br>65080-657<br>[hung\_shao\_hui\_tabigail@schools.gov.sg](mailto:hung\_shao\_hui\_tabigail@schools.gov.sg) |
+| English Language |Mdm Annie Koh<br>65067-649<br>[yong\_puay\_hong\_annie@moe.edu.sg](mailto:yong\_puay\_hong\_annie@moe.edu.sg) |
 | English Language | Mdm Joey Cheang (Subject Head, CCE)<br>65080-658<br>[cheang\_ching\_ee@schools.gov.sg](mailto:cheang\_ching\_ee@schools.gov.sg)  |
 | English Language | Mdm Munirah<br>65080-656<br>[siti\_nurmunirah\_mohd\_arsad@schools.gov.sg](mailto:siti\_nurmunirah\_mohd\_arsad@schools.gov.sg)  |
  English Language | Mdm Liza<br>65067-347<br>[siti\_nur\_haliza@schools.gov.sg](mailto:siti\_nur\_haliza@schools.gov.sg)
 | English Language | Mdm Suritha<br>65083-178<br>[suritha\_banu@moe.edu.sg](mailto:suritha\_banu@moe.edu.sg) |
 | 
-| Mathematics | Ms Nurul<br>65067-647<br>[nurul\_farha\_abdul\_talib@schools.gov.sg](mailto:nurul\_farha\_abdul\_talib@schools.gov.sg) |
-Mathematics |Mrs Gracelyn Tham <br>65067-648<br>[lim\_ai\_zhen\_gracelyn@schools.gov.sg](mailto:lim\_ai\_zhen\_gracelyn@schools.gov.sg) |
+| Mathematics | Mdm Hailwa<br>65067-641<br>[hailwa\_moree@schools.gov.sg](mailto:hailwa\_moree@schools.gov.sg) |
 Mathematics |Mdm Fatin<br>65067-649<br>[nur\_ishmah\_fatin\_rahim@schools.gov.sg](mailto:nur\_ishmah\_fatin\_rahim@schools.gov.sg) |
 Mathematics | Ms Vanna Ong<br>65067-642<br>[vanna\_ong\_limei@schools.gov.sg](mailto:vanna\_ong\_limei@schools.gov.sg) |
 Mathematics | Mdm Joey Cheang (Subject Head, CCE)<br>65080-658<br>[cheang\_ching\_ee@schools.gov.sg](mailto:cheang\_ching\_ee@schools.gov.sg) |
 Mathematics | Mdm Radiah<br>65067-341<br>[radiah\_rahmat@schools.gov.sg](mailto:radiah\_rahmat@schools.gov.sg) |
-Mathematics |  Mdm Suritha<br>65083-178<br>[suritha\_banu@moe.edu.sg](mailto:suritha\_banu@moe.edu.sg) | |
+Mathematics | Ms Seirrah Lim<br>65087-300 (Ext 285)<br>[lim\_mei\_fen@moe.edu.sg](mailto:lim\_mei\_fen@moe.edu.sg) |
+Mathematics | Mrs Jaslin Kwa<br>65089-455<br>[jaslin\_ku\_siew\_chen@moe.edu.sg](mailto:jaslin\_ku\_siew\_chen@moe.edu.sg) |
+Mathematics | Mdm Annie Koh<br>65067-649<br>[yong\_puay\_hong\_annie@moe.edu.sg](mailto:yong\_puay\_hong\_annie@moe.edu.sg)
+Mathematics |  Mdm Suritha<br>65083-178<br>[suritha\_banu@moe.edu.sg](mailto:suritha\_banu@moe.edu.sg) |
+Mathematics |Mrs Daphne Pereira<br>65089-466<br>[daphne\_saro\_pereira\_a@moe.edu.sg](mailto:daphne\_saro\_pereira\_a@moe.edu.sg)|
 |
 | Chinese Language  | Mdm Teo Siow Yee (ST, SEN)<br>65087-270<br>[teo\_siow\_yee@schools.gov.sg](mailto:teo\_siow\_yee@schools.gov.sg) |
 Chinese Language  |Mrs Lim Bee Li<br>65087-266<br>[tay\_bee\_li@schools.gov.sg](mailto:tay\_bee\_li@schools.gov.sg) |
@@ -62,7 +66,7 @@ Malay Language | Mdm Nabilah<br>65087-319 <br>[nabilah\_abdul\_rahman@schools.go
 | Tamil Language |Ms Sumitha<br>65087-315<br>[s\_sumitha@schools.gov.sg](mailto:s\_sumitha@schools.gov.sg) |
 |
 | Music | Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca\_lau\_yuen\_sun@schools.gov.sg](mailto:rebecca\_lau\_yuen\_sun@schools.gov.sg) |
-Music |Mr Bryon Luo<br>65080-662<br>[luo\_youde\_bryon@schools.gov.sg](mailto:luo\_youde\_bryon@schools.gov.sg) 
+Music |Mrs Clara Koh (SH Aesthetics)<br>65089-455<br>[lim\_xiu\_fang\_clara@schools.gov.sg](mailto:lim\_xiu\_fang\_clara@schools.gov.sg) 
 |
 | Physical Education &amp; Health Education | Mrs Michelle Khoo (SH, Physical Education &amp; CCA)<br>65087-278<br>[lee\_jing\_wen\_michelle@schools.gov.sg](mailto:lee\_jing\_wen\_michelle@schools.gov.sg) |
 Physical Education &amp; Health Education | Mrs Valerie Koh<br>65087-279<br>[valerie\_koh\_sock\_hwee@schools.gov.sg](mailto:valerie\_koh\_sock\_hwee@schools.gov.sg)
