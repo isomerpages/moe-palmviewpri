@@ -66,7 +66,7 @@ Malay Language | Mdm Nabilah<br>65087-319 <br>[nabilah\_abdul\_rahman@schools.go
 | Tamil Language |Ms Sumitha<br>65087-315<br>[s\_sumitha@schools.gov.sg](mailto:s\_sumitha@schools.gov.sg) |
 |
 | Music | Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca\_lau\_yuen\_sun@schools.gov.sg](mailto:rebecca\_lau\_yuen\_sun@schools.gov.sg) |
-Music |Mr Bryon Luo<br>65080-662<br>[luo\_youde\_bryon@schools.gov.sg](mailto:luo\_youde\_bryon@schools.gov.sg) 
+Music |Mrs Clara Koh (SH Aesthetics)<br>65089-455<br>[lim\_xiu\_fang\_clara@schools.gov.sg](mailto:lim\_xiu\_fang\_clara@schools.gov.sg) 
 |
 | Physical Education &amp; Health Education | Mrs Michelle Khoo (SH, Physical Education &amp; CCA)<br>65087-278<br>[lee\_jing\_wen\_michelle@schools.gov.sg](mailto:lee\_jing\_wen\_michelle@schools.gov.sg) |
 Physical Education &amp; Health Education | Mrs Valerie Koh<br>65087-279<br>[valerie\_koh\_sock\_hwee@schools.gov.sg](mailto:valerie\_koh\_sock\_hwee@schools.gov.sg)
