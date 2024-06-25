@@ -32,16 +32,16 @@ variant: markdown
 | English Language |  Mrs Gracelyn Tham <br>65067-648<br>[lim\_ai\_zhen\_gracelyn@schools.gov.sg](mailto:lim\_ai\_zhen\_gracelyn@schools.gov.sg) |
 | English Language |  Ms Rachel Loh<br>65067-640<br>[loh\_hui\_xian\_rachel@schools.gov.sg](mailto:loh\_hui\_xian\_rachel@schools.gov.sg) |
 | English Language | Mdm Fatin<br>65067-649<br>[nur\_ishmah\_fatin\_rahim@schools.gov.sg](mailto:nur\_ishmah\_fatin\_rahim@schools.gov.sg) |
+| English Language | Mr Dallon Kang<br>65083-173<br>[kang\_zhenlin\_dallon@moe.edu.sg](mailto:kang\_zhenlin\_dallon@moe.edu.sg) |
 | English Language | Mrs Tan Lirong<br>65080-669<br>[sun\_lirong@schools.gov.sg](mailto:sun\_lirong@schools.gov.sg) |
 | English Language | Ms Vanna Ong<br>65067-642<br>[vanna\_ong\_limei@schools.gov.sg](mailto:vanna\_ong\_limei@schools.gov.sg) |
-| English Language |Ms Tabigail Hung<br>65080-657<br>[hung\_shao\_hui\_tabigail@schools.gov.sg](mailto:hung\_shao\_hui\_tabigail@schools.gov.sg) |
+| English Language |Mdm Annie Koh<br>65067-649<br>[yong\_puay\_hong\_annie@moe.edu.sg](mailto:yong\_puay\_hong\_annie@moe.edu.sg) |
 | English Language | Mdm Joey Cheang (Subject Head, CCE)<br>65080-658<br>[cheang\_ching\_ee@schools.gov.sg](mailto:cheang\_ching\_ee@schools.gov.sg)  |
 | English Language | Mdm Munirah<br>65080-656<br>[siti\_nurmunirah\_mohd\_arsad@schools.gov.sg](mailto:siti\_nurmunirah\_mohd\_arsad@schools.gov.sg)  |
  English Language | Mdm Liza<br>65067-347<br>[siti\_nur\_haliza@schools.gov.sg](mailto:siti\_nur\_haliza@schools.gov.sg)
 | English Language | Mdm Suritha<br>65083-178<br>[suritha\_banu@moe.edu.sg](mailto:suritha\_banu@moe.edu.sg) |
 | 
-| Mathematics | Ms Nurul<br>65067-647<br>[nurul\_farha\_abdul\_talib@schools.gov.sg](mailto:nurul\_farha\_abdul\_talib@schools.gov.sg) |
-Mathematics |Mrs Gracelyn Tham <br>65067-648<br>[lim\_ai\_zhen\_gracelyn@schools.gov.sg](mailto:lim\_ai\_zhen\_gracelyn@schools.gov.sg) |
+| Mathematics | Mdm Hailwa<br>65067-641<br>[hailwa\_moree@schools.gov.sg](mailto:hailwa\_moree@schools.gov.sg) |
 Mathematics |Mdm Fatin<br>65067-649<br>[nur\_ishmah\_fatin\_rahim@schools.gov.sg](mailto:nur\_ishmah\_fatin\_rahim@schools.gov.sg) |
 Mathematics | Ms Vanna Ong<br>65067-642<br>[vanna\_ong\_limei@schools.gov.sg](mailto:vanna\_ong\_limei@schools.gov.sg) |
 Mathematics | Mdm Joey Cheang (Subject Head, CCE)<br>65080-658<br>[cheang\_ching\_ee@schools.gov.sg](mailto:cheang\_ching\_ee@schools.gov.sg) |
