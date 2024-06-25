@@ -46,7 +46,11 @@ Mathematics |Mdm Fatin<br>65067-649<br>[nur\_ishmah\_fatin\_rahim@schools.gov.sg
 Mathematics | Ms Vanna Ong<br>65067-642<br>[vanna\_ong\_limei@schools.gov.sg](mailto:vanna\_ong\_limei@schools.gov.sg) |
 Mathematics | Mdm Joey Cheang (Subject Head, CCE)<br>65080-658<br>[cheang\_ching\_ee@schools.gov.sg](mailto:cheang\_ching\_ee@schools.gov.sg) |
 Mathematics | Mdm Radiah<br>65067-341<br>[radiah\_rahmat@schools.gov.sg](mailto:radiah\_rahmat@schools.gov.sg) |
-Mathematics |  Mdm Suritha<br>65083-178<br>[suritha\_banu@moe.edu.sg](mailto:suritha\_banu@moe.edu.sg) | |
+Mathematics | Ms Seirrah Lim<br>65087-300 (Ext 285)<br>[lim\_mei\_fen@moe.edu.sg](mailto:lim\_mei\_fen@moe.edu.sg) |
+Mathematics | Mrs Jaslin Kwa<br>65089-455<br>[jaslin\_ku\_siew\_chen@moe.edu.sg](mailto:jaslin\_ku\_siew\_chen@moe.edu.sg) |
+Mathematics | Mdm Annie Koh<br>65067-649<br>[yong\_puay\_hong\_annie@moe.edu.sg](mailto:yong\_puay\_hong\_annie@moe.edu.sg)
+Mathematics |  Mdm Suritha<br>65083-178<br>[suritha\_banu@moe.edu.sg](mailto:suritha\_banu@moe.edu.sg) |
+Mathematics |Mrs Daphne Pereira<br>65089-466<br>[daphne\_saro\_pereira\_a@moe.edu.sg](mailto:daphne\_saro\_pereira\_a@moe.edu.sg)|
 |
 | Chinese Language  | Mdm Teo Siow Yee (ST, SEN)<br>65087-270<br>[teo\_siow\_yee@schools.gov.sg](mailto:teo\_siow\_yee@schools.gov.sg) |
 Chinese Language  |Mrs Lim Bee Li<br>65087-266<br>[tay\_bee\_li@schools.gov.sg](mailto:tay\_bee\_li@schools.gov.sg) |
