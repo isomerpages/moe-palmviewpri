@@ -16,7 +16,7 @@ variant: markdown
 | 2 Curie | Mdm Nurulhuda<br>65087-325<br>[nurulhuda\_md\_salleh@schools.gov.sg](mailto:nurulhuda\_md\_salleh@schools.gov.sg)|Ms Sumitha<br>65087-315<br>[s\_sumitha@schools.gov.sg](mailto:s\_sumitha@schools.gov.sg)|
 | 2 Da Vinci |Mdm Hailwa<br>65067-641<br>[hailwa\_moree@schools.gov.sg](mailto:hailwa\_moree@schools.gov.sg)| Mr Noel Chan<br>65089-459<br>[noel\_chan\_tze\_sunn@schools.gov.sg](mailto:noel\_chan\_tze\_sunn@schools.gov.sg)|
 | 2 Edison |Ms Shannon Lim<br>65080-659<br>[lim\_eu\_li@schools.gov.sg](mailto:lim\_eu\_li@schools.gov.sg)| Mr Guah <br>65087-314<br>[guah\_boon\_heng@schools.gov.sg](mailto:guah\_boon\_heng@schools.gov.sg)|
-| 2 Frank |Mrs Sharon Seow (Senior Teacher, Lower Primary Learners)<br>65067-644<br>[chew\_sharon@schools.gov.sg](mailto:chew\_sharon@schools.gov.sg)| Mr Bryon Luo<br>65089-457<br>[luo\_youde\_bryon@schools.gov.sg](mailto:luo\_youde\_bryon@schools.gov.sg)|
+| 2 Frank |Mrs Sharon Seow (ST, Learning Needs LPL)<br>65067-644<br>[chew\_sharon@schools.gov.sg](mailto:chew\_sharon@schools.gov.sg)| Mr Bryon Luo<br>65089-457<br>[luo\_youde\_bryon@schools.gov.sg](mailto:luo\_youde\_bryon@schools.gov.sg)|
 | 2 Galileo | Mdm Munirah<br>65080-656<br>[siti\_nurmunirah\_mohd\_arsad@schools.gov.sg](mailto:siti\_nurmunirah\_mohd\_arsad@schools.gov.sg)| Ms Foo Shi Rui (Level Head, Mathematics)<br>65067-645<br>[foo\_shi\_rui@schools.gov.sg](mailto:foo\_shi\_rui@schools.gov.sg)|
 | 2 Hillary | Ms Candice Khoo<br>65067-643<br>[khoo\_yun\_xuan\_candice@schools.gov.sg](mailto:khoo\_yun\_xuan\_candice@schools.gov.sg)| Mdm Karmila<br>65089-458<br>[nor\_karmila\_hamzah@schools.gov.sg](mailto:nor\_karmila\_hamzah@schools.gov.sg)|
 |
@@ -36,7 +36,7 @@ English Language | Mrs Grace Chua<br>65089-468<br>[grace\_lim\_hui\_leng@schools
 English Language | Mdm Nurulhuda<br>65087-325<br>[nurulhuda\_md\_salleh@schools.gov.sg](mailto:nurulhuda\_md\_salleh@schools.gov.sg)
 English Language | Mdm Hailwa<br>65067-641<br>[hailwa\_moree@schools.gov.sg](mailto:hailwa_moree@schools.gov.sg)
 English Language | Ms Shannon Lim<br>65080-659<br>[lim\_eu\_li@schools.gov.sg](mailto:lim\_eu\_li@schools.gov.sg)
-English Language | Mrs Sharon Seow (ST,Lower Primary Learners)<br>65067-644<br>[chew\_sharon@schools.gov.sg](mailto:chew\_sharon@schools.gov.sg)
+English Language | Mrs Sharon Seow (ST, Learning Needs LPL)<br>65067-644<br>[chew\_sharon@schools.gov.sg](mailto:chew\_sharon@schools.gov.sg)
 English Language | Mdm Munirah<br>65080-656<br>[siti\_nurmunirah\_mohd\_arsad@schools.gov.sg](mailto:siti\_nurmunirah\_mohd\_arsad@schools.gov.sg)
 English Language | Ms Candice Khoo<br>65067-643<br>[khoo\_yun\_xuan\_candice@schools.gov.sg](mailto:khoo\_yun\_xuan\_candice@schools.gov.sg)
 |
@@ -44,7 +44,7 @@ English Language | Ms Candice Khoo<br>65067-643<br>[khoo\_yun\_xuan\_candice@sch
  Mathematics | Mdm Nurulhuda<br>65087-325<br>[nurulhuda\_md\_salleh@schools.gov.sg](mailto:nurulhuda\_md\_salleh@schools.gov.sg) |
   Mathematics | Mdm  Ng Cheng Tze<br>65067-344<br>[ng\_cheng\_tze\_a@moe.edu.sg](mailto:ng\_cheng\_tze\_a@moe.edu.sg) |
  Mathematics | Ms Shannon Lim<br>65080-659<br>[lim\_eu\_li@schools.gov.sg](mailto:lim\_eu\_li@schools.gov.sg) |
-  Mathematics | Mrs Sharon Seow (ST,Lower Primary Learners)<br>65067-644<br>[chew\_sharon@schools.gov.sg](mailto:chew\_sharon@schools.gov.sg) |
+  Mathematics | Mrs Sharon Seow (ST, Learning Needs LPL)<br>65067-644<br>[chew\_sharon@schools.gov.sg](mailto:chew\_sharon@schools.gov.sg) |
  Mathematics | Ms Foo Shi Rui (LH, Mathematics)<br>65067-645<br>[foo\_shi\_rui@schools.gov.sg](mailto:foo\_shi\_rui@schools.gov.sg) |
   Mathematics | Ms Candice Khoo<br>65067-643<br>[khoo\_yun\_xuan\_candice@schools.gov.sg](mailto:khoo\_yun\_xuan\_candice@schools.gov.sg) |
  Mathematics |Mdm Kumutha<br>65089-458<br>[kumutha\_jayandran@moe.edu.sg](mailto:kumutha\_jayandran@moe.edu.sg) |
