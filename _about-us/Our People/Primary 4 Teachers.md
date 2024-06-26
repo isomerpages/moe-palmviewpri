@@ -36,10 +36,13 @@ English Language | Ms Rachel Loh<br>65067-640<br>[loh\_hui\_xian\_rachel@schools
 English Language | Mdm Subaitha<br>65089-467<br>[subaitha\_bee\_sahul\_hameed@moe.edu.sg](mailto:subaitha\_bee\_sahul\_hameed@moe.edu.sg)
 |
 | Mathematics | Mdm Esther Tay (LH, Science)<br>65087-330<br>[tay\_wei\_jing@schools.gov.sg](mailto:tay\_wei\_jing@schools.gov.sg)|
-Mathematics | Mrs Priscillia Chen<br>65087-274<br>[tan\_yi\_siu\_priscillia@schools.gov.sg](mailto:tan\_yi\_siu\_priscillia@schools.gov.sg)
+Mathematics | Mrs Priscillia Chen (AYH, Upper Primary)<br>65087-274<br>[tan\_yi\_siu\_priscillia@schools.gov.sg](mailto:tan\_yi\_siu\_priscillia@schools.gov.sg)
 Mathematics | Mrs Jodie Siow<br>65087-316<br>[yeo\_mui\_hong@schools.gov.sg](mailto:yeo\_mui\_hong@schools.gov.sg)
 Mathematics | Ms Nicole Chee<br>65067-340<br>[chee\_shu\_rong\_nicole@schools.gov.sg](mailto:chee\_shu\_rong\_nicole@schools.gov.sg)
 Mathematics | Mdm Josephine Kee<br>65067-342<br>[kee\_wan\_cheng@schools.gov.sg](mailto:kee\_wan\_cheng@schools.gov.sg)
+Mathematics | Mdm Seah Wai Fang<br>65087-300 (Ext 242)<br>[seah\_wai\_fang\_a@moe.edu.sg](mailto:seah\_wai\_fang\_a@moe.edu.sg)
+Mathematics | Mr John Leong<br>65089-462<br>[leong\_john\_woon@moe.edu.sg](mailto:leong\_john\_woon@moe.edu.sg)
+Mathematics | Mrs Trinidad<br>65087-300 (Ext 241)<br>[alexandria\_koh@moe.edu.sg](mailto:alexandria\_koh@moe.edu.sg)
 |
 | Science | Mdm Esther Tay (LH, Science)<br>65087-330<br>[tay\_wei\_jing@schools.gov.sg](mailto:tay\_wei\_jing@schools.gov.sg)|
 Science | Ms Nabilah<br>65067-344<br>[nabilah\_abdullah@schools.gov.sg](mailto:nabilah\_abdullah@schools.gov.sg)|
