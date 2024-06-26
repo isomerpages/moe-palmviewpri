@@ -45,10 +45,13 @@ Mathematics | Mr John Leong<br>65089-462<br>[leong\_john\_woon@moe.edu.sg](mailt
 Mathematics | Mrs Trinidad<br>65087-300 (Ext 241)<br>[alexandria\_koh@moe.edu.sg](mailto:alexandria\_koh@moe.edu.sg)
 |
 | Science | Mdm Esther Tay (LH, Science)<br>65087-330<br>[tay\_wei\_jing@schools.gov.sg](mailto:tay\_wei\_jing@schools.gov.sg)|
-Science | Ms Nabilah<br>65067-344<br>[nabilah\_abdullah@schools.gov.sg](mailto:nabilah\_abdullah@schools.gov.sg)|
+Science |Mr John Leong<br>65089-462<br>[leong\_john\_woon@moe.edu.sg](mailto:leong\_john\_woon@moe.edu.sg)|
 Science | Mrs Tan Lirong<br>65080-669<br>[sun\_lirong@schools.gov.sg](mailto:sun\_lirong@schools.gov.sg)|
 Science | Mrs Jodie Siow<br>65087-316<br>[yeo\_mui\_hong@schools.gov.sg](mailto:yeo\_mui\_hong@schools.gov.sg)|
-Science | Mdm Josephine Kee<br>65067-342<br>[kee\_wan\_cheng@schools.gov.sg](mailto:kee\_wan\_cheng@schools.gov.sg)|
+Science | Mdm Josephine Kee<br>65067-342<br>[kee\_wan\_cheng@schools.gov.sg](mailto:kee\_wan\_cheng@schools.gov.sg)
+Science | Ms Joanne Ko<br>65089-461<br>[ko\_hiang@schools.gov.sg](mailto:ko\_hiang@schools.gov.sg)
+Science | Ms Seirrah<br>65087-300 (Ext 285)<br>[lim\_mei\_fen@moe.edu.sg](mailto:lim\_mei\_fen@moe.edu.sg)
+Science | Mrs Yvonne Seow<br>65067-646<br>[lim\_yi\_min\_yvonne@schools.gov.sg](mailto:lim\_yi\_min\_yvonne@schools.gov.sg)|
 |
 | Chinese Language | Mdm Koh Siew Bee<br>65087-261<br>[koh\_siew\_bee@schools.gov.sg](mailto:koh\_siew\_bee@schools.gov.sg)|
 Chinese Language | Mr Teng Tse Peng (YH, Middle Primary)<br>65087-310<br>[teng\_tse\_peng\_a@schools.gov.sg](mailto:teng\_tse\_peng\_a@schools.gov.sg)|
