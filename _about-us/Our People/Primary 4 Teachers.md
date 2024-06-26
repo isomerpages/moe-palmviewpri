@@ -27,10 +27,10 @@ variant: markdown
 | Art  | Mr Fong Yan Kin<br>65080-661<br>[fong_yan_kin@schools.gov.sg](mailto:fong_yan_kin@schools.gov.sg)|
 | 
 | English Language | Mrs Serene Yue<br>65067-345<br>[wong\_may\_san\_serene@schools.gov.sg](mailto:wong\_may\_san\_serene@schools.gov.sg)|
-English Language | Ms Tabigail Hung<br>65080-657<br>[hung\_shao\_hui\_tabigail@schools.gov.sg](mailto:hung\_shao\_hui\_tabigail@schools.gov.sg)
+English Language | Mdm Kalpana (LH, EL)<br>65067-349<br>[kalpana_manimohan@schools.gov.sg](mailto:kalpana_manimohan@schools.gov.sg)
 English Language | Ms Nicholyn Teo (AYH, Middle Primary)<br>65087-323<br>[nicholyn_teo@schools.gov.sg](mailto:nicholyn_teo@schools.gov.sg)
 English Language |Ms Nurul Ain (ST, English Language) <br>65087-328<br>[nurul\_ain\_mohamad\_ibrahim@schools.gov.sg](mailto:nurul\_ain\_mohamad\_ibrahim@schools.gov.sg)
-English Language | Ms Serene Yap<br>65067-646<br>[yap\_hui\_yun\_serene@schools.gov.sg](mailto:yap\_hui\_yun\_serene@schools.gov.sg)
+English Language | Mdm Siti Norida<br>65087-327<br>[siti\_norida\_hassim@moe.edu.sg](mailto:siti\_norida\_hassim@moe.edu.sg)
 English Language | Mr Isa<br>65067-346<br>[mohamed\_isa\_b\_osman@schools.gov.sg](mailto:mohamed\_isa\_b\_osman@schools.gov.sg)
 English Language | Ms Rachel Loh<br>65067-640<br>[loh\_hui\_xian\_rachel@schools.gov.sg](mailto:loh\_hui\_xian\_rachel@schools.gov.sg)
 English Language | Mdm Subaitha<br>65089-467<br>[subaitha\_bee\_sahul\_hameed@moe.edu.sg](mailto:subaitha\_bee\_sahul\_hameed@moe.edu.sg)
