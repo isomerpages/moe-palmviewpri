@@ -34,11 +34,14 @@ Head of Department, <br>ICT |  Mr Warren Thin |  65080-652<br>[thin_dongqi@schoo
 | Year Head,<br>Middle Primary | Mr Teng Tse Peng | 65087-310<br>[teng_tse_peng_a@schools.gov.sg](mailto:teng_tse_peng_a@schools.gov.sg) |
 | Year Head,<br>Upper Primary | Mrs Irene Ang |  65089-457<br>[irene_chia@schools.gov.sg](mailto:irene_chia@schools.gov.sg) |
 Asst Year Head,<br>Middle Primary | Ms Nicholyn Teo |  65087-323<br>[nicholyn_teo@schools.gov.sg](mailto:nicholyn_teo@schools.gov.sg) |
+Asst Year Head,<br>Upper Primary |Mrs Priscillia Chen |  65087-274<br>[tan\_yi\_siu\_priscillia@schools.gov.sg](mailto:tan\_yi\_siu\_priscillia@schools.gov.sg) |
 | - | - | - |
 |  Level Head,<br>English Language |  Mdm Kalpana |  65067-349<br>[kalpana_manimohan@schools.gov.sg](mailto:kalpana_manimohan@schools.gov.sg) |
+|  Level Head,<br>Chinese Language |  Mrs Faye Loh |  65087-264<br>[quah\_pei\_jun@schools.gov.sg](mailto:quah\_pei\_jun@schools.gov.sg) |
 | Level Head,<br>Science | Mdm Esther Tay | 65087-330<br>[tay_wei_jing@schools.gov.sg](mailto:foo_shi_rui@schools.gov.sg) |
 | Level Head,<br>Mathematics | Ms Foo Shi Rui | 65067-645<br>[foo_shi_rui@schools.gov.sg](mailto:foo_shi_rui@schools.gov.sg) |
 |  Subject Head,<br>CCE |  Mdm Cheang Ching Ee |  65080-658<br>[cheang_ching_ee@schools.gov.sg](mailto:cheang_ching_ee@schools.gov.sg) |
+|  Subject Head,<br>Student Well-Being |  Mr Senthil (Zack) |  65080-664<br>[subramaniyan\_senthil@schools.gov.sg](mailto:subramaniyan\_senthil@schools.gov.sg) |
 |  Subject Head,<br>Physical Education &amp; CCA |  Mrs Michelle Khoo |  65087-278<br>[lee_jing_wen_michelle@schools.gov.sg] 
 |  Subject Head,<br>Malay Language | Mdm Masturah|  65087-317<br>[masturah_salleh@schools.gov.sg](mailto:masturah_salleh@schools.gov.sg) |
 |  Subject Head,<br>Aesthetics | Mrs Clara Koh | 65089-455<br>[lim_xiu_fang_clara@schools.gov.sg](mailto:lim_xiu_fang_clara@schools.gov.sg) |
@@ -54,4 +57,4 @@ Asst Year Head,<br>Middle Primary | Ms Nicholyn Teo |  65087-323<br>[nicholyn_te
 |  Senior Teacher, Science |  Mr Kelvin Chia | 65080-665 <br>[chia_peng_lin_kelvin@schools.gov.sg](mailto:chia_peng_lin_kelvin@schools.gov.sg) |
 | Senior Teacher, SEN | Mdm Teo Siow Yee | 65087-270<br>[teo_siow_yee@schools.gov.sg](mailto:teo_siow_yee@schools.gov.sg) |
 | Senior Teacher, Music | Ms Rebecca Lau | 65089-456<br>[rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
-| Senior Teacher,&nbsp;Lower Pr Learners |&nbsp;Mrs Sharon Seow | 65067-644<br>[chew_sharon@schools.gov.sg](mailto:chew_sharon@schools.gov.sg) |
+| Senior Teacher,&nbsp;Learning Needs (Lower Primary Learners) |&nbsp;Mrs Sharon Seow | 65067-644<br>[chew_sharon@schools.gov.sg](mailto:chew_sharon@schools.gov.sg) |
