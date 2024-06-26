@@ -16,7 +16,7 @@ variant: markdown
 | 1 Curie | Mdm Fatin<br>65067-649<br>[nur\_ishmah\_fatin\_rahim@schools.gov.sg](mailto:nur\_ishmah\_fatin\_rahim@schools.gov.sg) | Mrs Faye Loh (LH, CL)<br>65087-264<br>[quah\_pei\_jun@schools.gov.sg](mailto:quah\_pei\_jun@schools.gov.sg) |
 | 1 Da Vinci | Mrs Tan Lirong<br>65080-669<br>[sun\_lirong@schools.gov.sg](mailto:sun\_lirong@schools.gov.sg) | Mdm Masturah  (SH, Malay Language)<br>65087-317<br>[masturah\_salleh@schools.gov.sg](mailto:masturah\_salleh@schools.gov.sg) |
 | 1 Edison | Ms Vanna Ong<br>65067-642<br>[vanna\_ong\_limei@schools.gov.sg](mailto:vanna\_ong\_limei@schools.gov.sg) | Mdm Teo Siow Yee  (ST, SEN)<br>65087-270<br>[teo\_siow\_yee@schools.gov.sg](mailto:teo\_siow\_yee@schools.gov.sg) |
-| 1 Frank | Ms Nurul<br>65067-647<br>[nurul\_farha\_abdul\_talib@schools.gov.sg](mailto:nurul\_farha\_abdul\_talib@schools.gov.sg) | Mrs Lim Bee Li<br>65087-266<br>[tay\_bee\_li@schools.gov.sg](mailto:tay\_bee\_li@schools.gov.sg) | 
+| 1 Frank |Mrs Lim Bee Li<br>65087-266<br>[tay\_bee\_li@schools.gov.sg](mailto:tay\_bee\_li@schools.gov.sg) | - | 
 | 1 Galileo | Mdm Radiah<br>65067-341<br>[radiah\_rahmat@schools.gov.sg](mailto:radiah\_rahmat@schools.gov.sg) | Mrs Michelle Khoo (SH, PE &amp; CCA)<br>65087-278<br>[lee\_jing\_wen\_michelle@schools.gov.sg](mailto:lee\_jing\_wen\_michelle@schools.gov.sg) |
 | 1 Hillary |Mdm Joey Cheang (SH, CCE)<br>65080-658<br>[cheang\_ching\_ee@schools.gov.sg](mailto:cheang\_ching\_ee@schools.gov.sg) | Mr Fong Yan Kin<br>65080-661<br>[fong\_yan\_kin@schools.gov.sg](mailto:fong\_yan\_kin@schools.gov.sg) |
 
