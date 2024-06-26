@@ -42,7 +42,7 @@ Mathematics | Ms Audrey Loke (HOD, Math)<br>65083-170<br>[loke\_ai\_guat\_audrey
 Mathematics | Mrs Kishore (Magdalene Tan)<br>65089-452<br>[tan\_kai\_lin\_magdalene@schools.gov.sg](mailto:tan\_kai\_lin\_magdalene@schools.gov.sg)|
 Mathematics | Mr Guna<br>65080-668<br>[sargunan\_ilangovan@schools.gov.sg](mailto:sargunan\_ilangovan@schools.gov.sg)|
 |
-Science | Mr Senthil (Zack), (SH, Student Well-Being)<br>65080-664<br>[subramaniyan\_senthil@schools.gov.sg](mailto:subramaniyan\_senthil@schools.gov.sg)|
+Science | Mr Senthil [Zack] , (SH, Student Well-Being)<br>65080-664<br>[subramaniyan\_senthil@schools.gov.sg](mailto:subramaniyan\_senthil@schools.gov.sg)|
 Science | Mdm Asyikin<br>65067-343<br>[nur\_asyikin\_mohd\_agos@schools.gov.sg](mailto:nur\_asyikin\_mohd\_agos@schools.gov.sg)|
 Science | Ms Joanne Ko <br>65089-461<br>[ko\_hiang@schools.gov.sg](mailto:ko\_hiang@schools.gov.sg)|
 Science | Mrs Tan Lirong <br>65080-669<br>[sun\_lirong@schools.gov.sg](mailto:sun\_lirong@schools.gov.sg)|
