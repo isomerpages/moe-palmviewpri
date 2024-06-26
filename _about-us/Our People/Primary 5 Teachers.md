@@ -30,7 +30,7 @@ Art | Mrs Chew Yixin<br>65080-662<br>[tan\_yixin@schools.gov.sg](mailto:tan\_yix
 | English Language | Mdm Kalpana (LH, EL)<br>65067-349<br>[kalpana\_manimohan@schools.gov.sg](mailto:kalpana\_manimohan@schools.gov.sg) |
  English Language | Mdm Hasanah (HOD, SSD)<br>65080-660<br>[nur\_hasanah\_osman@schools.gov.sg](mailto:nur\_hasanah\_osman@schools.gov.sg) |
  English Language | Mrs Sarah Tan<br>65067-348<br>[sarah\_yu\_xueli@schools.gov.sg](mailto:sarah\_yu\_xueli@schools.gov.sg)
- English Language | Mr Senthil (Zack)<br>65080-664<br>[subramaniyan\_senthil@schools.gov.sg](mailto:subramaniyan\_senthil@schools.gov.sg) |
+ English Language | Mr Senthil [Zack] (SH, Student Well-Being)<br>65080-664<br>[subramaniyan\_senthil@schools.gov.sg](mailto:subramaniyan\_senthil@schools.gov.sg) |
  English Language |Mrs Serene Yue<br>65067-345<br>[wong\_may\_san\_serene@schools.gov.sg](mailto:wong\_may\_san\_serene@schools.gov.sg) |
  English Language | Ms Priscilla Teng<br>65087-326<br>[teng\_yu\_hui\_priscilla@schools.gov.sg](mailto:teng\_yu\_hui\_priscilla@schools.gov.sg) | 
  English Language | Mrs Saj<br>65089-454<br>[vanisree\_sajjan@schools.gov.sg](mailto:vanisree\_sajjan@schools.gov.sg) | 
