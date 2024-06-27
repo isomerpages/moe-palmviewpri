@@ -57,6 +57,7 @@ Chinese Language |Miss Germaine Quek<br>65087-272<br>[germaine\_quek\_jiamin@sch
 Chinese Language | Mr Guah <br>65087-314<br>[guah\_boon\_heng@schools.gov.sg](mailto:guah\_boon\_heng@schools.gov.sg) |
 Chinese Language |Ms Kang<br>65087-269<br>[kang\_chao@schools.gov.sg](mailto:kang\_chao@schools.gov.sg) |
 Chinese Language | Mr&nbsp;Rave Tay&nbsp;&nbsp;(HOD, MTL)<br>65083-172<br>[tay\_tze\_rong@schools.gov.sg](mailto:tay\_tze\_rong@schools.gov.sg) |
+Chinese Language |Mdm Yong<br>65087-273<br>[yong\_puay\_pin\_a@moe.edu.sg](mailto:yong\_puay\_pin\_a@moe.edu.sg)
 |
 |Malay Language| Mdm Masturah (SH, ML)<br>65087-317<br>[masturah\_salleh@schools.gov.sg](mailto:masturah\_salleh@schools.gov.sg) |
 Malay Language| Mdm Shikin<br>65087-320<br>[noorashikin\_zainuldin@schools.gov.sg](mailto:noorashikin\_zainuldin@schools.gov.sg) |
