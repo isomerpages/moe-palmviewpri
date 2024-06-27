@@ -26,6 +26,7 @@ variant: markdown
 |---|---|
 | Art |Mrs Chew Yixin<br>65080-662<br>[tan\_yixin@schools.gov.sg](mailto:tan\_yixin@schools.gov.sg) |
 Art |Mdm Karmila<br>65089-458<br>[nor\_karmila\_hamzah@schools.gov.sg](mailto:nor\_karmila\_hamzah@schools.gov.sg)
+Art |Mdm Adzilah<br>65080-663<br>[noor\_adzilah\_tahir@schools.gov.sg](mailto:noor\_adzilah\_tahir@schools.gov.sg)
 |
 | English | Ms Hidayah<br>65089-469<br>[nur\_hidayah\_mohshin@schools.gov.sg](mailto:nur\_hidayah\_mohshin@schools.gov.sg) |
 | English | Mdm Leong Fong Fong<br>65080-655<br>[leong\_fong\_fong@schools.gov.sg](mailto:leong\_fong\_fong@schools.gov.sg) |
@@ -44,9 +45,10 @@ Mathematics |Mr Shaun Png<br>65080-666<br>[png\_jia\_shun@schools.gov.sg](mailto
 Mathematics |Mrs Jodie Siow<br>65087-316<br>[yeo\_mui\_hong@schools.gov.sg](mailto:yeo\_mui\_hong@schools.gov.sg) |
 Mathematics |Mr Guna<br>65080-668<br>[sargunan\_ilangovan@schools.gov.sg](mailto:sargunan\_ilangovan@schools.gov.sg) |
 Mathematics |Mdm Radiah<br>65067-341<br>[radiah\_rahmat@schools.gov.sg](mailto:radiah\_rahmat@schools.gov.sg) |
+Mathematics |Mrs Jaslin Kwa<br>65089-455<br>[jaslin\_ku\_siew\_chen@moe.edu.sg](mailto:jaslin\_ku\_siew\_chen@moe.edu.sg)
 |
 Science |Mr Gerald Wong (HOD, Science)<br>65087-313<br>[gerald\_wong\_yew\_meng@schools.gov.sg](mailto:gerald\_wong\_yew\_meng@schools.gov.sg) |
-Science |Mr Senthil (Zack)<br>65080-664<br>[subramaniyan\_senthil@schools.gov.sg](mailto:subramaniyan\_senthil@schools.gov.sg) |
+Science |Mr Senthil [Zack] (SH, Student Well-Being)<br>65080-664<br>[subramaniyan\_senthil@schools.gov.sg](mailto:subramaniyan\_senthil@schools.gov.sg) |
 Science |Mdm Esther Tay (LH, Science)<br>65087-330<br>[tay\_wei\_jing@schools.gov.sg](mailto:tay\_wei\_jing@schools.gov.sg) 
 Science |Mr Shaun Png<br>65080-666<br>[png\_jia\_shun@schools.gov.sg](mailto:png\_jia\_shun@schools.gov.sg) |
 Science| Mr&nbsp;Kelvin Chia (ST, Science)<br>65080-665<br>[chia\_peng\_lin\_kelvin@schools.gov.sg](mailto:chia\_peng\_lin\_kelvin@schools.gov.sg) |
@@ -57,7 +59,7 @@ Science |Mrs Michelle Wee<br>65080-667<br>[michelle\_tyoh\_whei\_theng@schools.g
 Chinese Language | Mdm Heng Wei Shan<br>65089-450<br>[heng\_wei\_shan\_a@schools.gov.sg](mailto:heng\_wei\_shan\_a@schools.gov.sg) 
 Chinese Language |Mdm Hwee Yeng<br>65087-268<br>[lim\_hwee\_yeng@schools.gov.sg](mailto:lim\_hwee\_yeng@schools.gov.sg) 
 Chinese Language | Mrs Lim Bee Li<br>65087-266<br>[tay\_bee\_li@schools.gov.sg](mailto:tay\_bee\_li@schools.gov.sg) 
-Chinese Language | Mrs Faye Loh<br>65087-264<br>[quah\_pei\_jun@schools.gov.sg](mailto:quah\_pei\_jun@schools.gov.sg) 
+Chinese Language | Mrs Faye Loh (LH, CL)<br>65087-264<br>[quah\_pei\_jun@schools.gov.sg](mailto:quah\_pei\_jun@schools.gov.sg) 
 Chinese Language | Mr Warren Thin (HOD, ICT)<br>65087-268<br>[thin\_dongqi@schools.gov.sg](mailto:thin\_dongqi@schools.gov.sg) 
 Chinese Language | Mr Zhou Wencong (HOD, SM)<br>65087-322<br>[zhou\_wencong@schools.gov.sg](mailto:zhou\_wencong@schools.gov.sg) 
 |
