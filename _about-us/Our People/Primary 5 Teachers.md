@@ -35,18 +35,20 @@ Art | Mrs Chew Yixin<br>65080-662<br>[tan\_yixin@schools.gov.sg](mailto:tan\_yix
  English Language | Ms Priscilla Teng<br>65087-326<br>[teng\_yu\_hui\_priscilla@schools.gov.sg](mailto:teng\_yu\_hui\_priscilla@schools.gov.sg) | 
  English Language | Mrs Saj<br>65089-454<br>[vanisree\_sajjan@schools.gov.sg](mailto:vanisree\_sajjan@schools.gov.sg) | 
 |
-| Mathematics  | Mdm Kalpana (LH, EL)<br>65067-349<br>[kalpana\_manimohan@schools.gov.sg](mailto:kalpana\_manimohan@schools.gov.sg) |
+| Mathematics  | Mrs Trinidad<br>65087-300 (Ext 241)<br>[alexandria\_koh@moe.edu.sg](mailto:alexandria\_koh@moe.edu.sg) |
  Mathematics  | Ms Nicole Chee<br>65067-340<br>[chee\_shu\_rong\_nicole@schools.gov.sg](mailto:chee\_shu\_rong\_nicole@schools.gov.sg) |
   Mathematics  | Ms Foo Shi Rui (LH, Math)<br>65089-457<br>[foo\_shi\_rui@schools.gov.sg](mailto:foo\_shi\_rui@schools.gov.sg) |
  Mathematics  | Mdm Asyikin<br>65067-343<br>[nur\_asyikin\_mohd\_agos@schools.gov.sg](mailto:nur\_asyikin\_mohd\_agos@schools.gov.sg) |
  Mathematics  |Mrs Priscillia Chen<br>65087-274<br>[tan\_yi\_siu\_priscillia@schools.gov.sg](mailto:tan\_yi\_siu\_priscillia@schools.gov.sg) |
+ Mathematics  |Mrs Yvonne Seow<br>65067-646<br>[lim\_yi\_min\_yvonne@schools.gov.sg](mailto:lim\_yi\_min\_yvonne@schools.gov.sg)
  Mathematics  | Mdm Kumutha<br>65083-179<br>[kumutha\_jayandran@moe.edu.sg](mailto:kumutha\_jayandran@moe.edu.sg) | |
 |
-| Science | Mr Senthil (Zack)<br>65080-664<br>[subramaniyan\_senthil@schools.gov.sg](mailto:subramaniyan\_senthil@schools.gov.sg) |
+| Science | Mr Senthil [Zack] (SH, Student Well-Being)<br>65080-664<br>[subramaniyan\_senthil@schools.gov.sg](mailto:subramaniyan\_senthil@schools.gov.sg) |
 Science | Ms Nicole Chee<br>65067-340<br>[chee\_shu\_rong\_nicole@schools.gov.sg](mailto:chee\_shu\_rong\_nicole@schools.gov.sg) |
 Science | Mr Gerald Wong (HOD, Science)<br>65087-313<br>[gerald\_wong\_yew\_meng@schools.gov.sg](mailto:gerald\_wong\_yew\_meng@schools.gov.sg) |
 Science | Mrs Priscillia Chen<br>65087-274<br>[tan\_yi\_siu\_priscillia@schools.gov.sg](mailto:tan\_yi\_siu\_priscillia@schools.gov.sg) |
-Science | Ms Joanne Ko<br>65089-461<br>[ko\_hiang@schools.gov.sg](mailto:ko\_hiang@schools.gov.sg) |
+Science | Ms Seirrah<br>65087-300 (Ext 285)<br>[lim\_mei\_fen@moe.edu.sg](mailto:lim\_mei\_fen@moe.edu.sg)
+Science | Mr John Leong<br>65089-462<br>[leong\_john\_woon@moe.edu.sg](mailto:leong\_john\_woon@moe.edu.sg) |
 Science | Mr Kelvin Chia<br>65080-665<br>[chia\_peng\_lin\_kelvin@schools.gov.sg](mailto:chia\_peng\_lin\_kelvin@schools.gov.sg)  |
 |
 | Chinese Language | Mdm Zhang Yue<br>65087-262<br>[zhang\_yue\_a@schools.gov.sg](mailto:zhang\_yue\_a@schools.gov.sg) |
