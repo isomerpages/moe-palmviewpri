@@ -61,10 +61,11 @@ Chinese Language |Mdm Yong<br>65087-273<br>[yong\_puay\_pin\_a@moe.edu.sg](mailt
 |
 |Malay Language| Mdm Masturah (SH, ML)<br>65087-317<br>[masturah\_salleh@schools.gov.sg](mailto:masturah\_salleh@schools.gov.sg) |
 Malay Language| Mdm Shikin<br>65087-320<br>[noorashikin\_zainuldin@schools.gov.sg](mailto:noorashikin\_zainuldin@schools.gov.sg) |
+Malay Language| Mdm Suhana<br>65087-318<br>[norsuhana\_sahmat@schools.gov.sg](mailto:norsuhana\_sahmat@schools.gov.sg)
 |
 Music| Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca\_lau\_yuen\_sun@schools.gov.sg](mailto:rebecca\_lau\_yuen\_sun@schools.gov.sg) |
+Music| Mrs Clara Koh (SH, Aesthetics)<br>65089-455<br>[lim\_xiu\_fang\_clara@schools.gov.sg](mailto:lim\_xiu\_fang\_clara@schools.gov.sg)
 Music| Mr Bryon Luo<br>65089-457<br>[luo\_youde\_bryon@schools.gov.sg](mailto:luo\_youde\_bryon@schools.gov.sg) |
 |
 | Physical Education and Health Education | Mr Rafiei<br>65087-275<br>[mohamad\_rafiei\_sakeyam@schools.gov.sg](mailto:mohamad\_rafiei\_sakeyam@schools.gov.sg) |
-Physical Education and Health Education | Mr&nbsp;Hisham (HOD, PE &amp; CCA)<br>65087-309<br>[hisham\_b\_spono@schools.gov.sg](mailto:hisham\_b\_spono@schools.gov.sg) |
-Physical Education and Health Education | Ms Valerie Koh<br>65087-277)<br>[valerie\_koh\_sock\_hwee@schools.gov.sg](mailto:valerie\_koh\_sock\_hwee@schools.gov.sg) |
+Physical Education and Health Education | Ms Nazurah<br>65087-275)<br>[nazurah\_syazana\_nordin@schools.gov.sg](mailto:nazurah\_syazana\_nordin@schools.gov.sg) |
