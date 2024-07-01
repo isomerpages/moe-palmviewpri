@@ -3,6 +3,7 @@ title: Executive and Administrative Staff
 permalink: /about-us/our-people/executive-and-administrative-staff/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ## EXECUTIVE AND ADMINISTRATIVE STAFF
 
@@ -12,7 +13,6 @@ third_nav_title: Our People
 | Operations Manager | Mr Cheng Tiam Hock |
 | ICT Manager | Mr Vasenth S/O Shahnti Kumar  |
 | Administrative Executive | Mdm Melia Koh |
-|  Administrative Executive | Ms Jeslyn Chen  |
 |   Corporate Support Officer | Mdm Asiah Bte K. Mohamed |
 |   Corporate Support Officer | Ms Nur Alifah Mohamad Nordin  |
 |   Corporate Support Officer |  Mdm Esther Tan |
