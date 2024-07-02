@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - Palm View Open House.md
       - About Us.md
       - Principal's Message.md
       - Vision, Mission & Core Values.md
       - Our Campus.md
+      - Our People/.keep
       - Our People/Our People.md
       - Our People/School Steering Committee.md
       - Our People/Executive and Administrative Staff.md
@@ -17,11 +17,11 @@ collections:
       - Our People/Primary 5 Teachers.md
       - Our People/Primary 6 Teachers.md
       - Our People/Allied Educators.md
-      - Our People/.keep
       - School Uniform.md
+      - School Rules/.keep
       - School Rules/School Rules.md
       - School Rules/General Information for Parents.md
       - School Rules/School Rules and Regulations.md
-      - School Rules/.keep
       - School Song.md
       - School Safety.md
+      - Palm View Open House.md
