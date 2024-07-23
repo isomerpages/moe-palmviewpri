@@ -12,7 +12,7 @@ variant: markdown
 | Class | Form Teacher | Form Teacher |
 |---|---|---|
 | 5 Aristotle | Mdm Kalpana (LH, English Language)<br>65067-349<br>[kalpana\_manimohan@schools.gov.sg](mailto:kalpana\_manimohan@schools.gov.sg) | Mdm Zhang Yue<br>65087-262<br>[zhang\_yue\_a@schools.gov.sg](mailto:zhang\_yue\_a@schools.gov.sg) |
-| 5 Beethoven | Ms Nicole Chee<br>65067-340<br>[chee\_shu\_rong\_nicole@schools.gov.sg](mailto:chee\_shu\_rong\_nicole@schools.gov.sg) | Mdm Hasanah (HOD, SSD)<br>65080-660<br>[nur\_hasanah\_osman@schools.gov.sg](mailto:nur\_hasanah\_osman@schools.gov.sg) |
+| 5 Beethoven | Ms Nicole Chee<br>65067-340<br>[chee\_shu\_rong\_nicole@schools.gov.sg](mailto:chee\_shu\_rong\_nicole@schools.gov.sg) | Mdm Hasanah (School Staff Developer)<br>65080-660<br>[nur\_hasanah\_osman@schools.gov.sg](mailto:nur\_hasanah\_osman@schools.gov.sg) |
 | 5 Curie | Mrs Sarah Tan<br>65067-348<br>[sarah\_yu\_xueli@schools.gov.sg](mailto:sarah\_yu\_xueli@schools.gov.sg) | Mr Rave Tay (HOD, MTL)<br>65083-172<br>[tay\_tze\_rong@schools.gov.sg](mailto:tay\_tze\_rong@schools.gov.sg) |
 | 5 Da Vinci | Mr Senthil [Zack] (SH, Student Well-Being)<br>65080-664<br>[subramaniyan\_senthil@schools.gov.sg](mailto:subramaniyan\_senthil@schools.gov.sg) | Miss Germaine Quek<br>65087-272<br>[germaine\_quek\_jiamin@schools.gov.sg](mailto:germaine\_quek\_jiamin@schools.gov.sg) |
 | 5 Edison | Mrs Serene Yue<br>65067-345<br>[wong\_may\_san\_serene@schools.gov.sg](mailto:wong\_may\_san\_serene@schools.gov.sg) | Mr Gerald Wong (HOD, Science)<br>65087-313<br>[gerald\_wong\_yew\_meng@schools.gov.sg](mailto:gerald\_wong\_yew\_meng@schools.gov.sg) |
@@ -28,7 +28,7 @@ Art | Mdm Karmila<br>65089-458<br>[nor\_karmila\_hamzah@schools.gov.sg](mailto:n
 Art | Mrs Chew Yixin<br>65080-662<br>[tan\_yixin@schools.gov.sg](mailto:tan\_yixin@schools.gov.sg)
 |
 | English Language | Mdm Kalpana (LH, EL)<br>65067-349<br>[kalpana\_manimohan@schools.gov.sg](mailto:kalpana\_manimohan@schools.gov.sg) |
- English Language | Mdm Hasanah (HOD, SSD)<br>65080-660<br>[nur\_hasanah\_osman@schools.gov.sg](mailto:nur\_hasanah\_osman@schools.gov.sg) |
+ English Language | Mdm Hasanah (School Staff Developer)<br>65080-660<br>[nur\_hasanah\_osman@schools.gov.sg](mailto:nur\_hasanah\_osman@schools.gov.sg) |
  English Language | Mrs Sarah Tan<br>65067-348<br>[sarah\_yu\_xueli@schools.gov.sg](mailto:sarah\_yu\_xueli@schools.gov.sg)
  English Language | Mr Senthil [Zack] (SH, Student Well-Being)<br>65080-664<br>[subramaniyan\_senthil@schools.gov.sg](mailto:subramaniyan\_senthil@schools.gov.sg) |
  English Language |Mrs Serene Yue<br>65067-345<br>[wong\_may\_san\_serene@schools.gov.sg](mailto:wong\_may\_san\_serene@schools.gov.sg) |
