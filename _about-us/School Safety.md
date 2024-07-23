@@ -2,6 +2,7 @@
 title: School Safety
 permalink: /about-us/school-safety/
 description: ""
+variant: markdown
 ---
 ## SCHOOL SAFETY
 
@@ -24,9 +25,7 @@ The mission to equip students with life-long social and emotional competencies a
 
   
 
-According to MOE CW framework, the three principles, ‘Respect for Self and Others’, ‘Safe and Responsible Use’ and ‘Positive Peer Influence’ when adhered to, will enable students to make careful and well-considered decisions when they are in cyberspace. Refer [here](https://palmviewpri.moe.edu.sg/palm-view-experience/educational-technology/cyber-wellness) for more information
-
-  
+According to MOE CW framework, the three principles, ‘Respect for Self and Others’, ‘Safe and Responsible Use’ and ‘Positive Peer Influence’ when adhered to, will enable students to make careful and well-considered decisions when they are in cyberspace. 
 
 ### School Emergency Preparedness (EP)
 
