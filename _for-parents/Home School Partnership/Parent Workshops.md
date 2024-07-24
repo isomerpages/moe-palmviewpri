@@ -13,3 +13,5 @@ variant: markdown
 
 
 [P5 English Language Workshop](/files/For%20Parents%20(2024)/EL_P5_Parent_Workshop_2024.pdf)
+
+[P1 & P2 Social & Emotional Learning (SEL) Workshop](/files/For%20Parents%20(2024)/Recgonise_Relate_Regulate_Emotions_Parent_Workshop_Sharing_19July2024__School_Website_.pdf)
