@@ -4,14 +4,6 @@ permalink: /plvps/featured-news/
 description: ""
 variant: markdown
 ---
-# PLVPS OPEN HOUSE                           2024
-
-![](/images/PLVPS_Open_House_2024_EDM.jpg)
-
-
-
-
-
 
 # Nominate Your English Teacher
 
