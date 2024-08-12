@@ -4,4 +4,4 @@ permalink: /palm-view-experience/permalink/
 description: ""
 variant: markdown
 ---
-Check back soon again, we are in the midst of updating the e-Arts@PLVPS microsite :)
+[E-ARTS@PLVPS 2024](https://sites.google.com/view/e-artsplvps2024/e-artsplvps-2024)
