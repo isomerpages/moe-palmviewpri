@@ -5,8 +5,8 @@ description: ""
 variant: markdown
 ---
 # Welcoming our Alumni on Teachers' Day
-[](/files/Alumni_Trs_Day_2024.pdf)
-Remember to complete this Google Form,
+![](/images/Alumni_Trs_Day_2024.png)
+Please do remember to complete this Google Form,
 https://tinyurl.com/PLVPS2024TeachersDay
 
 
