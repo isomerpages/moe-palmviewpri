@@ -2,6 +2,7 @@ collections:
   palm-view-experience:
     output: true
     order:
+      - Peer Support.md
       - Niche Programmes/.keep
       - Niche Programmes/LEARNING FOR LIFE PROGRAMME.md
       - Niche Programmes/APPLIED LEARNING PROGRAMME.md
