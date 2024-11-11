@@ -5,7 +5,4 @@ variant: markdown
 description: ""
 third_nav_title: Home School Partnership
 ---
-
-
-
-
+1. [Parent Information Kit](/files/For%20Parents%20(2024)/P1_Orientation_2024__Parent_Information_Kit_.pdf)
