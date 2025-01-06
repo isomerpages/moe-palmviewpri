@@ -13,6 +13,7 @@ variant: markdown
 |:---:|:---:|:---:|
 | Principal | Mrs Ming Kum |[ming_antoinette_ramasamy@schools.gov.sg](mailto:ming_antoinette_ramasamy@schools.gov.sg) |
 | Vice-Principal | Mr Jeremy Ang |[ang_wei_teck@schools.gov.sg](mailto:ang_wei_teck@schools.gov.sg) |
+| Vice-Principal | Ms Khairiah Hairoman |[khairiah_hairoman@schools.gov.sg](mailto:khairiah_hairoman@schools.gov.sg) |
 | Vice-Principal (Admin) | Ms Chua Chew Hiang |[chua_chew_hiang@schools.gov.sg](mailto:chua_chew_hiang@schools.gov.sg) |
 | | | |
 
@@ -21,23 +22,23 @@ variant: markdown
 | Designation | Name | Contact Information |
 |:---:|:---:|:---:|
 | Head of Department,<br>Mathematics | Ms Audrey Loke | 65083-170<br>[loke_ai_guat_audrey@schools.gov.sg](mailto:loke_ai_guat_audrey@schools.gov.sg) |
-| Head of Department,<br>Mother Tongue Languages | Mr Rave Tay | 65083-172<br>[tay_tze_rong@schools.gov.sg](mailto:tay_tze_rong@schools.gov.sg) |
 | Head of Department,<br>Science | Mr Gerald Wong | 65087-313<br>[gerald_wong_yew_meng@schools.gov.sg](mailto:gerald_wong_yew_meng@schools.gov.sg) |
 | Head of Department,<br>Physical Education &amp; CCA | Mr Hisham | 65087-309<br>[hisham_b_spono@schools.gov.sg](mailto:hisham_b_spono@schools.gov.sg) |
 |  Head of Department, <br>Student Management |  Mr Zhou Wencong |  65087-322<br>[zhou_wencong@schools.gov.sg](mailto:zhou_wencong@schools.gov.sg) |
 Head of Department, <br>ICT |  Mr Warren Thin |  65080-652<br>[thin_dongqi@schools.gov.sg](mailto:thin_dongqi@schools.gov.sg) |
 | School Staff Developer <br> |  Mdm Hasanah |  &nbsp;65080-660<br>[nur_hasanah_osman@schools.gov.sg](mailto:nur_hasanah_osman@schools.gov.sg) |
+| Head of Department, <br>CCE |  Mdm Joey Cheang |  &nbsp;65083-172<br>[cheang_ching_ee@schools.gov.sg](mailto:cheang_ching_ee@schools.gov.sg) |
 |
 | - | - | - |
 | 
 | Year Head,<br>Lower Primary | Mr Sathis Kumar | 65087-311<br>[kanapa_sathis_kumar@schools.gov.sg](mailto:kanapa_sathis_kumar@schools.gov.sg) |
 | Year Head,<br>Middle Primary | Mr Teng Tse Peng | 65087-310<br>[teng_tse_peng_a@schools.gov.sg](mailto:teng_tse_peng_a@schools.gov.sg) |
 | Year Head,<br>Upper Primary | Mrs Irene Ang |  65089-457<br>[irene_chia@schools.gov.sg](mailto:irene_chia@schools.gov.sg) |
-Asst Year Head,<br>Middle Primary | Ms Nicholyn Teo |  65087-323<br>[nicholyn_teo@schools.gov.sg](mailto:nicholyn_teo@schools.gov.sg) |
+Asst Year Head,<br>Lower Primary | Mrs Gracelyn Tham |  65067-648<br>[lim_ai_zhen_gracelyn@schools.gov.sg](mailto:lim_ai_zhen_gracelyn@schools.gov.sg) |
 Asst Year Head,<br>Upper Primary |Mrs Priscillia Chen |  65087-274<br>[tan\_yi\_siu\_priscillia@schools.gov.sg](mailto:tan\_yi\_siu\_priscillia@schools.gov.sg) |
 | - | - | - |
 |  Level Head,<br>English Language |  Mdm Kalpana |  65067-349<br>[kalpana_manimohan@schools.gov.sg](mailto:kalpana_manimohan@schools.gov.sg) |
-|  Level Head,<br>Chinese Language |  Mrs Faye Loh |  65087-264<br>[quah\_pei\_jun@schools.gov.sg](mailto:quah\_pei\_jun@schools.gov.sg) |
+|  Level Head,<br>MTL |  Mrs Faye Loh |  65087-264<br>[quah\_pei\_jun@schools.gov.sg](mailto:quah\_pei\_jun@schools.gov.sg) |
 | Level Head,<br>Science | Mdm Esther Tay | 65087-330<br>[tay_wei_jing@schools.gov.sg](mailto:foo_shi_rui@schools.gov.sg) |
 | Level Head,<br>Mathematics | Ms Foo Shi Rui | 65067-645<br>[foo_shi_rui@schools.gov.sg](mailto:foo_shi_rui@schools.gov.sg) |
 |  Subject Head,<br>CCE |  Mdm Cheang Ching Ee |  65080-658<br>[cheang_ching_ee@schools.gov.sg](mailto:cheang_ching_ee@schools.gov.sg) |
