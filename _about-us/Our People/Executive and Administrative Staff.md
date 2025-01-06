@@ -13,6 +13,7 @@ variant: markdown
 | Operations Manager | Mr Cheng Tiam Hock |
 | ICT Manager | Mr Vasenth S/O Shahnti Kumar  |
 | Administrative Executive | Mdm Melia Koh |
+| Adjunct Administrative Executive | Ms Emily Cheong |
 |   Corporate Support Officer | Mdm Asiah Bte K. Mohamed |
 |   Corporate Support Officer | Ms Nur Alifah Mohamad Nordin  |
 |   Corporate Support Officer |  Mdm Esther Tan |
