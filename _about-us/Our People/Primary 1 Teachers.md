@@ -25,5 +25,4 @@ variant: markdown
 
 | Subject | Teacher |
 |---|---|
-
-To be updated soon.....
+| Art | Mrs Chew Yi Xin<br>65080-662<br>[tan\_yixin@schools.gov.sg](mailto:tan\_yixin@schools.gov.sg) |
