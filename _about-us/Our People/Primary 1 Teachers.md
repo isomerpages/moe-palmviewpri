@@ -35,4 +35,13 @@ variant: markdown
 | English Language | Ms Candice Khoo<br>65067-643<br>[khoo_yun_xuan_candice@schools.gov.sg](mailto:khoo_yun_xuan_candice@schools.gov.sg) |
 | English Language | Mr Kumar (YH, Lower Primary)<br>65087-311<br>[kanapa_sathis_kumar@schools.gov.sg](mailto:kanapa_sathis_kumar@schools.gov.sg) |
 | English Language |Mdm Nurulhuda<br>65087-325<br>[nurulhuda_md_salleh@schools.gov.sg](mailto:nurulhuda_md_salleh@schools.gov.sg) |
-| English Language | Ms Teo Ai Cheng<br>65089-453<br>[teo_ai_cheng@moe.edu.sg] 
+| English Language | Ms Teo Ai Cheng<br>65089-453<br>teo_ai_cheng@moe.edu.sg 
+|
+| Mathematics | Mrs Chow Seow Yann <br>65080-656<br>[wang_seow_yann_b@moe.edu.sg](mailto:wang_seow_yann_b@moe.edu.sg) |
+| Mathematics | Mdm Ng Cheng Tze <br>65080-350<br>[ng_cheng_tze_a@moe.edu.sg](mailto:ng_cheng_tze_a@moe.edu.sg) |
+| Mathematics | Ms Shannon Lim<br>65080-659<br>[lim_eu_li@schools.gov.sg](mailto:lim_eu_li@schools.gov.sg) |
+| Mathematics | Mr Dallon Kang <br>65083-173<br>[kang_zhenlin_dallon@moe.edu.sg](mailto:kang_zhenlin_dallon@moe.edu.sg) |
+| Mathematics | Ms Candice Khoo<br>65067-643<br>[khoo_yun_xuan_candice@schools.gov.sg](mailto:khoo_yun_xuan_candice@schools.gov.sg)|
+| Mathematics | Mrs Kishore {Magdalene Tan} <br>65067-645<br>[wang_seow_yann_b@moe.edu.sg](mailto:wang_seow_yann_b@moe.edu.sg) |
+| Mathematics | Mdm Nurulhuda<br>65087-325<br>[nurulhuda_md_salleh@schools.gov.sg](mailto:nurulhuda_md_salleh@schools.gov.sg) |
+| Mathematics |Ms Teo Ai Cheng <br>65089-453<br>[teo_ai_cheng@moe.edu.sg](mailto:teo_ai_cheng@moe.edu.sg) |
