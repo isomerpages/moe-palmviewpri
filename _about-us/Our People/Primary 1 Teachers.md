@@ -26,3 +26,13 @@ variant: markdown
 | Subject | Teacher |
 |---|---|
 | Art | Mrs Chew Yi Xin<br>65080-662<br>[tan\_yixin@schools.gov.sg](mailto:tan\_yixin@schools.gov.sg) |
+| Art | Mdm Adzilah<br>65080-663<br>[noor_adzilah_tahir@schools.gov.sg](mailto:noor_adzilah_tahir@schools.gov.sg) 
+|
+| English Language | Ms Nurul Ain (ST, EL) <br>65087-328<br>[nurul_ain_mohamad_ibrahim@schools.gov.sg](mailto:nurul_ain_mohamad_ibrahim@schools.gov.sg) |
+| English Language | Mdm Razia<br>65087-267<br>[abdul_majeeth_razia_sulthana@schools.gov.sg](mailto:abdul_majeeth_razia_sulthana@schools.gov.sg) |
+| English Language | Ms Shannon Lim<br>65080-659<br>[lim_eu_li@schools.gov.sg](mailto:lim_eu_li@schools.gov.sg) |
+| English Language | Mrs Pereira<br>65089-466<br>[daphne_saro_pereira_a@moe.edu.sg](mailto:daphne_saro_pereira_a@moe.edu.sg) |
+| English Language | Ms Candice Khoo<br>65067-643<br>[khoo_yun_xuan_candice@schools.gov.sg](mailto:khoo_yun_xuan_candice@schools.gov.sg) |
+| English Language | Mr Kumar (YH, Lower Primary)<br>65087-311<br>[kanapa_sathis_kumar@schools.gov.sg](mailto:kanapa_sathis_kumar@schools.gov.sg) |
+| English Language |Mdm Nurulhuda<br>65087-325<br>[nurulhuda_md_salleh@schools.gov.sg](mailto:nurulhuda_md_salleh@schools.gov.sg) |
+| English Language | Ms Teo Ai Cheng<br>65089-453<br>[ teo_ai_cheng@moe.edu.sg](mailto: teo_ai_cheng@moe.edu.sg) |
