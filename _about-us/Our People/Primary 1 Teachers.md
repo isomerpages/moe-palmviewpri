@@ -61,3 +61,7 @@ variant: markdown
 | Malay Language | Mdm Suhana<br>65087-323<br>[norsuhana_sahmat@schools.gov.sg](mailto:norsuhana_sahmat@schools.gov.sg)  |
 |
 | Tamil Language | Ms Sumitha <br>65087-315<br>[s_sumitha@schools.gov.sg](mailto:s_sumitha@schools.gov.sg) |
+|
+| Physical Education | Mrs Michelle Khoo <br>65087-278<br>[lee_jing_wen_michelle@schools.gov.sg](mailto:lee_jing_wen_michelle@schools.gov.sg) |
+Physical Education | Mrs Valerie Seet <br>65087-279<br>[valerie_koh_sock_hwee@schools.gov.sg](mailto:valerie_koh_sock_hwee@schools.gov.sg) |
+Physical Education |  Mr Hassan<br>65087-300 (Ext 286)<br>[hassan_mulyadi_mohamed_a@moe.edu.sg](mailto:hassan_mulyadi_mohamed_a@moe.edu.sg) |
