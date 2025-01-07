@@ -18,8 +18,7 @@ variant: markdown
 
 | <u>Name of SEN Officers</u> | <u>E-mail Address</u> | <u>DID</u> |
 |---|---|---|
-| Mr Senthil Kumar | [senthil_kumar_manogaran@schools.gov.sg](mailto:senthil_kumar_manogaran@schools.gov.sg) | 65089-464 |
-| Ms Ng Sze Yhee Andrea | [ng_sze_yhee_andrea@schools.gov.sg](mailto:ng_sze_yhee_andrea@schools.gov.sg) | 65087-300 (Ext 291) |
+| Ms Thaahirah | [thaahirah_abu_bakar@schools.gov.sg](mailto:thaahirah_abu_bakar@schools.gov.sg) | 65089-464 |
 |  Mdm Rhadiyah Bte Fauzi |  [rhadiyah_fauzi@schools.gov.sg](mailto:rhadiyah_fauzi@schools.gov.sg) | 65087-300, Ext 293 |
  Ms Nur Syazwani Binte Kamsani |  [nur\_syazwani\_kamsani\_a@schools.gov.sg](mailto:nur\_syazwani\_kamsani\_a@schools.gov.sg) | 65087-300 (Ext 291)
 | | |
