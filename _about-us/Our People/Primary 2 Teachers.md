@@ -37,7 +37,7 @@ variant: markdown
 | English Language | Mdm Joey Cheang (HOD, CCE)<br>65083-172<br>[cheang_ching_ee@schools.gov.sg](mailto:cheang_ching_ee@schools.gov.sg) 
 | English Language |Mr Kumar (YH, Lower Primary)<br>65087-311<br>[kanapa_sathis_kumar@schools.gov.sg](mailto:kanapa_sathis_kumar@schools.gov.sg) |
 |
-| Mathematics | Ms Seirrah <br>65067-640<br>[loh_hui_xian_rachel@schools.gov.sg](mailto:loh_hui_xian_rachel@schools.gov.sg) |
+| Mathematics | Ms Seirrah Lim <br>65087-300 (Ext 653)<br>[lim_mei_fen@moe.edu.sg](mailto:lim_mei_fen@moe.edu.sg) |
 | Mathematics | Mdm Subaitha<br>65089-467<br>[subaitha_bee_sahul_hameed@moe.edu.sg](mailto:subaitha_bee_sahul_hameed@moe.edu.sg) |
 | Mathematics | Mdm Fatin<br>65067-649<br>[nur_ishmah_fatin_rahim@schools.gov.sg](mailto:nur_ishmah_fatin_rahim@schools.gov.sg) |
 | Mathematics | Mrs Tan Lirong<br>65080-669<br>[sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg) |
