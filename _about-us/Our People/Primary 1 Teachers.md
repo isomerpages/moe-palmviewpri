@@ -49,6 +49,15 @@ variant: markdown
 | Mathematics |Mrs Gracelyn Tham (AYH, Lower Primary)<br>65067-648<br>[lim_ai_zhen_gracelyn@schools.gov.sg](mailto:lim_ai_zhen_gracelyn@schools.gov.sg) |
 | Mathematics |Mdm Hailwa <br>65067-641<br>[hailwa_moree@schools.gov.sg](mailto:hailwa_moree@schools.gov.sg) |
 |
+| Social Studies | Ms Nurul Ain (ST, EL) <br>65087-328<br>[nurul_ain_mohamad_ibrahim@schools.gov.sg](mailto:nurul_ain_mohamad_ibrahim@schools.gov.sg) |
+| Social Studies | Mdm Razia<br>65087-267<br>[abdul_majeeth_razia_sulthana@schools.gov.sg](mailto:abdul_majeeth_razia_sulthana@schools.gov.sg) |
+| Social Studies | Ms Shannon Lim<br>65080-659<br>[lim_eu_li@schools.gov.sg](mailto:lim_eu_li@schools.gov.sg) |
+Social Studies | Mrs Pereira<br>65089-466<br>[daphne_saro_pereira_a@moe.edu.sg](mailto:daphne_saro_pereira_a@moe.edu.sg) |
+Social Studies | Ms Candice Khoo<br>65067-643<br>[khoo_yun_xuan_candice@schools.gov.sg](mailto:khoo_yun_xuan_candice@schools.gov.sg) |
+| Social Studies | Mr Kumar (YH, Lower Primary)<br>65087-311<br>[kanapa_sathis_kumar@schools.gov.sg](mailto:kanapa_sathis_kumar@schools.gov.sg) |
+| Social Studies |Mdm Nurulhuda<br>65087-325<br>[nurulhuda_md_salleh@schools.gov.sg](mailto:nurulhuda_md_salleh@schools.gov.sg) |
+|Social Studies | Ms Teo Ai Cheng<br>65089-453<br>teo_ai_cheng@moe.edu.sg  |
+|
 | Chinese Language | Mdm Yong Puay Pin <br>65087-273<br>[yong_puay_pin_a@moe.edu.sg](mailto:yong_puay_pin_a@moe.edu.sg) |
 | Chinese Language | Mdm Joy Tan <br>65087-265<br>[tan_boon_hui@schools.gov.sg](mailto:tan_boon_hui@schools.gov.sg) |
 | Chinese Language | Ms Li Li<br>65087-263<br>[li_li@schools.gov.sg](mailto:li_li@schools.gov.sg) |
