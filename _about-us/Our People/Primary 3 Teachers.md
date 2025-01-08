@@ -53,10 +53,10 @@ variant: markdown
 | Chinese Language | Ms Li Li <br>65087-263<br>[li_li@schools.gov.sg](mailto:li_li@schools.gov.sg) |
 | Chinese Language | Mr Warren Thin (HOD, ICT) <br>65080-652<br>[thin_dongqi@schools.gov.sg](mailto:thin_dongqi@schools.gov.sg) |
 |
-| Malay Language | Mdm Masturah (SH, ML) <br>65089-455<br>[masturah_salleh@schools.gov.sg](mailto:masturah_salleh@schools.gov.sg) |
-| Malay Language | Mdm Nabilah<br>65087-319<br>[nabilah_abdul_rahman@schools.gov.sg](mailto:nabilah_abdul_rahman@schools.gov.sg)  |
+| Malay Language | Ms Nurbayah <br>65087-300 (Ext 651)<br>[nurbayah_ismail@schools.gov.sg](mailto:nurbayah_ismail@schools.gov.sg) |
+| Malay Language | Mdm Elyani (ST, ML)<br>65087-319<br>[elyani_mohamed@schools.gov.sg](mailto:elyani_mohamed@schools.gov.sg)  |
 |
-| Tamil Language |Mdm G. Nithila Kanni (ST, CCE) <br>65089-451<br>[nithila_kanni_govindarajoo@schools.gov.sg](mailto:nithila_kanni_govindarajoo@schools.gov.sg) |
+| Tamil Language |Ms Sumitha<br>65089-451<br>[s_sumitha@schools.gov.sg](mailto:s_sumitha@schools.gov.sg) |
 |
 | Physical Education | Mrs Michelle Khoo <br>65087-278<br>[lee_jing_wen_michelle@schools.gov.sg](mailto:lee_jing_wen_michelle@schools.gov.sg) |
 Physical Education | Mr Rafiei <br>65087-275<br>[mohamad_rafiei_sakeyam@schools.gov.sg](mailto:mohamad_rafiei_sakeyam@schools.gov.sg) |
