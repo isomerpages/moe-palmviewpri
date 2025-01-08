@@ -24,8 +24,8 @@ variant: markdown
 
 | Subject | Teacher |
 |---|---|
-| Art | Mrs Chew Yi Xin<br>65080-662<br>[tan\_yixin@schools.gov.sg](mailto:tan\_yixin@schools.gov.sg) |
-| Art | Mdm Adzilah<br>65080-663<br>[noor_adzilah_tahir@schools.gov.sg](mailto:noor_adzilah_tahir@schools.gov.sg) 
+| Art | Mdm Karmila<br>65089-458<br>[nor_karmila_hamzah@schools.gov.sg](mailto:nor_karmila_hamzah@schools.gov.sg) |
+| Art | Mr Fong Yan Kin<br>65080-661<br>[fong_yan_kin@schools.gov.sg](mailto:fong_yan_kin@schools.gov.sg) 
 |
 | English Language | Ms Nurul Ain (ST, EL) <br>65087-328<br>[nurul_ain_mohamad_ibrahim@schools.gov.sg](mailto:nurul_ain_mohamad_ibrahim@schools.gov.sg) |
 | English Language | Mdm Razia<br>65087-267<br>[abdul_majeeth_razia_sulthana@schools.gov.sg](mailto:abdul_majeeth_razia_sulthana@schools.gov.sg) |
