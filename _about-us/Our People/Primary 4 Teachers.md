@@ -34,27 +34,34 @@ variant: markdown
 | English Language | Mdm Kalpana (LH, EL)<br>65067-349<br>[kalpana_manimohan@schools.gov.sg](mailto:kalpana_manimohan@schools.gov.sg) |
 | English Language | Mdm Razia<br>65087-267<br>[abdul_majeeth_razia_sulthana@schools.gov.sg](mailto:abdul_majeeth_razia_sulthana@schools.gov.sg) |
 | English Language |Mdm Hartini<br>65087-324<br>[hartini_mohamed@schools.gov.sg](mailto:hartini_mohamed@schools.gov.sg) |
-| English Language | Mdm Joey Cheang (HOD, CCE)<br>65083-172<br>[cheang_ching_ee@schools.gov.sg](mailto:cheang_ching_ee@schools.gov.sg) 
-| English Language |Mr Kumar (YH, Lower Primary)<br>65087-311<br>[kanapa_sathis_kumar@schools.gov.sg](mailto:kanapa_sathis_kumar@schools.gov.sg) |
 |
-| Mathematics | Ms Seirrah Lim <br>65087-300 (Ext 653)<br>[lim_mei_fen@moe.edu.sg](mailto:lim_mei_fen@moe.edu.sg) |
+| Mathematics | Mdm Seah Wai Fang <br>65087-300 (Ext 242)<br>[seah_wai_fang_a@moe.edu.sg](mailto:seah_wai_fang_a@moe.edu.sg) |
+| Mathematics | Mrs Yvonne Seow<br>65067-646<br>[lim_yi_min_yvonne@schools.gov.sg](mailto:lim_yi_min_yvonne@schools.gov.sg) |
+| Mathematics | Mdm Josephine Kee<br>65067-6342<br>[kee_wan_cheng@schools.gov.sg](mailto:kee_wan_cheng@schools.gov.sg) |
+| Mathematics |Mr Dallon Kang<br>65083-173<br>[kang_zhenlin_dallon@moe.edu.sg](mailto:kang_zhenlin_dallon@moe.edu.sg) |
+| Mathematics | Mdm Asyikin<br>65067-343<br>[nur_asyikin_mohd_agos@schools.gov.sg](mailto:nur_asyikin_mohd_agos@schools.gov.sg)|
+| Mathematics |Mrs Audrey Lim (HOD, Mathematics)<br>65083-170<br>[loke_ai_guat_audrey@schools.gov.sg](mailto:loke_ai_guat_audrey@schools.gov.sg) |
+| Mathematics | Mrs Kishore {Magdalene Tan}<br>65067-645<br>[tan_kai_lin_magdalene@schools.gov.sg](mailto:tan_kai_lin_magdalene@schools.gov.sg) |
 | Mathematics | Mrs Gracelyn Tham (AYH, Lower Primary)<br>65067-648<br>[lim_ai_zhen_gracelyn@schools.gov.sg](mailto:lim_ai_zhen_gracelyn@schools.gov.sg) |
-| Mathematics | Mdm Fatin<br>65067-649<br>[nur_ishmah_fatin_rahim@schools.gov.sg](mailto:nur_ishmah_fatin_rahim@schools.gov.sg) |
-| Mathematics |Mdm Ng Cheng Tze<br>65080-350<br>[ng_cheng_tze_a@moe.edu.sg](mailto:ng_cheng_tze_a@moe.edu.sg) |
-| Mathematics | Ms Vanna Ong<br>65067-642<br>[vanna_ong_limei@schools.gov.sg](mailto:vanna_ong_limei@schools.gov.sg) |
-| Mathematics |Mdm Seah Wai Fang <br>65087-300 (Ext 242)<br>[seah_wai_fang_a@moe.edu.sg](mailto:seah_wai_fang_a@moe.edu.sg) |
-| Mathematics | Mdm Hailwa<br>65067-641<br>[hailwa_moree@schools.gov.sg](mailto:hailwa_moree@schools.gov.sg) |
-| Mathematics | Mr Kitson Sim<br>65067-644<br>[sim_tai_wee_kitson@schools.gov.sg](mailto:sim_tai_wee_kitson@schools.gov.sg) |
 | Mathematics |Mdm Radiah<br>65067-341<br>[radiah_rahmat@schools.gov.sg](mailto:radiah_rahmat@schools.gov.sg) |
 |
-| Social Studies | Ms Rachel Loh <br>65067-640<br>[loh_hui_xian_rachel@schools.gov.sg](mailto:loh_hui_xian_rachel@schools.gov.sg) |
-| Social Studies | Mdm Subaitha<br>65089-467<br>[subaitha_bee_sahul_hameed@moe.edu.sg](mailto:subaitha_bee_sahul_hameed@moe.edu.sg) |
-| Social Studies | Mdm Fatin<br>65067-649<br>[nur_ishmah_fatin_rahim@schools.gov.sg](mailto:nur_ishmah_fatin_rahim@schools.gov.sg) |
-| Social Studies | Mrs Tan Lirong<br>65080-669<br>[sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg) |
-| Social Studies | Ms Vanna Ong<br>65067-642<br>[vanna_ong_limei@schools.gov.sg](mailto:vanna_ong_limei@schools.gov.sg) |
-| Social Studies | Mdm Siti Norida<br>65087-327<br>[siti_norida_hassim@moe.edu.sg](mailto:siti_norida_hassim@moe.edu.sg) |
-| Social Studies | Mdm Joey Cheang (HOD, CCE)<br>65083-172<br>[cheang_ching_ee@schools.gov.sg](mailto:cheang_ching_ee@schools.gov.sg) |
+| Science | Ms Joanne Ko {Jo Ko} <br>65089-461<br>[ko_hiang@schools.gov.sg](mailto:ko_hiang@schools.gov.sg)  |
+Science | Mrs Yvonne Seow<br>65067-646<br>[lim_yi_min_yvonne@schools.gov.sg](mailto:lim_yi_min_yvonne@schools.gov.sg)   |
+Science | Mdm Josephine Kee<br>65067-6342<br>[kee_wan_cheng@schools.gov.sg](mailto:kee_wan_cheng@schools.gov.sg)   |
+Science |Ms Priscilla Teng<br>65087-326<br>[sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg)  |
+Science | Mdm Asyikin<br>65067-343<br>[nur_asyikin_mohd_agos@schools.gov.sg](mailto:nur_asyikin_mohd_agos@schools.gov.sg)  |
+Science | Mrs Tan Lirong<br>65080-669<br>[sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg)  |
+Science | Ms Seirrah Lim<br>65087-300 (Ext 653)<br>[lim_mei_fen@moe.edu.sg](mailto:lim_mei_fen@moe.edu.sg)  |
 |
+| Social Studies | Ms Joanne Ko {Jo Ko} <br>65089-461<br>[ko_hiang@schools.gov.sg](mailto:ko_hiang@schools.gov.sg) |
+|  Social Studies | Ms Hidayah<br>65089-469<br>[nur_hidayah_mohshin@schools.gov.sg](mailto:nur_hidayah_mohshin@schools.gov.sg) |
+|  Social Studies |Mrs Sarah Tan<br>65067-348<br>[sarah_yu_xueli@moe.edu.sg](mailto:sarah_yu_xueli@moe.edu.sg) |
+|  Social Studies | Ms Priscilla Teng<br>65087-326<br>[sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg) |
+|  Social Studies | Mdm Kalpana (LH, EL)<br>65067-349<br>[kalpana_manimohan@schools.gov.sg](mailto:kalpana_manimohan@schools.gov.sg) |
+| Social Studies | Mdm Hasanah (HOD, SSD)<br>65080-660<br>[nur_hasanah_osman@schools.gov.sg](mailto:nur_hasanah_osman@schools.gov.sg) |
+| Social Studies | Mdm Hartini<br>65087-324<br>[hartini_mohamed@schools.gov.sg](mailto:hartini_mohamed@schools.gov.sg)  |
+|
+| Science | Mdm Hartini<br>65087-324<br>[hartini_mohamed@schools.gov.sg](mailto:hartini_mohamed@schools.gov.sg)  |
 | Chinese Language | Mrs Germaine Yeo <br>65087-272<br>[germaine_quek_jiamin@schools.gov.sg](mailto:germaine_quek_jiamin@schools.gov.sg) |
 | Chinese Language | Mdm Jane Mah <br>65087-267<br>[mah_zhiwei_jane@schools.gov.sg](mailto:mah_zhiwei_jane@schools.gov.sg) |
 | Chinese Language |  Mdm Teo Siow Yee (ST, SEN)<br>65087-270<br>[teo_siow_yee@schools.gov.sg](mailto:teo_siow_yee@schools.gov.sg)|
