@@ -61,22 +61,25 @@ Science | Ms Seirrah Lim<br>65087-300 (Ext 653)<br>[lim_mei_fen@moe.edu.sg](mail
 | Social Studies | Mdm Hasanah (HOD, SSD)<br>65080-660<br>[nur_hasanah_osman@schools.gov.sg](mailto:nur_hasanah_osman@schools.gov.sg) |
 | Social Studies | Mdm Hartini<br>65087-324<br>[hartini_mohamed@schools.gov.sg](mailto:hartini_mohamed@schools.gov.sg)  |
 |
-| Science | Mdm Hartini<br>65087-324<br>[hartini_mohamed@schools.gov.sg](mailto:hartini_mohamed@schools.gov.sg)  |
-| Chinese Language | Mrs Germaine Yeo <br>65087-272<br>[germaine_quek_jiamin@schools.gov.sg](mailto:germaine_quek_jiamin@schools.gov.sg) |
-| Chinese Language | Mdm Jane Mah <br>65087-267<br>[mah_zhiwei_jane@schools.gov.sg](mailto:mah_zhiwei_jane@schools.gov.sg) |
+| Chinese Language | Mrs Faye Loh (LH,MTL) <br>65087-264<br>[quah_pei_jun@schools.gov.sg](mailto:quah_pei_jun@schools.gov.sg) |
+| Chinese Language | Mr Zhou Wencong (HOD,SM)<br>65087-322<br>[zhou_wencong@schools.gov.sg](mailto:zhou_wencong@schools.gov.sg) |
 | Chinese Language |  Mdm Teo Siow Yee (ST, SEN)<br>65087-270<br>[teo_siow_yee@schools.gov.sg](mailto:teo_siow_yee@schools.gov.sg)|
-| Chinese Language | Mrs Lim Bee Li<br>65087-266<br>[tay_bee_li@schools.gov.sg](mailto:tay_bee_li@schools.gov.sg) |
+| Chinese Language | Ms Kang Chao<br>65087-269<br>[kang_chao@moe.edu.sg](mailto:kang_chao@moe.edu.sg) |
 | Chinese Language | Ms Cher Xin Joo <br>65087-260<br>[cher_xin_joo@schools.gov.sg](mailto:cher_xin_joo@schools.gov.sg) |
-| Chinese Language | Mdm Zhang Yue <br>65087-262<br>[zhang_yue_a@schools.gov.sg](mailto:zhang_yue_a@schools.gov.sg) |
+| Chinese Language | Mdm Heng Wei Shan<br>65089-450<br>[heng_wei_shan_a@schools.gov.sg](mailto:heng_wei_shan_a@schools.gov.sg) |
+| Chinese Language | Mr Teng Tse Peng (YH, Middle Primary)<br>65087-310<br>[teng_tse_peng_a@schools.gov.sg](mailto:teng_tse_peng_a@schools.gov.sg) |
 |
-| Malay Language | Mdm Masturah (SH, ML) <br>65089-455<br>[masturah_salleh@schools.gov.sg](mailto:masturah_salleh@schools.gov.sg) |
+| Malay Language | Mdm Shikin <br>65087-320<br>[noorashikin_zainuldin@schools.gov.sg](mailto:noorashikin_zainuldin@schools.gov.sg) |
 | Malay Language | Mdm Nabilah<br>65087-319<br>[nabilah_abdul_rahman@schools.gov.sg](mailto:nabilah_abdul_rahman@schools.gov.sg)  |
 |
-| Tamil Language |Mdm G. Nithila Kanni (ST, CCE) <br>65089-451<br>[nithila_kanni_govindarajoo@schools.gov.sg](mailto:nithila_kanni_govindarajoo@schools.gov.sg) |
 |
 | Physical Education | Mrs Michelle Khoo <br>65087-278<br>[lee_jing_wen_michelle@schools.gov.sg](mailto:lee_jing_wen_michelle@schools.gov.sg) |
 Physical Education | Mr Rafiei <br>65087-275<br>[mohamad_rafiei_sakeyam@schools.gov.sg](mailto:mohamad_rafiei_sakeyam@schools.gov.sg) |
 Physical Education |  Mr Hassan<br>65087-300 (Ext 286)<br>[hassan_mulyadi_mohamed_a@moe.edu.sg](mailto:hassan_mulyadi_mohamed_a@moe.edu.sg) |
+Physical Education | Mrs Valerie Seet<br>65087-279<br>[valerie_koh_sock_hwee@schools.gov.sg](mailto:valerie_koh_sock_hwee@schools.gov.sg) |
+Physical Education |  Mr Nadeem<br>65087-276<br>[mohamed_nadeem@schools.gov.sg](mailto:mohamed_nadeem@schools.gov.sg) |
+Physical Education |  Mr Qairul<br>65089-459<br>[qairul_izam_shali@schools.gov.sg](mailto:qairul_izam_shali@schools.gov.sg) |
 |
 | Music | Mrs Clara Koh (SH, Aesthetics)<br>65089-455<br>[lim_xiu_fang_clara@schools.gov.sg](mailto:lim_xiu_fang_clara@schools.gov.sg) |
 | Music |Mr Bryon Luo<br>65089-457<br>[luo_youde_bryon@schools.gov.sg](mailto:luo_youde_bryon@schools.gov.sg) |
+| Music |Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
