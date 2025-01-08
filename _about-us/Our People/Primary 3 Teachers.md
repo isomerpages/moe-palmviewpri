@@ -46,12 +46,12 @@ variant: markdown
 | Social Studies |Mdm Shannon Hoon<br>65067-647<br>[hoon_shih_huihong_shihui@schools.gov.sg](mailto:hoon_shih_huihong_shihui@schools.gov.sg) |
 | Social Studies |Mr Mohamed Isa <br>65067-346<br>[mohamed_isa_b_osman@schools.gov.sg](mailto:mohamed_isa_b_osman@schools.gov.sg) |
 |
-| Chinese Language | Mrs Germaine Yeo <br>65087-272<br>[germaine_quek_jiamin@schools.gov.sg](mailto:germaine_quek_jiamin@schools.gov.sg) |
-| Chinese Language | Mdm Jane Mah <br>65087-267<br>[mah_zhiwei_jane@schools.gov.sg](mailto:mah_zhiwei_jane@schools.gov.sg) |
-| Chinese Language |  Mdm Teo Siow Yee (ST, SEN)<br>65087-270<br>[teo_siow_yee@schools.gov.sg](mailto:teo_siow_yee@schools.gov.sg)|
-| Chinese Language | Mrs Lim Bee Li<br>65087-266<br>[tay_bee_li@schools.gov.sg](mailto:tay_bee_li@schools.gov.sg) |
-| Chinese Language | Ms Cher Xin Joo <br>65087-260<br>[cher_xin_joo@schools.gov.sg](mailto:cher_xin_joo@schools.gov.sg) |
-| Chinese Language | Mdm Zhang Yue <br>65087-262<br>[zhang_yue_a@schools.gov.sg](mailto:zhang_yue_a@schools.gov.sg) |
+| Chinese Language | Mdm Yong Puay Pin<br>65087-273<br>[yong_puay_pin_a@moe.edu.sg](mailto:yong_puay_pin_a@moe.edu.sg) |
+| Chinese Language |Mdm Koh Siew Bee <br>65087-261<br>[koh_siew_bee@schools.gov.sg](mailto:koh_siew_bee@schools.gov.sg) |
+| Chinese Language |Mdm Joy Tan<br>65087-265<br>[tan_boon_hui@schools.gov.sg](mailto:tan_boon_hui@schools.gov.sg)|
+| Chinese Language | Mdm Tan Hui Yang<br>65083-171<br>[tan_hui_yang@schools.gov.sg](mailto:tan_hui_yang@schools.gov.sg) |
+| Chinese Language | Ms Li Li <br>65087-263<br>[li_li@schools.gov.sg](mailto:li_li@schools.gov.sg) |
+| Chinese Language | Mr Warren Thin (HOD, ICT) <br>65080-652<br>[thin_dongqi@schools.gov.sg](mailto:thin_dongqi@schools.gov.sg) |
 |
 | Malay Language | Mdm Masturah (SH, ML) <br>65089-455<br>[masturah_salleh@schools.gov.sg](mailto:masturah_salleh@schools.gov.sg) |
 | Malay Language | Mdm Nabilah<br>65087-319<br>[nabilah_abdul_rahman@schools.gov.sg](mailto:nabilah_abdul_rahman@schools.gov.sg)  |
