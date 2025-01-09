@@ -54,7 +54,7 @@ variant: markdown
 | Chinese Language | Mr Warren Thin (HOD, ICT) <br>65080-652<br>[thin_dongqi@schools.gov.sg](mailto:thin_dongqi@schools.gov.sg) |
 |
 | Malay Language | Ms Nurbayah <br>65087-300 (Ext 651)<br>[nurbayah_ismail@schools.gov.sg](mailto:nurbayah_ismail@schools.gov.sg) |
-| Malay Language | Mdm Elyani (ST, ML)<br>65087-319<br>[elyani_mohamed@schools.gov.sg](mailto:elyani_mohamed@schools.gov.sg)  |
+| Malay Language | Mdm Elyani (ST, ML)<br>65080-654<br>[elyani_mohamed@schools.gov.sg](mailto:elyani_mohamed@schools.gov.sg)  |
 |
 | Tamil Language |Ms Sumitha<br>65089-451<br>[s_sumitha@schools.gov.sg](mailto:s_sumitha@schools.gov.sg) |
 |
