@@ -66,6 +66,7 @@ Science |Mdm Teo Soke Wai<br>65083-179<br>[teo_soke_wai@moe.edu.sg](mailto:teo_s
 | Chinese Language | Mdm Lim Hwee Yeng<br>65087-268<br>[lim_hwee_yeng@schools.gov.sg](mailto:lim_hwee_yeng@schools.gov.sg) |
 | Chinese Language | Ms Lee Loo Yee<br>65087-271<br>[lee_loo_yee@schools.gov.sg](mailto:lee_loo_yee@schools.gov.sg) |
 | Chinese Language | Mr Warren Thin (HOD, ICT)<br>65080-652<br>[thin_dongqi@schools.gov.sg](mailto:thin_dongqi@schools.gov.sg) |
+| Chinese Language | Mrs Lim Bee Li<br>65087-266<br>[tay_bee_li@schools.gov.sg](mailto:tay_bee_li@schools.gov.sg) |
 |
 | Malay Language | Mdm Shikin <br>65087-320<br>[noorashikin_zainuldin@schools.gov.sg](mailto:noorashikin_zainuldin@schools.gov.sg) |
 | Malay Language | Mdm Nabilah<br>65087-319<br>[nabilah_abdul_rahman@schools.gov.sg](mailto:nabilah_abdul_rahman@schools.gov.sg)  |
