@@ -78,5 +78,3 @@ Physical Education |  Mr Qairul<br>65089-459<br>[qairul_izam_shali@schools.gov.s
 |
 | Music | Mrs Clara Koh (SH, Aesthetics)<br>65089-455<br>[lim_xiu_fang_clara@schools.gov.sg](mailto:lim_xiu_fang_clara@schools.gov.sg) |
 | Music |Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
-
-Will be updated soon....
