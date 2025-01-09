@@ -73,7 +73,7 @@ Science | Ms Seirrah Lim<br>65087-300 (Ext 653)<br>[lim_mei_fen@moe.edu.sg](mail
 | Malay Language | Mdm Nabilah<br>65087-319<br>[nabilah_abdul_rahman@schools.gov.sg](mailto:nabilah_abdul_rahman@schools.gov.sg)  |
 |
 |
-| Physical Education | Mrs Michelle Khoo <br>65087-278<br>[lee_jing_wen_michelle@schools.gov.sg](mailto:lee_jing_wen_michelle@schools.gov.sg) |
+| Physical Education | Mrs Michelle Khoo (SH, PE &amp; CCA) <br>65087-278<br>[lee_jing_wen_michelle@schools.gov.sg](mailto:lee_jing_wen_michelle@schools.gov.sg) |
 Physical Education | Mr Rafiei <br>65087-275<br>[mohamad_rafiei_sakeyam@schools.gov.sg](mailto:mohamad_rafiei_sakeyam@schools.gov.sg) |
 Physical Education |  Mr Hassan<br>65087-300 (Ext 286)<br>[hassan_mulyadi_mohamed_a@moe.edu.sg](mailto:hassan_mulyadi_mohamed_a@moe.edu.sg) |
 Physical Education | Mrs Valerie Seet<br>65087-279<br>[valerie_koh_sock_hwee@schools.gov.sg](mailto:valerie_koh_sock_hwee@schools.gov.sg) |
