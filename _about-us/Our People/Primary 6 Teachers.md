@@ -26,23 +26,22 @@ variant: markdown
 | Art | Mdm Karmila<br>65089-458<br>[nor_karmila_hamzah@schools.gov.sg](mailto:nor_karmila_hamzah@schools.gov.sg) |
 | Art |Mr Fong Yan Kin<br>65080-661<br>[fong_yan_kin@schools.gov.sg](mailto:fong_yan_kin@schools.gov.sg) 
 |
-| English Language | Mdm Hartini <br>65087-324<br>[hartini_mohamed@schools.gov.sg](mailto:hartini_mohamed@schools.gov.sg) |
-| English Language | Mr Kelvin Chia (LT, Science)<br>65080-665<br>[chia_peng_lin_kelvin@schools.gov.sg](mailto:chia_peng_lin_kelvin@schools.gov.sg)  |
-| English Language |Ms Rachel Loh<br>65067-640<br>[loh_hui_xian_rachel@schools.gov.sg](mailto:loh_hui_xian_rachel@schools.gov.sg) |
-| English Language | Mrs Michelle Wee<br>65080-667<br>[michelle_tyoh_whei_theng@schools.gov.sg](mailto:michelle_tyoh_whei_theng@schools.gov.sg) |
-| English Language | Mdm Leong Fong Fong (ST, Mathematics)<br>65080-655<br>[leong_fong_fong@schools.gov.sg](mailto:leong_fong_fong@schools.gov.sg) |
-| English Language | Mr Mohamed Isa<br>65067-346<br>[mohamed_isa_b_osman@schools.gov.sg](mailto:mohamed_isa_b_osman@schools.gov.sg) |
-| English Language |Ms Nurul Ain (ST, EL)<br>65087-328<br>[nurul_ain_mohamad_ibrahim@schools.gov.sg](mailto:nurul_ain_mohamad_ibrahim@schools.gov.sg) |
-| English Language |Mdm Siti Norida<br>65087-327<br>[siti_norida_hassim@moe.edu.sg](mailto:siti_norida_hassim@moe.edu.sg) |
+| English Language |Mdm Kalpana (LH, EL) <br>65067-349<br>[kalpana_manimohan@schools.gov.sg](mailto:kalpana_manimohan@schools.gov.sg) |
+| English Language | Mdm Hasanah (HOD, SSD)<br>65080-660<br>[nur_hasanah_osman@schools.gov.sg](mailto:nur_hasanah_osman@schools.gov.sg)  |
+| English Language |Mrs Sarah Tan <br>65067-348<br>[sarah_yu_xueli@moe.edu.sg](mailto:sarah_yu_xueli@moe.edu.sg)|
+| English Language |Mr Senthil {Zack} (SH, Student Well-Being)<br>65080-664<br>[subramaniyan_senthil@schools.gov.sg](mailto:subramaniyan_senthil@schools.gov.sg)|
+| English Language |  Mrs Serene Yue<br>65067-345<br>[wong_may_san_serene@schools.gov.sg](mailto:wong_may_san_serene@schools.gov.sg) |
+| English Language | Ms Priscilla Teng<br>65087-326<br>[teng_yu_hui_priscilla@schools.gov.sg](mailto:teng_yu_hui_priscilla@schools.gov.sg) |
+| English Language |Mdm Subaitha<br>65089-467<br>[subaitha_bee_sahul_hameed@moe.edu.sg](mailto:subaitha_bee_sahul_hameed@moe.edu.sg) |
 |
-| Mathematics | Mr Sargunan {Guna} <br>65080-668<br>[sargunan_ilangovan@schools.gov.sg](mailto:sargunan_ilangovan@schools.gov.sg) |
+| Mathematics |Mrs Yvonne Seow <br>65067-646<br>[lim_yi_min_yvonne@schools.gov.sg](mailto:lim_yi_min_yvonne@schools.gov.sg) |
 | Mathematics | Mr Shaun Png<br>65080-666<br>[png_jia_shun@moe.edu.sg](mailto:png_jia_shun@moe.edu.sg) |
 | Mathematics | Mrs Jodie Siow<br>65087-316<br>[yeo_mui_hong@schools.gov.sg](mailto:yeo_mui_hong@schools.gov.sg) |
-| Mathematics |Mdm Teo Soke Wai<br>65083-179<br>[teo_soke_wai@moe.edu.sg](mailto:teo_soke_wai@moe.edu.sg) |
-| Mathematics | Mdm Leong Fong Fong (ST, Mathematics)<br>65080-655<br>[leong_fong_fong@schools.gov.sg](mailto:leong_fong_fong@schools.gov.sg)|
-| Mathematics |Mrs Audrey Lim (HOD, Mathematics)<br>65083-170<br>[loke_ai_guat_audrey@schools.gov.sg](mailto:loke_ai_guat_audrey@schools.gov.sg) |
+| Mathematics |Ms Nicole Chee<br>65067-340<br>[chee_shu_rong_nicole@schools.gov.sg](mailto:chee_shu_rong_nicole@schools.gov.sg) |
+| Mathematics |Mdm Josephine Kee<br>65067-342<br>[kee_wan_cheng@schools.gov.sg](mailto:kee_wan_cheng@schools.gov.sg)|
+| Mathematics |Mdm Asyikin<br>65067-343<br>[nur_asyikin_mohd_agos@schools.gov.sg](mailto:nur_asyikin_mohd_agos@schools.gov.sg) |
 | Mathematics | Mdm Esther Tay<br>65087-330<br>[tay_wei_jing@schools.gov.sg](mailto:tay_wei_jing@schools.gov.sg) |
-| Mathematics |Mdm Radiah<br>65067-341<br>[radiah_rahmat@schools.gov.sg](mailto:radiah_rahmat@schools.gov.sg) |
+| Mathematics |Mrs Priscillia Chen (AYH, Upper Primary)<br>65087-274<br>[tan_yi_siu_priscillia@schools.gov.sg](mailto:tan_yi_siu_priscillia@schools.gov.sg)  |
 |
 | Science |Mrs Priscillia Chen (AYH, Upper Primary) <br>65087-274<br>[tan_yi_siu_priscillia@schools.gov.sg](mailto:tan_yi_siu_priscillia@schools.gov.sg)  |
 Science | Mr Kelvin Chia (LT, Science)<br>65080-665<br>[chia_peng_lin_kelvin@schools.gov.sg](mailto:chia_peng_lin_kelvin@schools.gov.sg)   |
