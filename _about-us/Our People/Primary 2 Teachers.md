@@ -67,7 +67,7 @@ variant: markdown
 |
 | Tamil Language |Mdm G. Nithila Kanni (ST, CCE) <br>65089-451<br>[nithila_kanni_govindarajoo@schools.gov.sg](mailto:nithila_kanni_govindarajoo@schools.gov.sg) |
 |
-| Physical Education | Mrs Michelle Khoo <br>65087-278<br>[lee_jing_wen_michelle@schools.gov.sg](mailto:lee_jing_wen_michelle@schools.gov.sg) |
+| Physical Education | Mrs Michelle Khoo (SH, PE &amp; CCA) <br>65087-278<br>[lee_jing_wen_michelle@schools.gov.sg](mailto:lee_jing_wen_michelle@schools.gov.sg) |
 Physical Education | Mr Rafiei <br>65087-275<br>[mohamad_rafiei_sakeyam@schools.gov.sg](mailto:mohamad_rafiei_sakeyam@schools.gov.sg) |
 Physical Education |  Mr Hassan<br>65087-300 (Ext 286)<br>[hassan_mulyadi_mohamed_a@moe.edu.sg](mailto:hassan_mulyadi_mohamed_a@moe.edu.sg) |
 |
