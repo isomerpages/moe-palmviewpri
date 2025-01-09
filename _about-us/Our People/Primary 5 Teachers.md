@@ -29,12 +29,13 @@ variant: markdown
 | English Language | Mdm Hartini <br>65087-324<br>[hartini_mohamed@schools.gov.sg](mailto:hartini_mohamed@schools.gov.sg) |
 | English Language | Mr Kelvin Chia (LT, Science)<br>65080-665<br>[chia_peng_lin_kelvin@schools.gov.sg](mailto:chia_peng_lin_kelvin@schools.gov.sg)  |
 | English Language |Ms Rachel Loh<br>65067-640<br>[loh_hui_xian_rachel@schools.gov.sg](mailto:loh_hui_xian_rachel@schools.gov.sg) |
-| English Language | Ms Priscilla Teng<br>65087-326<br>[sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg) |
-| English Language | Mdm Kalpana (LH, EL)<br>65067-349<br>[kalpana_manimohan@schools.gov.sg](mailto:kalpana_manimohan@schools.gov.sg) |
-| English Language | Mdm Razia<br>65087-267<br>[abdul_majeeth_razia_sulthana@schools.gov.sg](mailto:abdul_majeeth_razia_sulthana@schools.gov.sg) |
-| English Language |Mdm Hartini<br>65087-324<br>[hartini_mohamed@schools.gov.sg](mailto:hartini_mohamed@schools.gov.sg) |
+| English Language | Mrs Michelle Wee<br>65080-667<br>[michelle_tyoh_whei_theng@schools.gov.sg](mailto:michelle_tyoh_whei_theng@schools.gov.sg) |
+| English Language | Mdm Leong Fong Fong (ST, Mathematics)<br>65080-655<br>[leong_fong_fong@schools.gov.sg](mailto:leong_fong_fong@schools.gov.sg) |
+| English Language | Mr Mohamed Isa<br>65067-346<br>[mohamed_isa_b_osman@schools.gov.sg](mailto:mohamed_isa_b_osman@schools.gov.sg) |
+| English Language |Ms Nurul Ain (ST, EL)<br>65087-328<br>[nurul_ain_mohamad_ibrahim@schools.gov.sg](mailto:nurul_ain_mohamad_ibrahim@schools.gov.sg) |
+| English Language |Mdm Siti Norida<br>65087-327<br>[siti_norida_hassim@moe.edu.sg](mailto:siti_norida_hassim@moe.edu.sg) |
 |
-| Mathematics | Mdm Seah Wai Fang <br>65087-300 (Ext 242)<br>[seah_wai_fang_a@moe.edu.sg](mailto:seah_wai_fang_a@moe.edu.sg) |
+| Mathematics | Mr Sargunan {Guna} <br>65080-668<br>[sargunan_ilangovan@schools.gov.sg](mailto:sargunan_ilangovan@schools.gov.sg) |
 | Mathematics | Mrs Yvonne Seow<br>65067-646<br>[lim_yi_min_yvonne@schools.gov.sg](mailto:lim_yi_min_yvonne@schools.gov.sg) |
 | Mathematics | Mdm Josephine Kee<br>65067-342<br>[kee_wan_cheng@schools.gov.sg](mailto:kee_wan_cheng@schools.gov.sg) |
 | Mathematics |Mr Dallon Kang<br>65083-173<br>[kang_zhenlin_dallon@moe.edu.sg](mailto:kang_zhenlin_dallon@moe.edu.sg) |
