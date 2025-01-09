@@ -36,13 +36,12 @@ variant: markdown
 | English Language |Mdm Siti Norida<br>65087-327<br>[siti_norida_hassim@moe.edu.sg](mailto:siti_norida_hassim@moe.edu.sg) |
 |
 | Mathematics | Mr Sargunan {Guna} <br>65080-668<br>[sargunan_ilangovan@schools.gov.sg](mailto:sargunan_ilangovan@schools.gov.sg) |
-| Mathematics | Mrs Yvonne Seow<br>65067-646<br>[lim_yi_min_yvonne@schools.gov.sg](mailto:lim_yi_min_yvonne@schools.gov.sg) |
-| Mathematics | Mdm Josephine Kee<br>65067-342<br>[kee_wan_cheng@schools.gov.sg](mailto:kee_wan_cheng@schools.gov.sg) |
-| Mathematics |Mr Dallon Kang<br>65083-173<br>[kang_zhenlin_dallon@moe.edu.sg](mailto:kang_zhenlin_dallon@moe.edu.sg) |
-| Mathematics | Mdm Asyikin<br>65067-343<br>[nur_asyikin_mohd_agos@schools.gov.sg](mailto:nur_asyikin_mohd_agos@schools.gov.sg)|
+| Mathematics | Mr Shaun Png<br>65080-666<br>[png_jia_shun@moe.edu.sg](mailto:png_jia_shun@moe.edu.sg) |
+| Mathematics | Mrs Jodie Siow<br>65087-316<br>[yeo_mui_hong@schools.gov.sg](mailto:yeo_mui_hong@schools.gov.sg) |
+| Mathematics |Mdm Teo Soke Wai<br>65083-179<br>[teo_soke_wai@moe.edu.sg](mailto:teo_soke_wai@moe.edu.sg) |
+| Mathematics | Mdm Leong Fong Fong (ST, Mathematics)<br>65080-655<br>[leong_fong_fong@schools.gov.sg](mailto:leong_fong_fong@schools.gov.sg)|
 | Mathematics |Mrs Audrey Lim (HOD, Mathematics)<br>65083-170<br>[loke_ai_guat_audrey@schools.gov.sg](mailto:loke_ai_guat_audrey@schools.gov.sg) |
-| Mathematics | Mrs Kishore {Magdalene Tan}<br>65067-645<br>[tan_kai_lin_magdalene@schools.gov.sg](mailto:tan_kai_lin_magdalene@schools.gov.sg) |
-| Mathematics | Mrs Gracelyn Tham (AYH, Lower Primary)<br>65067-648<br>[lim_ai_zhen_gracelyn@schools.gov.sg](mailto:lim_ai_zhen_gracelyn@schools.gov.sg) |
+| Mathematics | Mdm Esther Tay<br>65087-330<br>[tay_wei_jing@schools.gov.sg](mailto:tay_wei_jing@schools.gov.sg) |
 | Mathematics |Mdm Radiah<br>65067-341<br>[radiah_rahmat@schools.gov.sg](mailto:radiah_rahmat@schools.gov.sg) |
 |
 | Science | Ms Joanne Ko {Jo Ko} <br>65089-461<br>[ko_hiang@schools.gov.sg](mailto:ko_hiang@schools.gov.sg)  |
