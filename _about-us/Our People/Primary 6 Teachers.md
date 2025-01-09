@@ -57,16 +57,17 @@ Science | Mr Senthil {Zack} (SH, Student Well-Being)<br>65080-664<br>[subramaniy
 |  Social Studies | Mrs Priscillia Chen (AYH, Upper Primary) <br>65087-274<br>[tan_yi_siu_priscillia@schools.gov.sg](mailto:tan_yi_siu_priscillia@schools.gov.sg) |
 | Social Studies | Mrs Pereira<br>65089-466<br>[daphne_saro_pereira_a@moe.edu.sg](mailto:daphne_saro_pereira_a@moe.edu.sg) |
 |
-| Chinese Language | Mr Teng Tse Peng (YH, Middle Primary) <br>65087-310<br>[teng_tse_peng_a@schools.gov.sg](mailto:teng_tse_peng_a@schools.gov.sg) |
-| Chinese Language | Mr Zhou Wencong (HOD,SM)<br>65087-322<br>[zhou_wencong@schools.gov.sg](mailto:zhou_wencong@schools.gov.sg) |
-| Chinese Language | Mdm Tan Hui Yang<br>65083-171<br>[tan_hui_yang@schools.gov.sg](mailto:tan_hui_yang@schools.gov.sg)|
-| Chinese Language | Mdm Lim Hwee Yeng<br>65087-268<br>[lim_hwee_yeng@schools.gov.sg](mailto:lim_hwee_yeng@schools.gov.sg) |
-| Chinese Language | Ms Lee Loo Yee<br>65087-271<br>[lee_loo_yee@schools.gov.sg](mailto:lee_loo_yee@schools.gov.sg) |
-| Chinese Language | Mr Warren Thin (HOD, ICT)<br>65080-652<br>[thin_dongqi@schools.gov.sg](mailto:thin_dongqi@schools.gov.sg) |
-| Chinese Language | Mrs Lim Bee Li<br>65087-266<br>[tay_bee_li@schools.gov.sg](mailto:tay_bee_li@schools.gov.sg) |
+| Chinese Language | Mdm Zhang Yue<br>65087-262<br>[zhang_yue_a@schools.gov.sg](mailto:zhang_yue_a@schools.gov.sg) |
+| Chinese Language | Ms Kang Chao<br>65087-269<br>[kang_chao@schools.gov.sg](mailto:kang_chao@schools.gov.sg) |
+| Chinese Language | Mdm Jane Mah<br>65087-267<br>[mah_zhiwei_jane@schools.gov.sg](mailto:mah_zhiwei_jane@schools.gov.sg)|
+| Chinese Language | Mr Guah Boon Heng<br>65087-314<br>[guah_boon_heng@schools.gov.sg](mailto:guah_boon_heng@schools.gov.sg) |
+| Chinese Language | Mdm Heng Wei Shan<br>65089-450<br>[heng_wei_shan_a@schools.gov.sg](mailto:heng_wei_shan_a@schools.gov.sg) |
+| Chinese Language | Mrs Germaine Yeo<br>65087-272<br>[germaine_quek_jiamin@schools.gov.sg](mailto:germaine_quek_jiamin@schools.gov.sg) |
+| Chinese Language | Mrs Faye Loh (LH,MTL)<br>65087-264<br>[quah_pei_jun@schools.gov.sg](mailto:quah_pei_jun@schools.gov.sg) |
 |
-| Malay Language | Ms Nurbayah <br>65087-300 (Ext 651)<br>[nurbayah_ismail@schools.gov.sg](mailto:nurbayah_ismail@schools.gov.sg) |
-| Malay Language |Mdm Elyani (ST, ML)<br>65080-654<br>[elyani_mohamed@schools.gov.sg](mailto:elyani_mohamed@schools.gov.sg)  |
+| Malay Language | Mdm Shikin <br>65087-320<br>[noorashikin_zainuldin@schools.gov.sg](mailto:noorashikin_zainuldin@schools.gov.sg) |
+| Malay Language |Mdm Masturah (SH, ML)<br>65089-455<br>[masturah_salleh@schools.gov.sg](mailto:masturah_salleh@schools.gov.sg)  |
+| Malay Language |Mdm Suhana<br>65087-323<br>[norsuhana_sahmat@schools.gov.sg](mailto:norsuhana_sahmat@schools.gov.sg)  |
 |
 |
 | Physical Education | Mr Hisham (HOD, PE &amp; CCA) <br>65087-309<br>[hisham_b_spono@schools.gov.sg](mailto:hisham_b_spono@schools.gov.sg) |
