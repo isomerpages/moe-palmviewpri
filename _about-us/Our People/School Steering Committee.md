@@ -55,5 +55,5 @@ Asst Year Head,<br>Upper Primary |Mrs Priscillia Chen |  65087-274<br>[tan\_yi\_
 | Senior Teacher, SEN | Mdm Teo Siow Yee | 65087-270<br>[teo_siow_yee@schools.gov.sg](mailto:teo_siow_yee@schools.gov.sg) |
 | Senior Teacher, Music | Ms Rebecca Lau | 65089-456<br>[rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
 | Senior Teacher, Music | Mdm Leong Fong Fong | 65080-655<br>[leong_fong_fong@schools.gov.sg](mailto:leong_fong_fong@schools.gov.sg) |
-| Senior Teacher, CCE | Mdm G. Nithila Kanni | 65080-655<br>[leong_fong_fong@schools.gov.sg](mailto:leong_fong_fong@schools.gov.sg) |
+| Senior Teacher, CCE | Mdm G. Nithila Kanni | 65080-655<br>[nithila_kanni_govindarajoo@schools.gov.sg](mailto:nithila_kanni_govindarajoo@schools.gov.sg) |
 | Senior Teacher,&nbsp;Learning Needs (Lower Primary Learners) |&nbsp;Mrs Sharon Seow | 65067-644<br>[chew_sharon@schools.gov.sg](mailto:chew_sharon@schools.gov.sg) |
