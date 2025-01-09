@@ -62,7 +62,7 @@ Social Studies | Ms Candice Khoo<br>65067-643<br>[khoo_yun_xuan_candice@schools.
 | Chinese Language | Mdm Joy Tan <br>65087-265<br>[tan_boon_hui@schools.gov.sg](mailto:tan_boon_hui@schools.gov.sg) |
 | Chinese Language | Ms Li Li<br>65087-263<br>[li_li@schools.gov.sg](mailto:li_li@schools.gov.sg) |
 | Chinese Language | Mdm Lim Hwee Yeng <br>65087-268<br>[lim_hwee_yeng@schools.gov.sg](mailto:lim_hwee_yeng@schools.gov.sg) |
-| Chinese Language | Mr Guah <br>65087-314<br>[guah_boon_heng@schools.gov.sg](mailto:guah_boon_heng@schools.gov.sg) |
+| Chinese Language | Mr Guah Boon Heng <br>65087-314<br>[guah_boon_heng@schools.gov.sg](mailto:guah_boon_heng@schools.gov.sg) |
 | Chinese Language | Ms Lee Loo Yee <br>65087-271<br>[lee_loo_yee@schools.gov.sg](mailto:lee_loo_yee@schools.gov.sg) |
 | Chinese Language | Mdm Koh Siew Bee <br>65087-261<br>[koh_siew_bee@schools.gov.sg](mailto:koh_siew_bee@schools.gov.sg) |
 |
