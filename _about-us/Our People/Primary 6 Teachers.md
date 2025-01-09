@@ -51,11 +51,11 @@ Science | Mrs Michelle Wee<br>65080-667<br>[michelle_tyoh_whei_theng@schools.gov
 Science | Mr Senthil {Zack} (SH, Student Well-Being)<br>65080-664<br>[subramaniyan_senthil@schools.gov.sg](mailto:subramaniyan_senthil@schools.gov.sg)  |
 |
 | Social Studies | Mdm Hasanah (HOD, SSD)<br>65080-660<br>[nur_hasanah_osman@schools.gov.sg](mailto:nur_hasanah_osman@schools.gov.sg) |
-|  Social Studies | Ms Shannon Lim<br>65080-659<br>[lim_eu_li@schools.gov.sg](mailto:lim_eu_li@schools.gov.sg) |
-|  Social Studies |Ms Candice Khoo<br>65067-348<br>[khoo_yun_xuan_candice@schools.gov.sg](mailto:khoo_yun_xuan_candice@schools.gov.sg) |
-|  Social Studies | Mrs Michelle Wee<br>65080-667<br>[michelle_tyoh_whei_theng@schools.gov.sg](mailto:michelle_tyoh_whei_theng@schools.gov.sg) |
-|  Social Studies | Mdm Leong Fong Fong (ST, Mathematics)<br>65080-655<br>[leong_fong_fong@schools.gov.sg](mailto:leong_fong_fong@schools.gov.sg) |
-| Social Studies | Mr Mohamed Isa<br>65067-346<br>[mohamed_isa_b_osman@schools.gov.sg](mailto:mohamed_isa_b_osman@schools.gov.sg) |
+|  Social Studies | Mdm Fatin<br>65067-649<br>[nur_ishmah_fatin_rahim@schools.gov.sg](mailto:nur_ishmah_fatin_rahim@schools.gov.sg) |
+|  Social Studies |Mrs Sarah Tan <br>65067-348<br>[sarah_yu_xueli@moe.edu.sg](mailto:sarah_yu_xueli@moe.edu.sg) |
+|  Social Studies |Mr Gerald Wong (HOD, Science)<br>65087-313<br>[gerald_wong_yew_meng@schools.gov.sg](mailto:gerald_wong_yew_meng@schools.gov.sg)  |
+|  Social Studies | Mrs Priscillia Chen (AYH, Upper Primary) <br>65087-274<br>[tan_yi_siu_priscillia@schools.gov.sg](mailto:tan_yi_siu_priscillia@schools.gov.sg) |
+| Social Studies | Mrs Pereira<br>65089-466<br>[daphne_saro_pereira_a@moe.edu.sg](mailto:daphne_saro_pereira_a@moe.edu.sg) |
 |
 | Chinese Language | Mr Teng Tse Peng (YH, Middle Primary) <br>65087-310<br>[teng_tse_peng_a@schools.gov.sg](mailto:teng_tse_peng_a@schools.gov.sg) |
 | Chinese Language | Mr Zhou Wencong (HOD,SM)<br>65087-322<br>[zhou_wencong@schools.gov.sg](mailto:zhou_wencong@schools.gov.sg) |
