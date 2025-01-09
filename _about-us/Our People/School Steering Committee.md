@@ -26,8 +26,8 @@ variant: markdown
 | Head of Department,<br>Physical Education &amp; CCA | Mr Hisham | 65087-309<br>[hisham_b_spono@schools.gov.sg](mailto:hisham_b_spono@schools.gov.sg) |
 |  Head of Department, <br>Student Management |  Mr Zhou Wencong |  65087-322<br>[zhou_wencong@schools.gov.sg](mailto:zhou_wencong@schools.gov.sg) |
 Head of Department, <br>ICT |  Mr Warren Thin |  65080-652<br>[thin_dongqi@schools.gov.sg](mailto:thin_dongqi@schools.gov.sg) |
-| School Staff Developer <br> |  Mdm Hasanah |  &nbsp;65080-660<br>[nur_hasanah_osman@schools.gov.sg](mailto:nur_hasanah_osman@schools.gov.sg) |
 | Head of Department, <br>CCE |  Mdm Joey Cheang |  &nbsp;65083-172<br>[cheang_ching_ee@schools.gov.sg](mailto:cheang_ching_ee@schools.gov.sg) |
+| School Staff Developer <br> |  Mdm Hasanah |  &nbsp;65080-660<br>[nur_hasanah_osman@schools.gov.sg](mailto:nur_hasanah_osman@schools.gov.sg) |
 |
 | - | - | - |
 | 
