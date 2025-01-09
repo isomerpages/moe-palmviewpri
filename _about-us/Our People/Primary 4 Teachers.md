@@ -13,11 +13,11 @@ variant: markdown
 |---|---|---|
 | 4 Aristotle | Ms Joanne Ko {Jo Ko} <br>65089-461<br>[ko_hiang@schools.gov.sg](mailto:ko_hiang@schools.gov.sg) | Mr Nadeem<br>65087-276<br>[mohamed_nadeem@schools.gov.sg](mailto:mohamed_nadeem@schools.gov.sg) |
 | 4 Beethoven | Mrs Yvonne Seow<br>65067-646<br>[lim_yi_min_yvonne@schools.gov.sg](mailto:lim_yi_min_yvonne@schools.gov.sg) | Mdm Heng Wei Shan<br>65089-450<br>[heng_wei_shan_a@schools.gov.sg](mailto:heng_wei_shan_a@schools.gov.sg) |
-| 4 Curie |Mdm Josephine Kee<br>65067-6342<br>[kee_wan_cheng@schools.gov.sg](mailto:kee_wan_cheng@schools.gov.sg) | Mr Teng Tse Peng (YH, Middle Primary)<br>65087-310<br>[teng_tse_peng_a@schools.gov.sg](mailto:teng_tse_peng_a@schools.gov.sg) |
+| 4 Curie |Mdm Josephine Kee<br>65067-342<br>[kee_wan_cheng@schools.gov.sg](mailto:kee_wan_cheng@schools.gov.sg) | Mr Teng Tse Peng (YH, Middle Primary)<br>65087-310<br>[teng_tse_peng_a@schools.gov.sg](mailto:teng_tse_peng_a@schools.gov.sg) |
 | 4 Da Vinci | Ms Priscilla Teng<br>65087-326<br>[teng_yu_hui_priscilla@schools.gov.sg](mailto:teng_yu_hui_priscilla@schools.gov.sg) | Mdm Nabilah<br>65087-319<br>[nabilah_abdul_rahman@schools.gov.sg](mailto:nabilah_abdul_rahman@schools.gov.sg) |
 | 4 Edison | Mdm Asyikin<br>65067-343<br>[nur_asyikin_mohd_agos@schools.gov.sg](mailto:nur_asyikin_mohd_agos@schools.gov.sg) | Ms Cher Xin Joo<br>65087-260<br>[cher_xin_joo@schools.gov.sg](mailto:cher_xin_joo@schools.gov.sg) |
 | 4 Frank |Mr Bryon Luo<br>65089-457<br>[luo_youde_bryon@schools.gov.sg](mailto:luo_youde_bryon@schools.gov.sg) | Mrs Audrey Lim (HOD, Mathematics)<br>65083-170<br>[loke_ai_guat_audrey@schools.gov.sg](mailto:loke_ai_guat_audrey@schools.gov.sg) |
-| 4 Galileo | Mrs Kishore {Magdalene Tan}<br>65067-645<br>[tan_kai_lin_magdalene@schools.gov.sg](mailto:tan_kai_lin_magdalene@schools.gov.sg)|Ms Kang Chao<br>65087-269<br>[kang_chao@moe.edu.sg](mailto:kang_chao@moe.edu.sg) |
+| 4 Galileo | Mrs Kishore {Magdalene Tan}<br>65067-645<br>[tan_kai_lin_magdalene@schools.gov.sg](mailto:tan_kai_lin_magdalene@schools.gov.sg)|Ms Kang Chao<br>65087-269<br>[kang_chao@schools.gov.sg](mailto:kang_chao@schools.gov.sg) |
 
 
 ### Subject Teachers
@@ -37,7 +37,7 @@ variant: markdown
 |
 | Mathematics | Mdm Seah Wai Fang <br>65087-300 (Ext 242)<br>[seah_wai_fang_a@moe.edu.sg](mailto:seah_wai_fang_a@moe.edu.sg) |
 | Mathematics | Mrs Yvonne Seow<br>65067-646<br>[lim_yi_min_yvonne@schools.gov.sg](mailto:lim_yi_min_yvonne@schools.gov.sg) |
-| Mathematics | Mdm Josephine Kee<br>65067-6342<br>[kee_wan_cheng@schools.gov.sg](mailto:kee_wan_cheng@schools.gov.sg) |
+| Mathematics | Mdm Josephine Kee<br>65067-342<br>[kee_wan_cheng@schools.gov.sg](mailto:kee_wan_cheng@schools.gov.sg) |
 | Mathematics |Mr Dallon Kang<br>65083-173<br>[kang_zhenlin_dallon@moe.edu.sg](mailto:kang_zhenlin_dallon@moe.edu.sg) |
 | Mathematics | Mdm Asyikin<br>65067-343<br>[nur_asyikin_mohd_agos@schools.gov.sg](mailto:nur_asyikin_mohd_agos@schools.gov.sg)|
 | Mathematics |Mrs Audrey Lim (HOD, Mathematics)<br>65083-170<br>[loke_ai_guat_audrey@schools.gov.sg](mailto:loke_ai_guat_audrey@schools.gov.sg) |
@@ -47,7 +47,7 @@ variant: markdown
 |
 | Science | Ms Joanne Ko {Jo Ko} <br>65089-461<br>[ko_hiang@schools.gov.sg](mailto:ko_hiang@schools.gov.sg)  |
 Science | Mrs Yvonne Seow<br>65067-646<br>[lim_yi_min_yvonne@schools.gov.sg](mailto:lim_yi_min_yvonne@schools.gov.sg)   |
-Science | Mdm Josephine Kee<br>65067-6342<br>[kee_wan_cheng@schools.gov.sg](mailto:kee_wan_cheng@schools.gov.sg)   |
+Science | Mdm Josephine Kee<br>65067-342<br>[kee_wan_cheng@schools.gov.sg](mailto:kee_wan_cheng@schools.gov.sg)   |
 Science |Ms Priscilla Teng<br>65087-326<br>[sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg)  |
 Science | Mdm Asyikin<br>65067-343<br>[nur_asyikin_mohd_agos@schools.gov.sg](mailto:nur_asyikin_mohd_agos@schools.gov.sg)  |
 Science | Mrs Tan Lirong<br>65080-669<br>[sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg)  |
@@ -73,7 +73,7 @@ Science | Ms Seirrah Lim<br>65087-300 (Ext 653)<br>[lim_mei_fen@moe.edu.sg](mail
 | Malay Language | Mdm Nabilah<br>65087-319<br>[nabilah_abdul_rahman@schools.gov.sg](mailto:nabilah_abdul_rahman@schools.gov.sg)  |
 |
 |
-| Physical Education | Mrs Michelle Khoo <br>65087-278<br>[lee_jing_wen_michelle@schools.gov.sg](mailto:lee_jing_wen_michelle@schools.gov.sg) |
+| Physical Education | Mrs Michelle Khoo (SH, PE &amp; CCA) <br>65087-278<br>[lee_jing_wen_michelle@schools.gov.sg](mailto:lee_jing_wen_michelle@schools.gov.sg) |
 Physical Education | Mr Rafiei <br>65087-275<br>[mohamad_rafiei_sakeyam@schools.gov.sg](mailto:mohamad_rafiei_sakeyam@schools.gov.sg) |
 Physical Education |  Mr Hassan<br>65087-300 (Ext 286)<br>[hassan_mulyadi_mohamed_a@moe.edu.sg](mailto:hassan_mulyadi_mohamed_a@moe.edu.sg) |
 Physical Education | Mrs Valerie Seet<br>65087-279<br>[valerie_koh_sock_hwee@schools.gov.sg](mailto:valerie_koh_sock_hwee@schools.gov.sg) |
