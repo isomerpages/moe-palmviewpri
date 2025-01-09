@@ -48,7 +48,7 @@ variant: markdown
 | Science | Ms Joanne Ko {Jo Ko} <br>65089-461<br>[ko_hiang@schools.gov.sg](mailto:ko_hiang@schools.gov.sg)  |
 Science | Mrs Yvonne Seow<br>65067-646<br>[lim_yi_min_yvonne@schools.gov.sg](mailto:lim_yi_min_yvonne@schools.gov.sg)   |
 Science | Mdm Josephine Kee<br>65067-342<br>[kee_wan_cheng@schools.gov.sg](mailto:kee_wan_cheng@schools.gov.sg)   |
-Science |Ms Priscilla Teng<br>65087-326<br>[sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg)  |
+Science |Mrs Tan Lirong<br>65080-669<br>[sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg)  |
 Science | Mdm Asyikin<br>65067-343<br>[nur_asyikin_mohd_agos@schools.gov.sg](mailto:nur_asyikin_mohd_agos@schools.gov.sg)  |
 Science | Mrs Tan Lirong<br>65080-669<br>[sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg)  |
 Science | Ms Seirrah Lim<br>65087-300 (Ext 653)<br>[lim_mei_fen@moe.edu.sg](mailto:lim_mei_fen@moe.edu.sg)  |
