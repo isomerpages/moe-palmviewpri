@@ -46,13 +46,11 @@ variant: markdown
 | Science |Mrs Priscillia Chen (AYH, Upper Primary) <br>65087-274<br>[tan_yi_siu_priscillia@schools.gov.sg](mailto:tan_yi_siu_priscillia@schools.gov.sg)  |
 Science | Mr Kelvin Chia (LT, Science)<br>65080-665<br>[chia_peng_lin_kelvin@schools.gov.sg](mailto:chia_peng_lin_kelvin@schools.gov.sg)   |
 Science | Mr Gerald Wong (HOD, Science)<br>65087-313<br>[gerald_wong_yew_meng@schools.gov.sg](mailto:gerald_wong_yew_meng@schools.gov.sg)   |
-Science |Mrs Jodie Siow<br>65087-316<br>[yeo_mui_hong@schools.gov.sg](mailto:yeo_mui_hong@schools.gov.sg) |
+Science |Ms Nicole Chee<br>65067-340<br>[chee_shu_rong_nicole@schools.gov.sg](mailto:chee_shu_rong_nicole@schools.gov.sg) |
 Science | Mrs Michelle Wee<br>65080-667<br>[michelle_tyoh_whei_theng@schools.gov.sg](mailto:michelle_tyoh_whei_theng@schools.gov.sg) |
-Science |  Mdm Esther Tay<br>65087-330<br>[tay_wei_jing@schools.gov.sg](mailto:tay_wei_jing@schools.gov.sg)  |
 Science | Mr Senthil {Zack} (SH, Student Well-Being)<br>65080-664<br>[subramaniyan_senthil@schools.gov.sg](mailto:subramaniyan_senthil@schools.gov.sg)  |
-Science |Mdm Teo Soke Wai<br>65083-179<br>[teo_soke_wai@moe.edu.sg](mailto:teo_soke_wai@moe.edu.sg) |
 |
-| Social Studies | Mr Kumar (YH, Lower Primary) <br>65087-311<br>[kanapa_sathis_kumar@schools.gov.sg](mailto:kanapa_sathis_kumar@schools.gov.sg) |
+| Social Studies | Mdm Hasanah (HOD, SSD)<br>65080-660<br>[nur_hasanah_osman@schools.gov.sg](mailto:nur_hasanah_osman@schools.gov.sg) |
 |  Social Studies | Ms Shannon Lim<br>65080-659<br>[lim_eu_li@schools.gov.sg](mailto:lim_eu_li@schools.gov.sg) |
 |  Social Studies |Ms Candice Khoo<br>65067-348<br>[khoo_yun_xuan_candice@schools.gov.sg](mailto:khoo_yun_xuan_candice@schools.gov.sg) |
 |  Social Studies | Mrs Michelle Wee<br>65080-667<br>[michelle_tyoh_whei_theng@schools.gov.sg](mailto:michelle_tyoh_whei_theng@schools.gov.sg) |
