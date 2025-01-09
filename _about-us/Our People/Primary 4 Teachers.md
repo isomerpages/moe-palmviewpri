@@ -30,7 +30,7 @@ variant: markdown
 | English Language | Ms Joanne Ko {Jo Ko} <br>65089-461<br>[ko_hiang@schools.gov.sg](mailto:ko_hiang@schools.gov.sg) |
 | English Language | Ms Hidayah<br>65089-469<br>[nur_hidayah_mohshin@schools.gov.sg](mailto:nur_hidayah_mohshin@schools.gov.sg) |
 | English Language |Mrs Sarah Tan<br>65067-348<br>[sarah_yu_xueli@moe.edu.sg](mailto:sarah_yu_xueli@moe.edu.sg) |
-| English Language | Ms Priscilla Teng<br>65087-326<br>[sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg) |
+| English Language | Ms Priscilla Teng<br>65087-326<br>[teng\_yu\_hui\_priscilla@moe.edu.sg](mailto:teng\_yu\_hui\_priscilla@moe.edu.sg) |
 | English Language | Mdm Kalpana (LH, EL)<br>65067-349<br>[kalpana_manimohan@schools.gov.sg](mailto:kalpana_manimohan@schools.gov.sg) |
 | English Language | Mdm Razia<br>65087-267<br>[abdul_majeeth_razia_sulthana@schools.gov.sg](mailto:abdul_majeeth_razia_sulthana@schools.gov.sg) |
 | English Language |Mdm Hartini<br>65087-324<br>[hartini_mohamed@schools.gov.sg](mailto:hartini_mohamed@schools.gov.sg) |
@@ -48,15 +48,15 @@ variant: markdown
 | Science | Ms Joanne Ko {Jo Ko} <br>65089-461<br>[ko_hiang@schools.gov.sg](mailto:ko_hiang@schools.gov.sg)  |
 Science | Mrs Yvonne Seow<br>65067-646<br>[lim_yi_min_yvonne@schools.gov.sg](mailto:lim_yi_min_yvonne@schools.gov.sg)   |
 Science | Mdm Josephine Kee<br>65067-342<br>[kee_wan_cheng@schools.gov.sg](mailto:kee_wan_cheng@schools.gov.sg)   |
-Science |Ms Priscilla Teng<br>65087-326<br>[sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg)  |
+Science |Mrs Tan Lirong<br>65080-669<br>[sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg)  |
 Science | Mdm Asyikin<br>65067-343<br>[nur_asyikin_mohd_agos@schools.gov.sg](mailto:nur_asyikin_mohd_agos@schools.gov.sg)  |
-Science | Mrs Tan Lirong<br>65080-669<br>[sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg)  |
+Science | Ms Priscilla Teng<br>65087-326<br>[teng_yu_hui_priscilla@schools.gov.sg](mailto:teng_yu_hui_priscilla@schools.gov.sg)  |
 Science | Ms Seirrah Lim<br>65087-300 (Ext 653)<br>[lim_mei_fen@moe.edu.sg](mailto:lim_mei_fen@moe.edu.sg)  |
 |
 | Social Studies | Ms Joanne Ko {Jo Ko} <br>65089-461<br>[ko_hiang@schools.gov.sg](mailto:ko_hiang@schools.gov.sg) |
 |  Social Studies | Ms Hidayah<br>65089-469<br>[nur_hidayah_mohshin@schools.gov.sg](mailto:nur_hidayah_mohshin@schools.gov.sg) |
 |  Social Studies |Mrs Sarah Tan<br>65067-348<br>[sarah_yu_xueli@moe.edu.sg](mailto:sarah_yu_xueli@moe.edu.sg) |
-|  Social Studies | Ms Priscilla Teng<br>65087-326<br>[sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg) |
+|  Social Studies | Ms Priscilla Teng<br>65087-326<br>[teng_yu_hui_priscilla@schools.gov.sg](mailto:teng_yu_hui_priscilla@schools.gov.sg) |
 |  Social Studies | Mdm Kalpana (LH, EL)<br>65067-349<br>[kalpana_manimohan@schools.gov.sg](mailto:kalpana_manimohan@schools.gov.sg) |
 | Social Studies | Mdm Hasanah (HOD, SSD)<br>65080-660<br>[nur_hasanah_osman@schools.gov.sg](mailto:nur_hasanah_osman@schools.gov.sg) |
 | Social Studies | Mdm Hartini<br>65087-324<br>[hartini_mohamed@schools.gov.sg](mailto:hartini_mohamed@schools.gov.sg)  |
@@ -64,7 +64,7 @@ Science | Ms Seirrah Lim<br>65087-300 (Ext 653)<br>[lim_mei_fen@moe.edu.sg](mail
 | Chinese Language | Mrs Faye Loh (LH,MTL) <br>65087-264<br>[quah_pei_jun@schools.gov.sg](mailto:quah_pei_jun@schools.gov.sg) |
 | Chinese Language | Mr Zhou Wencong (HOD,SM)<br>65087-322<br>[zhou_wencong@schools.gov.sg](mailto:zhou_wencong@schools.gov.sg) |
 | Chinese Language |  Mdm Teo Siow Yee (ST, SEN)<br>65087-270<br>[teo_siow_yee@schools.gov.sg](mailto:teo_siow_yee@schools.gov.sg)|
-| Chinese Language | Ms Kang Chao<br>65087-269<br>[kang_chao@moe.edu.sg](mailto:kang_chao@moe.edu.sg) |
+| Chinese Language | Ms Kang Chao<br>65087-269<br>[kang_chao@schools.gov.sg](mailto:kang_chao@schools.gov.sg) |
 | Chinese Language | Ms Cher Xin Joo <br>65087-260<br>[cher_xin_joo@schools.gov.sg](mailto:cher_xin_joo@schools.gov.sg) |
 | Chinese Language | Mdm Heng Wei Shan<br>65089-450<br>[heng_wei_shan_a@schools.gov.sg](mailto:heng_wei_shan_a@schools.gov.sg) |
 | Chinese Language | Mr Teng Tse Peng (YH, Middle Primary)<br>65087-310<br>[teng_tse_peng_a@schools.gov.sg](mailto:teng_tse_peng_a@schools.gov.sg) |

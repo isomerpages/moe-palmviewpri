@@ -3,6 +3,7 @@ title: School Canteen Advertisement
 permalink: /for-parents/useful-information/permalink/
 description: ""
 third_nav_title: Useful Information
+variant: markdown
 ---
 # School Canteen Advertisement
 
@@ -10,10 +11,10 @@ third_nav_title: Useful Information
 
 | Stall Type | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chicken Rice Stall     | 15 May 2023     |    Nil   |
+| Western Food (Halal)     | 6 Feb 2025     |    Has to be a Halal Stall   |
 
 **Application Procedure**
-1. Download and complete the application form appended here, [School Canteen Application Form](/files/school%20canteen%20application%20form.pdf)
+1. Download and complete the application form appended here, [School Canteen Application Form](/files/Application_for_Canteen_Stall_FormBF7_250924.pdf)
 2. Attach the following documents together with your application form:
     *   Photocopy of your NRIC (front and back)
     *   List of proposed menu and pricing for all items
