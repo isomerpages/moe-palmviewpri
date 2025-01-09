@@ -69,10 +69,8 @@ Science | Mr Senthil {Zack} (SH, Student Well-Being)<br>65080-664<br>[subramaniy
 | Malay Language |Mdm Masturah (SH, ML)<br>65089-455<br>[masturah_salleh@schools.gov.sg](mailto:masturah_salleh@schools.gov.sg)  |
 | Malay Language |Mdm Suhana<br>65087-323<br>[norsuhana_sahmat@schools.gov.sg](mailto:norsuhana_sahmat@schools.gov.sg)  |
 |
-|
 | Physical Education | Mr Hisham (HOD, PE &amp; CCA) <br>65087-309<br>[hisham_b_spono@schools.gov.sg](mailto:hisham_b_spono@schools.gov.sg) |
-Physical Education |  Mr Nadeem<br>65087-276<br>[mohamed_nadeem@schools.gov.sg](mailto:mohamed_nadeem@schools.gov.sg) |
-Physical Education |  Mr Qairul<br>65089-459<br>[qairul_izam_shali@schools.gov.sg](mailto:qairul_izam_shali@schools.gov.sg) |
+Physical Education |  Mr Rafiei<br>65087-275<br>[mohamad_rafiei_sakeyam@schools.gov.sg](mailto:mohamad_rafiei_sakeyam@schools.gov.sg) |
 |
 | Music | Mrs Clara Koh (SH, Aesthetics)<br>65089-455<br>[lim_xiu_fang_clara@schools.gov.sg](mailto:lim_xiu_fang_clara@schools.gov.sg) |
-| Music |Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
+| Music |Mr Bryon Luo<br>65089-457<br>[luo_youde_bryon@schools.gov.sg](mailto:luo_youde_bryon@schools.gov.sg) |
