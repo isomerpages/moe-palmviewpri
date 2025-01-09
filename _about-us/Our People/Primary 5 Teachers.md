@@ -68,8 +68,8 @@ Science |Mdm Teo Soke Wai<br>65083-179<br>[teo_soke_wai@moe.edu.sg](mailto:teo_s
 | Chinese Language | Mr Warren Thin (HOD, ICT)<br>65080-652<br>[thin_dongqi@schools.gov.sg](mailto:thin_dongqi@schools.gov.sg) |
 | Chinese Language | Mrs Lim Bee Li<br>65087-266<br>[tay_bee_li@schools.gov.sg](mailto:tay_bee_li@schools.gov.sg) |
 |
-| Malay Language | Mdm Shikin <br>65087-320<br>[noorashikin_zainuldin@schools.gov.sg](mailto:noorashikin_zainuldin@schools.gov.sg) |
-| Malay Language | Mdm Nabilah<br>65087-319<br>[nabilah_abdul_rahman@schools.gov.sg](mailto:nabilah_abdul_rahman@schools.gov.sg)  |
+| Malay Language | Ms Nurbayah <br>65087-300 (Ext 651)<br>[nurbayah_ismail@schools.gov.sg](mailto:nurbayah_ismail@schools.gov.sg) |
+| Malay Language |Mdm Elyani (ST, ML)<br>65080-654<br>[elyani_mohamed@schools.gov.sg](mailto:elyani_mohamed@schools.gov.sg)  |
 |
 |
 | Physical Education | Mrs Michelle Khoo (SH, PE &amp; CCA) <br>65087-278<br>[lee_jing_wen_michelle@schools.gov.sg](mailto:lee_jing_wen_michelle@schools.gov.sg) |
