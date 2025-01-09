@@ -55,7 +55,7 @@ Science |Mdm Teo Soke Wai<br>65083-179<br>[teo_soke_wai@moe.edu.sg](mailto:teo_s
 |
 | Social Studies | Mr Kumar (YH, Lower Primary) <br>65087-311<br>[kanapa_sathis_kumar@schools.gov.sg](mailto:kanapa_sathis_kumar@schools.gov.sg) |
 |  Social Studies | Ms Shannon Lim<br>65080-659<br>[lim_eu_li@schools.gov.sg](mailto:lim_eu_li@schools.gov.sg) |
-|  Social Studies |Ms Candice Khoo<br>65067-348<br>[sarah_yu_xueli@moe.edu.sg](mailto:sarah_yu_xueli@moe.edu.sg) |
+|  Social Studies |Ms Candice Khoo<br>65067-348<br>[khoo_yun_xuan_candice@schools.gov.sg](mailto:khoo_yun_xuan_candice@schools.gov.sg) |
 |  Social Studies | Mrs Michelle Wee<br>65080-667<br>[michelle_tyoh_whei_theng@schools.gov.sg](mailto:michelle_tyoh_whei_theng@schools.gov.sg) |
 |  Social Studies | Mdm Leong Fong Fong (ST, Mathematics)<br>65080-655<br>[leong_fong_fong@schools.gov.sg](mailto:leong_fong_fong@schools.gov.sg) |
 | Social Studies | Mr Mohamed Isa<br>65067-346<br>[mohamed_isa_b_osman@schools.gov.sg](mailto:mohamed_isa_b_osman@schools.gov.sg) |
