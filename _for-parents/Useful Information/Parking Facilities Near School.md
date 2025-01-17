@@ -7,4 +7,4 @@ variant: markdown
 ---
 ## PARKING FACILITIES NEAR SCHOOL
 
-[](/files/For%20Parents%202025/Car_Parks_Near_PLVPS_2025.pdf)
+![](/images/Car_Parks_Near_PLVPS_2025.jpg)
