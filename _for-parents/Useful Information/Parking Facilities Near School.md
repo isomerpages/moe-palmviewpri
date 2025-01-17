@@ -3,7 +3,8 @@ title: Parking Facilities Near School
 permalink: /for-parents/pearking-facilities-near-school/
 description: ""
 third_nav_title: Useful Information
+variant: markdown
 ---
 ## PARKING FACILITIES NEAR SCHOOL
 
-<img src="/images/Map.png" style="width:85%">
+![](/images/Car_Parks_Near_PLVPS_2025.jpg)
