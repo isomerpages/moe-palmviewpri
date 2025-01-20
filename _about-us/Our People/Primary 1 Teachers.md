@@ -35,7 +35,7 @@ variant: markdown
 | English Language | Ms Candice Khoo<br>65067-643<br>[khoo_yun_xuan_candice@schools.gov.sg](mailto:khoo_yun_xuan_candice@schools.gov.sg) |
 | English Language | Mr Kumar (YH, Lower Primary)<br>65087-311<br>[kanapa_sathis_kumar@schools.gov.sg](mailto:kanapa_sathis_kumar@schools.gov.sg) |
 | English Language |Mdm Nurulhuda<br>65087-325<br>[nurulhuda_md_salleh@schools.gov.sg](mailto:nurulhuda_md_salleh@schools.gov.sg) |
-| English Language | Ms Teo Ai Cheng<br>65089-453<br>teo_ai_cheng@moe.edu.sg 
+| English Language | Ms Teo Ai Cheng<br>65089-453<br> [teo_ai_cheng@moe.edu.sg](mailto:teo_ai_cheng@moe.edu.sg) | 
 | English Language |Mdm Joey Cheang (HOD, CCE)<br>65083-172<br>[cheang_ching_ee@schools.gov.sg](mailto:cheang_ching_ee@schools.gov.sg) |
 |
 | Mathematics | Mrs Chow Seow Yann <br>65080-656<br>[wang_seow_yann_b@moe.edu.sg](mailto:wang_seow_yann_b@moe.edu.sg) |
@@ -56,7 +56,7 @@ Social Studies | Mrs Pereira<br>65089-466<br>[daphne_saro_pereira_a@moe.edu.sg](
 Social Studies | Ms Candice Khoo<br>65067-643<br>[khoo_yun_xuan_candice@schools.gov.sg](mailto:khoo_yun_xuan_candice@schools.gov.sg) |
 | Social Studies | Mr Kumar (YH, Lower Primary)<br>65087-311<br>[kanapa_sathis_kumar@schools.gov.sg](mailto:kanapa_sathis_kumar@schools.gov.sg) |
 | Social Studies |Mdm Nurulhuda<br>65087-325<br>[nurulhuda_md_salleh@schools.gov.sg](mailto:nurulhuda_md_salleh@schools.gov.sg) |
-|Social Studies | Ms Teo Ai Cheng<br>65089-453<br>teo_ai_cheng@moe.edu.sg  |
+|Social Studies | Ms Teo Ai Cheng<br>65089-453<br>[teo_ai_cheng@moe.edu.sg](mailto:nurulhuda_md_salleh@schools.gov.sg) |
 |
 | Chinese Language | Mdm Yong Puay Pin <br>65087-273<br>[yong_puay_pin_a@moe.edu.sg](mailto:yong_puay_pin_a@moe.edu.sg) |
 | Chinese Language | Mdm Joy Tan <br>65087-265<br>[tan_boon_hui@schools.gov.sg](mailto:tan_boon_hui@schools.gov.sg) |
