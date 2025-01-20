@@ -28,7 +28,7 @@ variant: markdown
 |
 | English Language |Mdm Kalpana (LH, EL) <br>65067-349<br>[kalpana_manimohan@schools.gov.sg](mailto:kalpana_manimohan@schools.gov.sg) |
 | English Language | Mdm Hasanah (HOD, SSD)<br>65080-660<br>[nur_hasanah_osman@schools.gov.sg](mailto:nur_hasanah_osman@schools.gov.sg)  |
-| English Language |Mrs Sarah Tan <br>65067-348<br>[sarah_yu_xueli@moe.edu.sg](mailto:sarah_yu_xueli@moe.edu.sg)|
+| English Language |Mrs Sarah Tan <br>65067-348<br>[sarah_yu_xueli@schools.gov.sg](mailto:sarah_yu_xueli@schools.gov.sg)|
 | English Language |Mr Senthil {Zack} (SH, Student Well-Being)<br>65080-664<br>[subramaniyan_senthil@schools.gov.sg](mailto:subramaniyan_senthil@schools.gov.sg)|
 | English Language |  Mrs Serene Yue<br>65067-345<br>[wong_may_san_serene@schools.gov.sg](mailto:wong_may_san_serene@schools.gov.sg) |
 | English Language | Ms Priscilla Teng<br>65087-326<br>[teng_yu_hui_priscilla@schools.gov.sg](mailto:teng_yu_hui_priscilla@schools.gov.sg) |
