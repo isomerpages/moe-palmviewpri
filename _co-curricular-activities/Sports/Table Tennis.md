@@ -25,5 +25,5 @@ From the CCA, pupils will be able to:
 <p align="center"><em>Student enjoying the table tennis CCA</em></p>
 
 #### Teacher-in-charge
-**Mr Noel Chan**  <br>
-[noel\_chan\_tze\_sunn@schools.gov.sg](mailto:noel\_chan\_tze\_sunn@schools.gov.sg)
+**Mdm Fatin**  <br>
+[nur_ishmah_fatin_rahim@schools.gov.sg](mailto:nur_ishmah_fatin_rahim@schools.gov.sg)
