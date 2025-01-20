@@ -38,7 +38,7 @@ The school will be offering the following CCAs:
 |:---:|:---:|
 | Badminton | Mrs Valerie Seet<br>65087-279<br>[valerie_koh_sock_hwee@schools.gov.sg](mailto:valerie_koh_sock_hwee@schools.gov.sg) |
 |
-| Basketball | Ms Nazurah<br>65087-277<br>[nazurah\_syazana\_nordin@schools.gov.sg](mailto:nazurah\_syazana\_nordin@schools.gov.sg) |
+| Basketball | Mr Qairul<br>65089-459<br>[qairul_izam_shali@schools.gov.sg](mailto:qairul_izam_shali@schools.gov.sg) |
 |
 | Netball | Mr Rafiei<br>65087-275<br>[mohamad\_rafiei\_sakeyam@schools.gov.sg](mailto:mohamad\_rafiei\_sakeyam@schools.gov.sg) |
  |
