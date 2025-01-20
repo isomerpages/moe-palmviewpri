@@ -16,9 +16,9 @@ The school will be offering the following CCAs:
 |:---:|:---:|
 | Art Club | Mrs Chew Yixin<br>65080-662<br>[tan\_yixin@schools.gov.sg](mailto:tan\_yixin@schools.gov.sg) |
 |
-| Infocomm Club | Ms Germaine Quek<br>65083-171<br>[germaine\_quek\_jiamin@schools.gov.sg](mailto:germaine_quek_jiamin@schools.gov.sg) |
+| Infocomm Club | Mrs Germaine Yeo<br>65083-171<br>[germaine\_quek\_jiamin@schools.gov.sg](mailto:germaine_quek_jiamin@schools.gov.sg) |
 |
-| Robotics Club | Miss Priscilla Teng<br>65087-326<br>[teng_yu_hui_priscilla@schools.gov.sg](mailto:teng_yu_hui_priscilla@schools.gov.sg) |
+| Robotics Club | Ms Priscilla Teng<br>65087-326<br>[teng_yu_hui_priscilla@schools.gov.sg](mailto:teng_yu_hui_priscilla@schools.gov.sg) |
 |
 | Science Club | Mrs Tan Lirong<br>65080-669<br>[sun\_lirong@schools.gov.sg](mailto:sun\_lirong@schools.gov.sg) |
 
