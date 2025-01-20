@@ -28,7 +28,7 @@ The school will be offering the following CCAs:
 |:---:|:---:|
 | Choir | Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
 |
-| Drama Club | Mr Mohamed Isa<br>65067-346<br>[mohamed_isa_b_osman@schools.gov.sg](mailto:mohamed_isa_b_osman@schools.gov.sg) |
+| Drama Club | Mdm Hailwa<br>65067-641<br>[hailwa_moree@schools.gov.sg](mailto:hailwa_moree@schools.gov.sg) |
 |
 | Modern Dance | Mrs Michelle Wee<br>65080-667<br>[michelle_tyoh_whei_theng@schools.gov.sg](mailto:michelle_tyoh_whei_theng@schools.gov.sg) |
 
