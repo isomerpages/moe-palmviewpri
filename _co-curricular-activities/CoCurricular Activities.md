@@ -44,4 +44,4 @@ The school will be offering the following CCAs:
  |
 | Soccer | Mr Nadeem<br>65087-276<br>[mohamed\_nadeem@schools.gov.sg](mailto:mohamed\_nadeem@schools.gov.sg) |
 |
-| Table Tennis | Mr Noel Chan<br>65089-459<br>[noel\_chan\_tze\_sunn@schools.gov.sg](mailto:noel\_chan\_tze\_sunn@schools.gov.sg) |
+| Table Tennis | Mdm Fatin <br>65067-649<br>[nur_ishmah_fatin_rahim@schools.gov.sg](mailto:nur_ishmah_fatin_rahim@schools.gov.sg) |
