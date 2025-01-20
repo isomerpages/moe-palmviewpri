@@ -38,4 +38,4 @@ In the confines of the CCA, our children will learn how to:
 
 #### Teacher-in-charge
 **Mrs Kishore {Magdalene Tan}** <br>
-[sun\_lirong@schools.gov.sg](mailto:sun\_lirong@schools.gov.sg)
+[tan_kai_lin_magdalene@schools.gov.sg](mailto:tan_kai_lin_magdalene@schools.gov.sg)
