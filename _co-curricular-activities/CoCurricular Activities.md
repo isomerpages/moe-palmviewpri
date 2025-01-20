@@ -20,7 +20,7 @@ The school will be offering the following CCAs:
 |
 | Robotics Club | Ms Priscilla Teng<br>65087-326<br>[teng_yu_hui_priscilla@schools.gov.sg](mailto:teng_yu_hui_priscilla@schools.gov.sg) |
 |
-| Science Club | Mrs Kishore {Magdalene Tan}<br>65080-669<br>[tan_kai_lin_magdalene@schools.gov.sg](mailto:tan_kai_lin_magdalene@schools.gov.sg) |
+| Science Club | Mrs Kishore {Magdalene Tan}<br>65067-645<br>[tan_kai_lin_magdalene@schools.gov.sg](mailto:tan_kai_lin_magdalene@schools.gov.sg) |
 
 ##### Visual and Performing Arts
 
