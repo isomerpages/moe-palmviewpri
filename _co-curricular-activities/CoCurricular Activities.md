@@ -16,11 +16,11 @@ The school will be offering the following CCAs:
 |:---:|:---:|
 | Art Club | Mrs Chew Yixin<br>65080-662<br>[tan\_yixin@schools.gov.sg](mailto:tan\_yixin@schools.gov.sg) |
 |
-| Infocomm Club | Ms Germaine Quek<br>65083-171<br>[germaine\_quek\_jiamin@schools.gov.sg](mailto:germaine_quek_jiamin@schools.gov.sg) |
+| Infocomm Club | Mrs Germaine Yeo<br>65083-171<br>[germaine\_quek\_jiamin@schools.gov.sg](mailto:germaine_quek_jiamin@schools.gov.sg) |
 |
-| Robotics Club | Miss Priscilla Teng<br>65087-326<br>[teng_yu_hui_priscilla@schools.gov.sg](mailto:teng_yu_hui_priscilla@schools.gov.sg) |
+| Robotics Club | Ms Priscilla Teng<br>65087-326<br>[teng_yu_hui_priscilla@schools.gov.sg](mailto:teng_yu_hui_priscilla@schools.gov.sg) |
 |
-| Science Club | Mrs Tan Lirong<br>65080-669<br>[sun\_lirong@schools.gov.sg](mailto:sun\_lirong@schools.gov.sg) |
+| Science Club | Mrs Kishore {Magdalene Tan}<br>65067-645<br>[tan_kai_lin_magdalene@schools.gov.sg](mailto:tan_kai_lin_magdalene@schools.gov.sg) |
 
 ##### Visual and Performing Arts
 
@@ -28,7 +28,7 @@ The school will be offering the following CCAs:
 |:---:|:---:|
 | Choir | Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
 |
-| Drama Club | Mr Mohamed Isa<br>65067-346<br>[mohamed_isa_b_osman@schools.gov.sg](mailto:mohamed_isa_b_osman@schools.gov.sg) |
+| Drama Club | Mdm Hailwa<br>65067-641<br>[hailwa_moree@schools.gov.sg](mailto:hailwa_moree@schools.gov.sg) |
 |
 | Modern Dance | Mrs Michelle Wee<br>65080-667<br>[michelle_tyoh_whei_theng@schools.gov.sg](mailto:michelle_tyoh_whei_theng@schools.gov.sg) |
 
@@ -36,12 +36,12 @@ The school will be offering the following CCAs:
 
 | CCA | Teacher In Charge |
 |:---:|:---:|
-| Badminton | Miss Valerie Koh<br>65087-277<br>[valerie_koh_sock_hwee@schools.gov.sg](mailto:valerie_koh_sock_hwee@schools.gov.sg) |
+| Badminton | Mrs Valerie Seet<br>65087-279<br>[valerie_koh_sock_hwee@schools.gov.sg](mailto:valerie_koh_sock_hwee@schools.gov.sg) |
 |
-| Basketball | Ms Nazurah<br>65087-277<br>[nazurah\_syazana\_nordin@schools.gov.sg](mailto:nazurah\_syazana\_nordin@schools.gov.sg) |
+| Basketball | Mr Qairul<br>65089-459<br>[qairul_izam_shali@schools.gov.sg](mailto:qairul_izam_shali@schools.gov.sg) |
 |
 | Netball | Mr Rafiei<br>65087-275<br>[mohamad\_rafiei\_sakeyam@schools.gov.sg](mailto:mohamad\_rafiei\_sakeyam@schools.gov.sg) |
  |
 | Soccer | Mr Nadeem<br>65087-276<br>[mohamed\_nadeem@schools.gov.sg](mailto:mohamed\_nadeem@schools.gov.sg) |
 |
-| Table Tennis | Mr Noel Chan<br>65089-459<br>[noel\_chan\_tze\_sunn@schools.gov.sg](mailto:noel\_chan\_tze\_sunn@schools.gov.sg) |
+| Table Tennis | Mdm Fatin <br>65067-649<br>[nur_ishmah_fatin_rahim@schools.gov.sg](mailto:nur_ishmah_fatin_rahim@schools.gov.sg) |

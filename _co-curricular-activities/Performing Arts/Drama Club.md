@@ -24,5 +24,5 @@ In the confines of the CCA, our children will learn how to:
 *  Improvise without text as well as with text
 
 #### Teacher-in-charge
-**Mr Mohamed Isa** <br>
-[mohamed\_isa\_b\_osman@moe.edu.sg](mailto:mohamed\_isa\_b\_osman@moe.edu.sg)
+**Mdm Hailwa** <br>
+[hailwa_moree@schools.gov.sg](mailto:hailwa_moree@schools.gov.sg)

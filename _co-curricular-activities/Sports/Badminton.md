@@ -21,5 +21,5 @@ Badminton is a sport that requires technique, agility, hand-eye coordination and
 
 
 #### Teacher–in–charge
-**Miss Valerie Koh** <br>
+**Mrs Valerie Seet** <br>
 [valerie\_koh\_sock\_hwee@schools.gov.sg](mailto:[valerie\_koh\_sock\_hwee@schools.gov.sg)
