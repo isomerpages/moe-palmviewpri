@@ -73,13 +73,13 @@ and/or supplementary Sexuality Education programmes by MOE-approved external
 providers.</p>
 <p>9. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated&nbsp;
-to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/65d016ac78eb2819346914c1" rel="noopener noreferrer nofollow" target="_blank">here</a>
+to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/676914f616455fc8057ef330" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
-<p>The completed opt-out form is to be submitted by 22 March 2024.</p>
+<p>The completed opt-out form is to be submitted by 25 March 2025.</p>
 <p>10. Parents can contact the school at <a href="mailto:cheang_ching_ee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheang_ching_ee@schools.gov.sg</a> or
-6508 0658 for discussion or to seek clarification about the school’s Sexuality
+6508 3172 for discussion or to seek clarification about the school’s Sexuality
 Education programme.</p>
 <p>At Palm View Primary School, the following Sexuality Education lessons
-will be taught in 2024:</p>
-<p>Please click <a href="/files/For Parents (2024)/PLVPS_2024_Info_on_CCE__FTGP__Growing_Years_Lesson_Overview.pdf" rel="noopener noreferrer nofollow" target="_blank">Here </a>for
+will be taught in 2025:</p>
+<p>Please click <a href="/files/For Parents 2025/Summary_of_lessons.pdf" rel="noopener nofollow" target="_blank">Here</a>for
 the lesson overview</p>
