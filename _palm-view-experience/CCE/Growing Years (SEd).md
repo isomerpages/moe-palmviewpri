@@ -1,6 +1,6 @@
 ---
 title: Growing Years (SEd)
-permalink: /palm-view-experience/character-and-citizen-education/
+permalink: /palm-view-experience/growing-years-sed/
 description: ""
 third_nav_title: CCE
 variant: tiptap
@@ -81,5 +81,5 @@ to parents at the start of the year and is also downloadable <a href="https://fo
 Education programme.</p>
 <p>At Palm View Primary School, the following Sexuality Education lessons
 will be taught in 2025:</p>
-<p>Please click <a href="/files/For Parents 2025/Summary_of_lessons.pdf" rel="noopener nofollow" target="_blank">Here</a>for
+<p>Please click <a href="/files/For Parents 2025/Summary_of_lessons.pdf" rel="noopener nofollow" target="_blank">Here </a>for
 the lesson overview</p>

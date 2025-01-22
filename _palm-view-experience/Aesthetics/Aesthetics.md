@@ -1,10 +1,10 @@
 ---
 title: Aesthetics
-permalink: /palm-view-experience/Aesthetics/
+permalink: /palm-view-experience/aesthetics/
 description: ""
 third_nav_title: Aesthetics
+variant: tiptap
 ---
-
 ## AESTHETICS
 
 ### Fostering Creativity, Celebrating Diversity
@@ -21,5 +21,5 @@ In doing so, we fulfill our school’s motto, of ‘Inspiring Excellence’ with
 ### Department Key Thrusts
 1) Talent development for all (ARTs Instructional and Talent Programme- students) <br>
 2) Building Capacity and Appreciation (ARTs Experience, Immersion and Exposure- Staff and Students)<br>
-3) ‘Win, Win’ Partnerships and Collaborations <br>
+3) ‘Win, Win’ Partnerships and Collaborations&nbsp;<br>
 4)  Impacting the community, the Nation and beyond (ARTs Citizenry Programme-Students)
