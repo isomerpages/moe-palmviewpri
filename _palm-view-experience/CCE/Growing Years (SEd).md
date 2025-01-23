@@ -37,7 +37,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> &nbsp;for
 more information on MOE Sexuality Education.</p>
-<p><strong><em>Overview of Palm View Primary School’s Sexuality Education Programme for 2025</em></strong>
+<p><strong>Overview of Palm View Primary School’s Sexuality Education Programme for 2025</strong>
 </p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
@@ -47,7 +47,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p>5. The subjects that incorporate topics on sexuality include are:</p>
 <p>a) Science</p>
 <p>b) Character &amp; Citizenship Education (CCE)</p>
-<p><strong><em>Sexuality Education Lessons:</em></strong>
+<p><strong>Sexuality Education Lessons:</strong>
 </p>
 <p>6. The upper primary years mark the onset of puberty. With better nutrition
 and improved health care, children are reaching puberty at a younger age
@@ -66,7 +66,7 @@ growing years. They learn to build healthy and rewarding relationships
 with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
-<p><strong><em>Information for Parents</em></strong>
+<p><strong>Information for Parents</strong>
 </p>
 <p>8. Parents may opt their children out of Sexuality Education lessons,
 and/or supplementary Sexuality Education programmes by MOE-approved external
