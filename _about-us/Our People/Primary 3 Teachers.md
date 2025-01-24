@@ -56,7 +56,7 @@ variant: markdown
 | Malay Language | Ms Nurbayah <br>65087-300 (Ext 651)<br>[nurbayah_ismail@schools.gov.sg](mailto:nurbayah_ismail@schools.gov.sg) |
 | Malay Language | Mdm Elyani (ST, ML)<br>65080-654<br>[elyani_mohamed@schools.gov.sg](mailto:elyani_mohamed@schools.gov.sg)  |
 |
-| Tamil Language |Ms Sumitha<br>65089-451<br>[s_sumitha@schools.gov.sg](mailto:s_sumitha@schools.gov.sg) |
+| Tamil Language |Ms Sumitha<br>65087-315<br>[s_sumitha@schools.gov.sg](mailto:s_sumitha@schools.gov.sg) |
 |
 | Physical Education | Mrs Valerie Seet <br>65087-279<br>[valerie_koh_sock_hwee@schools.gov.sg](mailto:valerie_koh_sock_hwee@schools.gov.sg) |
 Physical Education | Mr Qairul <br>65089-459<br>[qairul_izam_shali@schools.gov.sg](mailto:qairul_izam_shali@schools.gov.sg) |
