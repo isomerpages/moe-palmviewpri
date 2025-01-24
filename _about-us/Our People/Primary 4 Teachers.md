@@ -61,7 +61,7 @@ Science | Ms Seirrah Lim<br>65087-300 (Ext 653)<br>[lim_mei_fen@moe.edu.sg](mail
 | Social Studies | Mdm Hasanah (HOD, SSD)<br>65080-660<br>[nur_hasanah_osman@schools.gov.sg](mailto:nur_hasanah_osman@schools.gov.sg) |
 | Social Studies | Mdm Hartini<br>65087-324<br>[hartini_mohamed@schools.gov.sg](mailto:hartini_mohamed@schools.gov.sg)  |
 |
-| Chinese Language | Mrs Faye Loh (LH,MTL) <br>65087-264<br>[quah_pei_jun@schools.gov.sg](mailto:quah_pei_jun@schools.gov.sg) |
+| Chinese Language | Mrs Faye Loh (LH,CL) <br>65087-264<br>[quah_pei_jun@schools.gov.sg](mailto:quah_pei_jun@schools.gov.sg) |
 | Chinese Language | Mr Zhou Wencong (HOD,SM)<br>65087-322<br>[zhou_wencong@schools.gov.sg](mailto:zhou_wencong@schools.gov.sg) |
 | Chinese Language |  Mdm Teo Siow Yee (ST, SEN)<br>65087-270<br>[teo_siow_yee@schools.gov.sg](mailto:teo_siow_yee@schools.gov.sg)|
 | Chinese Language | Ms Kang Chao<br>65087-269<br>[kang_chao@schools.gov.sg](mailto:kang_chao@schools.gov.sg) |
