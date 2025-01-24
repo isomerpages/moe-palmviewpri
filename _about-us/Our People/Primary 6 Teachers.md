@@ -63,7 +63,7 @@ Science | Mr Senthil {Zack} (SH, Student Well-Being)<br>65080-664<br>[subramaniy
 | Chinese Language | Mr Guah Boon Heng<br>65087-314<br>[guah_boon_heng@schools.gov.sg](mailto:guah_boon_heng@schools.gov.sg) |
 | Chinese Language | Mdm Heng Wei Shan<br>65089-450<br>[heng_wei_shan_a@schools.gov.sg](mailto:heng_wei_shan_a@schools.gov.sg) |
 | Chinese Language | Mrs Germaine Yeo<br>65087-272<br>[germaine_quek_jiamin@schools.gov.sg](mailto:germaine_quek_jiamin@schools.gov.sg) |
-| Chinese Language | Mrs Faye Loh (LH,MTL)<br>65087-264<br>[quah_pei_jun@schools.gov.sg](mailto:quah_pei_jun@schools.gov.sg) |
+| Chinese Language | Mrs Faye Loh (LH,CL)<br>65087-264<br>[quah_pei_jun@schools.gov.sg](mailto:quah_pei_jun@schools.gov.sg) |
 |
 | Malay Language | Mdm Shikin <br>65087-320<br>[noorashikin_zainuldin@schools.gov.sg](mailto:noorashikin_zainuldin@schools.gov.sg) |
 | Malay Language |Mdm Masturah (SH, ML)<br>65089-455<br>[masturah_salleh@schools.gov.sg](mailto:masturah_salleh@schools.gov.sg)  |
