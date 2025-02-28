@@ -15,6 +15,7 @@ variant: markdown
 | 1 Beethoven | Mdm Razia<br>65087-267<br>[abdul_majeeth_razia_sulthana@schools.gov.sg](mailto:abdul_majeeth_razia_sulthana@schools.gov.sg) | Mr Guah Boon Heng<br>65087-314<br>[guah_boon_heng@schools.gov.sg](mailto:guah_boon_heng@schools.gov.sg) |
 | 1 Curie |Ms Shannon Lim<br>65080-659<br>[lim_eu_li@schools.gov.sg](mailto:lim_eu_li@schools.gov.sg) | Mr Hassan<br>65087-300 (Ext 286)<br>[hassan_mulyadi_mohamed_a@moe.edu.sg](mailto:hassan_mulyadi_mohamed_a@moe.edu.sg) |
 | 1 Da Vinci | Ms Nabilah<br>65067-344<br>[nabilah_abdullah@schools.gov.sg](mailto:nabilah_abdullah@schools.gov.sg) | Mrs Clara Koh (SH, Aesthetics)<br>65089-455<br>[lim_xiu_fang_clara@schools.gov.sg](mailto:lim_xiu_fang_clara@schools.gov.sg) |
+| 1 Da Vinci | Mdm Shikin<br>65087-320<br>[noorashikin_zainuldin@schools.gov.sg](mailto:noorashikin_zainuldin@schools.gov.sg)
 | 1 Edison | Ms Candice Khoo<br>65067-643<br>[khoo_yun_xuan_candice@schools.gov.sg](mailto:khoo_yun_xuan_candice@schools.gov.sg) | Mdm Adzilah<br>65080-663<br>[noor_adzilah_tahir@schools.gov.sg](mailto:noor_adzilah_tahir@schools.gov.sg) |
 | 1 Frank |Mr Kumar (YH, Lower Primary)<br>65087-311<br>[kanapa_sathis_kumar@schools.gov.sg](mailto:kanapa_sathis_kumar@schools.gov.sg) | Mdm Joy Tan<br>65087-265<br>[tan_boon_hui@schools.gov.sg](mailto:tan_boon_hui@schools.gov.sg) |
 | 1 Galileo | Mdm Nurulhuda<br>65087-325<br>[nurulhuda_md_salleh@schools.gov.sg](mailto:nurulhuda_md_salleh@schools.gov.sg)|Ms Li Li<br>65087-263<br>[li_li@schools.gov.sg](mailto:li_li@schools.gov.sg) |
