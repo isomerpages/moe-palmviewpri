@@ -11,7 +11,7 @@ variant: markdown
 
 | Stall Type | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Western Food (Halal)     | 6 Feb 2025     |    Has to be a Halal Stall   |
+| Japanese Food      | 17 April 2025     |    Non Halal Stall   |
 
 **Application Procedure**
 1. Download and complete the application form appended here, [School Canteen Application Form](/files/Application_for_Canteen_Stall_FormBF7_250924.pdf)
