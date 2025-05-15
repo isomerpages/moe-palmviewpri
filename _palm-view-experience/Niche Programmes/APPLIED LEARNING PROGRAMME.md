@@ -3,45 +3,30 @@ title: APPLIED LEARNING PROGRAMME
 permalink: /palm-view-experience/applied-learning-programme/
 description: ""
 third_nav_title: Niche Programmes
+variant: markdown
 ---
 ## APPLIED LEARNING PROGRAMME
 
-<figure>
-<img src="/images/Banner1.png" style="width:100%">
-</figure>
+![](/images/Voyagers_PLVPS_Logo.png)
 
-We embrace the belief that Learning through Drama benefits the child’s education and development in areas such as kinaesthetic skills, thinking skills, interpersonal and intrapersonal skills, leading to improved self-confidence and the ability to work as a team in cooperative ventures. 
+ Voyagers@PLVPS is Palm View Primary School's Applied Learning Programme (ALP), fostering 21st Century Competencies (21CC) through experiential learning. Grounded in Design Thinking and Constructionism principles, the programme empowers students to tackle real-world challenges, experiment with ideas, and develop innovative solutions.
+ 
+ ![](/images/Cognitive_and_Affective_Approaches.png)
+ 
+At the heart of Voyagers@PLVPS is the conviction that every child possesses the capacity to be a curious learner, problem solver, and creative thinker. Through integrated projects and maker challenges, students apply cross-disciplinary knowledge spanning English, Mathematics, Science, and Art. They harness both traditional and digital tools—from LEGO and recyclable materials to 3D pens, Micro:bits, and 3D printers—to create prototypes and transform their ideas into tangible solutions. This blend of physical and digital creation strengthens students' technological competencies while developing essential 21st-century skills such as critical, adaptive and inventive thinking, collaboration and information skills, and digital competencies.
 
-Palm View’s ACT-cellent Education through Drama programme is a powerful pedagogical and creative process that provides a compelling means of exploration, expression and making meaning. Through the drama activities, we enhance the acquisition and development of language skills in our students. It is also an excellent platform for nurturing 21st century competencies in students.
+Central to Voyagers@PLVPS is the Design Thinking Framework for Young Voyagers—a student-centred approach guiding learners through a structured yet imaginative process of problem-solving and innovation. This framework, tailored to primary school students' developmental needs, nurtures them to become empathetic tinkerers and changemakers of tomorrow.
 
-<figure>
-<img src="/images/Chart One.png" style="width:100%">
-</figure>
+![](/images/Design_Thinking_Framework_Image.png)
 
-**Little Theatre**
+One of the key strengths of Voyagers@PLVPS lies in its intentional integration of subject areas, allowing students to make meaningful connections across disciplines while engaging in creative problem-solving and hands-on making.
 
-<figure>
-<img src="/images/Chart2.png" style="width:100%">
-</figure>
 
-All P1 & P2 students undergo the Little Theatre programme to enhance and enrich their learning in the English Language. Students experience an intensive programme towards the development of confidence, speaking skills and teamwork. The students showcase their talents to their parents at the end of the programme in the form of a performance. The school has been granted the Applied Learning Programme (ALP) status for its ACT-cellent Education through Drama programme.
 
-<figure>
-<img src="/images/Students performing in our annual Little Theatre.jpg" style="width:90%">
-<figcaption>Students performing in our annual Little Theatre Showcase.
- </figcaption>
-</figure>
-
-To extend the students’ learning in the middle levels, they go on a drama learning journey to watch age-appropriate public performances. This is with the aim of getting the students to better understand and appreciate theatre etiquette, and to expose them to professional drama performances. After the learning journey, students reflect upon their experience and consolidate their learning with their teachers.
-
-<figure>
-<img src="/images/Students caught a performance in the National Library.jpg" style="width:90%">
-<figcaption>Students watched the Rainbow Fish performance in the National Library.
- </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Students engaged in an interactive Chinese Drama Performance.jpg" style="width:90%">
-<figcaption>Students engaged in an interactive Chinese Drama Performance.
- </figcaption>
-</figure>
+| Subject Area | Level | Programme |
+| -------- | -------- | -------- |
+| English Language    | Primary 1 and 2 | Students construct models that represent their acquired vocabulary and present these creations to their peers, enabling them to articulate their thought processes and strengthen their communication skills |
+| Mathematics |Primary 4| Students craft three-dimensional structures using 3D pens, enhancing their understanding of spatial relationships and ability to visualise shapes in three dimensions.|
+| Tinker@Voyagers |Primary 4 (Selected Students)| In collaboration with the James Dyson Foundation, students explore scientific and engineering principles through open-ended tinkering, 3D modelling and printing.|
+| Art |Primary 6| Students design personalised bubble wands using 3D pens, combining creative making with mindfulness practice. Through the gentle art of bubble-blowing and controlled breathing, they discover practical self-regulation strategies that support their emotional wellbeing.|
+| MuMaker |Primary 6| Building on the school's upcycling programme, students design innovative prototypes for environmental solutions by combining upcycled materials with micro:bit technology.|
