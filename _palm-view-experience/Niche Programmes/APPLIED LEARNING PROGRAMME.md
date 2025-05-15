@@ -30,4 +30,3 @@ One of the key strengths of Voyagers@PLVPS lies in its intentional integration o
 | Tinker@Voyagers |Primary 4 (Selected Students)| In collaboration with the James Dyson Foundation, students explore scientific and engineering principles through open-ended tinkering, 3D modelling and printing.|
 | Art |Primary 6| Students design personalised bubble wands using 3D pens, combining creative making with mindfulness practice. Through the gentle art of bubble-blowing and controlled breathing, they discover practical self-regulation strategies that support their emotional wellbeing.|
 | MuMaker |Primary 6| Building on the school's upcycling programme, students design innovative prototypes for environmental solutions by combining upcycled materials with micro:bit technology.|
-
