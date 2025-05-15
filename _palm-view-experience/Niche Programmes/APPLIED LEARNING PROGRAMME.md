@@ -21,4 +21,13 @@ Central to Voyagers@PLVPS is the Design Thinking Framework for Young Voyagers—
 
 One of the key strengths of Voyagers@PLVPS lies in its intentional integration of subject areas, allowing students to make meaningful connections across disciplines while engaging in creative problem-solving and hands-on making.
 
- 
+
+
+| Subject Area | Level | Programme |
+| -------- | -------- | -------- |
+| English Language    | Primary 1 and 2 | Students construct models that represent their acquired vocabulary and present these creations to their peers, enabling them to articulate their thought processes and strengthen their communication skills |
+| Mathematics |Primary 4| Students craft three-dimensional structures using 3D pens, enhancing their understanding of spatial relationships and ability to visualise shapes in three dimensions.|
+| Tinker@Voyagers |Primary 4 (Selected Students)| In collaboration with the James Dyson Foundation, students explore scientific and engineering principles through open-ended tinkering, 3D modelling and printing.|
+| Art |Primary 6| Students design personalised bubble wands using 3D pens, combining creative making with mindfulness practice. Through the gentle art of bubble-blowing and controlled breathing, they discover practical self-regulation strategies that support their emotional wellbeing.|
+| MuMaker |Primary 6| Building on the school's upcycling programme, students design innovative prototypes for environmental solutions by combining upcycled materials with micro:bit technology.|
+
