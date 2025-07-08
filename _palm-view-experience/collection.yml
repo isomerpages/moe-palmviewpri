@@ -2,7 +2,6 @@ collections:
   palm-view-experience:
     output: true
     order:
-      - Student Wellbeing.md
       - Niche Programmes/.keep
       - Niche Programmes/LEARNING FOR LIFE PROGRAMME.md
       - Niche Programmes/APPLIED LEARNING PROGRAMME.md
@@ -25,6 +24,7 @@ collections:
       - Information and Communication Technology.md
       - Co Curricular Activities/.keep
       - Student Leadership.md
+      - Student Wellbeing.md
       - Peer Support Relationship.md
       - Student Development.md
       - E Arts PLVPS.md
