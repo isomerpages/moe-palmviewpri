@@ -42,7 +42,7 @@ thrive socially, emotionally, and mentally.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_3.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Pic_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,7 +81,7 @@ through structured training, mentoring, and student-led initiatives.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_6.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Pic_6.jpg">
 </div>
 </td>
 </tr>
@@ -102,9 +102,6 @@ through structured training, mentoring, and student-led initiatives.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_ef0eef74.jpg">
-</div>
 </td>
 </tr>
 <tr>
