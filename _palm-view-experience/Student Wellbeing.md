@@ -81,7 +81,7 @@ through structured training, mentoring, and student-led initiatives.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Pic_6.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Pic_6.jpg">
 </div>
 </td>
 </tr>
@@ -102,6 +102,9 @@ through structured training, mentoring, and student-led initiatives.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Pic_8a.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -132,7 +135,7 @@ thinking.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_9.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Pic_9.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
