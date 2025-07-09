@@ -103,7 +103,7 @@ through structured training, mentoring, and student-led initiatives.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_ef0eef74.jpg">
 </div>
 </td>
 </tr>
