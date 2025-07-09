@@ -1,6 +1,6 @@
 ---
 title: Student Wellbeing
-permalink: /student-wellbeing/
+permalink: /palm-view-experience/student-wellbeing/
 variant: tiptap
 description: ""
 ---
