@@ -62,10 +62,8 @@ thrive socially, emotionally, and mentally.</p>
 </tr>
 </tbody>
 </table>
-<p>Our Peer Support Leaders (PSLs) play a pivotal role in this ecosystem.
-Through structured training, mentoring, and student-led initiatives, PSLs
-build inclusive relationships, promote positive peer influence, and support
-classmates experiencing stress, bullying, or loneliness.</p>
+<p>Our Peer Support Leaders (PSLs) play a key role in nurturing student well-being
+through structured training, mentoring, and student-led initiatives.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -120,12 +118,13 @@ on their well-being</p>
 </tr>
 </tbody>
 </table>
-<p>Initiatives like the #SafePlace Mental Wellness Week and Student Well-Being
-Recess Activities reinforce emotional literacy, coping strategies, and
-resilience. These programs are co-led by PSLs and supported by staff and
-parent volunteers, creating safe and supportive environments throughout
-the school day. Executive Function skills such as self-monitoring and flexible
-thinking are taught to nurture self-regulation and empathy.</p>
+<p>Initiatives such as #SafePlace Student Wellness Week and recess activities
+promote emotional literacy and resilience, supported by PSLs, staff, and
+parents. Recess activities incorporate resources from the James Dyson Foundation
+(JDF) Science Challenge Cards in partnership with Dyson Singapore, with
+key well-being messages thoughtfully embedded into the activities. Executive
+Functioning skills are taught to foster self-regulation, empathy, and flexible
+thinking.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -156,7 +155,6 @@ thinking are taught to nurture self-regulation and empathy.</p>
 </tr>
 </tbody>
 </table>
-<p>Our approach focuses on proactive care— equipping every child with tools
-to manage their well-being and look out for others. By fostering peer connections,
-encouraging help-seeking behaviors, and promoting student voice, Palm View
-continues to grow a caring, connected, and resilient student community.</p>
+<p>Our students are equipped with strategies to manage stress, support peers,
+and seek help when needed - building a caring, connected, and resilient
+school community.</p>
