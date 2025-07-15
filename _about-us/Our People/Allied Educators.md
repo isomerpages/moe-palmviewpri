@@ -9,16 +9,17 @@ variant: markdown
 
 ### Counseling
 
-| <u>Name of School Counsellor</u> | <u>Email Address</u> | <u>DID</u> |
-| :---: | :---: | :---: |
-| Ms Rajesvathiy | [rajesvathiy_p@schools.gov.sg](mailto:rajesvathiy_p@schools.gov.sg) | 65089-463 | 
+| Name | Designation | Email Address | DID |
+| -------- | -------- | -------- |-------- |
+| Ms Rajesvathiy | Senior School Counsellor | rajesvathiy_p@schools.gov.sg | 65089-463  |
 | | |
 
 ### Special Educational Needs
 
-| <u>Name of SEN Officers</u> | <u>E-mail Address</u> | <u>DID</u> |
-|---|---|---|
-| Ms Thaahirah | [thaahirah_abu_bakar@schools.gov.sg](mailto:thaahirah_abu_bakar@schools.gov.sg) | 65089-464 |
-|  Mdm Rhadiyah Bte Fauzi |  [rhadiyah_fauzi@schools.gov.sg](mailto:rhadiyah_fauzi@schools.gov.sg) | 65087-300, Ext 293 |
- Ms Nur Syazwani Binte Kamsani |  [nur\_syazwani\_kamsani\_a@schools.gov.sg](mailto:nur\_syazwani\_kamsani\_a@schools.gov.sg) | 65087-300 (Ext 291)
+| Name | Designation | Email Address | DID |
+| -------- | -------- | -------- |-------- |
+| Mdm Thaahirah Binte Abu Bakar | Senior SEN Officer | thaahirah_abu_bakar@schools.gov.sg | 65089-464  |
+| Mdm Rhadiyah Bte Fauzi | SEN Officer | rhadiyah_fauzi@schools.gov.sg | 65087-300, Ext 293  |
+| Ms Nur Syazwani Binte Kamsani | SEN Officer | nur\_syazwani\_kamsani\_a@schools.gov.sg | 65087-300 (Ext 291) |
+| Ms Cheryl Koh Jie Xin | SEN Officer | koh_jie_xin_cheryl@schools.gov.sg | 65083-173  |
 | | |
