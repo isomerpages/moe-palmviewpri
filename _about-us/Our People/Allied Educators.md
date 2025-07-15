@@ -20,6 +20,6 @@ variant: markdown
 | -------- | -------- | -------- |-------- |
 | Mdm Thaahirah Binte Abu Bakar | Senior SEN Officer | thaahirah_abu_bakar@schools.gov.sg | 65089-464  |
 | Mdm Rhadiyah Bte Fauzi | SEN Officer | rhadiyah_fauzi@schools.gov.sg | 65087-300, Ext 293  |
-| Ms Nur Syazwani Binte Kamsani | SEN Officer | nur\_syazwani\_kamsani\_a@schools.gov.sg | 65087-300 (Ext 291) |
+| Ms Nur Syazwani Binte Kamsani | SEN Officer | nur_syazwani_kamsani_a@schools.gov.sg | 65087-300 (Ext 291) |
 | Ms Cheryl Koh Jie Xin | SEN Officer | koh_jie_xin_cheryl@schools.gov.sg | 65083-173  |
 | | |
