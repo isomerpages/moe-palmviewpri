@@ -42,7 +42,6 @@ variant: markdown
 | Mathematics | Mrs Chow Seow Yann <br>65080-656<br>[wang_seow_yann_b@moe.edu.sg](mailto:wang_seow_yann_b@moe.edu.sg) |
 | Mathematics | Mdm Ng Cheng Tze <br>65080-350<br>[ng_cheng_tze_a@moe.edu.sg](mailto:ng_cheng_tze_a@moe.edu.sg) |
 | Mathematics | Ms Shannon Lim<br>65080-659<br>[lim_eu_li@schools.gov.sg](mailto:lim_eu_li@schools.gov.sg) |
-| Mathematics | Mrs Cheong Ruoen<br>65089-454<br>[wong_ai_lynn_ruoen@schools.gov.sg](mailto:wong_ai_lynn_ruoen@schools.gov.sg) |
 | Mathematics | Ms Candice Khoo<br>65067-643<br>[khoo_yun_xuan_candice@schools.gov.sg](mailto:khoo_yun_xuan_candice@schools.gov.sg)|
 | Mathematics | Mrs Kishore {Magdalene Tan} <br>65067-645<br>[tan_kai_lin_magdalene@schools.gov.sg](mailto:tan_kai_lin_magdalene@schools.gov.sg) |
 | Mathematics | Mdm Nurulhuda<br>65087-325<br>[nurulhuda_md_salleh@schools.gov.sg](mailto:nurulhuda_md_salleh@schools.gov.sg) |
