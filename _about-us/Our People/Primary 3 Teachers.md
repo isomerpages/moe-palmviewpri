@@ -34,7 +34,7 @@ variant: markdown
 |
 | Mathematics | Mr Sargunan {Guna}<br>65080-668<br>[sargunan_ilangovan@schools.gov.sg](mailto:sargunan_ilangovan@schools.gov.sg) |
 | Mathematics | Mdm Esther Tay<br>65087-330<br>[tay_wei_jing@schools.gov.sg](mailto:tay_wei_jing@schools.gov.sg) |
-| Mathematics | Mrs Cheryl Phua<br>65089-454<br>[lao_yann_choo_cheryl_a@moe.edu.sg](mailto:lao_yann_choo_cheryl_a@moe.edu.sg) |
+| Mathematics | Mr Chen Baolai<br>65067-649<br>[chen_baolai@schools.gov.sg](mailto:chen_baolai@schools.gov.sg) |
 | Mathematics | Mdm Shannon Hoon<br>65067-647<br>[hoon_shih_huihong_shihui@schools.gov.sg](mailto:hoon_shih_huihong_shihui@schools.gov.sg) |
 | Mathematics | Mr Kitson Sim<br>65067-644<br>[sim_tai_wee_kitson@schools.gov.sg](mailto:sim_tai_wee_kitson@schools.gov.sg)|
 | Mathematics |Ms Nicole Chee <br>65067-340<br>[chee_shu_rong_nicole@schools.gov.sg](mailto:chee_shu_rong_nicole@schools.gov.sg) |
