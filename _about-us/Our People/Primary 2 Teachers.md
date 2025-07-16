@@ -13,7 +13,7 @@ variant: markdown
 |---|---|---|
 | 2 Aristotle | Ms Rachel Loh <br>65067-640<br>[loh_hui_xian_rachel@schools.gov.sg](mailto:loh_hui_xian_rachel@schools.gov.sg) | Mdm Karmila<br>65089-458<br>[nor_karmila_hamzah@schools.gov.sg](mailto:nor_karmila_hamzah@schools.gov.sg) |
 | 2 Beethoven | Mrs Gracelyn Tham (AYH, Lower Primary)<br>65067-648<br>[lim_ai_zhen_gracelyn@schools.gov.sg](mailto:lim_ai_zhen_gracelyn@schools.gov.sg) | Mdm Jane Mah<br>65087-267<br>[mah_zhiwei_jane@schools.gov.sg](mailto:mah_zhiwei_jane@schools.gov.sg) |
-| 2 Curie |Mdm Fatin<br>65067-649<br>[nur_ishmah_fatin_rahim@schools.gov.sg](mailto:nur_ishmah_fatin_rahim@schools.gov.sg) | Mdm Teo Siow Yee (ST, SEN)<br>65087-270<br>[teo_siow_yee@schools.gov.sg](mailto:teo_siow_yee@schools.gov.sg) |
+| 2 Curie |Ms Rachel Tan<br>65089-453<br>[tan_jie_ying_rachel@schools.gov.sg](mailto:tan_jie_ying_rachel@schools.gov.sg) | Mdm Teo Siow Yee (ST, SEN)<br>65087-270<br>[teo_siow_yee@schools.gov.sg](mailto:teo_siow_yee@schools.gov.sg) |
 | 2 Da Vinci | Mrs Tan Lirong<br>65080-669<br>[sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg) | Mdm Masturah (SH, ML)<br>65089-455<br>[masturah_salleh@schools.gov.sg](mailto:masturah_salleh@schools.gov.sg) |
 | 2 Edison | Ms Vanna Ong<br>65067-642<br>[vanna_ong_limei@schools.gov.sg](mailto:vanna_ong_limei@schools.gov.sg) | Mdm G. Nithila Kanni (ST, CCE)<br>65089-451<br>[nithila_kanni_govindarajoo@schools.gov.sg](mailto:nithila_kanni_govindarajoo@schools.gov.sg) |
 | 2 Frank |Mrs Grace Chua<br>65089-468<br>[grace_lim_hui_leng@schools.gov.sg](mailto:grace_lim_hui_leng@schools.gov.sg) | Mrs Lim Bee Li<br>65087-266<br>[tay_bee_li@schools.gov.sg](mailto:tay_bee_li@schools.gov.sg) |
@@ -29,7 +29,7 @@ variant: markdown
 |
 | English Language | Ms Rachel Loh <br>65067-640<br>[loh_hui_xian_rachel@schools.gov.sg](mailto:loh_hui_xian_rachel@schools.gov.sg) |
 | English Language | Mdm Subaitha<br>65089-467<br>[subaitha_bee_sahul_hameed@moe.edu.sg](mailto:subaitha_bee_sahul_hameed@moe.edu.sg) |
-| English Language | Mdm Fatin<br>65067-649<br>[nur_ishmah_fatin_rahim@schools.gov.sg](mailto:nur_ishmah_fatin_rahim@schools.gov.sg) |
+| English Language | Ms Rachel Tan<br>65089-453<br>[tan_jie_ying_rachel@schools.gov.sg](mailto:tan_jie_ying_rachel@schools.gov.sg) |
 | English Language | Mrs Tan Lirong<br>65080-669<br>[sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg) |
 | English Language | Ms Vanna Ong<br>65067-642<br>[vanna_ong_limei@schools.gov.sg](mailto:vanna_ong_limei@schools.gov.sg) |
 | English Language | Mrs Grace Chua<br>65089-468<br>[grace_lim_hui_leng@schools.gov.sg](mailto:grace_lim_hui_leng@schools.gov.sg) |
@@ -39,7 +39,7 @@ variant: markdown
 |
 | Mathematics | Ms Seirrah Lim <br>65080-653<br>[lim_mei_fen@moe.edu.sg](mailto:lim_mei_fen@moe.edu.sg) |
 | Mathematics | Mrs Gracelyn Tham (AYH, Lower Primary)<br>65067-648<br>[lim_ai_zhen_gracelyn@schools.gov.sg](mailto:lim_ai_zhen_gracelyn@schools.gov.sg) |
-| Mathematics | Mdm Fatin<br>65067-649<br>[nur_ishmah_fatin_rahim@schools.gov.sg](mailto:nur_ishmah_fatin_rahim@schools.gov.sg) |
+| Mathematics | Ms Rachel Tan<br>65089-453<br>[tan_jie_ying_rachel@schools.gov.sg](mailto:tan_jie_ying_rachel@schools.gov.sg) |
 | Mathematics |Mdm Ng Cheng Tze<br>65080-350<br>[ng_cheng_tze_a@moe.edu.sg](mailto:ng_cheng_tze_a@moe.edu.sg) |
 | Mathematics | Ms Vanna Ong<br>65067-642<br>[vanna_ong_limei@schools.gov.sg](mailto:vanna_ong_limei@schools.gov.sg) |
 | Mathematics |Mdm Seah Wai Fang <br>65087-300 (Ext 242)<br>[seah_wai_fang_a@moe.edu.sg](mailto:seah_wai_fang_a@moe.edu.sg) |
@@ -49,7 +49,7 @@ variant: markdown
 |
 | Social Studies | Ms Rachel Loh <br>65067-640<br>[loh_hui_xian_rachel@schools.gov.sg](mailto:loh_hui_xian_rachel@schools.gov.sg) |
 | Social Studies | Mdm Subaitha<br>65089-467<br>[subaitha_bee_sahul_hameed@moe.edu.sg](mailto:subaitha_bee_sahul_hameed@moe.edu.sg) |
-| Social Studies | Mdm Fatin<br>65067-649<br>[nur_ishmah_fatin_rahim@schools.gov.sg](mailto:nur_ishmah_fatin_rahim@schools.gov.sg) |
+| Social Studies | Ms Rachel Tan<br>65089-453<br>[tan_jie_ying_rachel@schools.gov.sg](mailto:tan_jie_ying_rachel@schools.gov.sg) |
 | Social Studies | Mrs Tan Lirong<br>65080-669<br>[sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg) |
 | Social Studies | Ms Vanna Ong<br>65067-642<br>[vanna_ong_limei@schools.gov.sg](mailto:vanna_ong_limei@schools.gov.sg) |
 | Social Studies | Mdm Siti Norida<br>65087-327<br>[siti_norida_hassim@moe.edu.sg](mailto:siti_norida_hassim@moe.edu.sg) |
