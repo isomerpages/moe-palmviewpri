@@ -25,5 +25,5 @@ From the CCA, pupils will be able to:
 <p align="center"><em>Student enjoying the table tennis CCA</em></p>
 
 #### Teacher-in-charge
-**Mdm Fatin**  <br>
-[nur_ishmah_fatin_rahim@schools.gov.sg](mailto:nur_ishmah_fatin_rahim@schools.gov.sg)
+**Mr Qairul**  <br>
+[qairul_izam_shali@schools.gov.sg](mailto:qairul_izam_shali@schools.gov.sg)
