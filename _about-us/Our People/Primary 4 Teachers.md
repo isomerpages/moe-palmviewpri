@@ -32,7 +32,7 @@ variant: markdown
 | English Language |Mrs Sarah Tan<br>65067-348<br>[sarah_yu_xueli@schools.gov.sg](mailto:sarah_yu_xueli@schools.gov.sg) |
 | English Language | Ms Priscilla Teng<br>65087-326<br>[teng\_yu\_hui\_priscilla@schools.gov.sg](mailto:teng\_yu\_hui\_priscilla@schools.gov.sg) |
 | English Language | Mdm Kalpana (LH, EL)<br>65067-349<br>[kalpana_manimohan@schools.gov.sg](mailto:kalpana_manimohan@schools.gov.sg) |
-| English Language | Mdm Razia<br>65087-267<br>[abdul_majeeth_razia_sulthana@schools.gov.sg](mailto:abdul_majeeth_razia_sulthana@schools.gov.sg) |
+| English Language | Mrs Cheong Ruoen<br>65089-454<br>[wong_ai_lynn_ruoen@schools.gov.sg](mailto:wong_ai_lynn_ruoen@schools.gov.sg) |
 | English Language |Mdm Hartini<br>65087-324<br>[hartini_mohamed@schools.gov.sg](mailto:hartini_mohamed@schools.gov.sg) |
 |
 | Mathematics | Mdm Seah Wai Fang <br>65087-300 (Ext 242)<br>[seah_wai_fang_a@moe.edu.sg](mailto:seah_wai_fang_a@moe.edu.sg) |
