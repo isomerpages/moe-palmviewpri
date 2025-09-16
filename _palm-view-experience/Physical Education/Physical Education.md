@@ -47,7 +47,7 @@ At the end of the six years a Palm View primary pupil will have the ability to:
 ### Programmes and Enrichment Curriculum
 Beyond the P.E. curriculum, Palm View Primary will also provide platforms and opportunities for students to develop their interests and talents through our Sports, Visual or Performing Arts Enrichment programme (P1 – P2) during curriculum time. Students will be exposed to a variety of activities as an extension of what they have learned in P.E., Art or Music lessons.&nbsp;
 
-Physical Education is an integral part of the Palm View Primary experience. A healthy and physically active child is more likely to be academically motivated, alert, and successful!
+Physical Education is an integral part of the Palm View Primary experience. A healthy and physically active child is more likely to be academically motivated, alert, and successful.
 
 ### SwimSafer Programme
 The Primary 4 students will undergo the National SwimSafer Programme, which is a mandatory part of the Physical Education Curriculum. Through the SwimSafer Programme, students will learn swimming proficiency and water survival skills to become more confident when they participate in sports or activities near/in water bodies in the future.
