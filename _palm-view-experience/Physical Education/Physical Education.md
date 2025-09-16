@@ -3,9 +3,8 @@ title: Physical Education
 permalink: /palm-view-experience/Physical-Education/
 description: ""
 third_nav_title: Physical Education
+variant: markdown
 ---
-
-
 ## PHYSICAL EDUCATION
 
 Physical Education (P.E.) is a significant part of our students’ experience in Palm View Primary. It is no secret that physical activity is necessary to a child’s well-being. In Palm View Primary, we aim to provide our students with a comprehensive school physical activity program. The result of a quality physical education experience is that all students are provided with the skills, knowledge and attitudes necessary to lead a physically active lifestyle.
@@ -15,13 +14,13 @@ Our dynamic and comprehensive programme will allow our lower primary students to
 #### Summary of Syllabus<br>
 
 
-|       **P1 & P2**      |       **P3 & P4**      |         **P5 & P6**         |
+|       **P1 &amp; P2**      |       **P3 &amp; P4**      |         **P5 &amp; P6**         |
 |:----------------------:|:----------------------:|:---------------------------:|
 |  Fundamental Movements |  Fundamental Movements |    Educational Gymnastics   |
 | Educational Gymnastics | Educational Gymnastics |            Dance            |
-|          Dance         |          Dance         |        Sports & Games       |
-|        Olympism        |          Games         | Health & Fitness Management |
-|                        |    Health & Fitness    |          Athletics          |
+|          Dance         |          Dance         |        Sports &amp; Games       |
+|        Olympism        |          Games         | Health &amp; Fitness Management |
+|                        |    Health &amp; Fitness    |          Athletics          |
 |                        |        Swimming        |           Olympism          |
 |                        |        Olympism        |                             |
 
@@ -46,9 +45,9 @@ At the end of the six years a Palm View primary pupil will have the ability to:
 6.  Acquire safe practices during physical activities
 
 ### Programmes and Enrichment Curriculum
-Beyond the P.E. curriculum, Palm View Primary will also provide platforms and opportunities for students to develop their interests and talents through our Sports, Visual or Performing Arts Enrichment programme (P1 – P2) during curriculum time. Students will be exposed to a variety of activities as an extension of what they have learned in P.E., Art or Music lessons. 
+Beyond the P.E. curriculum, Palm View Primary will also provide platforms and opportunities for students to develop their interests and talents through our Sports, Visual or Performing Arts Enrichment programme (P1 – P2) during curriculum time. Students will be exposed to a variety of activities as an extension of what they have learned in P.E., Art or Music lessons.&nbsp;
 
 Physical Education is an integral part of the Palm View Primary experience. A healthy and physically active child is more likely to be academically motivated, alert, and successful!
 
 ### SwimSafer Programme
-The Primary 3 students will under the SwimSafer Programme. Through the SwimSafer Programme, students will learn swimming proficiency and water survival skills to become more confident when they participate in sports or activities near/in water bodies in the future.
+The Primary 4 students will undergo the National SwimSafer Programme, which is a mandatory part of the Physical Education Curriculum. Through the SwimSafer Programme, students will learn swimming proficiency and water survival skills to become more confident when they participate in sports or activities near/in water bodies in the future.
