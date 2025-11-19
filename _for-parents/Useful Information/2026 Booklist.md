@@ -5,4 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: Useful Information
 ---
-<p></p>
+<p><a href="/files/2026_booklists.pdf" rel="noopener nofollow" target="_blank">2026 Booklist</a>
+</p>
