@@ -6,3 +6,4 @@ description: ""
 third_nav_title: Home School Partnership
 ---
 1. [Parents' Information Kit](/files/P1_Orientation_2025__Parent_Information_Kit__Compressed.pdf)
+2. [P1 Orientation Slides](/files/P1_Orientation_2025_slides__P_s_slides_.pdf)
