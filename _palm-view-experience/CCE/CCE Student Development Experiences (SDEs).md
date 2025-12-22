@@ -20,7 +20,7 @@ classroom and recess activities to internalise values and citizenship dispositio
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Trying out meatless dishes as part of TDD acitivities </em>
+<p><em>Trying out meatless dishes as part of TDD acitivities</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Building food replicas to understand more about food disruptions in the past" src="/images/CCE Page/Building_food_replicas_to_understand_more_about_food_disruptions_in_the_past_3.jpg">
@@ -74,7 +74,7 @@ classroom and recess activities to internalise values and citizenship dispositio
 </div>
 </li>
 <li>
-<p><em>Writing out words in different Mother Tongue languages</em> 
+<p><em>Writing out words in different Mother Tongue languages</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -84,7 +84,63 @@ classroom and recess activities to internalise values and citizenship dispositio
 <li>
 <p><em>Ethnic outfits proudly worn to reflect our heritage</em>
 </p>
-<p></p>
 </li>
 </ul>
+<p></p>
+<p><strong>Inspiring RᵌICH League Award</strong>
+</p>
+<p>The 3-tier Inspiring R³ICH League Awards celebrate students and classes
+who consistently demonstrate Palm View Primary School’s R³ICH values —
+Respect, Responsibility, Resilience, Integrity, Care and Harmony. The programme
+affirms positive behaviours and actions that contribute to a safe and nurturing
+learning environment.</p>
+<p>The Star Student Award recognises students who not only live out our R³ICH
+values through their actions, but also inspire others through their exemplary
+behaviour.</p>
+<p>The Class Challenge Award is presented to classes that display strong
+teamwork in maintaining high standards of behaviour and cleanliness.</p>
+<p>The Silent Hero Award honours students who quietly embody our R³ICH values
+without seeking attention or praise — our everyday heroes chosen by school
+leaders, teachers and staff.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Page/1.jpg">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>A celebration of our 3-tier Inspiring R³ICH League Awards, honouring students who exemplify our school values in different ways.</em>
+</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCE Page/2.jpg">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Doing their part to earn the Class Challenge Award — one sweep at a time.</em>
+</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCE Page/3.jpg">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>A proud moment with our Principal and the Class Challenge winning class!</em>
+</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Page/4.png">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Some of our Silent Heroes in Action</em>
+</p>
+</li>
+</ul>
+<p></p>
 <p></p>
