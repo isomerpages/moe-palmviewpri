@@ -143,4 +143,144 @@ leaders, teachers and staff.</p>
 </li>
 </ul>
 <p></p>
+<p><strong>A Resilient Me</strong>
+</p>
+<p>Mental well-being is key to overall health and development. A Resilient
+Me is a joint collaboration between Character and Citizenship Education
+(CCE) and Student Mangement (SM) Departments to build a school culture
+where students feel safe and supported through promoting positive mindsets
+and mental well-being. Peer Suport Leaders and Prefects introduce monthly
+mental resilience quotes and explicit teaching on the applications of the
+quotes in learning is taught during morning Engagement Time. Students take
+on monthly resilience challenges, helping them build stronger coping skills
+and adapt more effectively to challenges.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Page/Photo_1.png">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>A Resilient Me SG60 Edition Quote - August</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Page/Photo_2.png">
+</div>
+</li>
+<li>
+<p><em>A Resilient Me SG60 Edition Resilience Challenge - August </em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Page/Photo_3.jpg">
+</div>
+</li>
+<li>
+<p><em>Students sharing A Resilient Me challenge with friends</em>
+</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Page/Photo_4.jpg">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Students listening to A Resilient Me reflection by a student</em>
+</p>
+</li>
+</ul>
+<p><strong>RᵌICH for Your Dreams </strong>
+</p>
+<p></p>
+<p>RᵌICH For Your Dreams is one of the CCE’s signature programmes which took
+place in the last week of Term 2. The programme's objectives centered on
+fostering students' self-awareness and expanding their knowledge of diverse
+education and career pathways. The aim was to empower students to make
+informed decisions regarding their educational and career pursuits, considering
+their individual strengths, interests, and skills.</p>
+<p>To engage students in their journey of career exploration, fun-filled
+recess activities were prepared. The highlight of the week was ‘Dress for
+Success’ where staff and students came decked out in their dream occupation
+attire, complete with accessories. Witnessing the participants embodying
+their aspirations was not only encouraging but also deeply inspiring.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Page/1A.jpg">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Exploring vertical farming — learning how mushrooms can be grown for self-sufficiency!</em>
+</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Page/2A.jpg">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Learning how to make our very own DIY water filter — science in action!</em>
+</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Page/3A.jpg">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Dream big, dress smart! Our students ready for their future aspirations!</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Page/4A.jpg">
+</div>
+</li>
+<li>
+<p><em>Sharing about our dreams!</em>
+</p>
+</li>
+</ul>
+<p></p>
+<p><strong>P6 Career Day</strong>
+</p>
+<p>As part of the Education and Career Guidance (ECG) Programme, the P6 Career
+Day aims to enrich our graduating cohort with understanding of career possibilities
+and encourage our students to explore their interests and strengths as
+they contemplate their future careers. Students will have the opportunity
+to engage with distinguished guest speakers from diverse fields. These
+professionals will share their experiences and insights, providing meaningful
+perspectives on the different career paths available to them.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Page/ecd3ae0c_5b5f_47a5_808e_7969fd80c5f1.jpg">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Our opening speaker for this year's P6 Career Day!</em>
+</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Page/d2134ef2_9472_48dd_af90_578421d72f25.jpg">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>We had the privilege of going down to AETOS to understand more about what their job entails!</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Page/8b4d6845_8ec7_4dc4_8e61_92877466e797.jpg">
+</div>
+</li>
+<li>
+<p><em>Our students also visited the NLB at Punggol to understand more about the processes in place. </em>
+</p>
+<p></p>
+<p></p>
+</li>
+</ul>
 <p></p>
