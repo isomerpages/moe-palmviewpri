@@ -11,25 +11,12 @@ third_nav_title: CCE
 <p>Curious Minds, Caring Hearts, Creative Spirits</p>
 <p><strong>Mission</strong>&nbsp;</p>
 <p>To develop the whole child to be a force for good in the world.</p>
-<p><strong>CCE (FTGP)/ CCE (MTL)</strong>
-</p>
-<p>CCE Lessons in primary schools comprise CCE (Form Teacher Guidance Period)
-or CCE (FTGP) and CCE (Mother Tongue Language) or CCE (MTL). CCE (FTGP)
-lessons involve the explicit teaching of values, social and emotional skills
-and citizenship dispositions. The lessons also equip students with knowledge
-and skills to better understand and navigate the real-world through the
-six CCE content areas.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCE Page/2__CCE__FTGP__P4_Cover_Page.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCE Page/3__CCE__FTGP__P5.png">
 </div>
-</li>
-</ul>
 <ul data-tight="true" class="tight">
 <li>
 <p><em>CCE (FTGP) Journals</em>
@@ -40,13 +27,10 @@ six CCE content areas.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 85%;" height="auto" width="100%" alt="" src="/images/CCE Page/4__CCE__MTL__P1_CL.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCE Page/6__CCE__MTL__P6_ML.png">
 </div>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p><em>CCE (MTL) Journals</em>
 </p>
