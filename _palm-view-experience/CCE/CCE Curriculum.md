@@ -19,26 +19,12 @@ lessons involve the explicit teaching of values, social and emotional skills
 and citizenship dispositions. The lessons also equip students with knowledge
 and skills to better understand and navigate the real-world through the
 six CCE content areas.</p>
-<p>CCE (MTL) lessons aim to deepen the learning of moral values through cultural
-stories, songs, proverbs, practices unique to each MTL. The lessons deepen
-moral values and one's cultural identity.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE Page/1__CCE__FTGP__P2_Cover_Page.png">
-</div>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>CCE (FTGP) Journals</em>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCE Page/2__CCE__FTGP__P4_Cover_Page.png">
 </div>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>CCE (FTGP) Journals</em>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCE Page/3__CCE__FTGP__P5.png">
 </div>
@@ -46,7 +32,7 @@ moral values and one's cultural identity.</p>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>CCE (FTGP) Journals </em>
+<p><em>CCE (FTGP) Journals</em>
 </p>
 <p></p>
 </li>
@@ -56,36 +42,18 @@ moral values and one's cultural identity.</p>
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p><em> CCE (MTL) Journals</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCE Page/5__CCE__MTL__P2_TL.png">
-</div>
-</li>
-<li>
-<p><em> CCE (MTL) Journals</em>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCE Page/6__CCE__MTL__P6_ML.png">
 </div>
 </li>
 <li>
-<p><em> CCE (MTL) Journals</em>
+<p><em>CCE (MTL) Journals</em>
 </p>
 </li>
 </ul>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Page/7__CCE_Curriculum_Framework.png">
-</div>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>CCE Curriculum Framework</em>
-</p>
-</li>
-</ul>
-<p><strong>PAL</strong>
+<p><strong>Programme for Active Learning (PAL)</strong>
 </p>
 <p>At Primary 1 and 2 levels, Programme for Active Learning (PAL) offers
 hands-on and experiential learning through the domains of Drama, Outdoor
@@ -129,37 +97,12 @@ to society.</p>
 <li>
 <p><em>The Singapore Social Studies Framework</em>
 </p>
-</li>
-</ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/CCE Page/P1_SS.jpg">
-</div>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>Social Studies Text &amp; Activity Books</em>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCE Page/P2_SS.jpg">
-</div>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>Social Studies Text &amp; Activity Books</em>
-</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 85%;" height="auto" width="100%" alt="" src="/images/CCE Page/P3_SS.jpg">
 </div>
 </li>
-<li>
-<p><em>Social Studies Text &amp; Activity Books</em>
-</p>
-</li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE Page/P4A_SS.jpg">
 </div>
@@ -167,26 +110,7 @@ to society.</p>
 <li>
 <p><em>Social Studies Text &amp; Activity Books</em>
 </p>
-</li>
-</ul>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE Page/P5A_SS.jpg">
-</div>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>Social Studies Text &amp; Activity Books</em>
-</p>
-</li>
-</ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE Page/P6A_SS.jpg">
-</div>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>Social Studies Text &amp; Activity Books</em>
-</p>
 </li>
 </ul>
 <p></p>
