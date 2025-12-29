@@ -36,22 +36,6 @@ classroom and recess activities to internalise values and citizenship dispositio
 <li>
 <p><em>Interesting reads for TDD at the library</em>
 </p>
-</li>
-</ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCE Page/Trying_out_Cambodian_Paper_Weaving__1_.jpg">
-</div>
-<ul data-tight="true" class="tight">
-<li>
-<p>Trying out Cambodian Paper Weaving</p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCE Page/Enjoying_the_rhythm_of_the_Tinikling_Dance_from_the_Philippines__1_.jpg">
-</div>
-</li>
-<li>
-<p><em>Enjoying the rhythm of the Tinikling Dance from the Philippines</em>
-</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Page/Students_having_fun_with_standees_showcasing_traditional_ASEAN_outfits__Malaysia___1_.jpg">
@@ -168,19 +152,10 @@ and adapt more effectively to challenges.</p>
 </div>
 </li>
 <li>
-<p><em>A Resilient Me SG60 Edition Resilience Challenge - August </em>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Page/Photo_3.jpg">
-</div>
-</li>
-<li>
-<p><em>Students sharing A Resilient Me challenge with friends</em>
+<p><em>A Resilient Me SG60 Edition Resilience Challenge - August</em>
 </p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Page/Photo_4.jpg">
 </div>
@@ -190,7 +165,7 @@ and adapt more effectively to challenges.</p>
 </p>
 </li>
 </ul>
-<p><strong>RᵌICH for Your Dreams </strong>
+<p><strong>RᵌICH for Your Dreams</strong>
 </p>
 <p></p>
 <p>RᵌICH For Your Dreams is one of the CCE’s signature programmes which took
@@ -277,7 +252,7 @@ perspectives on the different career paths available to them.</p>
 </div>
 </li>
 <li>
-<p><em>Our students also visited the NLB at Punggol to understand more about the processes in place. </em>
+<p><em>Our students also visited the Punggol Regional Library to understand more about the processes in place.</em>
 </p>
 <p></p>
 <p></p>
