@@ -14,7 +14,7 @@ variant: markdown
 | Principal | Mrs Ming Kum |[ming_antoinette_ramasamy@schools.gov.sg](mailto:ming_antoinette_ramasamy@schools.gov.sg) |
 | Vice-Principal | Mr Jeremy Ang |[ang_wei_teck@schools.gov.sg](mailto:ang_wei_teck@schools.gov.sg) |
 | Vice-Principal | Ms Khairiah Hairoman |[khairiah_hairoman@schools.gov.sg](mailto:khairiah_hairoman@schools.gov.sg) |
-| Vice-Principal (Admin) | Ms Chua Chew Hiang |[chua_chew_hiang@schools.gov.sg](mailto:chua_chew_hiang@schools.gov.sg) |
+| Vice-Principal (Admin) | Mdm Elaine Mok |[mok_mew_kuen@schools.gov.sg](mailto:mok_mew_kuen@schools.gov.sg) |
 | | | |
 
 ### Key Personnel
@@ -23,8 +23,8 @@ variant: markdown
 |:---:|:---:|:---:|
 | Head of Department,<br>Mathematics | Ms Audrey Loke | 65083-170<br>[loke_ai_guat_audrey@schools.gov.sg](mailto:loke_ai_guat_audrey@schools.gov.sg) |
 | Head of Department,<br>Science | Mr Gerald Wong | 65087-313<br>[gerald_wong_yew_meng@schools.gov.sg](mailto:gerald_wong_yew_meng@schools.gov.sg) |
+| Head of Department,<br>Mother Tongue Languages | Mdm Heng Wei Shan | 65087-313<br>[heng_wei_shan_a@schools.gov.sg](mailto:heng_wei_shan_a@schools.gov.sg) |
 | Head of Department,<br>Physical Education &amp; CCA | Mr Hisham | 65087-309<br>[hisham_b_spono@schools.gov.sg](mailto:hisham_b_spono@schools.gov.sg) |
-|  Head of Department, <br>Student Management |  Mr Zhou Wencong |  65087-322<br>[zhou_wencong@schools.gov.sg](mailto:zhou_wencong@schools.gov.sg) |
 Head of Department, <br>ICT |  Mr Warren Thin |  65080-652<br>[thin_dongqi@schools.gov.sg](mailto:thin_dongqi@schools.gov.sg) |
 | Head of Department, <br>CCE |  Mdm Joey Cheang |  &nbsp;65083-172<br>[cheang_ching_ee@schools.gov.sg](mailto:cheang_ching_ee@schools.gov.sg) |
 | School Staff Developer <br> |  Mdm Hasanah |  &nbsp;65080-660<br>[nur_hasanah_osman@schools.gov.sg](mailto:nur_hasanah_osman@schools.gov.sg) |
