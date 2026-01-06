@@ -6,4 +6,5 @@ variant: markdown
 ---
 ### **Palm View Connection**
 
-Click [here](https://sites.google.com/plvps.edu.sg/student-intranet/school-bulletin?authuser=0) to access the Palm View Connection Bulletin.
+
+Click [here](https://drive.google.com/drive/u/0/folders/1VM7pXX8i5Upvvdjg65RvQKxFvJ-24gMV) to access the Palm View Connection Bulletin.
