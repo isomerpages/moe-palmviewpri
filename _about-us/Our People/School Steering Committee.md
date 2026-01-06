@@ -39,9 +39,12 @@ Asst Year Head,<br>Upper Primary |Mrs Priscillia Chen |  65087-274<br>[tan\_yi\_
 | - | - | - |
 |  Level Head,<br>English Language |  Mdm Kalpana |  65067-349<br>[kalpana_manimohan@schools.gov.sg](mailto:kalpana_manimohan@schools.gov.sg) |
 |  Level Head,<br>Chinese Language | Mrs Faye Loh |  65087-264<br>[quah\_pei\_jun@schools.gov.sg](mailto:quah\_pei\_jun@schools.gov.sg) |
+|  Level Head,<br>Science | Mrs Priscillia Chen | 65089-462<br>[tan_yi_siu_priscillia@schools.gov.sg](mailto:tan_yi_siu_priscillia@schools.gov.sg) |
 |  Subject Head,<br>Student Well-Being |  Mr Senthil (Zack) |  65080-664<br>[subramaniyan\_senthil@schools.gov.sg](mailto:subramaniyan\_senthil@schools.gov.sg) |
 |  Subject Head,<br>Physical Education &amp; CCA |  Mrs Michelle Khoo |  65087-278<br>[lee_jing_wen_michelle@schools.gov.sg](mailto:lee_jing_wen_michelle@schools.gov.sg) |
 |  Subject Head,<br>Malay Language | Mdm Masturah|  65087-317<br>[masturah_salleh@schools.gov.sg](mailto:masturah_salleh@schools.gov.sg) |
+|  Subject Head,<br>CCE | Mdm Nur Hidayah|  65089-469<br>[nur_hidayah_mohshin@schools.gov.sg](mailto:nur_hidayah_mohshin@schools.gov.sg) |
+|  Subject Head,<br>Student Management | Ms Candice Koh|  65067-643<br>[khoo_yun_xuan_candice@schools.gov.sg](mailto:khoo_yun_xuan_candice@schools.gov.sg) |
 |  Subject Head,<br>Aesthetics | Mrs Clara Koh | 65089-455<br>[lim_xiu_fang_clara@schools.gov.sg](mailto:lim_xiu_fang_clara@schools.gov.sg) |
 | | | | |
 
@@ -57,3 +60,4 @@ Asst Year Head,<br>Upper Primary |Mrs Priscillia Chen |  65087-274<br>[tan\_yi\_
 | Senior Teacher, Mathematics | Mdm Leong Fong Fong | 65080-655<br>[leong_fong_fong@schools.gov.sg](mailto:leong_fong_fong@schools.gov.sg) |
 | Senior Teacher, CCE | Mdm G. Nithila Kanni | 65080-655<br>[nithila_kanni_govindarajoo@schools.gov.sg](mailto:nithila_kanni_govindarajoo@schools.gov.sg) |
 | Senior Teacher,&nbsp;Learning Needs (Lower Primary Learners) |&nbsp;Mrs Sharon Seow | 65067-644<br>[chew_sharon@schools.gov.sg](mailto:chew_sharon@schools.gov.sg) |
+| Senior Teacher, Chinese Language | Ms Lee Loo Yee | 65087-271<br>[lee_loo_yee@schools.gov.sg](mailto:lee_loo_yee@schools.gov.sg) |
