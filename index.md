@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Palm View Connection
           description: ""
-          url: https://drive.google.com/drive/u/0/folders/1VM7pXX8i5Upvvdjg65RvQKxFvJ-24gMV
+          url: https://drive.google.com/drive/u/0/folders/12Ee9ivrVo7a0f4P4rdZKqB84hlcIRqYQ
         - title: Featured News
           description: ""
           url: /plvps/featured-news
