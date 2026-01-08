@@ -57,3 +57,23 @@ variant: markdown
 |Chinese Language |Mdm Yong Puay Pin <br>65087-273<br>[yong_puay_pin_a@schools.gov.sg](mailto:yong_puay_pin_a@schools.gov.sg)
 ||
 |Malay Language | Mdm Masturah (SH, ML)<br>65087-317<br> [masturah_salleh@schools.gov.sg](mailto:masturah_salleh@schools.gov.sg) |
+|Malay Language | Mdm Nabilah<br>65087-319<br> [nabilah_abdul_rahman@schools.gov.sg](mailto:nabilah_abdul_rahman@schools.gov.sg) |
+||
+|Tamil Language | Mdm G. Nithila Kanni (ST, CCE)<br>65089-450<br> [nithila_kanni_govindarajoo@schools.gov.sg](mailto:nithila_kanni_govindarajoo@schools.gov.sg) |
+||
+|Music | Mr Bryon Luo<br>65089-457<br> [luo_youde_bryon@schools.gov.sg](mailto:luo_youde_bryon@schools.gov.sg) |
+|Music | Mrs Clara Koh (SH, Aesthetics)<br>65089-455<br> [lim_xiu_fang_clara@schools.gov.sg](mailto:lim_xiu_fang_clara@schools.gov.sg) |
+|Music | Ms Rebecca Lau (ST, Music)<br>65089-456<br> [rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
+||
+|Physical Education | Mr Rafiei<br>65087-275<br> [mohamad_rafiei_sakeyam@schools.gov.sg](mailto:mohamad_rafiei_sakeyam@schools.gov.sg) |
+|Physical Education | Ms Janice How<br>65087-300 (Ext 241)<br> [janice_how_sui_yen@schools.gov.sg](mailto:janice_how_sui_yen@schools.gov.sg) |
+|Physical Education | Mr Hassan<br>65087-300 (Ext 286)<br> [hassan_mulyadi_mohamed_a@schools.gov.sg](mailto:hassan_mulyadi_mohamed_a@schools.gov.sg) |
+|Physical Education | Mrs Michelle Khoo (SH, PE &amp; CCA)<br>65087-278<br> [lee_jing_wen_michelle@schools.gov.sg](mailto:lee_jing_wen_michelle@schools.gov.sg) |
+||
+|Social Studies | Mrs Gracelyn Tham (AYH, Lower Primary)<br>65089-454<br> [lim_ai_zhen_gracelyn@schools.gov.sg](mailto:lim_ai_zhen_gracelyn@schools.gov.sg) |
+|Social Studies |Ms Vanna Ong<br>65087-267<br> [vanna_ong_limei@schools.gov.sg](mailto:vanna_ong_limei@schools.gov.sg) |
+|Social Studies | Mdm Subaitha<br>65089-467<br> [subaitha_bee_sahul_hameed@schools.gov.sg](mailto:subaitha_bee_sahul_hameed@schools.gov.sg) |
+|Social Studies |Mrs Tan Lirong<br>65080-669<br> [sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg) |
+| Social Studies |Ms Louisa Sng<br>65067-348<br> [louisa_sng_mei_cheah@schools.gov.sg](mailto:louisa_sng_mei_cheah@schools.gov.sg) |
+| Social Studies |Mrs Grace Chua<br>65089-468<br> [grace_lim_hui_leng@schools.gov.sg](mailto:grace_lim_hui_leng@schools.gov.sg) |
+| Social Studies |Ms Rachel Loh<br>65067-640<br> [loh_hui_xian_rachel@schools.gov.sg](mailto:loh_hui_xian_rachel@schools.gov.sg) |
