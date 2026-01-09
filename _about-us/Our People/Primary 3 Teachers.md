@@ -47,3 +47,27 @@ Chinese Language |Mr Teng Tse Peng (YH, Middle Primary)<br>65087-310<br>[teng_ts
 Chinese Language |Mdm Jessie Nah)<br>65083-178<br>[jessie_nah_min_li@schools.gov.sg](mailto:jessie_nah_min_li@schools.gov.sg)|
 ||
 Malay Language |Mdm Masturah (SH, ML)<br>65087-317<br>[masturah_salleh@schools.gov.sg](mailto:masturah_salleh@schools.gov.sg)|
+Malay Language |Mdm Nabilah<br>65087-319<br>[nabilah_abdul_rahman@schools.gov.sg](mailto:nabilah_abdul_rahman@schools.gov.sg)|
+||
+Tamil Language |Mdm G. Nithila Kanni (ST, CCE)<br>65089-450<br>[nithila_kanni_govindarajoo@schools.gov.sg](mailto:nithila_kanni_govindarajoo@schools.gov.sg)|
+||
+|Music | Mr Bryon Luo<br>65089-457<br> [luo_youde_bryon@schools.gov.sg](mailto:luo_youde_bryon@schools.gov.sg) |
+|Music | Mrs Clara Koh (SH, Aesthetics)<br>65089-455<br> [lim_xiu_fang_clara@schools.gov.sg](mailto:lim_xiu_fang_clara@schools.gov.sg) |
+|Music | Ms Rebecca Lau (ST, Music)<br>65089-456<br> [rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
+||
+|Physical Education | Mr Rafiei<br>65087-275<br> [mohamad_rafiei_sakeyam@schools.gov.sg](mailto:mohamad_rafiei_sakeyam@schools.gov.sg) |
+|Physical Education | Ms Janice How<br>65087-300 (Ext 241)<br> [janice_how_sui_yen@schools.gov.sg](mailto:janice_how_sui_yen@schools.gov.sg) |
+|Physical Education | Mr Hassan<br>65087-300 (Ext 286)<br> [hassan_mulyadi_mohamed_a@schools.gov.sg](mailto:hassan_mulyadi_mohamed_a@schools.gov.sg) |
+|Physical Education | Mrs Valerie Seet<br>65087-279<br> [valerie_koh_sock_hwee@schools.gov.sg](mailto:valerie_koh_sock_hwee@schools.gov.sg) |
+|Physical Education | Mdm Nazurah<br>65087-277<br> [nazurah_syazana_nordin@schools.gov.sg](mailto:nazurah_syazana_nordin@schools.gov.sg) |
+||
+|Science | Mrs Tan Lirong<br>65080-669<br> [sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg) |
+|Science | Mdm Josephine Kee<br>65067-342<br>[kee_wan_cheng@schools.gov.sg](mailto:kee_wan_cheng@schools.gov.sg) |
+| Science |Ms Priscilla Teng<br>65087-326<br>[teng_yu_hui_priscilla@schools.gov.sg](mailto:teng_yu_hui_priscilla@schools.gov.sg)
+| Science |Mr Gerald Wong (HOD, Science)<br>65087-313<br>[gerald_wong_yew_meng@schools.gov.sg](mailto:gerald_wong_yew_meng@schools.gov.sg)
+|Science  |Ms Joanne Ko {Jo Ko}<br>65089-461<br>[ko_hiang@schools.gov.sg](mailto:ko_hiang@schools.gov.sg) |
+||
+Social Studies |Mdm Hartini <br>65087-324<br>[hartini_mohamed@schools.gov.sg](mailto:hartini_mohamed@schools.gov.sg) |
+Social Studies |Ms Saangeetha<br>65089-458<br>[saangeetha_martin_rubin_b@schools.gov.sg](mailto:saangeetha_martin_rubin_b@schools.gov.sg) |
+Social Studies |Mrs Daphne Pereira<br>65089-466<br>[daphne_saro_pereira_a@moe.edu.sg](mailto:daphne_saro_pereira_a@moe.edu.sg) |
+Social Studies |Mrs Cheong Ruoen<br>65089-452<br>[wong_ai_lynn_ruoen@schools.gov.sg](mailto:wong_ai_lynn_ruoen@schools.gov.sg) |
