@@ -75,4 +75,3 @@ Social Studies |Mrs Serene Yue<br>65067-345<br>[wong_may_san_serene@schools.gov.
 Social Studies |Mrs Daphne Pereira<br>65089-466<br>[daphne_saro_pereira_a@moe.edu.sg](mailto:daphne_saro_pereira_a@moe.edu.sg) |
 Social Studies |Ms Hidayah (SH, CCE)<br>65089-469<br>[nur_hidayah_mohshin@schools.gov.sg](mailto:nur_hidayah_mohshin@schools.gov.sg) |
 Social Studies |Mdm Hasanah (HOD, SSD)<br>65080-660<br>[nur_hasanah_osman@schools.gov.sg](mailto:nur_hasanah_osman@schools.gov.sg) |
-
