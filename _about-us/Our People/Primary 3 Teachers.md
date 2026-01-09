@@ -44,7 +44,7 @@ Chinese Language |Mdm Heng Wei Shan (HOD, MTL) <br>65087-322<br>[heng_wei_shan_a
 Chinese Language |Ms Kang Chao <br>65087-269<br>[kang_chao@schools.gov.sg](mailto:kang_chao@schools.gov.sg)|
 Chinese Language |Ms Cher Xin Joo<br>65087-260<br>[cher_xin_joo@schools.gov.sg](mailto:cher_xin_joo@schools.gov.sg)|
 Chinese Language |Mr Teng Tse Peng (YH, Middle Primary)<br>65087-310<br>[teng_tse_peng_a@schools.gov.sg](mailto:teng_tse_peng_a@schools.gov.sg)|
-Chinese Language |Mdm Jessie Nah)<br>65083-178<br>[jessie_nah_min_li@schools.gov.sg](mailto:jessie_nah_min_li@schools.gov.sg)|
+Chinese Language |Mdm Jessie Nah<br>65083-178<br>[jessie_nah_min_li@schools.gov.sg](mailto:jessie_nah_min_li@schools.gov.sg)|
 ||
 Malay Language |Mdm Masturah (SH, ML)<br>65087-317<br>[masturah_salleh@schools.gov.sg](mailto:masturah_salleh@schools.gov.sg)|
 Malay Language |Mdm Nabilah<br>65087-319<br>[nabilah_abdul_rahman@schools.gov.sg](mailto:nabilah_abdul_rahman@schools.gov.sg)|
