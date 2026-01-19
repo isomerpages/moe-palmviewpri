@@ -37,5 +37,5 @@ In the confines of the CCA, our children will learn how to:
 * Encourage exchange of ideas and cooperation among the science club members
 
 #### Teacher-in-charge
-**Mrs Kishore {Magdalene Tan}** <br>
-[tan_kai_lin_magdalene@schools.gov.sg](mailto:tan_kai_lin_magdalene@schools.gov.sg)
+**Mdm Asyikin** <br>
+[nur_asyikin_mohd_agos@schools.gov.sg](mailto:nur_asyikin_mohd_agos@schools.gov.sg)
