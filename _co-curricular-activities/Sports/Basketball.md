@@ -20,5 +20,5 @@ As one of the pioneer Co – Curricular Activities (CCAs) in Palm View Primary S
 Within the Basketball CCA for Palm View Primary School, the children will be given ample and dedicated training on the skills required to develop their competencies in playing the sport. The larger context that guides the CCA is to cultivate sporting awareness and excellence through the playing of basketball.
 
 #### Teacher–in–charge
-**Mr Qairul** <br>
-[qairul_izam_shali@schools.gov.sg](mailto:qairul_izam_shali@schools.gov.sg)
+**Mdm Nazurah** <br>
+[nazurah_syazana_nordin@schools.gov.sg](mailto:nazurah_syazana_nordin@schools.gov.sg)
