@@ -23,7 +23,7 @@ variant: markdown
 |:---:|:---:|:---:|
 | Head of Department,<br>Mathematics | Ms Audrey Loke | 65083-170<br>[loke_ai_guat_audrey@schools.gov.sg](mailto:loke_ai_guat_audrey@schools.gov.sg) |
 | Head of Department,<br>Science | Mr Gerald Wong | 65087-313<br>[gerald_wong_yew_meng@schools.gov.sg](mailto:gerald_wong_yew_meng@schools.gov.sg) |
-| Head of Department,<br>Mother Tongue Languages | Mdm Heng Wei Shan | 65087-313<br>[heng_wei_shan_a@schools.gov.sg](mailto:heng_wei_shan_a@schools.gov.sg) |
+| Head of Department,<br>Mother Tongue Languages | Mdm Heng Wei Shan | 65087-322<br>[heng_wei_shan_a@schools.gov.sg](mailto:heng_wei_shan_a@schools.gov.sg) |
 | Head of Department,<br>Physical Education &amp; CCA | Mr Hisham | 65087-309<br>[hisham_b_spono@schools.gov.sg](mailto:hisham_b_spono@schools.gov.sg) |
 Head of Department, <br>ICT |  Mr Warren Thin |  65080-652<br>[thin_dongqi@schools.gov.sg](mailto:thin_dongqi@schools.gov.sg) |
 | Head of Department, <br>CCE |  Mdm Joey Cheang |  &nbsp;65083-172<br>[cheang_ching_ee@schools.gov.sg](mailto:cheang_ching_ee@schools.gov.sg) |
