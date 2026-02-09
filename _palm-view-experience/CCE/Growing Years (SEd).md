@@ -35,14 +35,14 @@ foundation for strong families);</p>
 <p>d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> &nbsp;for
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of Palm View Primary School’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Palm View Primary School’s Sexuality Education Programme for 2026</strong>
 </p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> (for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5. The subjects that incorporate topics on sexuality include are:</p>
 <p>a) Science</p>
@@ -72,14 +72,13 @@ themselves safe from sexuality-related risks.</p>
 and/or supplementary Sexuality Education programmes by MOE-approved external
 providers.</p>
 <p>9. Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. This form will be communicated&nbsp;
-to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/676914f616455fc8057ef330" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-<p>The completed opt-out form is to be submitted by 25 March 2025.</p>
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also available <a href="https://form.gov.sg/6975790528bcc2bc12a1e9f4" rel="noopener noreferrer nofollow" target="_blank">here</a><u>.</u> The
+completed opt-out form is to be submitted by 13/03/2026.</p>
 <p>10. Parents can contact the school at <a href="mailto:cheang_ching_ee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheang_ching_ee@schools.gov.sg</a> or
 6508 3172 for discussion or to seek clarification about the school’s Sexuality
 Education programme.</p>
 <p>At Palm View Primary School, the following Sexuality Education lessons
-will be taught in 2025:</p>
-<p>Please click <a href="/files/For Parents 2025/Summary_of_lessons.pdf" rel="noopener nofollow" target="_blank">Here </a>for
+will be taught in 2026:</p>
+<p>Please click <a href="/files/2026_Info_on_SEd_for_schs_website__Primary_Schools__PLVPS_Lesson_Outline.pdf" rel="noopener nofollow" target="_blank">Here</a> for
 the lesson overview</p>
