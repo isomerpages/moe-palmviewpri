@@ -80,5 +80,5 @@ completed opt-out form is to be submitted by 13/03/2026.</p>
 Education programme.</p>
 <p>At Palm View Primary School, the following Sexuality Education lessons
 will be taught in 2026:</p>
-<p>Please click <a href="/files/For Parents 2025/Summary_of_lessons.pdf" rel="noopener nofollow" target="_blank">Here </a>for
+<p>Please click <a href="/files/2026_Info_on_SEd_for_schs_website__Primary_Schools__PLVPS_Lesson_Outline.pdf" rel="noopener nofollow" target="_blank">Here</a> for
 the lesson overview</p>
