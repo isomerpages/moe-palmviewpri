@@ -21,7 +21,7 @@ variant: markdown
 12.  [Request Form for Updating of Student's Official Address](/files/Form%20C%20(Address%20Updates).pdf)
 13.  [Standing Order for Use of Edusave Account (For Singaporeans)](/files/Standing%20Order%20for%20use%20of%20Edusave%20ac(for%20Singaporeans).pdf)
 14.  [Leaving Mainstream School](/files/Mainstream%20School%20Leaver%20form.pdf)
-15. [MOE Student Group Personal Accident Insurance (Online Claim Form)](/files/For%20Parents%20(2023)/Student%20GPA%20Claims%20Procedure.pdf)
+15. [MOE Student Group Personal Accident Insurance (Online Claim Form)](/files/For%20Parents%202026/Product_Fact_Sheet__Year_2026_.pdf)
 16.  [Request Form for Updating Parents' or Legal Guardian's Particulars](/files/Request%20form%20for%20Updating%20Parents'%20or%20Legal%20Guardian's%20Particulars%20(Form%20A).pdf)
 17.  [Request Form for Updating of Caregiver’s Particulars](/files/For%20Parents%20(2023)/Form%20B2.pdf)
 18.  [Request Form for Authorised Caregiver](/files/For%20Parents%20(2023)/Form%20B1.pdf)
