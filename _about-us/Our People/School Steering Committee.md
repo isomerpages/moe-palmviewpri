@@ -57,6 +57,7 @@ Asst Year Head,<br>Lower Primary | Mrs Gracelyn Tham |  65067-648<br>[lim_ai_zhe
 | Senior Teacher, Chinese Language | Ms Lee Loo Yee | 65087-271<br>[lee_loo_yee@schools.gov.sg](mailto:lee_loo_yee@schools.gov.sg) |
 | Senior Teacher, Mathematics | Mdm Leong Fong Fong | 65080-655<br>[leong_fong_fong@schools.gov.sg](mailto:leong_fong_fong@schools.gov.sg) |
 | Senior Teacher, Music | Ms Rebecca Lau | 65089-456<br>[rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
+| Senior Teacher, Physical Education | Mr Rafiei | 65087-275<br>[mohamad_rafiei_sakeyam@schools.gov.sg](mailto:mohamad_rafiei_sakeyam@schools.gov.sg) |
 | Senior Teacher, CCE | Mdm G. Nithila Kanni | 65080-655<br>[nithila_kanni_govindarajoo@schools.gov.sg](mailto:nithila_kanni_govindarajoo@schools.gov.sg) |
 | Senior Teacher, SEN | Mdm Teo Siow Yee | 65087-270<br>[teo_siow_yee@schools.gov.sg](mailto:teo_siow_yee@schools.gov.sg) |
 | Senior Teacher,&nbsp;Learning Needs (Lower Primary Learners) |&nbsp;Mrs Sharon Seow | 65067-644<br>[chew_sharon@schools.gov.sg](mailto:chew_sharon@schools.gov.sg) |
