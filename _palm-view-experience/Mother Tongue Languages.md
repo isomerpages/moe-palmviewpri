@@ -75,4 +75,63 @@ in learning the language.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL 2026/Stretch.png">
 </div>
+<h4><strong>MTL Signature Programmes</strong></h4>
+<p><strong>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MTL Fortnight (MTL FN) and Cultural Appreciation Programme</strong>
+</p>
+<p>The MTL FN activities provide platforms for students to actively learn
+MTL and the associated culture to experience MTL as ‘a living language’.
+These activities provide authentic opportunities for students to use MTL
+and experience the culture.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL 2026/MTFN_Competition_Winner__TL_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL 2026/MTFN_Cultural_Game__ML_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL 2026/MTFN_Comic_Drawing__CL_.jpg">
+</div>
+<p><strong>(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MTL SOAR</strong>
+</p>
+<p><strong>S</strong>park interest, <strong>O</strong>pen minds, <strong>A</strong>ppreciate
+cultural heritage, <strong>R</strong>ise as confident readers is a structured
+Mother Tongue Language (MTL) reading programme introduced by MOE in Singapore.
+It is designed to instil a love for reading in MTL and build positive reading
+habits from a young age.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL 2026/Reading_Programme.jpg">
+</div>
+<p><strong>(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Theatre Appreciation</strong>
+</p>
+<p>Theatre Appreciation in MTL learning aims to deepen students’ understanding
+of cultural heritage, strengthen language skills and develop critical thinking
+through engagement with authentic performances. It encourages creative
+expression, fosters empathy and social awareness and cultivates a lifelong
+interest in theatre and the arts as meaningful avenues for learning the
+Mother Tongue languages.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL 2026/Theatre_Appreciation_Programme__ML_.jpg">
+</div>
+<p><strong>Practical tips for parents in supporting the children in MTL learning</strong>
+</p>
+<p>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+To cultivate the love of reading MTL books, parents could read the small
+readers with their children. They can also bring their children to the
+library and allow them to select their own MTL book to read together as
+a family.</p>
+<p>(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Children take time &nbsp;to learn and write letters and characters. Do
+encourage them to take small steps. Give them time and affirm their good
+work as they progress. Show interest in the child’s MTL learning.</p>
+<p>(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do activities
+that require completing together. Conversations during such activities
+can be in MTL. For example, singing songs found in their MTL textbooks
+with movements and repetitions can help reinforce learning.</p>
+<p>Provide a conducive environment for learning MTL. For example, set up
+a reading corner at home, watch suitable TV programmes in MTL, etc. Use
+a variety of resources at home to extend your child's language and literacy
+skills in MTL during such activities</p>
 <p></p>
