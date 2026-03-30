@@ -2,11 +2,11 @@ collections:
   palm-view-experience:
     output: true
     order:
-      - Mother Tongue Languages.md
       - Niche Programmes/.keep
       - Niche Programmes/LEARNING FOR LIFE PROGRAMME.md
       - Niche Programmes/APPLIED LEARNING PROGRAMME.md
       - English Language.md
+      - Mother Tongue Languages.md
       - Mother Tongue Language/.keep
       - Mother Tongue Language/Chinese Language.md
       - Mathematics.md
