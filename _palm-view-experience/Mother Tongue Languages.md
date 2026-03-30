@@ -53,7 +53,7 @@ traditions associated with the language.</p>
 <h4><strong>MTL Department Mission</strong></h4>
 <p>In PLVPS, we aim to develop students who are proficient in their Mother
 Tongue Languages and who value and appreciate diverse cultures.</p>
-<h4><strong>&nbsp;Pedagogy and Approaches for MTL Learning (Stretch, Strengthen and Support Approach)</strong></h4>
+<h4><strong>Pedagogy and Approaches for MTL Learning (Stretch, Strengthen and Support Approach)</strong></h4>
 <p>In PLVPS, we adopt a student-centered approach (Stretch, Strengthen and
 Support) when designing MTL learning experiences. Through the use of e-Pedagogy,
 the teachers create engaging lessons that support independent and collaborative
