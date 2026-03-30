@@ -42,20 +42,18 @@ Asia and the world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Primary MTL Curriculum Framework" src="/images/MTL 2026/Primary_MTL_Curriculum.png">
 </div>
-<p><strong>MTL Department Vision</strong>
-</p>
-<p>Competence in MTL, Respect for Culture</p>
-<p>The vision of Competence in MTL, Respect for Culture in PLVPS emphasises
+<h4><strong>MTL Department Vision</strong></h4>
+<p>Competence in MTL, Respect for Culture.
+<br>
+<br>The vision of Competence in MTL, Respect for Culture in PLVPS emphasises
 developing students’ ability to use MTL confidently and effectively, while
 fostering a deep appreciation and respect for the cultures, values, and
 traditions associated with the language.</p>
 <p></p>
-<p><strong>MTL Department Mission</strong>
-</p>
+<h4><strong>MTL Department Mission</strong></h4>
 <p>In PLVPS, we aim to develop students who are proficient in their Mother
 Tongue Languages and who value and appreciate diverse cultures.</p>
-<p><strong>&nbsp;Pedagogy and Approaches for MTL Learning (Stretch, Strengthen and Support Approach)</strong>
-</p>
+<h4><strong>&nbsp;Pedagogy and Approaches for MTL Learning (Stretch, Strengthen and Support Approach)</strong></h4>
 <p>In PLVPS, we adopt a student-centered approach (Stretch, Strengthen and
 Support) when designing MTL learning experiences. Through the use of e-Pedagogy,
 the teachers create engaging lessons that support independent and collaborative
@@ -115,8 +113,7 @@ Mother Tongue languages.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL 2026/Theatre_Appreciation_Programme__ML_.jpg">
 </div>
-<p><strong>Practical tips for parents in supporting the children in MTL learning</strong>
-</p>
+<h4><strong>Practical tips for parents in supporting the children in MTL learning</strong></h4>
 <p>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 To cultivate the love of reading MTL books, parents could read the small
 readers with their children. They can also bring their children to the
