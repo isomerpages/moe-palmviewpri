@@ -43,7 +43,7 @@ Asst Year Head,<br>Lower Primary | Mrs Gracelyn Tham |  65067-648<br>[lim_ai_zhe
 |  Subject Head,<br>Physical Education &amp; CCA |  Mrs Michelle Khoo |  65087-278<br>[lee_jing_wen_michelle@schools.gov.sg](mailto:lee_jing_wen_michelle@schools.gov.sg) |
 |  Subject Head,<br>Malay Language | Mdm Masturah|  65087-317<br>[masturah_salleh@schools.gov.sg](mailto:masturah_salleh@schools.gov.sg) |
 |  Subject Head,<br>CCE | Mdm Nur Hidayah|  65089-469<br>[nur_hidayah_mohshin@schools.gov.sg](mailto:nur_hidayah_mohshin@schools.gov.sg) |
-|  Subject Head,<br>Student Management | Ms Candice Koh|  65067-643<br>[khoo_yun_xuan_candice@schools.gov.sg](mailto:khoo_yun_xuan_candice@schools.gov.sg) |
+|  Subject Head,<br>Student Management | Ms Candice Khoo|  65067-643<br>[khoo_yun_xuan_candice@schools.gov.sg](mailto:khoo_yun_xuan_candice@schools.gov.sg) |
 |  Subject Head,<br>Aesthetics | Mrs Clara Koh | 65089-455<br>[lim_xiu_fang_clara@schools.gov.sg](mailto:lim_xiu_fang_clara@schools.gov.sg) |
 | | | | |
 
