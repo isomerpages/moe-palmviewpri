@@ -71,7 +71,7 @@ closing the foundational gaps and building students’ interest and engagement
 in learning the language.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL 2026/Stretch.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL 2026/Stretch.png">
 </div>
 <h4><strong>MTL Signature Programmes</strong></h4>
 <p><strong>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MTL Fortnight (MTL FN) and Cultural Appreciation Programme</strong>
