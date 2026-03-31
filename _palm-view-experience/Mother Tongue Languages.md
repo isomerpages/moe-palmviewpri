@@ -40,7 +40,7 @@ enhances the cross-cultural competencies to engage with communities across
 Asia and the world.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Primary MTL Curriculum Framework" src="/images/MTL 2026/Primary_MTL_Curriculum.png">
+<img style="width: 75%;" height="auto" width="100%" alt="Primary MTL Curriculum Framework" src="/images/MTL 2026/Primary_MTL_Curriculum.png">
 </div>
 <h4><strong>MTL Department Vision</strong></h4>
 <p>Competence in MTL, Respect for Culture.
@@ -71,7 +71,7 @@ closing the foundational gaps and building students’ interest and engagement
 in learning the language.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL 2026/Stretch.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL 2026/Stretch.png">
 </div>
 <h4><strong>MTL Signature Programmes</strong></h4>
 <p><strong>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MTL Fortnight (MTL FN) and Cultural Appreciation Programme</strong>
