@@ -7,9 +7,9 @@ variant: markdown
 ---
 ## PHYSICAL EDUCATION
 
-Physical Education (P.E.) is a significant part of our students’ experience in Palm View Primary. It is no secret that physical activity is necessary to a child’s well-being. In Palm View Primary, we aim to provide our students with a comprehensive school physical activity program. The result of a quality physical education experience is that all students are provided with the skills, knowledge and attitudes necessary to lead a physically active lifestyle.
+Physical Education (P.E.) is a significant part of our students’ experience in Palm View Primary. Physical activity is necessary to a child’s well-being. In Palm View Primary, we aim to provide our students with a comprehensive school physical activity program. The result of a quality physical education experience is that all students are provided with the skills, knowledge and attitudes necessary to lead a physically active lifestyle.
 
-Our dynamic and comprehensive programme will allow our lower primary students to learn Fundamental Skills and Educational Gym while upper primary students will progress to modified sports and games, swimming and dance to facilitate their motor skills development. Our students will learn beyond the acquisition of skills and understand sports as a social phenomenon. The spirit, principles, values and ideals of Olympics will also be integrated into our P.E. curriculum.
+Our dynamic and comprehensive programme will allow our lower primary students to learn Fundamental Skills and Educational Gym while upper primary students will progress to modified sports and games, swimming and dance to facilitate their motor skills development. Our students will learn beyond the acquisition of skills and understand sports as a social phenomenon. Values Education and 21CC skills will be integrated into the PE Curriculum.
 
 #### Summary of Syllabus<br>
 
@@ -19,20 +19,19 @@ Our dynamic and comprehensive programme will allow our lower primary students to
 |  Fundamental Movements |  Fundamental Movements |    Educational Gymnastics   |
 | Educational Gymnastics | Educational Gymnastics |            Dance            |
 |          Dance         |          Dance         |        Sports &amp; Games       |
-|        Olympism        |          Games         | Health &amp; Fitness Management |
-|                        |    Health &amp; Fitness    |          Athletics          |
-|                        |        Swimming        |           Olympism          |
-|                        |        Olympism        |                             |
+|        Physical Health and Safety        |          Games         | Physical Health and Safety |
+|                        |    Physical Health and Safety   |          Athletics          |
+|                        |        Swimming        |                        |
+|                        |        Athletics       |                             |
 
 ### Instructional Approaches
 The programme will be delivered by qualified P.E. teachers. In delivering our syllabus, Palm View uses the Cooperative Learning, Games Concept, Sports Education instructional methods. These approaches are student-centred where the teachers engage students as facilitators. Learning is made authentic, fun and challenging. The following summarises our instructional approach:
 
 *   Teacher is a Facilitator
 *   Students are Active Learners
-*   Students work in small Groups and play Modified Games
+*   Students work in small groups and play modified games
 *   Authentic Learning Activities
-*   Learning Activities are Interesting and Challenging
-*   Students are Held Accountable
+*   Learning Activities are age-appropriate and challenging
 
 ### Learning Outcomes
 At the end of the six years a Palm View primary pupil will have the ability to:
