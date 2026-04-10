@@ -47,7 +47,7 @@ Chinese Language |Ms Kang Chao<br>65087-269<br>[kang_chao@schools.gov.sg](mailto
 Chinese Language |Mdm Heng Wei Shan (HOD, MTL)<br>65087-322<br>[heng_wei_shan_a@schools.gov.sg](mailto:heng_wei_shan_a@schools.gov.sg)|
 Chinese Language |Ms Cher Xin Joo<br>65087-260<br>[cher_xin_joo@schools.gov.sg](mailto:cher_xin_joo@schools.gov.sg)|
 Chinese Language |Mrs Germaine Yeo<br>65087-272<br>[germaine_quek_jiamin@schools.gov.sg](mailto:germaine_quek_jiamin@schools.gov.sg)|
-Chinese Language |Mdm Joy Tan<br>65087-265<br>[germaine_quek_jiamin@schools.gov.sg](mailto:germaine_quek_jiamin@schools.gov.sg)|
+Chinese Language |Mdm Joy Tan<br>65087-265<br>[tan_boon_hui@schools.gov.sg](mailto:tan_boon_hui@schools.gov.sg)|
 Chinese Language |Mr Guah Boon Heng<br>65087-314<br>[guah_boon_heng@schools.gov.sg](mailto:guah_boon_heng@schools.gov.sg)|
 Chinese Language |Mdm Teo Siow Yee (ST, SEN)<br>65087-270<br>[teo_siow_yee@schools.gov.sg](mailto:teo_siow_yee@schools.gov.sg)|
 ||
