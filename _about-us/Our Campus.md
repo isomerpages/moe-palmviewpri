@@ -2,6 +2,7 @@
 title: Our Campus
 permalink: /about-us/our-campus/
 description: ""
+variant: markdown
 ---
 ## OUR CAMPUS
 
@@ -11,30 +12,42 @@ The school is a 6-storey building designed with additional infrastructural suppo
 
 #### School Hall
 
-<img style="width:80%" src="/images/IMG_4448.jpg"/>
+<img style="width:80%" src="/images/IMG_4448.jpg">
 
 #### Graffiti Wall
 
-<img style="width:80%" src="/images/Graffiti%20Wall.jpg"/>
+<img style="width:80%" src="/images/Graffiti%20Wall.jpg">
 
 #### Indoor Sports Hall
 
-<img style="width:80%" src="/images/IMG_3043.jpg"/>
+<img style="width:80%" src="/images/IMG_3043.jpg">
 
 #### School Playground
 
-<img style="width:80%" src="/images/school_playground.jpg"/>
+<img style="width:80%" src="/images/school_playground.jpg">
 
 #### Outdoor Experiential Learning (OEL) Garden
 
-<img style="width:80%" src="/images/IMG_3045.jpg"/>
+<img style="width:80%" src="/images/IMG_3045.jpg">
 
 #### Basketball Court
 
-<img style="width:80%" src="/images/IMG_3047.jpg"/>
+<img style="width:80%" src="/images/IMG_3047.jpg">
+
+#### Sheltered Parade Square
+
+![](/images/Sheltered_Parade_Square.jpg)
+
+#### Hydroponics
+
+![](/images/Hydroponics.jpg)
+
+#### Vegetable Plots
+
+![](/images/Vegetable_Garden_Plot.jpg)
 
 #### Media Resource Library
 
-<img style="width:80%" src="/images/Media%20Resource%20Library.jpg"/>
+![](/images/Media_Resource_Library.jpg)
 
 The presence of such infrastructure provides opportunities for more holistic learning, tapping on the affordances of each specially selected facility being built. For instance, the OEL Garden is used for authentic experiential learning across different subjects. For Science, students can head to the garden to gain first-hand exposure to some of the different flora and fauna they learn in the textbooks. For English, students can get to observe specific phenomenon they write about for real, as opposed to merely learning from pictures in the textbook or videos off the internet.
