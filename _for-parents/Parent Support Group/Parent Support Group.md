@@ -34,7 +34,7 @@ parents also can share their experience and advice with new parents.</p>
 <p><strong>Join us</strong>Please access the PSG Registration Form Link using
 the following QR code.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/psg%20qr%20code%20(updated%2015%20may%202023).jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/psg%20qr%20code%20(updated%2015%20may%202023).jpg">
 </div>
 <p>For the latest updates of PSG activities, please go to our Facebook page
 for details.</p>
