@@ -38,19 +38,19 @@ facilities to deliver quality programmes to the students:</p>
 </div>
 <h4>Sheltered Parade Square</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Sheltered_Parade_Square.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Sheltered_Parade_Square.jpg">
 </div>
 <h4>Hydroponics</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Hydroponics.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Hydroponics.jpg">
 </div>
 <h4>Vegetable Plots</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Vegetable_Garden_Plot.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Vegetable_Garden_Plot.jpg">
 </div>
 <h4>Media Resource Library</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Media_Resource_Library.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Media_Resource_Library.jpg">
 </div>
 <p>The presence of such infrastructure provides opportunities for more holistic
 learning, tapping on the affordances of each specially selected facility
