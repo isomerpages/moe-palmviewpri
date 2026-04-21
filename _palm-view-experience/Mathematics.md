@@ -42,7 +42,7 @@ with learning experience activities for students to learn mathematical
 concepts through games and class activities.</p>
 <h4>P1 Learning Journey to River Wonders</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/River_Wonders.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/River_Wonders.jpg">
 </div>
 <p>Our Primary 1 students take part in a Mathematics Learning Journey to
 River Wonders, where learning comes alive through exploration and discovery.
@@ -52,7 +52,7 @@ calculations. By connecting their observations to what they have learnt
 in class, they apply their Mathematics learning beyond the classroom.</p>
 <h4>P2 Learning Journey to Changi Airport</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_Changi_Airport_LJ.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/P2_Changi_Airport_LJ.jpg">
 </div>
 <p>Our Primary 2 students take part in a Mathematics Learning Journey to
 Changi Airport, where learning extends beyond the classroom into a real-world
@@ -69,7 +69,7 @@ with one another as part of their knowledge building process.</p>
 <h4>Enrichment Programmes&nbsp;&nbsp;</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Olympiad.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Math_Olympiad.jpg">
 </div>
 <p>The school plans enrichment programmes for upper primary students with
 an aptitude for mathematics. Selected P4 and P5 students will also be invited
