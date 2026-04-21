@@ -6,9 +6,9 @@ variant: tiptap
 ---
 <h2>MATHEMATICS</h2>
 <h4>Curriculum</h4>
-<p>The Primary Mathematics syllabus aims to enable all students to:&nbsp;</p>
-<p>acquire mathematical concepts and skills for everyday use and continuous
-learning in mathematics; develop thinking, reasoning, communication, application
+<p>The Primary Mathematics syllabus aims to enable all students to acquire
+mathematical concepts and skills for everyday use and continuous learning
+in mathematics; develop thinking, reasoning, communication, application
 and metacognition skills through a mathematical approach to problem solving;
 and build confidence and foster interest in mathematics. &nbsp;&nbsp;</p>
 <p>In Palm View Primary, we endeavor to build a strong foundation in numeracy
