@@ -51,7 +51,6 @@ with activities that apply concepts such as counting, comparing and simple
 calculations. By connecting their observations to what they have learnt
 in class, they apply their Mathematics learning beyond the classroom.</p>
 <h4>P2 Learning Journey to Changi Airport</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2_Changi_Airport_LJ.jpg">
 </div>
