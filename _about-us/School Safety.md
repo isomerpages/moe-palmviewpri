@@ -21,7 +21,7 @@ out during termly assembly talks and during FTGP lessons.</p>
 <p>Safety as a primary concern does not just revolve around safety practices
 in the school as it extends to what happens outside the school. That is
 why emphasis is also placed on the way the children make their way to school.
-Kindly refer to the <a href="/files/Safe_Route_to_School.pdf" rel="noopener nofollow" target="_blank">Safe Route to School</a>&nbsp;pdf
+Kindly refer to this <a href="/files/Safe_Route_to_School.pdf" rel="noopener nofollow" target="_blank">Safe Route to School</a>&nbsp;pdf
 on the available routes to school and the safety precautions when plying
 by these routes.</p>
 <h3>Cyberspace Safety</h3>
