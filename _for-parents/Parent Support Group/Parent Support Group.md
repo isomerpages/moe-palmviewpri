@@ -31,8 +31,9 @@ life more vibrant and engaging.&nbsp;The&nbsp;PSG&nbsp;also volunteers
 their&nbsp; expertise, talents, individual interests and creative ideas
 to support the school for programme&nbsp;improvements.&nbsp;The more experienced
 parents also can share their experience and advice with new parents.</p>
-<p><strong>Join us</strong>Please access the PSG Registration Form Link using
-the following QR code.</p>
+<p><strong>Join us</strong>
+</p>
+<p>Please access the PSG Registration Form Link using the following QR code.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/psg%20qr%20code%20(updated%2015%20may%202023).jpg">
 </div>
