@@ -18,7 +18,7 @@ master basic concepts as well as to encourage them to think critically,
 reason logically and communicate effectively.</p>
 <h4>The C-P-A Approach</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPA.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CPA.jpg">
 </div>
 <p>The Concrete–Pictorial–Abstract (C-P-A) approach supports students in
 developing a deep understanding of Mathematics by guiding them from hands-on
@@ -52,7 +52,7 @@ Triple check&nbsp;
 <br>MEWAS: Model, Equation, Working, Answer, Statement&nbsp;
 <br>NTUC: Number transfer, units, calculation</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Problem_Solving_Strategies_Poster.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Math_Problem_Solving_Strategies_Poster.jpg">
 </div>
 <p>Explicit teaching of heuristics, reasoning and communication skills will
 also be taught to enable our students to become better problem solvers.</p>
@@ -63,7 +63,7 @@ with learning experience activities for students to learn mathematical
 concepts through games and class activities.</p>
 <h4>English and Math Carnival</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Carnival.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Math_Carnival.jpg">
 </div>
 <p>In collaboration with the English Department, our students take part in
 the annual English and Math Carnival, where Mathematics learning comes
