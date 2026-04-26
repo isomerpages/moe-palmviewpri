@@ -7,15 +7,38 @@ variant: tiptap
 <h2>MATHEMATICS</h2>
 <h4>Curriculum</h4>
 <p>The Primary Mathematics syllabus aims to enable all students to acquire
-mathematical concepts and skills for everyday use and continuous learning
-in mathematics; develop thinking, reasoning, communication, application
-and metacognition skills through a mathematical approach to problem solving;
-and build confidence and foster interest in mathematics. &nbsp;&nbsp;</p>
+Mathematical concepts and skills for everyday use and continuous learning
+in Mathematics; develop thinking, reasoning, communication, application
+and metacognition skills through a Mathematical approach to problem solving;
+and build confidence and foster interest in Mathematics. &nbsp;&nbsp;</p>
 <p>In Palm View Primary, we endeavor to build a strong foundation in numeracy
-in our students and to arouse interest in mathematics learning.&nbsp; There
-are programmes within curriculum and outside curriculum time to help students
+in our students and to arouse interest in Mathematics learning.&nbsp; There
+are programmes both within and outside curriculum time to help students
 master basic concepts as well as to encourage them to think critically,
 reason logically and communicate effectively.</p>
+<h4>The C-P-A Approach</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CPA.jpg">
+</div>
+<p>The Concrete–Pictorial–Abstract (C-P-A) approach supports students in
+developing a deep understanding of Mathematics by guiding them from hands-on
+experiences to abstract thinking.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Concrete</strong>: Students use hands-on materials and real-life
+objects to explore mathematical concepts.</p>
+</li>
+<li>
+<p><strong>Pictorial</strong>: Students represent their understanding through
+drawings, diagrams and visual models.</p>
+</li>
+<li>
+<p><strong>Abstract</strong>: Students use numbers, symbols and mathematical
+language to solve problems and explain their thinking.</p>
+</li>
+</ul>
+<p>Through this progression, students build strong conceptual understanding
+and confidence in applying Mathematics in different contexts.</p>
 <h4>Problem Solving</h4>
 <p>The central focus of the curriculum is the development of mathematical
 problem-solving skills. Therefore, students are taught general problem-solving
@@ -27,19 +50,28 @@ to understand.&nbsp;</p>
 <p>RIGHT: Read the question, Identify Key words, Get a plan, Have it done,
 Triple check&nbsp;
 <br>MEWAS: Model, Equation, Working, Answer, Statement&nbsp;
-<br>NTUC: Number transfer, units, calculation
-<br>
-</p>
+<br>NTUC: Number transfer, units, calculation</p>
 <div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/Math Pic 3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Math_Problem_Solving_Strategies_Poster.jpg">
 </div>
-<p>Explicit teaching of heuristics and reasoning and communication skills
-will also be taught to enable our students to become better problem solvers.</p>
+<p>Explicit teaching of heuristics, reasoning and communication skills will
+also be taught to enable our students to become better problem solvers.</p>
 <h4>Learning Experience</h4>
 <p>There is a deliberate effort to enhance the learning experience of our
-students to foster joy of learning. In class, mathematics lessons are designed
+students to foster joy of learning. In class, Mathematics lessons are designed
 with learning experience activities for students to learn mathematical
 concepts through games and class activities.</p>
+<h4>English and Math Carnival</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Math_Carnival.jpg">
+</div>
+<p>In collaboration with the English Department, our students take part in
+the annual English and Math Carnival, where Mathematics learning comes
+alive through fun and engaging activities. Through recess game booths and
+hands-on classroom activities, students apply concepts such as time, multiplication,
+division and problem-solving in creative ways. This experience encourages
+critical thinking and collaboration, while helping students see the joy
+and relevance of Mathematics beyond the classroom.</p>
 <h4>P1 Learning Journey to River Wonders</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/River_Wonders.jpg">
@@ -67,13 +99,12 @@ concepts using videos and other visualisations. Students are encouraged
 to use Student Learning Space (SLS) to communicate ideas and collaborate
 with one another as part of their knowledge building process.</p>
 <h4>Enrichment Programmes&nbsp;&nbsp;</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Math_Olympiad.jpg">
 </div>
 <p>The school plans enrichment programmes for upper primary students with
-an aptitude for mathematics. Selected P4 and P5 students will also be invited
-to join the E2K programme. There are various competitions that selected
-students can participate in. Some of these&nbsp; mathematics competitions
-are Singapore Mathematical Olympiad for Primary Schools (SMOPS), National
+an aptitude for Mathematics. Selected P4 and P5 students are invited to
+join the E2K programme. There are various competitions that selected students
+can participate in. Some of these&nbsp; Mathematics competitions are the
+Asia Pacific Mathematical Olympiad for Primary Schools (APMOPS), National
 Mathematical Olympiad of Singapore (NMOS) and Annual Mathlympics.</p>
