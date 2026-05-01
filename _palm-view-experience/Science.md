@@ -62,7 +62,7 @@ Through this process, they develop <em>Curious Minds</em> and <em>Creative Spiri
 they explore, test, and refine their ideas.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/5a__Science_Corner.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/5a__Science_Corner.jpg">
 </div>
 <p>Primary 6 students working on their level challenge at our Fun Science
 Corner</p>
@@ -122,6 +122,17 @@ Through this programme, students apply their scientific knowledge in an
 authentic context while gaining a deeper understanding of food production.
 They demonstrate school values through teamwork and develop a sense of
 responsibility towards sustainable food practices in Singapore, cultivating <em>Caring Hearts</em> alongside <em>Curious Minds</em> and <em>Creative Spirits</em>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/11__Kangkong.jpg">
+</div>
+<p>Primary 4 students working together to harvest their Kang Kong</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/12__Plant.jpg">
+</div>
+<p>A Primary 4 student sharing her learning with younger peers</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
