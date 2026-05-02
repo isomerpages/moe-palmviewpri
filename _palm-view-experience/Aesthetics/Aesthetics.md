@@ -54,7 +54,7 @@ during level recesses, fostering a vibrant and supportive musical environment.</
 </div>
 <p>Together, these platforms encourage artistic expression, develop confidence,
 and promote the well-being of students across the school community.</p>
-<p><strong>3) Learning Journeys and Concert in School</strong>
+<p><strong>3) Learning Journeys</strong>
 </p>
 <p><strong>P1 LJ to Thow Kwang Pottery Jungle</strong>
 </p>
@@ -91,7 +91,7 @@ artists.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_Natioanl_Gallery_LJ.jpg">
 </div>
-<p><strong>Assembly Programme in School</strong>
+<p><strong>4) Assembly Programme in School</strong>
 </p>
 <p>During school-wide assembly celebrations, Palm View students are treated
 to performances by invited external performers spanning a rich variety
