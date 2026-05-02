@@ -32,7 +32,7 @@ artistic and musical talents through creative works and recorded performances.
 Guide by themed tasks, students are encouraged to develop their creativity
 and analytical thinking, while exploring diverse perspectives in their
 artworks. Selected artworks and musical performances are proudly showcased
-on the <a href="https://sites.google.com/view/e-artsplvps2025/e-artsplvps-2025" rel="noopener nofollow" target="_blank">microsite</a>.</p>
+on this <a href="https://sites.google.com/view/e-artsplvps2025/e-artsplvps-2025" rel="noopener nofollow" target="_blank">microsite</a>.</p>
 <p><strong>2) Arts@PLVPS Recess</strong>
 </p>
 <p><strong>Arts@PLVPS Recess </strong>is a termly programme designed to nurture
