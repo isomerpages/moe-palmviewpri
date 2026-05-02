@@ -47,12 +47,12 @@ the relevance of Science in everyday life and the wider community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/3__Natural_History_Museum.jpg">
 </div>
-<div>Primary 3 students exploring at Lee Kong Chian National History Museum</div>
+<div style="text-align: center;">Primary 3 students exploring at Lee Kong Chian National History Museum</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/4a__Urban_Farm.jpg">
 </div>
-<div>A Primary 4 student harvesting vegetables at an urban farm</div>
+<div style="text-align: center;">A Primary 4 student harvesting vegetables at an urban farm</div>
 <p><strong>3. Level Challenges</strong>
 </p>
 <p>Level-wide Science challenges engage students in collaborative problem-solving
@@ -64,7 +64,7 @@ they explore, test, and refine their ideas.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/5a__Science_Corner.jpg">
 </div>
-<div>Primary 6 students working on their level challenge at our Fun Science
+<div style="text-align: center;">Primary 6 students working on their level challenge at our Fun Science
 Corner</div>
 <p><strong>4. Environmental Education</strong>
 </p>
