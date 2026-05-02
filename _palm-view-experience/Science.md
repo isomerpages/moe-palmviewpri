@@ -2,7 +2,7 @@
 title: Science
 permalink: /palm-view-experience/science/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h2>SCIENCE</h2>
 <p>Guided by the Ministry of Education’s (MOE) Science Curriculum Framework,
@@ -14,9 +14,9 @@ investigating ideas, and thinking critically.</p>
 in learning Science, appreciating its connections to everyday life and
 its role in addressing global challenges.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Science_Framework.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Science_Framework.jpg">
 </div>
-<div style="text-align: center;">Ministry of Education’s (MOE) Science Curriculum Framework</div>
+<p>Ministry of Education’s (MOE) Science Curriculum Framework</p>
 <h4><strong>Science Department Programmes and Initiatives</strong></h4>
 <p><strong>1. Authentic Hands-on Learning Experiences</strong>
 </p>
@@ -28,14 +28,14 @@ and make sense of observations, while fostering <em>Creative Spirits</em> as
 they experiment, refine, and apply their learning in different contexts.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/1__celery.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/1__celery.jpg">
 </div>
-<div style="text-align: center;">A student observing water-carrying tubes in a celery stalk</div>
+<p>A student observing water-carrying tubes in a celery stalk</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2__lily.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2__lily.jpg">
 </div>
-<div style="text-align: center;">A student dissecting a lily flower</div>
+<p>A student dissecting a lily flower</p>
 <p><strong>2. Learning Journeys</strong>
 </p>
 <p>Learning Journeys are aligned with level-specific topics to provide authentic
@@ -45,14 +45,14 @@ deepen their understanding, and <em>Caring Hearts</em> as they recognise
 the relevance of Science in everyday life and the wider community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/3__Natural_History_Museum.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/3__Natural_History_Museum.jpg">
 </div>
-<div style="text-align: center;">Primary 3 students exploring at Lee Kong Chian National History Museum</div>
+<p>Primary 3 students exploring at Lee Kong Chian National History Museum</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/4a__Urban_Farm.jpg">
 </div>
-<div style="text-align: center;">A Primary 4 student harvesting vegetables at an urban farm</div>
+<p>A Primary 4 student harvesting vegetables at an urban farm</p>
 <p><strong>3. Level Challenges</strong>
 </p>
 <p>Level-wide Science challenges engage students in collaborative problem-solving
@@ -64,8 +64,8 @@ they explore, test, and refine their ideas.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/5a__Science_Corner.jpg">
 </div>
-<div style="text-align: center;">Primary 6 students working on their level challenge at our Fun Science
-Corner</div>
+<p>Primary 6 students working on their level challenge at our Fun Science
+Corner</p>
 <p><strong>4. Environmental Education</strong>
 </p>
 <p>Environmental Education is integrated into the curriculum through level-based
@@ -79,9 +79,9 @@ making environmentally responsible choices, while developing <em>Curious Minds</
 they explore and design solutions.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/7__Upcycling.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/7__Upcycling.jpg">
 </div>
-<div style="text-align: center;">Upcycling activities during recess time</div>
+<p>Upcycling activities during recess time</p>
 <p><strong>5. Earth Day Science Fair</strong>
 </p>
 <p>The Earth Day Science Fair, embodies the spirit of <em>“For Students, By Students.”</em> This
@@ -92,14 +92,14 @@ sustainability, demonstrating <em>Caring Hearts</em>. They also demonstrate <em>
 presenting innovative ideas and solutions grounded in scientific understanding.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/8__Paper_Aeroplane.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/8__Paper_Aeroplane.jpg">
 </div>
-<div style="text-align: center;">Whose paper aeroplane can fly the furthest?</div>
+<p>Whose paper aeroplane can fly the furthest?</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Fair.jpg">
 </div>
-<div style="text-align: center;">Primary 5 students conducting demonstrations during the Science Fair</div>
+<p>Primary 5 students conducting demonstrations during the Science Fair</p>
 <p><strong>6. E2K Science</strong>
 </p>
 <p>The E2K (Excellence 2000) Science programme provides enrichment for Primary
@@ -110,9 +110,9 @@ The programme also strengthens key competencies such as critical thinking
 and effective communication, nurturing <em>Curious Minds</em> and <em>Creative Spirits</em>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/11a__E2K_Science.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/11a__E2K_Science.jpg">
 </div>
-<div style="text-align: center;">Students in the E2K programme conducting their investigation</div>
+<p>Students in the E2K programme conducting their investigation</p>
 <p><strong>7. Growing Hearts</strong>
 </p>
 <p>As part of our school’s Learning for Life Programme (LLP) – Palm View
@@ -124,14 +124,14 @@ They demonstrate school values through teamwork and develop a sense of
 responsibility towards sustainable food practices in Singapore, cultivating <em>Caring Hearts</em> alongside <em>Curious Minds</em> and <em>Creative Spirits</em>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/11__Kangkong.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/11__Kangkong.jpg">
 </div>
-<div style="text-align: center;">Primary 4 students working together to harvest their Kang Kong</div>
+<p>Primary 4 students working together to harvest their Kang Kong</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/12__Plant.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/12__Plant.jpg">
 </div>
-<div style="text-align: center;">A Primary 4 student sharing her learning with younger peers</div>
+<p>A Primary 4 student sharing her learning with younger peers</p>
 <p></p>
 <p></p>
 <p></p>
