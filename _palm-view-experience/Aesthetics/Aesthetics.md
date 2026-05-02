@@ -54,9 +54,10 @@ during level recesses, fostering a vibrant and supportive musical environment.</
 </div>
 <p>Together, these platforms encourage artistic expression, develop confidence,
 and promote the well-being of students across the school community.</p>
-<p><strong>3) Learning Journeys/ Concert in school</strong>
+<p><strong>3) Learning Journeys and Concert in School</strong>
 </p>
-<p>a)P1 LJ to Thow Kwang Pottery Jungle</p>
+<p><strong>P1 LJ to Thow Kwang Pottery Jungle</strong>
+</p>
 <p>Each year, Primary 1 students from Palm View Primary School embark on
 an exciting learning journey to <strong>Thow Kwang Pottery Jungle</strong>.
 Set in an authentic heritage environment, this meaningful experience offers
@@ -75,7 +76,8 @@ confidence in creative expression.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/4_Pottery_LJ.jpg">
 </div>
-<p>b) P4 LJ to National Gallery Singapore</p>
+<p><strong>P4 LJ to National Gallery Singapore</strong>
+</p>
 <p>Our Primary 4 Museum-Based Learning Journey offers students a meaningful
 opportunity to connect classroom learning with real-world experiences.
 Through guided exploration of museum exhibits, students discover artworks
@@ -89,7 +91,8 @@ artists.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_Natioanl_Gallery_LJ.jpg">
 </div>
-<p>c) Assembly programme in school</p>
+<p><strong>Assembly Programme in School</strong>
+</p>
 <p>During school-wide assembly celebrations, Palm View students are treated
 to performances by invited external performers spanning a rich variety
 of music and theatre genres,&nbsp; fostering appreciation for the Arts.
