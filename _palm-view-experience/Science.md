@@ -126,12 +126,12 @@ responsibility towards sustainable food practices in Singapore, cultivating <em>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/11__Kangkong.jpg">
 </div>
-<p>Primary 4 students working together to harvest their Kang Kong</p>
+<div style="text-align: center;">Primary 4 students working together to harvest their Kang Kong</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/12__Plant.jpg">
 </div>
-<p>A Primary 4 student sharing her learning with younger peers</p>
+<div style="text-align: center;">A Primary 4 student sharing her learning with younger peers</div>
 <p></p>
 <p></p>
 <p></p>
