@@ -30,12 +30,12 @@ they experiment, refine, and apply their learning in different contexts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/1__celery.jpg">
 </div>
-<p>A student observing water-carrying tubes in a celery stalk</p>
-<p></p>
+<p style="text-align: center;">A student observing water-carrying tubes in a celery stalk
+</p><p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2__lily.jpg">
 </div>
-<p>A student dissecting a lily flower</p>
+<p style="text-align: center;">A student dissecting a lily flower</p>
 <p><strong>2. Learning Journeys</strong>
 </p>
 <p>Learning Journeys are aligned with level-specific topics to provide authentic
