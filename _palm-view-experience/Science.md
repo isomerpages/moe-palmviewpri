@@ -81,7 +81,7 @@ they explore and design solutions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/7__Upcycling.jpg">
 </div>
-<p>Upcycling activities during recess time</p>
+<div style="text-align: center;">Upcycling activities during recess time</div>
 <p><strong>5. Earth Day Science Fair</strong>
 </p>
 <p>The Earth Day Science Fair, embodies the spirit of <em>“For Students, By Students.”</em> This
@@ -94,12 +94,12 @@ presenting innovative ideas and solutions grounded in scientific understanding.<
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/8__Paper_Aeroplane.jpg">
 </div>
-<p>Whose paper aeroplane can fly the furthest?</p>
+<div style="text-align: center;">Whose paper aeroplane can fly the furthest?</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Fair.jpg">
 </div>
-<p>Primary 5 students conducting demonstrations during the Science Fair</p>
+<div style="text-align: center;">Primary 5 students conducting demonstrations during the Science Fair</div>
 <p><strong>6. E2K Science</strong>
 </p>
 <p>The E2K (Excellence 2000) Science programme provides enrichment for Primary
