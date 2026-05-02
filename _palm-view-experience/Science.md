@@ -16,7 +16,7 @@ its role in addressing global challenges.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Science_Framework.jpg">
 </div>
-<div> Ministry of Education’s (MOE) Science Curriculum Framework</div>
+<div>Ministry of Education’s (MOE) Science Curriculum Framework</div>
 <h4><strong>Science Department Programmes and Initiatives</strong></h4>
 <p><strong>1. Authentic Hands-on Learning Experiences</strong>
 </p>
