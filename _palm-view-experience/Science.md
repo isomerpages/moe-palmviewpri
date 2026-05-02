@@ -47,12 +47,12 @@ the relevance of Science in everyday life and the wider community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/3__Natural_History_Museum.jpg">
 </div>
-<p>Primary 3 students exploring at Lee Kong Chian National History Museum</p>
+<p style="text-align: center;">Primary 3 students exploring at Lee Kong Chian National History Museum</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/4a__Urban_Farm.jpg">
 </div>
-<p>A Primary 4 student harvesting vegetables at an urban farm</p>
+<p style="text-align: center;">A Primary 4 student harvesting vegetables at an urban farm</p>
 <p><strong>3. Level Challenges</strong>
 </p>
 <p>Level-wide Science challenges engage students in collaborative problem-solving
@@ -64,7 +64,7 @@ they explore, test, and refine their ideas.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/5a__Science_Corner.jpg">
 </div>
-<p>Primary 6 students working on their level challenge at our Fun Science
+<p style="text-align: center;">Primary 6 students working on their level challenge at our Fun Science
 Corner</p>
 <p><strong>4. Environmental Education</strong>
 </p>
@@ -81,7 +81,7 @@ they explore and design solutions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/7__Upcycling.jpg">
 </div>
-<p>Upcycling activities during recess time</p>
+<p style="text-align: center;">Upcycling activities during recess time</p>
 <p><strong>5. Earth Day Science Fair</strong>
 </p>
 <p>The Earth Day Science Fair, embodies the spirit of <em>“For Students, By Students.”</em> This
@@ -94,12 +94,12 @@ presenting innovative ideas and solutions grounded in scientific understanding.<
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/8__Paper_Aeroplane.jpg">
 </div>
-<p>Whose paper aeroplane can fly the furthest?</p>
+<p style="text-align: center;">Whose paper aeroplane can fly the furthest?</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Fair.jpg">
 </div>
-<p>Primary 5 students conducting demonstrations during the Science Fair</p>
+<p style="text-align: center;">Primary 5 students conducting demonstrations during the Science Fair</p>
 <p><strong>6. E2K Science</strong>
 </p>
 <p>The E2K (Excellence 2000) Science programme provides enrichment for Primary
@@ -112,7 +112,7 @@ and effective communication, nurturing <em>Curious Minds</em> and <em>Creative S
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/11a__E2K_Science.jpg">
 </div>
-<p>Students in the E2K programme conducting their investigation</p>
+<p style="text-align: center;">Students in the E2K programme conducting their investigation</p>
 <p><strong>7. Growing Hearts</strong>
 </p>
 <p>As part of our school’s Learning for Life Programme (LLP) – Palm View
@@ -126,12 +126,12 @@ responsibility towards sustainable food practices in Singapore, cultivating <em>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/11__Kangkong.jpg">
 </div>
-<p>Primary 4 students working together to harvest their Kang Kong</p>
+<p style="text-align: center;">Primary 4 students working together to harvest their Kang Kong</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/12__Plant.jpg">
 </div>
-<p>A Primary 4 student sharing her learning with younger peers</p>
+<p style="text-align: center;">A Primary 4 student sharing her learning with younger peers</p>
 <p></p>
 <p></p>
 <p></p>
