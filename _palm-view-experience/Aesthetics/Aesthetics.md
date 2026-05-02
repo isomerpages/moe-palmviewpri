@@ -73,7 +73,7 @@ bridges real-world craft practices with classroom learning, sparking curiosity
 and a deeper appreciation for traditional art forms — all while building
 confidence in creative expression.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_Pottery_LJ.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/4_Pottery_LJ.jpg">
 </div>
 <p>b) P4 LJ to National Gallery Singapore</p>
 <p>Our Primary 4 Museum-Based Learning Journey offers students a meaningful
