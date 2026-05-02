@@ -12,7 +12,7 @@ and <strong>Confident Performer</strong>, fostering a <strong>lifelong passion</
 the Arts.</p>
 <h4>The Aesthetics Framework</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics_Framework.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Aesthetics_Framework.jpg">
 </div>
 <h4>Department Key Thrusts</h4>
 <p>1) Talent development and identification (ARTs Instructional and Talent
