@@ -112,7 +112,7 @@ and effective communication, nurturing <em>Curious Minds</em> and <em>Creative S
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/11a__E2K_Science.jpg">
 </div>
-<p>Students in the E2K programme conducting their investigation</p>
+<div style="text-align: center;">Students in the E2K programme conducting their investigation</div>
 <p><strong>7. Growing Hearts</strong>
 </p>
 <p>As part of our school’s Learning for Life Programme (LLP) – Palm View
