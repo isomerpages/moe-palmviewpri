@@ -96,6 +96,7 @@ of music and theatre genres,&nbsp; fostering appreciation for the Arts.
 Through exposure to diverse forms such as rap, a cappella, music jam bands,
 and string quartet ensembles, students develop a deeper appreciation for
 different cultures and musical styles - broadening their artistic horizons
-well beyond the classroom.&nbsp;</p>
+well beyond the classroom.</p>
+<p>&nbsp;</p>
 <p></p>
 <p></p>
