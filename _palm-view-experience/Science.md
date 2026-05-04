@@ -2,102 +2,140 @@
 title: Science
 permalink: /palm-view-experience/science/
 description: ""
+variant: markdown
 ---
-## SCIENCE
-
-#### Overview 
-
-Why is it important for students to learn Science? <br>
-• To stimulate curiosity in finding out why things happen the way they do. (Curious Minds) <br>
-• To develop attitudes/ethics towards community and environment. (Caring Hearts)<br>
-• To explore and observe scientific phenomenon in real life. (Creative Spirits)
-
-Approach to the teaching and learning of Science <br>
-• Hands-on, Minds-on Approach to Learning Science (Curious Minds)<br>
-• Giving a Hand to the Community (Caring Hearts) <br>
-• Working Hand in Hand with Collaborative Partners (Creative Spirits)
-
-<figure>
-<img src="/images/dark room.jpg" style="width:90%">
-<figcaption> Students learning about light in our makeshift "dark room".
- </figcaption>
-</figure>
-
-#### Curriculum
-
-The Science Curriculum Framework is derived from the Policy Framework for the Teaching and Learning of Science. It encapsulates the thrust of science education in Singapore to prepare our students to be sufficiently adept as effective citizens, able to function in and contribute to an increasingly technologically-driven world. 
-
-Central to the curriculum framework is the inculcation of the spirit of scientific inquiry. The conduct of inquiry is founded on three integral domains of (a) Knowledge, Understanding and Application, (b) Skills and Processes and (c) Ethics and Attitudes. These domains are essential to the practice of science. The curriculum design seeks to enable students to view the pursuit of science as meaningful and useful. Inquiry is thus grounded in knowledge, issues and questions that relate to the roles played by science in daily life, society and the environment. Students in Palm View Primary School hone their Science Process Skills through experiences gained through our in-house designed programmes.
-
-<img src="/images/curriculum framework.jpg" style="width:75%">
-
-#### P3 Hydroponics
-As part of the Primary 3 syllabus on plants, the Primary 3 students were exposed to the cultivation of vegetables through hydroponics in contrast to the traditional farming methods of growing vegetables in soil. In the course of the 3-week growth cycle, the students observed the development of the vegetables. They were also introduced to the method of organically-grown vegetables as pesticides were not used at any time from transplanting to harvesting. In addition, the hydroponics greenhouse uses solar panels to generate electricity to power the pumps that circulate the nutrient solution, hence reducing the carbon footprint. The cultivation process further motivates students to have a healthy diet by eating more vegetables as well as infuses National Education by creating a sense of awareness that we can be self-reliant and innovative in finding alternative means of growing food in land-scarce Singapore.
-
-<figure>
-<img src="/images/Students with their fully grown vegetables.jpg" style="width:90%">
-<figcaption>Students with their fully grown vegetables.
- </figcaption>
-</figure>
-
-#### P4 Growing Hearts
-Primary 4 students took up the challenge of creating an eco-friendly school environment through the planting of vegetables and reflecting on the related issues facing the world today.
-The students worked in groups to collaborate and communicate their research findings on some plants. Using a decision-making process, they had to decide on the plant that they wanted to grow and put together an action plan on how to take care of their plant.  <br>
-After diligently monitoring the growth of their vegetables, the students then harvested their vegetables. To inculcate entrepreneurial dare, our students sold the harvested vegetables to their fellow students, parents and staff in school.  All the proceeds from the sale will be donated to a charitable organisation.
-
-<figure>
-<img src="/images/Students monitoring the plant growth.jpg" style="width:90%">
-<figcaption>Students monitoring the plant growth.
- </figcaption>
-</figure>
-
-#### Pedagogy
-
-Palm View Primary School uses two key pedagogical approaches in the teaching of Science; Inquiry-based learning and BSCS 5E Instructional Model.
-
-Inquiry-based learning may be characterised by the degree of responsibility students have in posing and responding to questions, designing investigations, and evaluating and communicating their learning (student-directed inquiry) compared to the degree of involvement the teacher takes (teacher-guided inquiry). Students will best benefit from experiences that vary between these two inquiry approaches.  
-This approach incorporates the strategies which include the essential features of Question, Evidence, Explanation, Connections and Communication and provide students with experiences that varies between guided (partial) and open (full) inquiry.
-
-<img src="/images/5E.jpg" style="width:70%">
-
-The BSCS 5E Instructional Model which is grounded in sound educational theory, has a growing base of research to support its effectiveness, and has had a significant impact on science education.  <br>
-• The five phases of the BSCS 5E Instructional Model are designed to facilitate the process of conceptual change.  <br>
-• The use of this model brings coherence to different teaching strategies, provides connections among educational activities, and helps science teachers make decisions about interactions with students.  <br>
-• Each phase of the model and a short phrase to indicate its purpose from a student perspective are: <br>
-o Engagement - students' prior knowledge accessed and interest engaged in the phenomenon  <br>  o Exploration - students participate in an activity that facilitates conceptual change  <br>  o Explanation - students generate an explanation of the phenomenon  <br>  o Elaboration - students' understanding of the phenomenon challenged and deepened through new experiences  <br>  o Evaluation - students assess their understanding of the phenomenon
-		
-#### Programmes
-
-Various programmes in Palm View Primary School are designed to allow for students to enjoy science and value science as an important tool in helping them explore their natural and physical world.
-
-**Fun Science Demonstration Theatre**
-* Fun Scientist Programme <br>
-To encourage the acquisition of science knowledge, processes and attitudes, the Science Department organises the Fun Scientist Programme (FSP) to inculcate the spirit of scientific inquiry in our lower primary students. Through the use of demonstrations and introductory activities, we aim to gain the students’ attention and peak their interest in finding out more. We wish that by the end of the demonstrations or activities, the students would enjoy and love Science since it is shown as an extension of their natural curiosity. Through these enablers, students should view the pursuit of Science as meaningful and useful. Inquiry is thus grounded in knowledge, issues and questions that relate to the roles played by Science in daily life, society and the environment.
-
-<figure>
-<img src="/images/Students watching a live demonstration.jpg" style="width:90%">
-<figcaption>Students watching a live demonstration.
- </figcaption>
-</figure>
-
-* **Science Reading Corner** <br>
-For Palm View students, the reading corner at the void deck gives a platform where they can spend their break indulging in Science Comics books such as Young Scientist Magazines or Science Facts Magazines such as National Geographic. These act as extra knowledge for students to make meaning to their classroom learning while reading.
-
-<figure>
-<img src="/images/Students at the Science reading corner.jpg" style="width:90%">
-<figcaption>Students at the Science reading corner.
- </figcaption>
-</figure>
-
-**Stellar Nova** <br>
-Stellar Nova is a programme conducted for the lower primary students. It is conducted termly and aims to get students excited and arouse their curiosity in simple Science phenomena. The infusion of Science into the English curriculum is based on the theme of the big book readers. For example, the book titled "Nightmare in my Closet" focuses on the theme of scary monsters and confronting fears thus the topic of light was brought in to introduce students to shadows.
-
-**E2K Science** <br>
-The E2K Science Programme Singapore is a Science enrichment programme for Upper Primary (Primary 4 to Primary 6) students who demonstrate interest and ability in Science.  
-E2K Science Programme Singapore is run by teachers in schools who have been trained in the E2K pedagogy. The programme engages students in scientific investigations involving advanced Science concepts. It aims to engage students in scientific inquiry that will help them to develop the habits, attitudes and dispositions scientists possess as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.
-
-**Marie Curie Day** <br>
-Marie Curie Day is a Science carnival-style event held annually to celebrate the achievements of scientists. We hope to spark the spirit of innovation and invention in students and inspire them to be scientists, exercising their Curious Minds and Creative Spirits!
-
-**Environmental Education** <br>
-Environment education initiatives and programmes in Palm View aim to help students understand how their decisions and actions affect the environment, build knowledge and skills necessary to address environmental issues, as well as explore ways that they can take action to keep our environment healthy and sustainable for the future.
+<h2>SCIENCE</h2>
+<p>Guided by the Ministry of Education’s (MOE) Science Curriculum Framework,
+the Science department aims to nurture our students to:</p>
+<p><strong>Inquire like Scientists (Curious Minds):</strong> Build strong
+scientific foundations and develop a spirit of curiosity, asking questions,
+investigating ideas, and thinking critically.</p>
+<p><strong>Be Inspired by Science (Caring Hearts):</strong> Find joy and meaning
+in learning Science, appreciating its connections to everyday life and
+its role in addressing global challenges.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Science_Framework.jpg">
+</div>
+<p style="text-align: center;">Ministry of Education’s (MOE) Science Curriculum Framework
+</p><h4><strong>Science Department Programmes and Initiatives</strong></h4>
+<p><strong>1. Authentic Hands-on Learning Experiences</strong>
+</p>
+<p>Students engage in authentic hands-on learning experiences that bring
+Science concepts to life. Through experiments, investigations, and practical
+tasks, they actively explore ideas and test their understanding in meaningful
+ways. These experiences nurture <em>Curious Minds</em> as students inquire
+and make sense of observations, while fostering <em>Creative Spirits</em> as
+they experiment, refine, and apply their learning in different contexts.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/1__celery.jpg">
+</div>
+<p style="text-align: center;">A student observing water-carrying tubes in a celery stalk
+</p><p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2__lily.jpg">
+</div>
+<p style="text-align: center;">A student dissecting a lily flower</p>
+<p><strong>2. Learning Journeys</strong>
+</p>
+<p>Learning Journeys are aligned with level-specific topics to provide authentic
+experiences beyond the classroom. By connecting scientific concepts to
+real-world applications, students develop <em>Curious Minds</em> as they
+deepen their understanding, and <em>Caring Hearts</em> as they recognise
+the relevance of Science in everyday life and the wider community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/3__Natural_History_Museum.jpg">
+</div>
+<p style="text-align: center;">Primary 3 students exploring at Lee Kong Chian National History Museum</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/4a__Urban_Farm.jpg">
+</div>
+<p style="text-align: center;">A Primary 4 student harvesting vegetables at an urban farm</p>
+<p><strong>3. Level Challenges</strong>
+</p>
+<p>Level-wide Science challenges engage students in collaborative problem-solving
+tasks that extend their thinking and creativity. Students apply concepts
+learnt in class by designing and building items that showcase their understanding.
+Through this process, they develop <em>Curious Minds</em> and <em>Creative Spirits</em> as
+they explore, test, and refine their ideas.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/5a__Science_Corner.jpg">
+</div>
+<p style="text-align: center;">Primary 6 students working on their level challenge at our Fun Science
+Corner</p>
+<p><strong>4. Environmental Education</strong>
+</p>
+<p>Environmental Education is integrated into the curriculum through level-based
+projects where students make purposeful use of recyclable materials. Designed
+as collaborative tasks linked to curriculum topics, these projects provide
+opportunities for students to apply their learning in meaningful contexts.
+Beyond the classroom, students also take part in upcycling activities conducted
+during recess, reinforcing environmentally responsible habits in everyday
+settings. Through these experiences, students demonstrate <em>Caring Hearts</em> by
+making environmentally responsible choices, while developing <em>Curious Minds</em> and <em>Creative Spirits</em> as
+they explore and design solutions.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/7__Upcycling.jpg">
+</div>
+<p style="text-align: center;">Upcycling activities during recess time</p>
+<p><strong>5. Earth Day Science Fair</strong>
+</p>
+<p>The Earth Day Science Fair, embodies the spirit of <em>“For Students, By Students.”</em> This
+student-led platform provides opportunities for students to showcase projects
+related to Science and environmental sustainability. As young environment
+stewards, they inspire their peers to take action towards environmental
+sustainability, demonstrating <em>Caring Hearts</em>. They also demonstrate <em>Creative Spirits</em> by
+presenting innovative ideas and solutions grounded in scientific understanding.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/8__Paper_Aeroplane.jpg">
+</div>
+<p style="text-align: center;">Whose paper aeroplane can fly the furthest?</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Fair.jpg">
+</div>
+<p style="text-align: center;">Primary 5 students conducting demonstrations during the Science Fair</p>
+<p><strong>6. E2K Science</strong>
+</p>
+<p>The E2K (Excellence 2000) Science programme provides enrichment for Primary
+4 and 5 students with strong interest and aptitude in Science. Through
+guided scientific investigations involving advanced concepts, students
+engage in deeper inquiry and develop the habits and dispositions of scientists.
+The programme also strengthens key competencies such as critical thinking
+and effective communication, nurturing <em>Curious Minds</em> and <em>Creative Spirits</em>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/11a__E2K_Science.jpg">
+</div>
+<p style="text-align: center;">Students in the E2K programme conducting their investigation</p>
+<p><strong>7. Growing Hearts</strong>
+</p>
+<p>As part of our school’s Learning for Life Programme (LLP) – Palm View
+Challenge, Primary 4 students participate in a hands-on hydroponics experience
+where they work in teams to plant, nurture, and monitor the growth of vegetables.
+Through this programme, students apply their scientific knowledge in an
+authentic context while gaining a deeper understanding of food production.
+They demonstrate school values through teamwork and develop a sense of
+responsibility towards sustainable food practices in Singapore, cultivating <em>Caring Hearts</em> alongside <em>Curious Minds</em> and <em>Creative Spirits</em>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/11__Kangkong.jpg">
+</div>
+<p style="text-align: center;">Primary 4 students working together to harvest their Kang Kong</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/12__Plant.jpg">
+</div>
+<p style="text-align: center;">A Primary 4 student sharing her learning with younger peers</p>
+<p></p>
+<p></p>
+<p></p>
+<blockquote>
+<p></p>
+</blockquote>
+<p></p>

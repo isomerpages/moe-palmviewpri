@@ -5,21 +5,101 @@ description: ""
 third_nav_title: Aesthetics
 variant: tiptap
 ---
-## AESTHETICS
-
-### Fostering Creativity, Celebrating Diversity
-
-We believe that the uniqueness of every individual child as the source of originality and creativity. Children’s creations and expressions in the arts, no matter how immature technically, have their own potential for greatness as it is derived from the child’s own unique world-views and experiences of an era different from us adults. This potential for creativity is greatly enhanced when we consider the synergy in the diversity each individual child contributes to the whole. For that reason, we believe that students’ meaningful engagement through the arts both as an individual, as well as part a community of learners, is instrumental for fundamental skills to be honed and 21st Century competencies and outcomes to be fulfilled.
-
-Therefore, as educators in Palm View Primary School, we do not just impart skills and knowledge but draw out this creativity that is in every student through an Arts education, leveraging on the student’s inert curiosity, based on authentic experiences. We acknowledge the student’s uniqueness and celebrate the diversity it brings about; helping the student understand the context of the whole as the school, community, nation and the world and the ways the student can contribute to this whole as a force for good.
-
-In doing so, we fulfill our school’s motto, of ‘Inspiring Excellence’ with the arts curriculum that is constantly evolving and relevant. Aiming to be fun, yet challenging, it involves every student and not just a talented few in relentless betterment; helping students fulfil their potential and make sense of their world.
-
-### Department Framework
-<img src="/images/Framework.png" style="width:90%">
-
-### Department Key Thrusts
-1) Talent development for all (ARTs Instructional and Talent Programme- students) <br>
-2) Building Capacity and Appreciation (ARTs Experience, Immersion and Exposure- Staff and Students)<br>
-3) ‘Win, Win’ Partnerships and Collaborations&nbsp;<br>
-4)  Impacting the community, the Nation and beyond (ARTs Citizenry Programme-Students)
+<h2>AESTHETICS</h2>
+<h4>Vision</h4>
+<p>To empower every student to grow as a <strong>Creative Artis</strong>t
+and <strong>Confident Performer</strong>, fostering a <strong>lifelong passion</strong> for
+the Arts.</p>
+<h4>The Aesthetics Framework</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Aesthetics_Framework.jpg">
+</div>
+<h4>Department Key Thrusts</h4>
+<p>1) Talent development and identification (ARTs Instructional and Talent
+Programme- For students)</p>
+<p></p>
+<p>2) Building Capacity and Appreciation (ARTs Experience, Immersion and
+Exposure- For staff and students)</p>
+<p></p>
+<p>3) ‘Win, Win’ Partnerships and Collaborations</p>
+<p></p>
+<p>4) Impacting the community (ARTs Citizenry Programme- For students)</p>
+<h4>Programmes</h4>
+<p><strong>1) e-Arts@PLVPS</strong>
+</p>
+<p>e-Arts@PLVPS is a digital platform where Palm View students showcase their
+artistic and musical talents through creative works and recorded performances.
+Guide by themed tasks, students are encouraged to develop their creativity
+and analytical thinking, while exploring diverse perspectives in their
+artworks. Selected artworks and musical performances are proudly showcased
+on this <a href="https://sites.google.com/view/e-artsplvps2025/e-artsplvps-2025" rel="noopener nofollow" target="_blank">microsite</a>.</p>
+<p><strong>2) Arts@PLVPS Recess</strong>
+</p>
+<p><strong>Arts@PLVPS Recess </strong>is a termly programme designed to nurture
+creativity and build confidence in Palm View students through Art and Music.</p>
+<p>At the <strong>Graffiti Wall</strong>, students are invited to express
+themselves through drawing, painting and creative designs during key celebrations
+such as Lunar New Year, National Day, and Teachers’ Day.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_Grafitti_Wall.jpg">
+</div>
+<p>At <strong>Palm View Express</strong>, young musicians have the opportunity
+to showcase their talents by performing songs, dances, or instrumental
+pieces for their peers. Students may also busk freely at the piano or ukulele
+during level recesses, fostering a vibrant and supportive musical environment.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Foyer_Performance.jpg">
+</div>
+<p>Together, these platforms encourage artistic expression, develop confidence,
+and promote the well-being of students across the school community.</p>
+<p><strong>3) Learning Journeys</strong>
+</p>
+<p><strong>P1 LJ to Thow Kwang Pottery Jungle</strong>
+</p>
+<p>Each year, Primary 1 students from Palm View Primary School embark on
+an exciting learning journey to <strong>Thow Kwang Pottery Jungle</strong>.
+Set in an authentic heritage environment, this meaningful experience offers
+students a rare opportunity to witness the vanishing trade of traditional
+pottery up close. &nbsp;In today’s technology-driven world, students get
+to observe skilled potters shape clay using the pottery wheel and learn
+about traditional clay-making techniques.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_Pottery_LJ.jpg">
+</div>
+<p>Students also get to participate in a hands-on workshop where they create
+their very own ceramic pot with simple design features.This immersive experience
+bridges real-world craft practices with classroom learning, sparking curiosity
+and a deeper appreciation for traditional art forms — all while building
+confidence in creative expression.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/4_Pottery_LJ.jpg">
+</div>
+<p><strong>P4 LJ to National Gallery Singapore</strong>
+</p>
+<p>Our Primary 4 Museum-Based Learning Journey offers students a meaningful
+opportunity to connect classroom learning with real-world experiences.
+Through guided exploration of museum exhibits, students discover artworks
+and cultural artefacts that deepen their understanding of heritage and
+creativity. They observe closely, ask questions, and reflect on how art
+communicates ideas and emotions across cultures and time. The experience
+nurtures curiosity and critical thinking while fostering a deeper appreciation
+for the arts. Students also develop a stronger connection to Singapore’s
+cultural landscape, growing as both thoughtful learners and budding young
+artists.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_Natioanl_Gallery_LJ.jpg">
+</div>
+<p><strong>4) Assembly Programme in School</strong>
+</p>
+<p>During school-wide assembly celebrations, Palm View students are treated
+to performances by invited external performers spanning a rich variety
+of music and theatre genres,&nbsp; fostering appreciation for the Arts.
+Through exposure to diverse forms such as rap, a cappella, music jam bands,
+and string quartet ensembles, students develop a deeper appreciation for
+different cultures and musical styles - broadening their artistic horizons
+well beyond the classroom.</p>
+<p>&nbsp;</p>
+<p></p>
+<p></p>
