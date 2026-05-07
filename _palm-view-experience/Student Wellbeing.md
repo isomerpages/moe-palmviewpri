@@ -62,8 +62,9 @@ thrive socially, emotionally, and mentally.</p>
 </tr>
 </tbody>
 </table>
-<p>Our Peer Support Leaders (PSLs) play a key role in nurturing student well-being
-through structured training, mentoring, and student-led initiatives.</p>
+<p>Our Befrienders and Peer Support Leaders (PSLs) play a key role in nurturing
+student well-being through structured training, mentoring, and student-led
+initiatives.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -75,13 +76,13 @@ through structured training, mentoring, and student-led initiatives.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_5.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Pic_5.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Pic_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSLE_Messages.jpg">
 </div>
 </td>
 </tr>
@@ -90,20 +91,21 @@ through structured training, mentoring, and student-led initiatives.</p>
 <p>Peer Support Leaders presenting quotes on resilience during morning assembly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Peer Support Leaders Workshop - Cyberwellness posters done by PSLs</p>
+<p>Messages for Primary 6 students before their PSLE by the Peer Support
+Leaders</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_7.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Pic_7.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Pic_8a.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Pic_8a.jpg">
 </div>
 </td>
 </tr>
@@ -112,8 +114,27 @@ through structured training, mentoring, and student-led initiatives.</p>
 <p>Talk on ‘LOOK’ &amp; CHEER’ by the Peer Support Leaders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Recess Student Well-being activities - assisting their peers to reflect
-on their well-being</p>
+<p>Recess Student Well-being activities – students reading reflections and
+wellbeing messages from their peers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/PSL_Posters.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peer Support Leaders Workshop - Cyberwellness posters done by PSLs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
