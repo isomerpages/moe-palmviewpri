@@ -24,7 +24,7 @@ thrive socially, emotionally, and mentally.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pro_Social_Behaviors.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Pro_Social_Behaviors.jpg">
 </div>
 </td>
 </tr>
@@ -97,7 +97,7 @@ Leaders</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Pic_7.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Pic_7.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -154,13 +154,13 @@ thinking.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/1.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_10.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Pic_10.jpg">
 </div>
 </td>
 </tr>
