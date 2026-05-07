@@ -2,6 +2,6 @@ collections:
   student-management:
     output: true
     order:
-      - Peer Support Leader.md
-      - Student Wellbeing.md
       - Student Leadership.md
+      - Student Wellbeing.md
+      - Peer Support Leader.md
