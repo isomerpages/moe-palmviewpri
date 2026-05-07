@@ -1,0 +1,4 @@
+collections:
+  student-management:
+    output: true
+    order: []
