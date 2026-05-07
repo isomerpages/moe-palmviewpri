@@ -20,7 +20,7 @@ and empowered, leading to positive child development, risk prevention,
 and improved learning outcomes holistically.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:-56.813542038202286px;" height="698.8135707378387" width="682" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBMlZ70FoewMgNuTEAHm9NZk7sOdytd7OHotrTtv-5OrqUIajD5V5ZNH15XugDcHBs_tRg2p3GxECzIlFMPRpa1QP7E2NjYjCh90VE4xjZUqkYOGmk5iYPa1CVzddAO1MPeMrwqNjmpLk7dC4p44sbdxISJo8JFZxILLRi-fFitYtztB5nOvs?key=A7RghSQws7f0aaKwxWdoPA">
+<img style="width: 70%;" height="698.8135707378387" width="682" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBMlZ70FoewMgNuTEAHm9NZk7sOdytd7OHotrTtv-5OrqUIajD5V5ZNH15XugDcHBs_tRg2p3GxECzIlFMPRpa1QP7E2NjYjCh90VE4xjZUqkYOGmk5iYPa1CVzddAO1MPeMrwqNjmpLk7dC4p44sbdxISJo8JFZxILLRi-fFitYtztB5nOvs?key=A7RghSQws7f0aaKwxWdoPA">
 </div>
 <p></p>
 <p>The three domains of PSR are:&nbsp;</p>
@@ -54,7 +54,6 @@ PSR efforts.</p>
 <p></p>
 <p>All students, as peer supporters, will be equipped with skills and competencies
 to better support their peers. Some of these skills include:&nbsp;</p>
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>How to be a better friend&nbsp;</p>
@@ -64,28 +63,25 @@ to better support their peers. Some of these skills include:&nbsp;</p>
 </li>
 <li>
 <p>How to befriend their peers</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>Primary 3 to 6 selected students will be trained to take on additional
 responsibilities as Befrienders and Peer Support Leaders (PSLs). These
 student leaders help to look out for peers who may feel lonely or isolated
 and reach out to befriend and support them. They also provide a listening
 ear for students who may be experiencing difficulties, offering encouragement
 and care when needed.</p>
-<p>&nbsp;</p>
-<p>As positive role models, Peer Support Leaders influence others by promoting
-positive mindsets, pro-social behaviour, and good character. Through their
-leadership and example, they help to strengthen a caring and supportive
-school culture where every student feels valued and supported. Together,
-through the various levels of peer support, we aim to grow a community
-built on empathy, care, kindness and shared mutual responsibility.</p>
-<p>&nbsp;</p>
-<p>Befrienders and Peer Support Leaders (PSLs) will also be supported by
-the PSL teachers-in-charge, the School Counsellor, Special Needs Officers
+<p>&nbsp;As positive role models, Peer Support Leaders influence others by
+promoting positive mindsets, pro-social behaviour, and good character.
+Through their leadership and example, they help to strengthen a caring
+and supportive school culture where every student feels valued and supported.
+Together, through the various levels of peer support, we aim to grow a
+community built on empathy, care, kindness and shared mutual responsibility.</p>
+<p>&nbsp;Befrienders and Peer Support Leaders (PSLs) will also be supported
+by the PSL teachers-in-charge, the School Counsellor, Special Needs Officers
 and the Student Management Department.&nbsp;</p>
-<p>&nbsp;</p>
-<p>Befrienders and Peer Support Leaders’ main roles will include:&nbsp;</p>
+<p>&nbsp;Befrienders and Peer Support Leaders’ main roles will include:&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Befriends_PSL_table.jpg">
 </div>
@@ -96,14 +92,8 @@ with intrinsic worth.&nbsp;</p>
 <p></p>
 <p>Please view the videos below to find out more about Peer Support Relationships
 @ Palm View Primary:</p>
-<ol>
-<li>
-<p>Video 1 – Understanding PSR</p>
-</li>
-<li>
-<p>Video 2 – Peer Support</p>
-</li>
-</ol>
+<p>1) Video 1 – Understanding PSR</p>
+<p>2) Video 2 – Peer Support</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/W8YOzMOLk50?si=4iA7ISZkjP73oPZK"></iframe>
