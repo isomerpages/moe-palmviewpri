@@ -137,13 +137,13 @@ wellbeing messages from their peers</p>
 </tr>
 </tbody>
 </table>
-<p>Initiatives such as #SafePlace Student Wellness Week and recess activities
-promote emotional literacy and resilience, supported by PSLs, staff, and
-parents. Recess activities incorporate resources from the James Dyson Foundation
-(JDF) Science Challenge Cards in partnership with Dyson Singapore, with
-key well-being messages thoughtfully embedded into the activities. Executive
-Functioning skills are taught to foster self-regulation, empathy, and flexible
-thinking.</p>
+<p>Initiatives such as #SafePlace Student Wellness Week and Recess Student
+Well-being activities promote emotional literacy and resilience, supported
+by Peer Support Leaders, staff, and parents. Recess activities incorporate
+resources from the James Dyson Foundation (JDF) Science Challenge Cards,
+with key well-being messages thoughtfully embedded into the activities.
+Executive Functioning skills are taught to foster self-regulation, empathy,
+and flexible thinking.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
