@@ -18,15 +18,13 @@ thrive socially, emotionally, and mentally.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cyberwellness_Assembly_Talk.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pro_Social_Behaviors.jpg">
 </div>
 </td>
 </tr>
@@ -35,7 +33,7 @@ thrive socially, emotionally, and mentally.</p>
 <p>Cyberwellness Assembly talks</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assembly talk on Mental Health</p>
+<p>Assembly talk on Pro-social Behaviours in school</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +103,7 @@ Leaders</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Pic_8a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/reading_messages.jpg">
 </div>
 </td>
 </tr>
@@ -156,7 +154,7 @@ thinking.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Pic_9.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
