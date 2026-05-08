@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Student Management
 ---
-<h4>Peer Support Relationships @ Palm View Primary</h4>
+<h3>Peer Support Relationships @ Palm View Primary</h3>
 <p>Palm View Primary School implements the Peer Support and Relationships
 (PSR) programme to build a strong positive, caring culture among pupils,
 grounded on the belief that a well-supported community enhances both academic
