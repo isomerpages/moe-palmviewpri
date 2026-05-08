@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Student Management
 ---
-<h2><strong><u>Student Well-Being @ Palm View Primary</u></strong></h2>
-<p></p>
+<h4>Student Well-Being @ Palm View Primary</h4>
+<h4></h4>
 <p>At Palm View Primary School, student well-being is a whole-school priority,
 embedded in our culture and daily practices. Guided by our mission to be
 a “Force for Good,” we empower students with the skills and support to
