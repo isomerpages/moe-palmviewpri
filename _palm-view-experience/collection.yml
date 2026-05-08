@@ -2,10 +2,10 @@ collections:
   palm-view-experience:
     output: true
     order:
-      - Student Management/Peer Support Relationship.md
-      - Student Management/Student Wellbeing.md
-      - Student Management/Student Leadership.md
       - Student Management/.keep
+      - Student Management/Student Leadership.md
+      - Student Management/Student Wellbeing.md
+      - Student Management/Peer Support Relationship.md
       - Niche Programmes/.keep
       - Niche Programmes/LEARNING FOR LIFE PROGRAMME.md
       - Niche Programmes/APPLIED LEARNING PROGRAMME.md
