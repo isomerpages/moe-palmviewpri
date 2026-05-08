@@ -6,9 +6,8 @@ variant: tiptap
 ---
 <h2>EDUCATION TECHNOLOGY</h2>
 <h4><strong><em>Empowering Future-Ready Learners</em></strong></h4>
-<p>&nbsp;</p>
-<p>Education Technology is purposefully integrated into our learning experiences.
-Guided by our belief in nurturing <em>Curious Minds, Caring Hearts and Creative Spirits</em>,
+<p>&nbsp;Education Technology is purposefully integrated into our learning
+experiences. Guided by our belief in nurturing <em>Curious Minds, Caring Hearts and Creative Spirits</em>,
 we empower students to be confident learners and creative problem-solvers.
 Students are equipped with digital competencies to gather and evaluate
 information, interpret and analyse data, and use software and devices to
@@ -25,9 +24,8 @@ tools effectively for learning. Our teachers harness pedagogically sound
 Education Technology tools — including AI-enabled ones — to support greater
 customisation and personalisation of students’ learning experiences, enabling
 them to learn more effectively and efficiently.</p>
-<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SLS.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/SLS.jpg">
 </div>
 <p>Through AI-enabled platforms such as the Student Learning Space (SLS),
 students engage with learning experiences that:</p>
@@ -38,11 +36,9 @@ and reflection</p>
 and communicate ideas effectively</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enable self-paced learning according
 to each student’s readiness</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/AI.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/AI.jpg">
 </div>
-<p></p>
 <p>As students grow in confidence and maturity, they are guided to develop
 AI literacy and a greater sense of responsibility in using AI ethically
 and meaningfully. Through carefully scaffolded experiences, they grow as
@@ -52,7 +48,7 @@ learning journey.</p>
 <p>Our Digital Literacy programme equips students with the competencies to
 find, think, apply, and create using technology.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Find_Think_Apply_Create.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Find_Think_Apply_Create.jpg">
 </div>
 <p>Students engage in customised learning experiences on SLS, progressing
 through a structured series of courses that build skills across levels.
@@ -61,7 +57,7 @@ application of digital tools.<strong>&nbsp;</strong>
 </p>
 <h4>Building a Good Foundation</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TouchTyping.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/TouchTyping.jpg">
 </div>
 <p>Primary 1 to 3 students build confidence in:</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Using digital devices and platforms</p>
@@ -74,7 +70,7 @@ structured practice</p>
 digital literacy courses on SLS, earning badges as they progress through
 different learning experiences.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Digital_Literacy.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Digital_Literacy.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
