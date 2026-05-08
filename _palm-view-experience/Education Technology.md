@@ -37,7 +37,7 @@ and communicate ideas effectively</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enable self-paced learning according
 to each student’s readiness</p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/AI.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/AI.jpg">
 </div>
 <p>As students grow in confidence and maturity, they are guided to develop
 AI literacy and a greater sense of responsibility in using AI ethically
@@ -70,7 +70,7 @@ structured practice</p>
 digital literacy courses on SLS, earning badges as they progress through
 different learning experiences.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Digital_Literacy.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Digital_Literacy.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
