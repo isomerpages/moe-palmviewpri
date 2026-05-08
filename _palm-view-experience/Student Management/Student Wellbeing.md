@@ -3,6 +3,7 @@ title: Student Wellbeing
 permalink: /palm-view-experience/student-wellbeing/
 variant: tiptap
 description: ""
+third_nav_title: Student Management
 ---
 <h2><strong><u>Student Well-Being @ Palm View Primary</u></strong></h2>
 <p></p>

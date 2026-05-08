@@ -3,6 +3,7 @@ title: Student Leadership
 permalink: /palm-view-experience/student-leadership/
 description: ""
 variant: markdown
+third_nav_title: Student Management
 ---
 ## STUDENT LEADERSHIP
 
