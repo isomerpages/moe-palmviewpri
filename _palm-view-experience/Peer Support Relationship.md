@@ -22,11 +22,10 @@ and improved learning outcomes holistically.</p>
 <p>1) Peer Bonding</p>
 <p>2) Peer Helping</p>
 <p>3) Peer Influencing</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="698.8135707378387" width="682" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBMlZ70FoewMgNuTEAHm9NZk7sOdytd7OHotrTtv-5OrqUIajD5V5ZNH15XugDcHBs_tRg2p3GxECzIlFMPRpa1QP7E2NjYjCh90VE4xjZUqkYOGmk5iYPa1CVzddAO1MPeMrwqNjmpLk7dC4p44sbdxISJo8JFZxILLRi-fFitYtztB5nOvs?key=A7RghSQws7f0aaKwxWdoPA">
 </div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:-20.059564601629972px;margin-top:-20.96080545336008px;" height="433.4326990842819" width="770.3366045951843" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXckh19SBOPR2e6v_doadd6SAA0Hx73YKubxdEtkNOz93n74ol6yYneDhqQwLH5Wc2qgqamcXSlrgj7vuQsiqbK0RCD96ktUueTQi2Rb5A2TCs3-xvnZejepQ8X_oV2VJ7c4gie5Z72LqwUIbmOQeFjznSsQhXkj8cO7-8Vi3xXMpDdk6n-uX3Q?key=A7RghSQws7f0aaKwxWdoPA">
