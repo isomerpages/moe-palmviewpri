@@ -2,6 +2,7 @@ collections:
   palm-view-experience:
     output: true
     order:
+      - Student Management/Student Wellbeing.md
       - Student Management/Student Leadership.md
       - Student Management/.keep
       - Niche Programmes/.keep
