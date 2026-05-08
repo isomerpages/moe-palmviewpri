@@ -2,7 +2,6 @@ collections:
   palm-view-experience:
     output: true
     order:
-      - Student Management.md
       - Niche Programmes/.keep
       - Niche Programmes/LEARNING FOR LIFE PROGRAMME.md
       - Niche Programmes/APPLIED LEARNING PROGRAMME.md
