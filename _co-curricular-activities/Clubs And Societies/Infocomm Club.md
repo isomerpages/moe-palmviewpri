@@ -30,7 +30,7 @@ a first glimpse into the world of digital media creation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/P3_Infocomm_Club.jpg">
 </div>
-<p>Infocomm Media Club members taking their first step into digital storytelling.</p>
+<p style="text-align: center;">Infocomm Media Club members taking their first step into digital storytelling.</p>
 <h4><strong>Growing as Digital Creators</strong></h4>
 <p>Primary 4 and 5 students progressively deepen their skills in photography,
 photo-editing, caption writing, stop-motion animation, and short-form video
@@ -41,7 +41,7 @@ inspire, and connect.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Infocomm_Club_members_creating_together__frame_by_frame_.jpg">
 </div>
-<p>Infocomm Media Club members creating together, frame by frame.</p>
+<p style="text-align: center;">Infocomm Media Club members creating together, frame by frame.</p>
 <h4><strong>Framing Perspectives, Leading with Purpose</strong></h4>
 <p>Primary 6 students apply the full breadth of the skills and experiences
 gained throughout their years in the CCA to produce polished video content.
@@ -54,13 +54,13 @@ to conceive, create, and present stories with clarity and impact.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Infocomm_Club_members_working_together_to_design_an_app_for_the_school_Open_House_.jpg">
 </div>
-<p>Infocomm Media Club members working together to design an app for the
+<p style="text-align: center;">Infocomm Media Club members working together to design an app for the
 school Open House<em>.</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Infocomm_Club_members_learning_beyond_the_classroom_through_a_learning_journey_at_Google_.jpg">
 </div>
-<p>Infocomm Media Club members learning beyond the classroom through a learning
+<p style="text-align: center;">Infocomm Media Club members learning beyond the classroom through a learning
 journey at Google<em>.</em>
 </p>
 <h4>Teacher-in-charge</h4>
