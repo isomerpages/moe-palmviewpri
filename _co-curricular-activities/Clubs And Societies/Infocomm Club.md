@@ -6,8 +6,7 @@ third_nav_title: Clubs And Societies
 variant: tiptap
 ---
 <h1>Infocomm Media Club</h1>
-<p><strong>Digital Storytelling &amp; Media Creation</strong>
-</p>
+<h4><strong>Digital Storytelling &amp; Media Creation</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_Club_1.jpg">
@@ -22,8 +21,7 @@ and Creative Spirits along the way.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_Club_2.jpg">
 </div>
-<p><strong>A First Glimpse Through the Lens</strong>
-</p>
+<h4><strong>A First Glimpse Through the Lens</strong></h4>
 <p>Primary 3 students are introduced to the fundamentals of photography and
 photojournalism through a short modular programme. Through hands-on activities,
 they explore visual storytelling, framing, angles, and lighting while getting
@@ -33,8 +31,7 @@ a first glimpse into the world of digital media creation.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/P3_Infocomm_Club.jpg">
 </div>
 <p>Infocomm Media Club members taking their first step into digital storytelling.</p>
-<p><strong>Growing as Digital Creators</strong>
-</p>
+<h4><strong>Growing as Digital Creators</strong></h4>
 <p>Primary 4 and 5 students progressively deepen their skills in photography,
 photo-editing, caption writing, stop-motion animation, and short-form video
 production. Through collaborative projects and competitions, they experience
@@ -45,8 +42,7 @@ inspire, and connect.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Infocomm_Club_members_creating_together__frame_by_frame_.jpg">
 </div>
 <p>Infocomm Media Club members creating together, frame by frame.</p>
-<p><strong>Framing Perspectives, Leading with Purpose</strong>
-</p>
+<h4><strong>Framing Perspectives, Leading with Purpose</strong></h4>
 <p>Primary 6 students apply the full breadth of the skills and experiences
 gained throughout their years in the CCA to produce polished video content.
 They develop competencies in storyboarding, filming, lighting, interviewing,
