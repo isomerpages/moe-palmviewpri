@@ -43,7 +43,7 @@ and conducive school environment.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/Student%20Leadership%201.jpg">
 </div>
-<p style="text-align: center;">Class committee leaders being trained by one of our teachers.</p>
+<p style="text-align: center;">Class Committee leaders being trained by one of our teachers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__Handover_Ceremony.jpg">
 </div>
