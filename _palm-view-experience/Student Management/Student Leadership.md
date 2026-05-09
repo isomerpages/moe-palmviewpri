@@ -47,4 +47,4 @@ and conducive school environment.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__Handover_Ceremony.jpg">
 </div>
-<p style="text-align: center;">Prefects Exco Handover Ceremony.</p>
+<p style="text-align: center;">Prefects' Exco Handover Ceremony.</p>
