@@ -9,5 +9,5 @@ variant: tiptap
 <p><a href="/palm-view-experience/co-curricular-activities/c-n-a/artclub" rel="noopener noreferrer nofollow" target="_blank">Art Club</a> 
 <br><a href="/palm-view-experience/co-curricular-activities/c-n-a/infocomm-media-club" rel="noopener noreferrer nofollow" target="_blank">Infocomm Media Club</a> 
 <br><a href="/palm-view-experience/co-curricular-activities/c-n-a/robotics" rel="noopener noreferrer nofollow" target="_blank"> Robotics Club</a> 
-<br><a href="/palm-view-experience/co-curricular-activities/c-n-a/science" rel="noopener noreferrer nofollow" target="_blank">Science Club</a>
+<br><a href="https://www.palmviewpri.moe.edu.sg/co-curricular-activities/clubs-and-societies/infocomm-media-club/" rel="noopener noreferrer nofollow" target="_blank">Science Club</a>
 </p>
