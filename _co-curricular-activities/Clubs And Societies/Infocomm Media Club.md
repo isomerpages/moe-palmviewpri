@@ -1,6 +1,6 @@
 ---
 title: Infocomm Media Club
-permalink: /co-curricular-activities/clubs-and-societies/infocomm-media-club/
+permalink: /palm-view-experience/co-curricular-activities/c-n-a/infocomm-media-club/
 description: ""
 third_nav_title: Clubs And Societies
 variant: markdown
