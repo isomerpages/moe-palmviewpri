@@ -2,23 +2,66 @@
 title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-## PRINCIPAL'S MESSAGE
-
-At Palm View Primary School, we have always believed in the power of authentic, hands-on learning and out-of-classroom experiences to inspire our students. In 2024, we were excited to **reposition our Applied Learning Programme (ALP) into a dynamic Maker Education STEM (Science, Technology, Engineering and Mathematics) curriculum**. This transition aims to empower our students with essential skills in creativity, critical thinking, problem-solving and prepare them to thrive in an ever-evolving world.
-
-Our journey into Maker Education began in late 2023 with the launch of _Voyagers@PLVPS_, an initiative designed to infuse creativity and innovation into everyday learning. By shifting our ALP to a Maker Education framework, we believe that students should not only acquire knowledge but also actively create, innovate and shape the world around them.
-
-_Voyagers@PLVPS_ fosters collaboration amongst interdisciplinary projects that link science, Environmental Education, Mathematics, Languages and digital-making to real-world problem-solving. Students work together to experiment, iterate, and innovate, and this approach nurtures curiosity, embraces challenges and creates an environment where students are empowered to take ownership of their learning. This shift underscores our commitment to preparing students for a future where technology and creativity intersect.
-
-Our school’s efforts received recognition when Channel News Asia (CNA) featured our students’ projects during a commemorative National Day coverage on social media, celebrating their creativity in Maker Education. Our teachers were also invited to share their insights and success story at the MOE Educational Technology Division (ETD) Maker Symposium, inspiring educators from other schools.
-
-Alongside our Maker Education initiatives, our students also showcased their diverse talents at the **Singapore Youth Festival (SYF) Central Judging Platform.** The **Modern Dance CCA was recognised with a Certificate of Distinction**, demonstrating their dedication, discipline, and creative expression through movement. The **Choir CCA was recognized with a Certificate of Accomplishment**, highlighting their teamwork, vocal proficiency and musicality. Through their performances, our student performers contributed to Singapore’s rich cultural landscape while demonstrating the importance of the arts in our education. These accomplishments reflect our belief in a holistic education that values both academic achievement and artistic growth, positioning our students as active contributors to the cultural fabric of our nation.
-
-As we look ahead to 2025, we remain committed to refining and expanding our signature programmes to inspire the next generation of innovators, creators, and problem-solvers. Central to our efforts is the realisation of the Palm View Graduand Outcomes: _Resilient Learners, Adaptable Thinkers, Empathetic Leaders and Reflective Communicators_. These core values are integrated into every aspect of our school’s initiatives, ensuring that our students develop the skills necessary to navigate an increasingly complex world.
-
-Through our commitment to hands-on learning, creativity and collaboration, we are confident that our students are developing the skills and mindsets they will need to succeed in tomorrow’s world. As we celebrate the successes of our students, we remain committed to empowering the next generation to make a positive impact in the world and be that ‘Force for Good’, nurturing the leaders and changemakers of the future. We look forward to partnering parents to continue this journey together in 2025 and beyond.
-
-**Mrs Ming Kum**  
-**Principal**
+<h2>PRINCIPAL'S MESSAGE</h2>
+<p>Palm View Primary School has long recognised the transformative impact
+of authentic, experiential learning that extends beyond traditional classroom
+boundaries. We have successfully transformed our Applied Learning Programme
+(ALP) into a dynamic Maker Education STEM curriculum that integrates Science,
+Technology, Engineering and Mathematics. This has helped to equip our students
+with essential skills in creativity, critical thinking, analytical reasoning
+and problem-solving, ensuring they are well-prepared for our rapidly evolving
+world.</p>
+<p>Our signature <em>Voyagers@PLVPS</em> programme exemplifies this educational
+philosophy by fostering collaborative learning through interdisciplinary
+projects that seamlessly connect Science, Environmental Education, Mathematics,
+Languages and digital making with real-world challenges. Students actively
+engage in experimentation, iteration and innovation, cultivating curiosity
+whilst embracing challenges in an environment that empowers them to take
+ownership of their own learning.</p>
+<p>In 2025, we launched our <em>Voyagers@PLVPS</em> distinctive programme,
+developed in partnership with the James Dyson Foundation. Through our <em>Tinker@PLVPS</em> programme,
+students have discovered the joy of hands-on digital creation, transforming
+imaginative concepts into tangible prototypes through 3D modelling and
+printing. Observing our young innovators develop resilience, inventive
+thinking and genuine enthusiasm for STEM has been profoundly inspiring.
+This innovative approach was featured in The Straits Times on 1<sup>st </sup>November,
+highlighting how educational institutions are reimagining underused spaces
+as dynamic learning environments.</p>
+<p>Our students have also demonstrated remarkable strengths and talents across
+diverse areas. The school’s debate team did the school proud by securing
+1<sup>st</sup> runner-up in the Wits and Words Inter-school Debate Competition,
+an impressive accomplishment for our inaugural participation in this prestigious
+event. Their articulate presentation, analytical thinking and confident
+delivery perfectly embodied the Palm View spirit.</p>
+<p>In sporting endeavours, our achievements have been equally commendable.
+Our football Senior Boys team claimed the Championship title in League
+5 of the National School Games, whilst our netball Senior Girls team achieved
+1<sup>st</sup> runner-up in League 2, both exemplifying the dedication,
+resilience and sportsmanship that characterizes our school culture. Our
+robotics team also demonstrated creativity and innovation by achieving
+3<sup>rd</sup> place in the Best Mechanical Design Award category at the
+National Robotics Programming Competition, perfectly illustrating the synthesis
+of creativity and technical proficiency.</p>
+<p>Together, these collective accomplishments represent far more than individual
+excellence – they reflect the dedicated, collective strength of our Palm
+View community. Each success story is supported by dedicated educators
+who inspire and mentor, caring and passionate families who encourage and
+motivate, and most importantly, students who embrace the courage to aspire,
+learn and <em>inspire excellence</em>.</p>
+<p>In 2026, we remain committed to enhancing and expanding our signature
+programmes to cultivate the next generation of innovators, creators and
+problem-solvers. At the heart of our educational mission lies the achievement
+of the Palm View Graduate Outcomes: <em>Resilient Learners, Adaptable Thinkers, Empathetic Leaders and Reflective Communicators</em>.
+These core values are thoughtfully embedded throughout all our school initiatives
+and programmes, ensuring that our students acquire not only academic excellence
+but also the critical life skills and character attributes essential for
+thriving in an increasingly interconnected and dynamic global landscape.</p>
+<p>As we celebrate the successes of our students, we extend our heartfelt
+gratitude to all who have contributed to this memorable year – our committed
+students, passionate staff and supportive families. We look forward to
+partnering parents to continue this transformative journey together!</p>
+<p><strong>Mrs Ming Kum</strong>
+<br><strong>Principal</strong>
+</p>
