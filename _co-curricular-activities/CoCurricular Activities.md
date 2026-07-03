@@ -264,7 +264,7 @@ to school, community and nation.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Qairul
 <br>65087-277
-<br>[<a href="mailto:qairul_izam_shali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">qairul_izam_shali@schools.gov.sg</a>
+<br><a href="mailto:qairul_izam_shali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">qairul_izam_shali@schools.gov.sg</a>
 </p>
 </td>
 </tr>
