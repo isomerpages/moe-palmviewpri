@@ -21,6 +21,7 @@ variant: markdown
 
 | Designation | Name | Contact Information |
 |:---:|:---:|:---:|
+| Head of Department,<br>English Language |  Mdm Kalpana |  65067-349<br>[kalpana_manimohan@schools.gov.sg](mailto:kalpana_manimohan@schools.gov.sg)  |
 | Head of Department,<br>Mathematics | Ms Audrey Loke | 65083-170<br>[loke_ai_guat_audrey@schools.gov.sg](mailto:loke_ai_guat_audrey@schools.gov.sg) |
 | Head of Department,<br>Science | Mr Gerald Wong | 65087-313<br>[gerald_wong_yew_meng@schools.gov.sg](mailto:gerald_wong_yew_meng@schools.gov.sg) |
 | Head of Department,<br>Mother Tongue Languages | Mdm Heng Wei Shan | 65087-322<br>[heng_wei_shan_a@schools.gov.sg](mailto:heng_wei_shan_a@schools.gov.sg) |
