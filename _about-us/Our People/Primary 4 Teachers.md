@@ -16,7 +16,7 @@ variant: markdown
 | 4 Curie |Mr Chen Baolai<br>65067-648<br>[chen_baolai@schools.gov.sg](mailto:chen_baolai@schools.gov.sg) | Mdm Elyani (ST, ML)<br>65080-654<br>[elyani_mohamed@schools.gov.sg](mailto:elyani_mohamed@schools.gov.sg) |
 | 4 Da Vinci | Mdm Shannon Hoon<br>65067-647<br>[hoon_shih_huihong_shihui@schools.gov.sg](mailto:hoon_shih_huihong_shihui@schools.gov.sg) | Ms Nurbayah<br>65087-300 (Ext 651)<br>[nurbayah_ismail@schools.gov.sg](mailto:nurbayah_ismail@schools.gov.sg) |
 | 4 Edison | Mr Kitson Sim<br>65067-644<br>[sim_tai_wee_kitson@schools.gov.sg](mailto:sim_tai_wee_kitson@schools.gov.sg) | Ms Sumitha<br>65087-315<br>[s_sumitha@schools.gov.sg](mailto:s_sumitha@schools.gov.sg) |
-| 4 Frank |Mr Mohamed Isa<br>65067-346<br>[mohamed_isa_b_osman@schools.gov.sg](mailto:mohamed_isa_b_osman@schools.gov.sg) | Mrs Valerie Seet<br>65087-279<br>[valerie_koh_sock_hwee@schools.gov.sg](mailto:valerie_koh_sock_hwee@schools.gov.sg) |
+| 4 Frank |Mr Mohamed Isa<br>65067-346<br>[mohamed_isa_b_osman@schools.gov.sg](mailto:mohamed_isa_b_osman@schools.gov.sg) | Mdm Tan Hui Yang<br>65083-171<br>[tan_hui_yang@schools.gov.sg](mailto:tan_hui_yang@schools.gov.sg) |
 
 
 ### Subject Teachers
@@ -59,7 +59,6 @@ Tamil Language |Ms Sumitha<br>65087-315<br>[s_sumitha@schools.gov.sg](mailto:s_s
 |Physical Education | Mr Rafiei<br>65087-275<br> [mohamad_rafiei_sakeyam@schools.gov.sg](mailto:mohamad_rafiei_sakeyam@schools.gov.sg) |
 |Physical Education | Ms Janice How<br>65087-300 (Ext 241)<br> [janice_how_sui_yen@schools.gov.sg](mailto:janice_how_sui_yen@schools.gov.sg) |
 |Physical Education | Mr Hassan<br>65087-300 (Ext 286)<br> [hassan_mulyadi_mohamed_a@schools.gov.sg](mailto:hassan_mulyadi_mohamed_a@schools.gov.sg) |
-|Physical Education | Mrs Valerie Seet<br>65087-279<br> [valerie_koh_sock_hwee@schools.gov.sg](mailto:valerie_koh_sock_hwee@schools.gov.sg) |
 |Physical Education | Mr Qairul<br>65089-459<br>[qairul_izam_shali@schools.gov.sg](mailto:qairul_izam_shali@schools.gov.sg)
 |Physical Education | Mr Nadeem<br>65087-276<br>[mohamed_nadeem@schools.gov.sg](mailto:mohamed_nadeem@schools.gov.sg)|
 ||

@@ -47,7 +47,6 @@ Chinese Language |Mr Teng Tse Peng (YH, Middle Primary)<br>65087-310<br>[teng_ts
 Chinese Language |Mdm Jessie Nah<br>65083-178<br>[jessie_nah_min_li@schools.gov.sg](mailto:jessie_nah_min_li@schools.gov.sg)|
 ||
 Malay Language |Mdm Masturah (SH, ML)<br>65087-317<br>[masturah_salleh@schools.gov.sg](mailto:masturah_salleh@schools.gov.sg)|
-Malay Language |Mdm Nabilah<br>65087-319<br>[nabilah_abdul_rahman@schools.gov.sg](mailto:nabilah_abdul_rahman@schools.gov.sg)|
 ||
 Tamil Language |Mdm G. Nithila Kanni (ST, CCE)<br>65089-450<br>[nithila_kanni_govindarajoo@schools.gov.sg](mailto:nithila_kanni_govindarajoo@schools.gov.sg)|
 ||
@@ -58,7 +57,6 @@ Tamil Language |Mdm G. Nithila Kanni (ST, CCE)<br>65089-450<br>[nithila_kanni_go
 |Physical Education | Mr Rafiei (ST, Physical Education)<br>65087-275<br> [mohamad_rafiei_sakeyam@schools.gov.sg](mailto:mohamad_rafiei_sakeyam@schools.gov.sg) |
 |Physical Education | Ms Janice How<br>65087-300 (Ext 241)<br> [janice_how_sui_yen@schools.gov.sg](mailto:janice_how_sui_yen@schools.gov.sg) |
 |Physical Education | Mr Hassan<br>65087-300 (Ext 286)<br> [hassan_mulyadi_mohamed_a@schools.gov.sg](mailto:hassan_mulyadi_mohamed_a@schools.gov.sg) |
-|Physical Education | Mrs Valerie Seet<br>65087-279<br> [valerie_koh_sock_hwee@schools.gov.sg](mailto:valerie_koh_sock_hwee@schools.gov.sg) |
 |Physical Education | Mdm Nazurah<br>65087-277<br> [nazurah_syazana_nordin@schools.gov.sg](mailto:nazurah_syazana_nordin@schools.gov.sg) |
 ||
 |Science | Mrs Tan Lirong<br>65080-669<br> [sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg) |
