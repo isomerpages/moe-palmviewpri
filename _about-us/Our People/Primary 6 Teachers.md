@@ -57,7 +57,7 @@ Malay Language |Ms Nurbayah<br>65087-300 (Ext 651)<br>[nurbayah_ismail@schools.g
 ||
 |Music | Mr Bryon Luo<br>65089-457<br> [luo_youde_bryon@schools.gov.sg](mailto:luo_youde_bryon@schools.gov.sg) |
 |Music | Mrs Clara Koh (SH, Aesthetics)<br>65089-455<br> [lim_xiu_fang_clara@schools.gov.sg](mailto:lim_xiu_fang_clara@schools.gov.sg) |
-|Music | Ms Rebecca Lau (ST, Music)<br>65089-456<br> [rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
+|Music | Ms Rebecca Lau (LT, Music)<br>65089-456<br> [rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
 ||
 |Physical Education | Mr Qairul<br>65089-459<br> [qairul_izam_shali@schools.gov.sg](mailto:qairul_izam_shali@schools.gov.sg) |
 |Physical Education | Mr Hisham<br>65087-309<br> [hisham_b_spono@schools.gov.sg](mailto:hisham_b_spono@schools.gov.sg) |
