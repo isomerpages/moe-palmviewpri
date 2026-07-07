@@ -15,7 +15,7 @@ variant: markdown
 | 6 Beethoven |Mr Kelvin Chia<br>65080-665<br>[chia_peng_lin_kelvin@schools.gov.sg](mailto:chia_peng_lin_kelvin@schools.gov.sg) | Mdm Lim Hwee Yeng<br>65087-268<br>[lim_hwee_yeng@schools.gov.sg](mailto:lim_hwee_yeng@schools.gov.sg) |
 | 6 Curie |Mrs Jodie Siow<br>65087-316<br>[yeo_mui_hong@schools.gov.sg](mailto:yeo_mui_hong@schools.gov.sg) | Mr Warren Thin (HOD, ICT) <br>65080-652<br>[thin_dongqi@schools.gov.sg](mailto:thin_dongqi@schools.gov.sg) |
 | 6 Da Vinci | Ms Rachel Loh<br>65067-640<br>[loh_hui_xian_rachel@schools.gov.sg](mailto:loh_hui_xian_rachel@schools.gov.sg) | Mdm Radiah<br>65067-341<br>[radiah_rahmat@schools.gov.sg](mailto:radiah_rahmat@schools.gov.sg) |
-| 6 Edison |Mrs Michelle Wee<br>65080-667<br>[michelle_tyoh_whei_theng@schools.gov.sg](mailto:michelle_tyoh_whei_theng@schools.gov.sg) | Ms Rebecca Lau (ST, Music)<br>65089-456<br>[rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
+| 6 Edison |Mrs Michelle Wee<br>65080-667<br>[michelle_tyoh_whei_theng@schools.gov.sg](mailto:michelle_tyoh_whei_theng@schools.gov.sg) | Ms Rebecca Lau (LT, Music)<br>65089-456<br>[rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
 | 6 Frank |Mdm Leong Fong Fong (ST, Mathematics)<br>65080-655<br>[leong_fong_fong@schools.gov.sg](mailto:leong_fong_fong@schools.gov.sg) | Mdm Hasanah (HOD, SSD)<br>65080-660<br>[nur_hasanah_osman@schools.gov.sg](mailto:nur_hasanah_osman@schools.gov.sg) |
 | 6 Galileo |Mdm Esther Tay<br>65087-330<br>[tay_wei_jing@schools.gov.sg](mailto:tay_wei_jing@schools.gov.sg) | Mr Hisham (HOD, PE &amp; CCA)<br>65087-309<br>[hisham_b_spono@schools.gov.sg](mailto:hisham_b_spono@schools.gov.sg) |
 
@@ -57,7 +57,7 @@ Malay Language |Ms Nurbayah<br>65087-300 (Ext 651)<br>[nurbayah_ismail@schools.g
 ||
 |Music | Mr Bryon Luo<br>65089-457<br> [luo_youde_bryon@schools.gov.sg](mailto:luo_youde_bryon@schools.gov.sg) |
 |Music | Mrs Clara Koh (SH, Aesthetics)<br>65089-455<br> [lim_xiu_fang_clara@schools.gov.sg](mailto:lim_xiu_fang_clara@schools.gov.sg) |
-|Music | Ms Rebecca Lau (ST, Music)<br>65089-456<br> [rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
+|Music | Ms Rebecca Lau (LT, Music)<br>65089-456<br> [rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
 ||
 |Physical Education | Mr Qairul<br>65089-459<br> [qairul_izam_shali@schools.gov.sg](mailto:qairul_izam_shali@schools.gov.sg) |
 |Physical Education | Mr Hisham<br>65087-309<br> [hisham_b_spono@schools.gov.sg](mailto:hisham_b_spono@schools.gov.sg) |

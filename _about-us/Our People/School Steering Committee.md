@@ -21,6 +21,7 @@ variant: markdown
 
 | Designation | Name | Contact Information |
 |:---:|:---:|:---:|
+| Head of Department,<br>English Language |  Mdm Kalpana |  65067-349<br>[kalpana_manimohan@schools.gov.sg](mailto:kalpana_manimohan@schools.gov.sg)  |
 | Head of Department,<br>Mathematics | Ms Audrey Loke | 65083-170<br>[loke_ai_guat_audrey@schools.gov.sg](mailto:loke_ai_guat_audrey@schools.gov.sg) |
 | Head of Department,<br>Science | Mr Gerald Wong | 65087-313<br>[gerald_wong_yew_meng@schools.gov.sg](mailto:gerald_wong_yew_meng@schools.gov.sg) |
 | Head of Department,<br>Mother Tongue Languages | Mdm Heng Wei Shan | 65087-322<br>[heng_wei_shan_a@schools.gov.sg](mailto:heng_wei_shan_a@schools.gov.sg) |
@@ -52,11 +53,11 @@ Asst Year Head,<br>Lower Primary | Mrs Gracelyn Tham |  65067-648<br>[lim_ai_zhe
 | Designation | Name | Contact Information |
 |:---:|:---:|:---:|
 |  Lead Teacher, Science |  Mr Kelvin Chia | 65080-665 <br>[chia_peng_lin_kelvin@schools.gov.sg](mailto:chia_peng_lin_kelvin@schools.gov.sg) |
+| Lead Teacher, Music | Ms Rebecca Lau | 65089-456<br>[rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg)
 | Senior Teacher, English Language  | Ms Nurul Ain |  65087-328<br>[nurul_ain_mohamad_ibrahim@schools.gov.sg](mailto:nurul_ain_mohamad_ibrahim@schools.gov.sg) |
 | Senior Teacher, Malay Language | Mdm Elyani | 65080-654 <br>[elyani_mohamed@schools.gov.sg](mailto:elyani_mohamed@@schools.gov.sg) |
 | Senior Teacher, Chinese Language | Ms Lee Loo Yee | 65087-271<br>[lee_loo_yee@schools.gov.sg](mailto:lee_loo_yee@schools.gov.sg) |
 | Senior Teacher, Mathematics | Mdm Leong Fong Fong | 65080-655<br>[leong_fong_fong@schools.gov.sg](mailto:leong_fong_fong@schools.gov.sg) |
-| Senior Teacher, Music | Ms Rebecca Lau | 65089-456<br>[rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
 | Senior Teacher, Physical Education | Mr Rafiei | 65087-275<br>[mohamad_rafiei_sakeyam@schools.gov.sg](mailto:mohamad_rafiei_sakeyam@schools.gov.sg) |
 | Senior Teacher, CCE | Mdm G. Nithila Kanni | 65080-655<br>[nithila_kanni_govindarajoo@schools.gov.sg](mailto:nithila_kanni_govindarajoo@schools.gov.sg) |
 | Senior Teacher, SEN | Mdm Teo Siow Yee | 65087-270<br>[teo_siow_yee@schools.gov.sg](mailto:teo_siow_yee@schools.gov.sg) |

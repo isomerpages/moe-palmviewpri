@@ -30,7 +30,7 @@ English Language |Mdm Hartini <br>65087-324<br>[hartini_mohamed@schools.gov.sg](
 English Language |Ms Louisa Sng <br>65067-348<br>[louisa_sng_mei_cheah@schools.gov.sg](mailto:louisa_sng_mei_cheah@schools.gov.sg) |
 |English Language  |Ms Priscilla Teng<br>65087-326<br>[teng_yu_hui_priscilla@schools.gov.sg](mailto:teng_yu_hui_priscilla@schools.gov.sg) |
 |English Language  |Mrs Cheong Ruoen<br>65089-452<br>[wong_ai_lynn_ruoen@schools.gov.sg](mailto:wong_ai_lynn_ruoen@schools.gov.sg) |
-|English Language  |Mdm Kalpana (LH, EL)<br>65067-349<br>[kalpana_manimohan@schools.gov.sg](mailto:kalpana_manimohan@schools.gov.sg) |
+|English Language  |Mdm Kalpana (HOD, EL)<br>65067-349<br>[kalpana_manimohan@schools.gov.sg](mailto:kalpana_manimohan@schools.gov.sg) |
 |English Language  |Ms Joanne Ko {Jo Ko}<br>65089-461<br>[ko_hiang@schools.gov.sg](mailto:ko_hiang@schools.gov.sg) |
 ||
 Mathematics |Mdm Toh Hwee Choo <br>65067-649<br>[toh_hwee_choo@schools.gov.sg](mailto:toh_hwee_choo@schools.gov.sg) |
@@ -53,7 +53,7 @@ Tamil Language |Mdm G. Nithila Kanni (ST, CCE)<br>65089-450<br>[nithila_kanni_go
 ||
 |Music | Mr Bryon Luo<br>65089-457<br> [luo_youde_bryon@schools.gov.sg](mailto:luo_youde_bryon@schools.gov.sg) |
 |Music | Mrs Clara Koh (SH, Aesthetics)<br>65089-455<br> [lim_xiu_fang_clara@schools.gov.sg](mailto:lim_xiu_fang_clara@schools.gov.sg) |
-|Music | Ms Rebecca Lau (ST, Music)<br>65089-456<br> [rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
+|Music | Ms Rebecca Lau (LT, Music)<br>65089-456<br> [rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
 ||
 |Physical Education | Mr Rafiei (ST, Physical Education)<br>65087-275<br> [mohamad_rafiei_sakeyam@schools.gov.sg](mailto:mohamad_rafiei_sakeyam@schools.gov.sg) |
 |Physical Education | Ms Janice How<br>65087-300 (Ext 241)<br> [janice_how_sui_yen@schools.gov.sg](mailto:janice_how_sui_yen@schools.gov.sg) |

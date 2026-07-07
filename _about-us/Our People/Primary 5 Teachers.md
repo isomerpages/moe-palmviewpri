@@ -11,7 +11,7 @@ variant: markdown
 
 | Class | Form Teacher | Form Teacher |
 |---|---|---|
-| 5 Aristotle | Ms Nicole Chee <br>65067-340<br>[chee_shu_rong_nicole@schools.gov.sg](mailto:chee_shu_rong_nicole@schools.gov.sg) | Mdm Kalpana (LH, EL)<br>65067-349<br>[kalpana_manimohan@schools.gov.sg](mailto:kalpana_manimohan@schools.gov.sg) |
+| 5 Aristotle | Ms Nicole Chee <br>65067-340<br>[chee_shu_rong_nicole@schools.gov.sg](mailto:chee_shu_rong_nicole@schools.gov.sg) | Mdm Kalpana (HOD, EL)<br>65067-349<br>[kalpana_manimohan@schools.gov.sg](mailto:kalpana_manimohan@schools.gov.sg) |
 | 5 Beethoven | Mr Kumar (YH, Lower Primary)<br>65087-311<br>[kanapa_sathis_kumar@schools.gov.sg](mailto:kanapa_sathis_kumar@schools.gov.sg) | Ms Cher Xin Joo<br>65087-260<br>[cher_xin_joo@schools.gov.sg](mailto:cher_xin_joo@schools.gov.sg) |
 | 5 Curie |Mrs Priscillia Chen (LH, Science)<br>65089-462<br>[tan_yi_siu_priscillia@schools.gov.sg](mailto:tan_yi_siu_priscillia@schools.gov.sg) | Mr Nadeem<br>65087-276<br>[mohamed_nadeem@schools.gov.sg](mailto:mohamed_nadeem@schools.gov.sg) |
 | 5 Da Vinci | Mr Senthil {Zack} (SH, Student Well-Being)<br>65080-664<br>[subramaniyan_senthil@schools.gov.sg](mailto:subramaniyan_senthil@schools.gov.sg) | Ms Janice How<br>65087-300 (Ext 241)<br>[janice_how_sui_yen@schools.gov.sg](mailto:janice_how_sui_yen@schools.gov.sg) |
@@ -27,7 +27,7 @@ variant: markdown
 | Art | Mr Fong Yan Kin<br>65080-661<br> [fong_yan_kin@schools.gov.sg](mailto:fong_yan_kin@schools.gov.sg) |
 | Art | Ms Saangeetha<br>65089-458<br> [saangeetha_martin_rubin_b@schools.gov.sg](mailto:saangeetha_martin_rubin_b@schools.gov.sg) |
 ||
-|English Language| Mdm Kalpana (LH, EL)<br>65067-349<br>[kalpana_manimohan@schools.gov.sg](mailto:kalpana_manimohan@schools.gov.sg)
+|English Language| Mdm Kalpana (HOD, EL)<br>65067-349<br>[kalpana_manimohan@schools.gov.sg](mailto:kalpana_manimohan@schools.gov.sg)
 |English Language| Mr Kumar (YH, Lower Primary)<br>65087-311<br>[kanapa_sathis_kumar@schools.gov.sg](mailto:kanapa_sathis_kumar@schools.gov.sg)
 |English Language| Ms Hidayah (SH, CCE)<br>65089-469<br>[nur_hidayah_mohshin@schools.gov.sg](mailto:nur_hidayah_mohshin@schools.gov.sg)  
 |English Language| Mr Senthil {Zack} (SH, Student Well-Being)<br>65080-664<br>[subramaniyan_senthil@schools.gov.sg](mailto:subramaniyan_senthil@schools.gov.sg)
@@ -56,7 +56,7 @@ Malay Language |Mdm Noorashikin<br>65087-320<br>[noorashikin_zainuldin@schools.g
 ||
 |Music | Mr Bryon Luo<br>65089-457<br> [luo_youde_bryon@schools.gov.sg](mailto:luo_youde_bryon@schools.gov.sg) |
 |Music | Mrs Clara Koh (SH, Aesthetics)<br>65089-455<br> [lim_xiu_fang_clara@schools.gov.sg](mailto:lim_xiu_fang_clara@schools.gov.sg) |
-|Music | Ms Rebecca Lau (ST, Music)<br>65089-456<br> [rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
+|Music | Ms Rebecca Lau (LT, Music)<br>65089-456<br> [rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
 ||
 |Physical Education | Ms Janice How<br>65087-300 (Ext 241)<br> [janice_how_sui_yen@schools.gov.sg](mailto:janice_how_sui_yen@schools.gov.sg) |
 |Physical Education | Mr Hisham<br>65087-309<br> [hisham_b_spono@schools.gov.sg](mailto:hisham_b_spono@schools.gov.sg) |
