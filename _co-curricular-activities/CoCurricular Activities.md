@@ -120,7 +120,7 @@ to school, community and nation.</p>
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rebecca Lau (ST, Music)
+<p>Ms Rebecca Lau (LT, Music)
 <br>65089-456
 <br><a href="mailto:rebecca_lau_yuen_sun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rebecca_lau_yuen_sun@schools.gov.sg</a>
 </p>
