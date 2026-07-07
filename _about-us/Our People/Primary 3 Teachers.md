@@ -47,7 +47,6 @@ Chinese Language |Mr Teng Tse Peng (YH, Middle Primary)<br>65087-310<br>[teng_ts
 Chinese Language |Mdm Jessie Nah<br>65083-178<br>[jessie_nah_min_li@schools.gov.sg](mailto:jessie_nah_min_li@schools.gov.sg)|
 ||
 Malay Language |Mdm Masturah (SH, ML)<br>65087-317<br>[masturah_salleh@schools.gov.sg](mailto:masturah_salleh@schools.gov.sg)|
-Malay Language |Mdm Nabilah<br>65087-319<br>[nabilah_abdul_rahman@schools.gov.sg](mailto:nabilah_abdul_rahman@schools.gov.sg)|
 ||
 Tamil Language |Mdm G. Nithila Kanni (ST, CCE)<br>65089-450<br>[nithila_kanni_govindarajoo@schools.gov.sg](mailto:nithila_kanni_govindarajoo@schools.gov.sg)|
 ||
