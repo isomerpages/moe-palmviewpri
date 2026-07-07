@@ -12,3 +12,4 @@ variant: markdown
 * [Lower Primary Briefing Slides (6 Feb 2026)](/files/For%20Parents%202026/Lower_Primary_Briefing_to_Parents__Website_Copy_.pdf)
 * [Middle Primary Briefing Slides (30 Jan 2026)](/files/For%20Parents%202026/Middle_Primary_Briefing_to_Parents__Website_Copy_.pdf)
 * [Upper Primary Briefing Slides (23 Jan 2026)](/files/For%20Parents%202026/Upper_Primary_Briefing_to_Parents__Website_Copy_.pdf)
+* [The Refreshed Approach Parent Engagement (15 May 2026)](/files/For%20Parents%202026/The_Refreshed_Approach_Parent_Engagement_2026_For_Sharing.pdf)
