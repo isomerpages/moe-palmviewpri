@@ -64,7 +64,6 @@ variant: markdown
 |Music | Ms Rebecca Lau (LT, Music)<br>65089-456<br> [rebecca_lau_yuen_sun@schools.gov.sg](mailto:rebecca_lau_yuen_sun@schools.gov.sg) |
 ||
 |Physical Education | Mdm Nazurah<br>65087-277<br> [nazurah_syazana_nordin@schools.gov.sg](mailto:nazurah_syazana_nordin@schools.gov.sg) |
-|Physical Education | Mrs Valerie Seet<br>65087-279<br> [valerie_koh_sock_hwee@schools.gov.sg](mailto:valerie_koh_sock_hwee@schools.gov.sg) |
 |Physical Education | Mr Hassan<br>65087-300 (Ext 286)<br> [hassan_mulyadi_mohamed_a@schools.gov.sg](mailto:hassan_mulyadi_mohamed_a@schools.gov.sg) |
 |Physical Education | Mr Qairul<br>65089-459<br> [qairul_izam_shali@schools.gov.sg](mailto:qairul_izam_shali@schools.gov.sg) |
 ||
