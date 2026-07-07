@@ -62,7 +62,6 @@ Malay Language |Ms Nurbayah<br>65087-300 (Ext 651)<br>[nurbayah_ismail@schools.g
 |Physical Education | Mr Qairul<br>65089-459<br> [qairul_izam_shali@schools.gov.sg](mailto:qairul_izam_shali@schools.gov.sg) |
 |Physical Education | Mr Hisham<br>65087-309<br> [hisham_b_spono@schools.gov.sg](mailto:hisham_b_spono@schools.gov.sg) |
 |Physical Education | Mr Nadeem<br>65087-276<br>[mohamed_nadeem@schools.gov.sg](mailto:mohamed_nadeem@schools.gov.sg)|
-|Physical Education | Mrs Valerie Seet<br>65087-279<br>[valerie_koh_sock_hwee@schools.gov.sg](mailto:valerie_koh_sock_hwee@schools.gov.sg)|
 ||
 |Science | Mrs Priscillia Chen (LH, Science)<br>65089-462<br>[tan_yi_siu_priscillia@schools.gov.sg](mailto:tan_yi_siu_priscillia@schools.gov.sg)  |
 |Science | Mrs Jodie Siow<br>65087-316<br>[yeo_mui_hong@schools.gov.sg](mailto:yeo_mui_hong@schools.gov.sg)  |
