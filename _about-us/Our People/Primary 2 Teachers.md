@@ -39,7 +39,6 @@ variant: markdown
 |Mathematics | Ms Nicole Chee<br>65067-340<br> [chee_shu_rong_nicole@schools.gov.sg](mailto:chee_shu_rong_nicole@schools.gov.sg) |
 |Mathematics |Mdm Seah Wai Fang<br>65087-300 (Ext 242)<br> [seah_wai_fang_a@schools.gov.sg](mailto:seah_wai_fang_a@schools.gov.sg) |
 |Mathematics |Ms Shannon Lim<br>65080-659<br> [lim_eu_li@schools.gov.sg](mailto:lim_eu_li@schools.gov.sg) |
-|Mathematics|Ms Kymberly<br>65087-300 (Ext 350)<br> [kymberly_ariel_law_yen_a@schools.gov.sg](mailto:kymberly_ariel_law_yen_a@schools.gov.sg) |
 | Mathematics |Mrs Kishore {Magdalene Tan}<br>65067-645<br>[tan_kai_lin_magdalene@schools.gov.sg](mailto:tan_kai_lin_magdalene@schools.gov.sg)  |
 | Mathematics |Mdm Nurulhuda<br>65087-325<br> [nurulhuda_md_salleh@schools.gov.sg](mailto:nurulhuda_md_salleh@schools.gov.sg) |
 | Mathematics |Mrs Sharon Seow (ST, Learning Needs LPL)<br>65080-658<br> [chew_sharon@schools.gov.sg](mailto:chew_sharon@schools.gov.sg) |
@@ -48,8 +47,6 @@ variant: markdown
 |Chinese Language | Mr Guah Boon Heng<br>65087-314<br> [guah_boon_heng@schools.gov.sg](mailto:guah_boon_heng@schools.gov.sg) |
 |Chinese Language |Mdm Joy Tan<br>65087-265<br> [tan_boon_hui@schools.gov.sg](mailto:tan_boon_hui@schools.gov.sg) |
 |Chinese Language | Ms Li Li<br>65087-263<br> [li_li@schools.gov.sg](mailto:li_li@schools.gov.sg) |
-|Chinese Language | Ms Cai Qiuling<br>65083-171<br> [cai_qiuling_a@schools.gov.sg](mailto:cai_qiuling_a@schools.gov.sg) |
-|Chinese Language |Miss Ong Cheng Bing <br>65083-179<br>[ong_cheng_bing@schools.gov.sg](mailto:ong_cheng_bing@schools.gov.sg)
 |Chinese Language |Madam Jessie Nah <br>65083-178<br>[jessie_nah_min_li@schools.gov.sg](mailto:jessie_nah_min_li@schools.gov.sg)
 ||
 |Malay Language | Mdm Suhana<br>65087-318<br> [norsuhana_sahmat@schools.gov.sg](mailto:norsuhana_sahmat@schools.gov.sg) |
