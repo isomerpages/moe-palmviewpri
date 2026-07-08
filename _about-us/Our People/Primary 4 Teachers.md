@@ -16,7 +16,7 @@ variant: markdown
 | 4 Curie |Mr Chen Baolai<br>65067-648<br>[chen_baolai@schools.gov.sg](mailto:chen_baolai@schools.gov.sg) | Mdm Elyani (ST, ML)<br>65080-654<br>[elyani_mohamed@schools.gov.sg](mailto:elyani_mohamed@schools.gov.sg) |
 | 4 Da Vinci | Mdm Shannon Hoon<br>65067-647<br>[hoon_shih_huihong_shihui@schools.gov.sg](mailto:hoon_shih_huihong_shihui@schools.gov.sg) | Ms Nurbayah<br>65087-300 (Ext 651)<br>[nurbayah_ismail@schools.gov.sg](mailto:nurbayah_ismail@schools.gov.sg) |
 | 4 Edison | Mr Kitson Sim<br>65067-644<br>[sim_tai_wee_kitson@schools.gov.sg](mailto:sim_tai_wee_kitson@schools.gov.sg) | Ms Sumitha<br>65087-315<br>[s_sumitha@schools.gov.sg](mailto:s_sumitha@schools.gov.sg) |
-| 4 Frank |Mr Mohamed Isa<br>65067-346<br>[mohamed_isa_b_osman@schools.gov.sg](mailto:mohamed_isa_b_osman@schools.gov.sg) | Mdm Tan Hui Yang<br>65083-171<br>[tan_hui_yang@schools.gov.sg](mailto:tan_hui_yang@schools.gov.sg) |
+| 4 Frank |Mr Mohamed Isa<br>65067-346<br>[mohamed_isa_b_osman@schools.gov.sg](mailto:mohamed_isa_b_osman@schools.gov.sg) | Ms Saangeetha<br>65089-458<br>[saangeetha_martin_rubin_b@schools.gov.sg](mailto:saangeetha_martin_rubin_b@schools.gov.sg) |
 
 
 ### Subject Teachers
@@ -44,8 +44,6 @@ Mathematics |Mrs Jodie Siow<br>65087-316<br>[yeo_mui_hong@schools.gov.sg](mailto
 Chinese Language |Mrs Faye Loh (LH, CL)<br>65087-264<br>[quah_pei_jun@schools.gov.sg](mailto:quah_pei_jun@schools.gov.sg) |
 Chinese Language |Mdm Jane Mah<br>65087-267<br>[mah_zhiwei_jane@schools.gov.sg](mailto:mah_zhiwei_jane@schools.gov.sg) |
 Chinese Language |Ms Li Li<br>65087-263<br>[li_li@schools.gov.sg](mailto:li_li@schools.gov.sg) |
-Chinese Language |Ms Cai Qiuling<br>65083-171<br>[cai_qiuling_a@schools.gov.sg](mailto:cai_qiuling_a@schools.gov.sg) |
-Chinese Language |Miss Ong Cheng Bing<br>65083-179<br>[ong_cheng_bing@schools.gov.sg](mailto:ong_cheng_bing@schools.gov.sg) |
 ||
 Malay Language |Mdm Elyani (ST, ML)<br>65080-654<br>[elyani_mohamed@schools.gov.sg](mailto:elyani_mohamed@schools.gov.sg) |
 Malay Language |Ms Nurbayah<br>65087-300 (Ext 651)<br>[nurbayah_ismail@schools.gov.sg](mailto:nurbayah_ismail@schools.gov.sg) |
