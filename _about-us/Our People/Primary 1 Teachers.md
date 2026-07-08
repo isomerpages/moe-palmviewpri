@@ -16,7 +16,7 @@ variant: markdown
 | 1 Curie |Mdm Jane Mah<br>65087-267<br>[mah_zhiwei_jane@schools.gov.sg](mailto:mah_zhiwei_jane@schools.gov.sg) | Mrs Kelly Thong<br>65067-344<br>[kelly_thong@schools.gov.sg](mailto:kelly_thong@schools.gov.sg) |
 | 1 Da Vinci | Mrs Tan Lirong<br>65080-669<br>[sun_lirong@schools.gov.sg](mailto:sun_lirong@schools.gov.sg) | Mrs Michelle Khoo (SH, PE &amp; CCA)<br>65087-278<br>[lee_jing_wen_michelle@schools.gov.sg](mailto:lee_jing_wen_michelle@schools.gov.sg) |
 | 1 Edison | Ms Louisa Sng<br>65067-348<br>[louisa_sng_mei_cheah@schools.gov.sg](mailto:louisa_sng_mei_cheah@schools.gov.sg) | Mdm Zhang Yue<br>65087-262<br>[zhang_yue_a@schools.gov.sg](mailto:zhang_yue_a@schools.gov.sg) |
-| 1 Frank |Mrs Grace Chua<br>65089-468<br>[grace_lim_hui_leng@schools.gov.sg](mailto:grace_lim_hui_leng@schools.gov.sg) | Mdm G. Nithila Kanni (ST, CCE)<br>65089-450<br>[nithila_kanni_govindarajoo@schools.gov.sg](mailto:nithila_kanni_govindarajoo@schools.gov.sg) |
+| 1 Frank |Mrs Grace Chua<br>65089-468<br>[grace_lim_hui_leng@schools.gov.sg](mailto:grace_lim_hui_leng@schools.gov.sg) | Mr Fong Yan Kin<br>65080-661<br>[fong_yan_kin@schools.gov.sg](mailto:fong_yan_kin@schools.gov.sg) |
 | 1 Galileo | Mdm Hailwa<br>65067-641<br>[hailwa_moree@schools.gov.sg](mailto:hailwa_moree@schools.gov.sg)|Mrs Lim Bee Li<br>65087-266<br>[tay_bee_li@schools.gov.sg](mailto:tay_bee_li@schools.gov.sg) |
 | 1 Hillary |Ms Roshelle<br>65067-343<br>[niroshini_ramasamy@schools.gov.sg](mailto:niroshini_ramasamy@schools.gov.sg) | Mdm Teo Siow Yee (ST, SEN)<br>65087-270<br>[teo_siow_yee@schools.gov.sg](mailto:teo_siow_yee@schools.gov.sg) |
 
