@@ -37,7 +37,6 @@ Head of Department, <br>ICT |  Mr Warren Thin |  65080-652<br>[thin_dongqi@schoo
 | Year Head,<br>Upper Primary | Mrs Irene Ang |  65089-457<br>[irene_chia@schools.gov.sg](mailto:irene_chia@schools.gov.sg) |
 Asst Year Head,<br>Lower Primary | Mrs Gracelyn Tham |  65067-648<br>[lim_ai_zhen_gracelyn@schools.gov.sg](mailto:lim_ai_zhen_gracelyn@schools.gov.sg) |
 | - | - | - |
-|  Level Head,<br>English Language |  Mdm Kalpana |  65067-349<br>[kalpana_manimohan@schools.gov.sg](mailto:kalpana_manimohan@schools.gov.sg) |
 |  Level Head,<br>Chinese Language | Mrs Faye Loh |  65087-264<br>[quah\_pei\_jun@schools.gov.sg](mailto:quah\_pei\_jun@schools.gov.sg) |
 |  Level Head,<br>Science | Mrs Priscillia Chen | 65089-462<br>[tan_yi_siu_priscillia@schools.gov.sg](mailto:tan_yi_siu_priscillia@schools.gov.sg) |
 |  Subject Head,<br>Student Well-Being |  Mr Senthil (Zack) |  65080-664<br>[subramaniyan\_senthil@schools.gov.sg](mailto:subramaniyan\_senthil@schools.gov.sg) |
